@@ -3,6 +3,16 @@ Adults
 Dave McCormack - Bandit
 Melanie Zanetti - Chilli
 Brad Elliott - Pat
+Brad Elliott
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+Brad Elliott is a voice actor for Bluey. He provides the voice of Pat.
+
 Hsiao-Ling Tang - Bella (Shadowlands), Chloe’s Mum
 Dan Brumm - Uncle Stripe
 Myf Warhurst - Aunt Trixie, Indy's Mum

@@ -4,18 +4,2959 @@ Say g’day to all of Bluey’s friends
 Bluey
 Bluey
 Bluey is a 6 year old Blue Heeler pup who loves to play. Her parents and teacher give her lots of time to practice, which means she’s become very good at inventing games, helping everyone choose their roles and deciding on the rules. Her favourite games are ones that involve lots of other kids and grown-ups (especially her dad) and she mainly likes to pretend she’s a grown up doing grownup things herself.
+Bluey Heeler
+89
+VIEW SOURCE
+"For real life?!" ― Bluey's catchphrase[source]
+
+Bluey Christine Heeler
+Present
+As a Baby
+Older
+Present
+Characteristics
+Breed
+Blue Heeler
+Gender
+Female ♀
+Age
+6 (S01E01 - S03E14)
+7 (as of the ending of S0314)
+19 (at the end of Camping)
+Traits
+Eyes
+Black
+Fur
+Light blue, blue, dark blue and tan
+Personal Status
+Relative(s)
+Bandit (father)
+Chilli (mother)
+Bingo (younger sister)
+Radley (paternal-uncle)
+Frisky (godmother/aunt)
+Brandy (maternal aunt)
+Stripe (paternal-uncle)
+Trixie (paternal-aunt)
+Muffin (cousin)
+Socks (cousin)
+Bob (paternal-grandfather)
+Nana (paternal-grandmother)
+Mort (maternal-grandfather)
+Mrs. Cattle (maternal-grandmother)
+Friend(s)
+Lucky (next door neighbour)
+Rusty
+Indy
+Coco
+Snickers
+Honey
+Mackenzie
+Chloe (best friend)
+Judo (next door neighbour)
+Jean-Luc
+Winton
+Buddy
+The Terriers
+Pretzel
+Bentley
+Winnie
+Fido
+Mia
+Hercules
+Pom Pom
+Maynard
+Jack
+Missy
+Media
+First Appearance
+The Magic Xylophone
+(Production Appearance: Yoga Ball)
+(US Appearance: Keepy Uppy
+
+Bluey Christine Heeler is the titular protagonist, daughter of Bandit and Chilli, the older sister of Bingo, and niece of Uncle Stripe and Aunt Trixie.
+
+Contents
+1 Bluey.tv Description
+2 Appearance
+3 Personality
+4 Biography
+5 Nicknames
+6 Trivia
+7 Cameos
+7.1 Episodes
+7.2 Others
+8 Absences
+8.1 Episodes
+8.2 Others
+9 Gallery
+9.1 Artwork
+9.2 Screenshots
+9.3 Animated
+10 References
+
+AD
+Bluey.tv Description
+"Bluey is a seven-year-old Blue Heeler pup who loves to play. Her parents and teacher give her lots of time to practice, which means she’s become very good at inventing games, helping everyone choose their roles and deciding on the rules. Her favourite games are ones that involve lots of other kids and grown-ups (especially her dad) and she likes to pretend she’s a grown-up doing grownup things herself."
+
+Appearance
+Bluey is a Blue Heeler with light blue, blue, dark blue and tan fur. She has a rectangular shaped body, and has light blue paws, outer muzzle, eyebrows and chest, blue legs, arms, torso, head and tail stem, dark blue torso spots, tail tip, outer ears and head spots, and tan inner ears and muzzle. She also has a black nose.
+
+Personality
+Bluey, in general, is an energetic character who loves to play, as described on the official page. She can be a bit too bossy when she plays games, as seen in the Magic Xylophone episode and some other episodes. She can be easily distracted as seen in Hide and Seek. She really likes to play with her friends too.
+
+Biography
+Bluey is one of the Heeler's family members. She's a daughter of Bandit and Chilli and has a younger sister called Bingo. Her neighbourhood friends include Lucky and Judo. She's also friend with most students at Calypso's School and best friends with Chloe.
+
+Nicknames
+The following is a list of Nicknames used for or by Bluey throughout the series.
+
+Nickname Episode
+Piano The Magic Xylophone
+Ding Dongs The Magic Xylophone
+Garden Gnome The Magic Xylophone
+Doctor Hospital
+Dr. Bluey Hospital
+Janet Grannies and Bus
+Barnicus Bumpy and the Wise Old Wolfhound
+Dennis Teasing
+Rhonda Hammerbarn
+Marjory Daddy Dropoff
+Karen Swim School
+Margaret Swim School
+
+Trivia
+Being the main protagonist, Bluey has never made an absence on any episode, except Turtleboy
+She has only been absent in four shorts, namely Pea Pod Sausages, Green Bottles, Mower and Honk.
+Viewer gender confusion: Bluey has frequently been mistaken as a male by many viewers, mainly due to her looking like her father, having some traits of a young boy and her being blue, a stereotypical "boy color". In fact, when the show first aired, nearly all initial viewers assumed Bluey and Bingo were male, as their gender had not been said in the first few episodes, though a few episodes later, it was stated that Bluey and Bingo were female dogs. Even after this, many people who have only seen small things from the show tend to think Bluey is a boy, it has even got to the point where plush toys of Bluey nearly always get put in the "boys toys" aisle of stores, and in some cases, the plush is even straight up listed as a "boy dog plush" in online listings of it. The confusion was further fueled in Kids, when a cashier says to Bluey, "What a nice young boy you have there!" (refering to Bandit), as many people believed that the cashier was talking to Bandit.
+Fandom nod: This is later referenced in a few episodes, in Double Babysitter when Uncle Rad said, "cause he's blue," after which Bluey corrects him, saying that she is a girl.
+Bluey's favourite animal is fruit bat, as seen in Fruit Bat.
+Bluey's favourite colour of capsicum (bell pepper) is yellow, as mentioned in the episode BBQ.
+Bluey's favourite breakfast is fruit salad, as mentioned in the episode Fruit Bat.
+Bluey's older version can be seen at the end of episode Camping.
+Bluey's family is the first to have a known surname.
+Bluey once played as a cameo, as seen on episode Army.
+Bluey and Bingo have unlockable Emojis on the DisneyNOW app and website that can be used on the user's profile. These emojis use the art style of Disney Emoji Blitz, a match-3 puzzle game for mobile phones.
+She may be unable to read as seen in Takeaway and Bus, although in some episodes as well as in the short Crazy Christmas Lights, she can be seen presumably reading a book. However, she might just be looking at pictures.
+She is also intrigued by the fact that her buddy Mia can write, which could mean that she is unable to either.
+In Library, she can be seen reading aloud, which could mean that Bluey is starting to be able to read. Though again, she could just be trying to retell the story through the pictures.
+Throughout Bin Night, she is shown to have a white belt on an unspecified martial art.
+Later in the episode, she can be seen advanced to the yellow belt.
+Bluey plays the recorder, as shown in Queens and Bin Night.
+Baby Race features Bluey when she was still a baby.
+In Baby Race, Chilli confirms that Bluey is still two years older than Bingo, although she might just be approximating (either by default or excess).
+It is possible while Bingo's fifth birthday happened in Handstand, Bluey’s seventh birthday is shown in Pass the Parcel
+The long distance between her birthdays is somewhat noted by Bandit in Chest, being confused as to why Bluey is still six (she tells him she’s almost seven)
+In Burger Shop, it is mentioned that she is in preschool, more specifically a preparatory school as stated in Calypso's bio.
+In Jingle Bells short, this marks the first short where Bluey speaks.
+Bluey is the first charcter to have their middle name revealed
+In Family Meeting it is revealed her middle name is "Christine"
+In the ABC Kids Listen app's Story Time promo, she briefly cameos as a drawing on a smartphone.
+Even though she has the physical appearance of a Blue Heeler, she is technically a Red/Blue crossbreed.
+It is likely that she is named after a real dog in Australia named Bluey, who lived to be nearly thirty years old and was the oldest dog to ever live. [1]
+To protect their privacy and for "safety reasons", the identity of Bluey's voice actor is kept a secret from the public unlike many other children's TV shows which reveal actual names of children actors and actresses. And to this day, their identity is still a mystery. The same also goes for the other voice actors for many of the other children, including Bluey's sister, Bingo.
+In Onesies, Bluey reveals that she does not like the fact that she looks similar to Bandit.
+According to [Family Tree - Part 3)] by Aussie Girl Maggie, (which mentions Chili’s side of the Heeler family) apparently Bluey is stated to be nineteen before the end of Camping.
+Cameos
+Episodes
+S02E16: Army
+
+Others
+SN/AEN/A: Silent Night (before Christmas)
+
+SN/AEN/A: Crazy Christmas Lights
+
+SN/AEN/A: Jingle Bells
+
+SN/AEN/A: The Lollipop Song
+
+Absences
+Episodes
+S03E30: Turtleboy (mentioned)
+
+Others
+SN/AEN/A: Pea Pod Sausages
+
+SN/AEN/A: Green Bottles
+
+SN/AEN/A: Mower
+
+SN/AEN/A: Honk
+
+Gallery
+Artwork
+Bluey pilot design
+Bluey's pilot design
+BlueyArtwork03
+Artwork of Bluey cuddling Polly Puppy
+BlueyArtwork01
+Artwork of Bluey (Bad Chroma-Keying!)
+BlueyArtwork02
+Artwork of Bluey as seen on the DVD cover of Horsey Ride & Other Stories
+BlueyArtwork05
+Artwork of Bluey playing
+BlueyArtwork04
+Main artwork
+Bluey&BingoArtworkAlt
+Alternate artwork of Bluey and Bingo
+BlueyArtwork06
+Artwork of Bluey playing a game of Keepy-Uppy
+Bluey-TV-Series-ABC-Kids-Bluey-Character-waving
+Bluey waving
+BlueyIntroArtwork
+Bluey dancing in the intro
+Bluey img 5
+BlueyDisneyNowEmoji
+Bluey's DisneyNOW Emoji
+Bluey please face
+Bluey using her Please Face on her dad
+Screenshots
+BlueyLTDDrawing
+Bluey's learn to draw drawing, as drawn by a storyboard artist at Ludo Studio.
+Rwg
+Fdvds
+BlueyBingoEscape
+Bluey and Bingo as sketches as seen on Escape.
+BlueyinABCKids2018ChristmasCountdown
+Bluey in ABC Kids's 2018 Christmas countdown
+BlueyinABCKids2020ID
+Bluey in ABC Kids's Iview ident
+March
+Bluey Group photo
+The Pool-screen1
+Favourite-Thing7
+Favourite-Thing8
+Bingo: "That's my favourite thing!"
+DoubleBabysitterPreview
+Bluey and Bingo with their babysitters Rad and Frisky
+Typewriter-Bluey doesn't make sense
+Grandad-Hiding
+Bluey hiding with her sister and grandfather
+MrMonkeyjocksPreview
+The Heelers with Mr. Monkeyjocks
+TheQuietGamePreview
+Bandit Heeler vs. the Mime Sisters!
+PostmanPreview
+CafePreview
+BurgerShopPreview
+Bluey and Bingo playing Burger Shop during bathtime
+BarkyBoatsPreview
+Libraryimage
+Bluey reading to Bingo, Muffin and some plushies
+Moviesimage
+Bluey MIGHT have cinephobia (fear of watching movies)
+Seesawimage
+Circus Sneakpeak
+Circus ringmaster, clown, lion tamer's wife, lion tamer, muscleman and lion putting on a show
+Bluey fluff hair
+Hedgehog Bluey
+BlueyinABCKids2020ChristmasCountdown
+Bluey in ABC Kids' revised 2020 Christmas Countdown
+BlueyABCKidsListenAppStoryTimePromoCameo
+Bluey as a drawing cameo in the ABC Kids Listen app's Story Time promo
+Animated
+Cookie
+Bluey and Bingo
+Wagon Ride
+"Monkey bars?"
+Bluey Crying
+Bluey - excited
+Bluey - dancing
+Bluey - laughing
+Bluey - shrug
+"Well, we'll have to see."
+Bluey - thoughtful
+"I have an idea."
+Bluey - excited2
+"It's Keepy Uppy!"
+BlueyFariesTaunt
+Bluey dancing in a fairy ring
+BlueyLaugh01
+BlueyRun
+"_giggles_ I'll get the speaker!"
+BlueySitting
+BlueyVictoryTaunt
+BlueyWithBook
+BlueyWithBook2
+"I know!"
+BlueyWave
+BlueyWave2
+"Hello."
+BlueyCocoandSnickers
+Bluey, Snickers, and Coco cheering after winning Shadowlands
+BlueyConfusedidle
+BlueyConfusionidle
+BlueydepressedIdle
+BlueyHelp
+"Run!"
+BlueyIdea
+"Wait! I know."
+Blueypoint
+Blueypoint2
+Blueypointbackward
+BlueyReadingBook
+"Yeah, it is."
+BlueyTaunt
+BlueyThinkitThrough
+BlueyVictory
+"Yeah!"
+BlueyVictory2
+BlueyVictory3
+"Yeah, I was right! _makes sound_"
+BlueyandBingoTaunt
+"Yeah!"
+BlueyandBingoTaunt2
+BlueyandBingoTaunt3
+"Oooooh!"
+BlueyandBingoWave
+BlueyandBingoWave2
+BlueyandBingowithpuppet
+Blueywithcupcake
+DaddyDropoffgif5
+"Walkies!"
+DanceModegif2
+Bingo: "I was still very hungry."
+References
+https://en.wikipedia.org/wiki/Bluey_(dog)
+
+Bluey Heeler
+89
+VIEW SOURCE
+"For real life?!" ― Bluey's catchphrase[source]
+
+Bluey Christine Heeler
+Present
+As a Baby
+Older
+Present
+Characteristics
+Breed
+Blue Heeler
+Gender
+Female ♀
+Age
+6 (S01E01 - S03E14)
+7 (as of the ending of S0314)
+19 (at the end of Camping)
+Traits
+Eyes
+Black
+Fur
+Light blue, blue, dark blue and tan
+Personal Status
+Relative(s)
+Bandit (father)
+Chilli (mother)
+Bingo (younger sister)
+Radley (paternal-uncle)
+Frisky (godmother/aunt)
+Brandy (maternal aunt)
+Stripe (paternal-uncle)
+Trixie (paternal-aunt)
+Muffin (cousin)
+Socks (cousin)
+Bob (paternal-grandfather)
+Nana (paternal-grandmother)
+Mort (maternal-grandfather)
+Mrs. Cattle (maternal-grandmother)
+Friend(s)
+Lucky (next door neighbour)
+Rusty
+Indy
+Coco
+Snickers
+Honey
+Mackenzie
+Chloe (best friend)
+Judo (next door neighbour)
+Jean-Luc
+Winton
+Buddy
+The Terriers
+Pretzel
+Bentley
+Winnie
+Fido
+Mia
+Hercules
+Pom Pom
+Maynard
+Jack
+Missy
+Media
+First Appearance
+The Magic Xylophone
+(Production Appearance: Yoga Ball)
+(US Appearance: Keepy Uppy
+
+Bluey Christine Heeler is the titular protagonist, daughter of Bandit and Chilli, the older sister of Bingo, and niece of Uncle Stripe and Aunt Trixie.
+
+Contents
+1 Bluey.tv Description
+2 Appearance
+3 Personality
+4 Biography
+5 Nicknames
+6 Trivia
+7 Cameos
+7.1 Episodes
+7.2 Others
+8 Absences
+8.1 Episodes
+8.2 Others
+9 Gallery
+9.1 Artwork
+9.2 Screenshots
+9.3 Animated
+10 References
+
+AD
+Bluey.tv Description
+"Bluey is a seven-year-old Blue Heeler pup who loves to play. Her parents and teacher give her lots of time to practice, which means she’s become very good at inventing games, helping everyone choose their roles and deciding on the rules. Her favourite games are ones that involve lots of other kids and grown-ups (especially her dad) and she likes to pretend she’s a grown-up doing grownup things herself."
+
+Appearance
+Bluey is a Blue Heeler with light blue, blue, dark blue and tan fur. She has a rectangular shaped body, and has light blue paws, outer muzzle, eyebrows and chest, blue legs, arms, torso, head and tail stem, dark blue torso spots, tail tip, outer ears and head spots, and tan inner ears and muzzle. She also has a black nose.
+
+Personality
+Bluey, in general, is an energetic character who loves to play, as described on the official page. She can be a bit too bossy when she plays games, as seen in the Magic Xylophone episode and some other episodes. She can be easily distracted as seen in Hide and Seek. She really likes to play with her friends too.
+
+Biography
+Bluey is one of the Heeler's family members. She's a daughter of Bandit and Chilli and has a younger sister called Bingo. Her neighbourhood friends include Lucky and Judo. She's also friend with most students at Calypso's School and best friends with Chloe.
+
+Nicknames
+The following is a list of Nicknames used for or by Bluey throughout the series.
+
+Nickname Episode
+Piano The Magic Xylophone
+Ding Dongs The Magic Xylophone
+Garden Gnome The Magic Xylophone
+Doctor Hospital
+Dr. Bluey Hospital
+Janet Grannies and Bus
+Barnicus Bumpy and the Wise Old Wolfhound
+Dennis Teasing
+Rhonda Hammerbarn
+Marjory Daddy Dropoff
+Karen Swim School
+Margaret Swim School
+
+Trivia
+Being the main protagonist, Bluey has never made an absence on any episode, except Turtleboy
+She has only been absent in four shorts, namely Pea Pod Sausages, Green Bottles, Mower and Honk.
+Viewer gender confusion: Bluey has frequently been mistaken as a male by many viewers, mainly due to her looking like her father, having some traits of a young boy and her being blue, a stereotypical "boy color". In fact, when the show first aired, nearly all initial viewers assumed Bluey and Bingo were male, as their gender had not been said in the first few episodes, though a few episodes later, it was stated that Bluey and Bingo were female dogs. Even after this, many people who have only seen small things from the show tend to think Bluey is a boy, it has even got to the point where plush toys of Bluey nearly always get put in the "boys toys" aisle of stores, and in some cases, the plush is even straight up listed as a "boy dog plush" in online listings of it. The confusion was further fueled in Kids, when a cashier says to Bluey, "What a nice young boy you have there!" (refering to Bandit), as many people believed that the cashier was talking to Bandit.
+Fandom nod: This is later referenced in a few episodes, in Double Babysitter when Uncle Rad said, "cause he's blue," after which Bluey corrects him, saying that she is a girl.
+Bluey's favourite animal is fruit bat, as seen in Fruit Bat.
+Bluey's favourite colour of capsicum (bell pepper) is yellow, as mentioned in the episode BBQ.
+Bluey's favourite breakfast is fruit salad, as mentioned in the episode Fruit Bat.
+Bluey's older version can be seen at the end of episode Camping.
+Bluey's family is the first to have a known surname.
+Bluey once played as a cameo, as seen on episode Army.
+Bluey and Bingo have unlockable Emojis on the DisneyNOW app and website that can be used on the user's profile. These emojis use the art style of Disney Emoji Blitz, a match-3 puzzle game for mobile phones.
+She may be unable to read as seen in Takeaway and Bus, although in some episodes as well as in the short Crazy Christmas Lights, she can be seen presumably reading a book. However, she might just be looking at pictures.
+She is also intrigued by the fact that her buddy Mia can write, which could mean that she is unable to either.
+In Library, she can be seen reading aloud, which could mean that Bluey is starting to be able to read. Though again, she could just be trying to retell the story through the pictures.
+Throughout Bin Night, she is shown to have a white belt on an unspecified martial art.
+Later in the episode, she can be seen advanced to the yellow belt.
+Bluey plays the recorder, as shown in Queens and Bin Night.
+Baby Race features Bluey when she was still a baby.
+In Baby Race, Chilli confirms that Bluey is still two years older than Bingo, although she might just be approximating (either by default or excess).
+It is possible while Bingo's fifth birthday happened in Handstand, Bluey’s seventh birthday is shown in Pass the Parcel
+The long distance between her birthdays is somewhat noted by Bandit in Chest, being confused as to why Bluey is still six (she tells him she’s almost seven)
+In Burger Shop, it is mentioned that she is in preschool, more specifically a preparatory school as stated in Calypso's bio.
+In Jingle Bells short, this marks the first short where Bluey speaks.
+Bluey is the first charcter to have their middle name revealed
+In Family Meeting it is revealed her middle name is "Christine"
+In the ABC Kids Listen app's Story Time promo, she briefly cameos as a drawing on a smartphone.
+Even though she has the physical appearance of a Blue Heeler, she is technically a Red/Blue crossbreed.
+It is likely that she is named after a real dog in Australia named Bluey, who lived to be nearly thirty years old and was the oldest dog to ever live. [1]
+To protect their privacy and for "safety reasons", the identity of Bluey's voice actor is kept a secret from the public unlike many other children's TV shows which reveal actual names of children actors and actresses. And to this day, their identity is still a mystery. The same also goes for the other voice actors for many of the other children, including Bluey's sister, Bingo.
+In Onesies, Bluey reveals that she does not like the fact that she looks similar to Bandit.
+According to [Family Tree - Part 3)] by Aussie Girl Maggie, (which mentions Chili’s side of the Heeler family) apparently Bluey is stated to be nineteen before the end of Camping.
+Cameos
+Episodes
+S02E16: Army
+
+Others
+SN/AEN/A: Silent Night (before Christmas)
+
+SN/AEN/A: Crazy Christmas Lights
+
+SN/AEN/A: Jingle Bells
+
+SN/AEN/A: The Lollipop Song
+
+Absences
+Episodes
+S03E30: Turtleboy (mentioned)
+
+Others
+SN/AEN/A: Pea Pod Sausages
+
+SN/AEN/A: Green Bottles
+
+SN/AEN/A: Mower
+
+SN/AEN/A: Honk
+
+Gallery
+Artwork
+Bluey pilot design
+Bluey's pilot design
+BlueyArtwork03
+Artwork of Bluey cuddling Polly Puppy
+BlueyArtwork01
+Artwork of Bluey (Bad Chroma-Keying!)
+BlueyArtwork02
+Artwork of Bluey as seen on the DVD cover of Horsey Ride & Other Stories
+BlueyArtwork05
+Artwork of Bluey playing
+BlueyArtwork04
+Main artwork
+Bluey&BingoArtworkAlt
+Alternate artwork of Bluey and Bingo
+BlueyArtwork06
+Artwork of Bluey playing a game of Keepy-Uppy
+Bluey-TV-Series-ABC-Kids-Bluey-Character-waving
+Bluey waving
+BlueyIntroArtwork
+Bluey dancing in the intro
+Bluey img 5
+BlueyDisneyNowEmoji
+Bluey's DisneyNOW Emoji
+Bluey please face
+Bluey using her Please Face on her dad
+Screenshots
+BlueyLTDDrawing
+Bluey's learn to draw drawing, as drawn by a storyboard artist at Ludo Studio.
+Rwg
+Fdvds
+BlueyBingoEscape
+Bluey and Bingo as sketches as seen on Escape.
+BlueyinABCKids2018ChristmasCountdown
+Bluey in ABC Kids's 2018 Christmas countdown
+BlueyinABCKids2020ID
+Bluey in ABC Kids's Iview ident
+March
+Bluey Group photo
+The Pool-screen1
+Favourite-Thing7
+Favourite-Thing8
+Bingo: "That's my favourite thing!"
+DoubleBabysitterPreview
+Bluey and Bingo with their babysitters Rad and Frisky
+Typewriter-Bluey doesn't make sense
+Grandad-Hiding
+Bluey hiding with her sister and grandfather
+MrMonkeyjocksPreview
+The Heelers with Mr. Monkeyjocks
+TheQuietGamePreview
+Bandit Heeler vs. the Mime Sisters!
+PostmanPreview
+CafePreview
+BurgerShopPreview
+Bluey and Bingo playing Burger Shop during bathtime
+BarkyBoatsPreview
+Libraryimage
+Bluey reading to Bingo, Muffin and some plushies
+Moviesimage
+Bluey MIGHT have cinephobia (fear of watching movies)
+Seesawimage
+Circus Sneakpeak
+Circus ringmaster, clown, lion tamer's wife, lion tamer, muscleman and lion putting on a show
+Bluey fluff hair
+Hedgehog Bluey
+BlueyinABCKids2020ChristmasCountdown
+Bluey in ABC Kids' revised 2020 Christmas Countdown
+BlueyABCKidsListenAppStoryTimePromoCameo
+Bluey as a drawing cameo in the ABC Kids Listen app's Story Time promo
+Animated
+Cookie
+Bluey and Bingo
+Wagon Ride
+"Monkey bars?"
+Bluey Crying
+Bluey - excited
+Bluey - dancing
+Bluey - laughing
+Bluey - shrug
+"Well, we'll have to see."
+Bluey - thoughtful
+"I have an idea."
+Bluey - excited2
+"It's Keepy Uppy!"
+BlueyFariesTaunt
+Bluey dancing in a fairy ring
+BlueyLaugh01
+BlueyRun
+"_giggles_ I'll get the speaker!"
+BlueySitting
+BlueyVictoryTaunt
+BlueyWithBook
+BlueyWithBook2
+"I know!"
+BlueyWave
+BlueyWave2
+"Hello."
+BlueyCocoandSnickers
+Bluey, Snickers, and Coco cheering after winning Shadowlands
+BlueyConfusedidle
+BlueyConfusionidle
+BlueydepressedIdle
+BlueyHelp
+"Run!"
+BlueyIdea
+"Wait! I know."
+Blueypoint
+Blueypoint2
+Blueypointbackward
+BlueyReadingBook
+"Yeah, it is."
+BlueyTaunt
+BlueyThinkitThrough
+BlueyVictory
+"Yeah!"
+BlueyVictory2
+BlueyVictory3
+"Yeah, I was right! _makes sound_"
+BlueyandBingoTaunt
+"Yeah!"
+BlueyandBingoTaunt2
+BlueyandBingoTaunt3
+"Oooooh!"
+BlueyandBingoWave
+BlueyandBingoWave2
+BlueyandBingowithpuppet
+Blueywithcupcake
+DaddyDropoffgif5
+"Walkies!"
+DanceModegif2
+Bingo: "I was still very hungry."
+References
+https://en.wikipedia.org/wiki/Bluey_(dog)
+Others like you also viewed
+Bingo Heeler
+Bandit Heeler
+Chilli Heeler
+Socks Heeler
+Bluey Wiki
+Muffin Heeler
+Radley Heeler
+Frisky
+Stripe Heeler
+Brandy Cattle
+Mackenzie
+Bob Heeler
+Trixie Heeler
+Mrs. Cattle
+Camping
+
+Categories
+Languages
+Community content is available under CC-BY-SA unless otherwise noted.
 
 Bingo
 Bingo
 Bingo is Bluey's younger sister. She’s 4 years old, and a red heeler like her mum. Bingo also likes to play but she is a bit quieter than Bluey, so is more likely to be the customer than the shop owner. Sometimes though, when Bluey asks her to be the doctor, rather than the patient, she really enjoys it. When she’s not playing you can find her in the yard talking to tiny bugs or off lost in her own beautiful world.
+Bingo Heeler
+39
+VIEW SOURCE
+This is confusing.png
+"This is confusing."
+This article is about the character.
+You may be looking for the episode.
+
+"Aw, no fair!" - Bingo in Ice Cream.
+"THIS IS OUTRAGEOUS!" - Bingo in Seesaw.
+
+Bingo Heeler
+
+Characteristics
+Breed
+Red Heeler
+Gender
+Female ♀
+Age
+4 (S01E01 - S02E43)
+5 (S02E44 - present)
+Traits
+Eyes
+Black
+Fur
+Orange, dark orange and cream
+Personal Status
+Relative(s)
+Bandit (father)
+Chilli (mother)
+Bluey (older sister)
+Radley (paternal uncle)
+Brandy (maternal aunt)
+Stripe (paternal uncle)
+Trixie (paternal aunt)
+Muffin (cousin)
+Socks (cousin)
+Bob (paternal grandfather)
+Chris (paternal grandmother)
+Mort (maternal grandfather)
+Mrs. Cattle (maternal grandmother)
+Friend(s)
+Lucky (next door neighbour)
+Indy
+Coco
+Snickers
+Honey
+Mackenzie
+Chloe
+Judo (next door neighbour)
+Rusty
+Buddy
+Juniper
+Bentley
+Missy
+Lila (best friend)
+Maynard
+Frisky
+Jasper W
+Harley
+Hercules
+Winton
+Media
+First Appearance
+The Magic Xylophone
+(Production Appearance: Yoga Ball)
+(US Appearance: Keepy Uppy)
+
+Bingo Heeler is one of the main characters of Bluey. Serving the role as a deuteragonist, she is the younger daughter of Bandit and Chilli, the younger sister of Bluey, and niece of Stripe, Trixie, Rad, and Brandy.
+
+Contents
+1 Bluey.tv Description
+2 Appearance
+3 Personality
+4 Biography
+5 Absences
+6 Nicknames
+7 Trivia
+8 Gallery
+8.1 Artwork
+8.2 Screenshots
+8.3 Animated
+
+AD
+Bluey.tv Description
+"Bingo is Bluey's younger sister. She’s 4 years old, and a red heeler like her mum. Bingo also likes to play but she is a bit quieter than Bluey, so is more likely to be the customer than the shop owner. Sometimes though, when Bluey asks her to be the doctor, rather than the patient, she really enjoys it. When she’s not playing you can find her in the yard talking to tiny bugs or off lost in her own beautiful world."[1]
+
+Appearance
+Bingo is a Red Heeler with light cream, orange and dark orange fur. She has cream feet, hands, tail tip, chest, muzzle and eyebrows, orange legs, arms, tail stem, torso and inner ears, and a dark orange tail spot, back spot, left and right head and outer ears. She also has a brown nose.
+
+Personality
+Bingo is a character that loves to play. She's rather on the passive side and often depends on her older sister when playing as mentioned on the official page and seen on many episodes such as Hairdressers. She likes to observe tiny bugs as seen on episodes such as The Weekend and Bingo. She doesn't like to play rough as seen on episode Yoga Ball. She's smart and has broad knowledge of everyday things as seen on episodes Fruitbat and The Dump. She can get heartbroken when people or Bluey make fun of her or when she thinks they are making fun of her, as seen in Favourite Thing.
+
+Biography
+Bingo is one of the Heeler's family member. She's a daughter of Bandit and Chilli and has an older sister called Bluey, a niece of Stripe, Trixie, Radley and Brandy, a cousin of Muffin and Socks and a granddaughter of Bob and Nana. Her neighbourhood friends includes Lucky and Judo. She's also friends with most students from The Kindy and best friends with Lila.
+
+Absences
+S01E05 - Shadowlands
+S01E17 - Calypso
+S01E23 - Shops
+S01E37 - The Adventure
+S01E40 - Early Baby
+S01E41 - Mums and Dads
+S02E16 - Army
+S02E31 - Barky Boats
+S02E41 - Octopus
+S02E49 - Typewriter
+S03E08 - Unicorse (mentioned)
+S03E28 - Stories
+S03E34 - Space
+Nicknames
+The following is a list of nicknames used for or by Bingo throughout the series.
+
+Slobberdobber Hotel
+Snowdrop Zoo
+Sparkleshot Spy Game
+Tap Girl Takeaway
+Larn Yoga Ball
+Rita Grannies, Bus and Trains
+Cassiopeia The Creek
+Snowdrop Zoo, Kids and Daddy Putdown
+Sharalanda Teasing and Hammerbarn
+Dr. Glenda Trains
+Merifyndor Swim School
+Trivia
+It is currently shown that Bingo can only count to fourteen as seen in Hide and Seek.
+Bingo and Socks, Bluey and Muffin's little sisters, have so far not had their middle names revealed.
+Bingo has her own dedicated episode of the same name in season 2.
+It is often shown that Lila is Bingo's best friend, which started through Lilas' first day at Kindergarten in Daddy Dropoff.
+An older Bingo and Lila can also be seen at the end of the episode.
+Bingo speaks with a faint, but noticeable nasally voice.
+In some episodes, whenever she interacts with an insect, her close-ups are in 3D animation instead of 2D.
+She is the second character (after Chloe) who had their birthday and aged up in the series.
+In Sleepytime, Bingo was the second Bluey character that was pictured crying, instead of just tearing up.
+She is also pictured crying when she first loss in Pass the Parcel.
+Her favourite colour is blue as mentioned in Easter.
+In The Pool, Helicopter and Duck Cake, it has been mentioned that Bingo is taking ballet, gymnastics and mini-hockey respectively.
+While not as bad as her sister, Bingo often gets confused for a boy, since Bingo is usually a name for a male dog, and her voice can sometimes sound like a young boy. It helps, however, that Bingo looks a lot like her mother.
+In addition, there is a popular children's rhyme about another dog named Bingo, who is said to be male. In fact, nearly every other dog named Bingo, real or fictional is male.
+Bingo sometimes finds some games too rough, as mentioned in the episode Yoga Ball.
+However, this seems to have improved through later episodes in the show, such as Pirates.
+In season two, Bingo’s car seat has changed. In season one, she was in a lap-sash seat and the creators received feedback from fans saying she wasn’t big enough for that, so now she’s in a four-point harness seat.
+Bingo is very similiar in appearance to her aunt Brandy, as mentioned in Onesies.
+Gallery
+Artwork
+Bingo
+Main artwork
+BingoArtwork01
+Secondary artwork of Bingo.
+BingoArtwork02
+Artwork of Bingo dancing.
+BingoArtwork03
+Artwork of Bingo playing Keepy-Uppy
+BingoArtwork04
+Artwork of Bingo finding Floppy
+BingoArtwork05
+Artwork of Bingo playing Magic Xylophone
+BingoandLeafbug
+Bingo and the walking leaf
+BingopointOpening
+Artwork of Bingo pointing in the intro
+Bluey&BingoArtwork
+Artwork of Bingo and Bluey
+Bluey&BingoArtworkAlt
+Alternate artwork of Bingo and Bluey
+BlueyBingo&Bandit01
+Artwork of Bingo and Bluey playing Wagonride with Bandit
+BlueyBingo&Bandit02
+Artwork of Bingo, Bluey and Bandit as seen on the DVD cover of The Pool & Other Stories.
+C2F7735F-CE46-4FE5-AC32-24CD97A808B1
+Bingo as Mini Bluey
+BingoDisneyNowEmoji
+Bingo's DisneyNOW Emoji
+Screenshots
+0D761252-B485-43DB-B52C-7C9FB04B2AC1
+Bingo 2017 pilot design
+BingowinOpening
+Bingo in the intro of her episode of the same name
+Kids-screen
+Bingo in a shopping cart
+Mount-Mumandad-screen
+Bingo about to go up Mount Mumandad
+Bumpy-screen
+Bingo in the hospital
+Work-screen
+Bingo about to have an interview as a frog
+Fairies-screen
+Bingo hiding in the pantry with her family
+Grannies-screen
+Bingo playing Grannies
+D675a0faf2c114865bee618e4f1edaa13aacbcb3
+The-Beach-screen
+Bingo going to the Beach
+Taxi-screen
+Bingo playing Taxi
+The Pool-screen
+Bingo in the pool with Bluey
+The-Claw-screen
+Bingo playing Claw
+Spy game-screen
+Bingo playing Spies with her friends
+Hotel-Screen
+Bingo playing as a pillow
+Fruitbat-screen
+Bingo being read to by Bandit
+Hospital-screen
+Bingo playing a nurse
+The Magic Xylophone
+Bingo playing Magic Xylophone
+BingoLTDDrawing
+Bingo's learn to draw drawing, as drawn by a storyboard artist at Ludo Studio
+8FA03450-DAB9-4E20-854E-ACEA1D50BB35
+Bingo growing up through school with Lila
+Bluey Group photo
+Bingo with her family. Bingo in a cozy coupe
+The Heelers opening their presents
+BlueyPreviewDunny2
+BlueyS32021NewEpisodesPreview3
+BlueyS32021NewEpisodesPreview2
+BlueyS32021NewEpisodesPreview1
+Asparagus-screen
+Bingo eating dinner with her family
+Baby photos
+Framed baby pictures of Bluey and Bingo
+Animated
+Bingo Cookie
+Bingo - excited
+Bingo - waving
+"Hi, 'Mum!'"
+Bingo - laughing
+Bingo - shrug
+Bingo - disgusted
+Bingo - scared
+WHAT!?!
+Bluey and Bingo
+Bingo with her sister
+BlueyandBingoTaunt
+BingoConfused
+BingoConfused2
+BingoDepressed
+BingoFariesTaunt
+"I can't stop dancing!"
+Bingogiggle
+BingoIdle
+BingoIdle2
+BingoIdle3
+BingoIdle4
+BingoIdle5
+BingoLaugh
+Bingopoint
+Bingopoint2
+Bingopoint3
+BingoRun
+BingoTaunt
+BingoTaunt2
+BingoTaunt3
+“Ooh, Lovey”
+BingoThinkthrough
+BingoVictory
+Bingowalkback
+BingoWave
+Lila-Bingo-Growing
+Lila: "And I hope we're friends forever and ever and ever."
+Sadbingo-yogaball-anim
+Chilli: "Hey, Bingo. Oh, what's the matter?"
+Piggybackgif2
+Chilli: "Stop! Stop, little gingerbread man!"
+Bingo
+Bingo From 'Movies'
+Wagon Ride
+Bluey: "Monkey bars?"
+Bingo Crying
+Bingo crying
+Sleepytimegif1
+Kiss good night
+MountMumandadgif3
+"Click, photo."
+TheDumpgif
+Kidsgif3
+Trainsgif1
+Shaungif1
+"Dad!"
+Squashgif3
+Bluey: "Good game, little sister."
+Bingo: "Thanks."
+Hotelgif1
+FancyRestaurantgif6
+DaddyDropoffgif4
+DanceModegif4
+"Yes, yes, yes, yes!"
+DaddyDropoffgif6
+Hammerbarngif1
+Queensgif2
+Squashgif8
+MumSchoolgif2
+Marketsgif2
+BBQgif
+Featherwandgif3
+DadBabygif7
+Hello
+Featherwandgif7
+"Bye."
+FlatPackgif4
+Asparagusgif2
+Parrot Bingo swallows the Magic Asparagus
+TheShowgif4
+"Blow out your candles, Your Majesty."
+Queen: "Very well."
+Bedroomdrama
+Bobbilbygif2
+"Cartoo-oo-oo-oo-oons!"
+Monkeyjocksmusic
+DaddyDropoffgif3
+Teasinggif2
+Bingo gasps in horror as her father licks her ice block
+StickyGekkogif2
+Chilli: "I'll time you. Ready, set, go! Tick-tick-tick-tick-tick..."
+Omelettedestoyer
+Motor-Arm Bingo
+Piggybackgif5
+DanceModegif2
+Bingo: "I was still very hungry."
+TickleCrabsgif9
+Bluey: "Why do you never play with us?"
+Bandit: "What?"
+https://www.bluey.tv/characters/
+Others like you also viewed
+Bluey Heeler
+Bandit Heeler
+Chilli Heeler
+Socks Heeler
+Muffin Heeler
+Radley Heeler
+Bluey Wiki
+Frisky
+Stripe Heeler
+Brandy Cattle
+Trixie Heeler
+Chris Heeler
+Mrs. Cattle
+Mackenzie
+Bob Heeler
+
+Categories
+Languages
+Community content is available under CC-BY-SA unless otherwise noted.
+
+Bingo Heeler
+39
+VIEW SOURCE
+This is confusing.png
+"This is confusing."
+This article is about the character.
+You may be looking for the episode.
+
+"Aw, no fair!" - Bingo in Ice Cream.
+"THIS IS OUTRAGEOUS!" - Bingo in Seesaw.
+
+Bingo Heeler
+
+Characteristics
+Breed
+Red Heeler
+Gender
+Female ♀
+Age
+4 (S01E01 - S02E43)
+5 (S02E44 - present)
+Traits
+Eyes
+Black
+Fur
+Orange, dark orange and cream
+Personal Status
+Relative(s)
+Bandit (father)
+Chilli (mother)
+Bluey (older sister)
+Radley (paternal uncle)
+Brandy (maternal aunt)
+Stripe (paternal uncle)
+Trixie (paternal aunt)
+Muffin (cousin)
+Socks (cousin)
+Bob (paternal grandfather)
+Chris (paternal grandmother)
+Mort (maternal grandfather)
+Mrs. Cattle (maternal grandmother)
+Friend(s)
+Lucky (next door neighbour)
+Indy
+Coco
+Snickers
+Honey
+Mackenzie
+Chloe
+Judo (next door neighbour)
+Rusty
+Buddy
+Juniper
+Bentley
+Missy
+Lila (best friend)
+Maynard
+Frisky
+Jasper W
+Harley
+Hercules
+Winton
+Media
+First Appearance
+The Magic Xylophone
+(Production Appearance: Yoga Ball)
+(US Appearance: Keepy Uppy)
+
+Bingo Heeler is one of the main characters of Bluey. Serving the role as a deuteragonist, she is the younger daughter of Bandit and Chilli, the younger sister of Bluey, and niece of Stripe, Trixie, Rad, and Brandy.
+
+Contents
+1 Bluey.tv Description
+2 Appearance
+3 Personality
+4 Biography
+5 Absences
+6 Nicknames
+7 Trivia
+8 Gallery
+8.1 Artwork
+8.2 Screenshots
+8.3 Animated
+
+AD
+Bluey.tv Description
+"Bingo is Bluey's younger sister. She’s 4 years old, and a red heeler like her mum. Bingo also likes to play but she is a bit quieter than Bluey, so is more likely to be the customer than the shop owner. Sometimes though, when Bluey asks her to be the doctor, rather than the patient, she really enjoys it. When she’s not playing you can find her in the yard talking to tiny bugs or off lost in her own beautiful world."[1]
+
+Appearance
+Bingo is a Red Heeler with light cream, orange and dark orange fur. She has cream feet, hands, tail tip, chest, muzzle and eyebrows, orange legs, arms, tail stem, torso and inner ears, and a dark orange tail spot, back spot, left and right head and outer ears. She also has a brown nose.
+
+Personality
+Bingo is a character that loves to play. She's rather on the passive side and often depends on her older sister when playing as mentioned on the official page and seen on many episodes such as Hairdressers. She likes to observe tiny bugs as seen on episodes such as The Weekend and Bingo. She doesn't like to play rough as seen on episode Yoga Ball. She's smart and has broad knowledge of everyday things as seen on episodes Fruitbat and The Dump. She can get heartbroken when people or Bluey make fun of her or when she thinks they are making fun of her, as seen in Favourite Thing.
+
+Biography
+Bingo is one of the Heeler's family member. She's a daughter of Bandit and Chilli and has an older sister called Bluey, a niece of Stripe, Trixie, Radley and Brandy, a cousin of Muffin and Socks and a granddaughter of Bob and Nana. Her neighbourhood friends includes Lucky and Judo. She's also friends with most students from The Kindy and best friends with Lila.
+
+Absences
+S01E05 - Shadowlands
+S01E17 - Calypso
+S01E23 - Shops
+S01E37 - The Adventure
+S01E40 - Early Baby
+S01E41 - Mums and Dads
+S02E16 - Army
+S02E31 - Barky Boats
+S02E41 - Octopus
+S02E49 - Typewriter
+S03E08 - Unicorse (mentioned)
+S03E28 - Stories
+S03E34 - Space
+Nicknames
+The following is a list of nicknames used for or by Bingo throughout the series.
+
+Slobberdobber Hotel
+Snowdrop Zoo
+Sparkleshot Spy Game
+Tap Girl Takeaway
+Larn Yoga Ball
+Rita Grannies, Bus and Trains
+Cassiopeia The Creek
+Snowdrop Zoo, Kids and Daddy Putdown
+Sharalanda Teasing and Hammerbarn
+Dr. Glenda Trains
+Merifyndor Swim School
+Trivia
+It is currently shown that Bingo can only count to fourteen as seen in Hide and Seek.
+Bingo and Socks, Bluey and Muffin's little sisters, have so far not had their middle names revealed.
+Bingo has her own dedicated episode of the same name in season 2.
+It is often shown that Lila is Bingo's best friend, which started through Lilas' first day at Kindergarten in Daddy Dropoff.
+An older Bingo and Lila can also be seen at the end of the episode.
+Bingo speaks with a faint, but noticeable nasally voice.
+In some episodes, whenever she interacts with an insect, her close-ups are in 3D animation instead of 2D.
+She is the second character (after Chloe) who had their birthday and aged up in the series.
+In Sleepytime, Bingo was the second Bluey character that was pictured crying, instead of just tearing up.
+She is also pictured crying when she first loss in Pass the Parcel.
+Her favourite colour is blue as mentioned in Easter.
+In The Pool, Helicopter and Duck Cake, it has been mentioned that Bingo is taking ballet, gymnastics and mini-hockey respectively.
+While not as bad as her sister, Bingo often gets confused for a boy, since Bingo is usually a name for a male dog, and her voice can sometimes sound like a young boy. It helps, however, that Bingo looks a lot like her mother.
+In addition, there is a popular children's rhyme about another dog named Bingo, who is said to be male. In fact, nearly every other dog named Bingo, real or fictional is male.
+Bingo sometimes finds some games too rough, as mentioned in the episode Yoga Ball.
+However, this seems to have improved through later episodes in the show, such as Pirates.
+In season two, Bingo’s car seat has changed. In season one, she was in a lap-sash seat and the creators received feedback from fans saying she wasn’t big enough for that, so now she’s in a four-point harness seat.
+Bingo is very similiar in appearance to her aunt Brandy, as mentioned in Onesies.
+Gallery
+Artwork
+Bingo
+Main artwork
+BingoArtwork01
+Secondary artwork of Bingo.
+BingoArtwork02
+Artwork of Bingo dancing.
+BingoArtwork03
+Artwork of Bingo playing Keepy-Uppy
+BingoArtwork04
+Artwork of Bingo finding Floppy
+BingoArtwork05
+Artwork of Bingo playing Magic Xylophone
+BingoandLeafbug
+Bingo and the walking leaf
+BingopointOpening
+Artwork of Bingo pointing in the intro
+Bluey&BingoArtwork
+Artwork of Bingo and Bluey
+Bluey&BingoArtworkAlt
+Alternate artwork of Bingo and Bluey
+BlueyBingo&Bandit01
+Artwork of Bingo and Bluey playing Wagonride with Bandit
+BlueyBingo&Bandit02
+Artwork of Bingo, Bluey and Bandit as seen on the DVD cover of The Pool & Other Stories.
+C2F7735F-CE46-4FE5-AC32-24CD97A808B1
+Bingo as Mini Bluey
+BingoDisneyNowEmoji
+Bingo's DisneyNOW Emoji
+Screenshots
+0D761252-B485-43DB-B52C-7C9FB04B2AC1
+Bingo 2017 pilot design
+BingowinOpening
+Bingo in the intro of her episode of the same name
+Kids-screen
+Bingo in a shopping cart
+Mount-Mumandad-screen
+Bingo about to go up Mount Mumandad
+Bumpy-screen
+Bingo in the hospital
+Work-screen
+Bingo about to have an interview as a frog
+Fairies-screen
+Bingo hiding in the pantry with her family
+Grannies-screen
+Bingo playing Grannies
+D675a0faf2c114865bee618e4f1edaa13aacbcb3
+The-Beach-screen
+Bingo going to the Beach
+Taxi-screen
+Bingo playing Taxi
+The Pool-screen
+Bingo in the pool with Bluey
+The-Claw-screen
+Bingo playing Claw
+Spy game-screen
+Bingo playing Spies with her friends
+Hotel-Screen
+Bingo playing as a pillow
+Fruitbat-screen
+Bingo being read to by Bandit
+Hospital-screen
+Bingo playing a nurse
+The Magic Xylophone
+Bingo playing Magic Xylophone
+BingoLTDDrawing
+Bingo's learn to draw drawing, as drawn by a storyboard artist at Ludo Studio
+8FA03450-DAB9-4E20-854E-ACEA1D50BB35
+Bingo growing up through school with Lila
+Bluey Group photo
+Bingo with her family. Bingo in a cozy coupe
+The Heelers opening their presents
+BlueyPreviewDunny2
+BlueyS32021NewEpisodesPreview3
+BlueyS32021NewEpisodesPreview2
+BlueyS32021NewEpisodesPreview1
+Asparagus-screen
+Bingo eating dinner with her family
+Baby photos
+Framed baby pictures of Bluey and Bingo
+Animated
+Bingo Cookie
+Bingo - excited
+Bingo - waving
+"Hi, 'Mum!'"
+Bingo - laughing
+Bingo - shrug
+Bingo - disgusted
+Bingo - scared
+WHAT!?!
+Bluey and Bingo
+Bingo with her sister
+BlueyandBingoTaunt
+BingoConfused
+BingoConfused2
+BingoDepressed
+BingoFariesTaunt
+"I can't stop dancing!"
+Bingogiggle
+BingoIdle
+BingoIdle2
+BingoIdle3
+BingoIdle4
+BingoIdle5
+BingoLaugh
+Bingopoint
+Bingopoint2
+Bingopoint3
+BingoRun
+BingoTaunt
+BingoTaunt2
+BingoTaunt3
+“Ooh, Lovey”
+BingoThinkthrough
+BingoVictory
+Bingowalkback
+BingoWave
+Lila-Bingo-Growing
+Lila: "And I hope we're friends forever and ever and ever."
+Sadbingo-yogaball-anim
+Chilli: "Hey, Bingo. Oh, what's the matter?"
+Piggybackgif2
+Chilli: "Stop! Stop, little gingerbread man!"
+Bingo
+Bingo From 'Movies'
+Wagon Ride
+Bluey: "Monkey bars?"
+Bingo Crying
+Bingo crying
+Sleepytimegif1
+Kiss good night
+MountMumandadgif3
+"Click, photo."
+TheDumpgif
+Kidsgif3
+Trainsgif1
+Shaungif1
+"Dad!"
+Squashgif3
+Bluey: "Good game, little sister."
+Bingo: "Thanks."
+Hotelgif1
+FancyRestaurantgif6
+DaddyDropoffgif4
+DanceModegif4
+"Yes, yes, yes, yes!"
+DaddyDropoffgif6
+Hammerbarngif1
+Queensgif2
+Squashgif8
+MumSchoolgif2
+Marketsgif2
+BBQgif
+Featherwandgif3
+DadBabygif7
+Hello
+Featherwandgif7
+"Bye."
+FlatPackgif4
+Asparagusgif2
+Parrot Bingo swallows the Magic Asparagus
+TheShowgif4
+"Blow out your candles, Your Majesty."
+Queen: "Very well."
+Bedroomdrama
+Bobbilbygif2
+"Cartoo-oo-oo-oo-oons!"
+Monkeyjocksmusic
+DaddyDropoffgif3
+Teasinggif2
+Bingo gasps in horror as her father licks her ice block
+StickyGekkogif2
+Chilli: "I'll time you. Ready, set, go! Tick-tick-tick-tick-tick..."
+Omelettedestoyer
+Motor-Arm Bingo
+Piggybackgif5
+DanceModegif2
+Bingo: "I was still very hungry."
+TickleCrabsgif9
+Bluey: "Why do you never play with us?"
+Bandit: "What?"
+https://www.bluey.tv/characters/
 
 Bandit
 Bandit
 Dad is an archaeologist (he loves to dig up bones). As the devoted, yet tired father, he does his best to use whatever energy is left after interrupted sleep, work and household chores, to invent and play games with his two girls. He still tries to continue his own life amidst the chaos of childrearing but often struggles to juggle these two competing tasks!
+Bandit Heeler
+49
+VIEW SOURCE
+"Oh, no, not (name of game)!" ― Bandit’s catchphrase
+
+"Oh, biscuits!" ― Bandit's second catchphrase
+
+Bandit Heeler
+
+Characteristics
+Breed
+Blue Heeler
+Gender
+Male ♂
+Age
+42-45
+Traits
+Eyes
+Black
+Fur
+Blue, light blue, tan and black
+Personal Status
+Relative(s)
+Chilli (wife)
+Bluey (older daughter)
+Bingo (younger daughter)
+Bob (father)
+Chris (mother)
+Radley (older brother)
+Stripe (younger brother)
+Brandy (sister-in-law)
+Trixie (sister-in-law)
+Muffin (niece)
+Socks (niece)
+Mort (father-in-law)
+Mrs. Cattle (mother-in-law)
+Rodney (pet rock)
+Mary (Aunt)
+Friend(s)
+Pat
+Frank
+Chloe’s Mum
+Marcus
+Daisy
+Wendy
+Mackenzie’s Dad
+Mackenzie’s Mum
+Indy's Mum
+Rocko
+Fido
+Lucky
+Indy
+Coco
+Snickers
+Honey
+Mackenzie
+Chloe
+Judo
+Rusty
+Frisky
+Winnie
+Doreen
+Rodney’s Pet Rock
+Pom Pom
+Media
+First Appearance
+The Magic Xylophone
+(First Technical Appearance: Unnamed 2016 Pilot Episode
+(Production Appearance: Yoga Ball)
+(US Appearance: Keepy Uppy)
+Voice Actor
+Dave McCormack
+Bandit Heeler is a main character, the husband of Chilli, the younger brother of Rad, the older brother of Stripe, father of Bluey and Bingo, and uncle of Muffin and Socks.
+
+Contents
+1 Bluey.tv Description
+2 Appearance
+3 Personality
+4 Biography
+5 Absences
+5.1 Episodes
+5.2 Others
+6 Nicknames
+7 Trivia
+8 Gallery
+8.1 Artwork
+8.2 Screenshots
+8.3 Animated
+9 References
+
+AD
+Bluey.tv Description
+"Dad is an archaeologist (he loves to dig up bones). As the devoted, yet tired father, he does his best to use whatever energy is left after interrupted sleep, work and household chores, to invent and play games with his two girls. He still tries to continue his own life amidst the chaos of childrearing but often struggles to juggle these two competing tasks!"
+
+Appearance
+Bandit is a Blue Heeler with blue, light blue, tan and black fur. He has light blue feet, hands, outer belly, outer muzzle and eyebrows, blue legs, arms, tail tip and torso, tan belly, muzzle and inner ears, and black tail stem, head and outer ears. He also has a black nose and beard whiskers on his muzzle.
+
+Personality
+Bandit is a character that loves to play with his daughters. He will take his role in a game seriously even though he's often seen unwilling and reluctant whenever his daughters mention a game to play. While playing with his daughters, he often teaches them life lessons along the way.
+
+Biography
+Bandit is one of the members of the Heeler family. He's the husband of Chilli, the father of Bluey and Bingo, younger brother of Rad, older brother of Stripe, brother-in-law of Trixie, son of Bob and Nana, the uncle of Muffin and Socks and the son-in-law of Mort. He works as an archaeologist.
+
+When he was younger, Bandit was a bully to his younger brother Stripe as a child. One day, Bandit was jinxed by Rad, so he was not allowed to speak until someone said his name.
+
+At the time he was at England, he met Chilli or possibly someone who looked similar to her, she now has no memory of this occurring though she and her family has spent vacations there. There is “some dispute” as to the exact circumstances, but it apparently took place “at a party in London.”[1] Chilli would later recall that Bandit had a finger up his nose when they first met,[2] though Bandit argues later on that they had met in a holiday park when he was 10.[3] Eventually, the two began dating, and later on went on a backpacking trip to Italy. While there, Bandit proposed to Chilli, and she accepted; the pair were later married.[4] Some time afterwards, Chilli became pregnant, later giving birth to Bluey.[5] Bandit would later claim to have “wrecked [his] back changing [Bluey’s] nappies,” though he probably only said this in jest. Bingo, their younger daughter, was born a couple of years later.[6]
+
+Absences
+Episodes
+S01E05 - Shadowlands
+S01E17 - Calypso
+S01E23 - Shops
+S01E37 - The Adventure
+S01E40 - Early Baby
+S01E41 - Mums and Dads
+S02E12 - Sticky Gecko
+S02E16 - Army
+S02E25 - Helicopter
+S02E27 - Grandad
+S02E30 - Library
+S02E31 - Barky Boats
+S02E43 - Muffin Cone
+S02E49 - Typewriter
+S03E28 - Stories
+S03E34 - Space
+Others
+SN/AEN/A - Crazy Christmas Lights
+SN/AEN/A - The Lollipop Song
+SN/AEN/A - Tea Party with Bluey
+SN/AEN/A - Humpty Dumpty
+SN/AEN/A - Flying Saucer
+SN/AEN/A - Tongue Twister
+SN/AEN/A - Green Bottles
+SN/AEN/A - Make Mum Laugh
+SN/AEN/A - Honk
+SN/AEN/A - Highball
+SN/AEN/A - K9 News
+Nicknames
+The following is a list of Nicknames used for or by Bandit throughout the series.
+
+Nickname Episode
+Bugalugs Granny Mobile
+Telemachus Hospital & Tickle Crabs
+Bert Handsome Hairdressers
+Diddums Kids & Fairytale
+Romeo McFlourish Fancy Restaurant
+Shooby-Doowah Teasing (originally Ooga-Booga)
+Bevan Swim School
+Deep blue[7] Chest
+Ooh-Ooh Zoo
+Gallahop Horsey Ride
+Big Blue Meanie Seesaw
+Bandishwasher Fairytale
+Trivia
+He is voiced by Dave McCormack, the frontman of Australian '90s Indie rock band Custard.
+This is also the debut of McCormack in animated television, The next character to be voiced by a member of a band is Postie.
+He used to play touch football, as mentioned in Fruitbat. He wants to do it again, but has been too busy with parenting and his job.
+He likes to watch cricket, as seen in Horsey Ride & The Weekend.
+He likes to play squash, as seen in Squash.
+He burps after eating sauerkraut in the original dub of Chickenrat.
+However, in the Disney dub, he sneezes after eating sauerkraut.
+This could possibly mean he is allergic to sauerkraut.
+Another possibility is they simply changed it to be more "family friendly" for America.
+He loves bananas, but hates rockmelon (cantaloupe), as mentioned in Trampoline.
+He makes several “dad-jokes” to Bluey and Bingo as shown in a couple of episodes of Season 1, most notably in The Creek and The Pool.
+As of Season 2, he doesn’t do “dad-jokes” as much, but he still has his cheekiness in some episodes in Season 2.
+He is the only male member of the main cast.
+It is yet to be shown of where Bandit works.
+A younger version of him can be seen in the flashback of the episode Baby Race, wherein he lacks the hairs.
+Bandit farted at least in five episodes (as humour) in Daddy Robot, Fairies, Teasing,Family Meeting, and Smoochy Kiss, though this gag has decreased as of Season 2.
+"Family Meeting" reveals that baked beans, nut roast, and pie can all give him gas.
+Bandit can ride a skateboard as seen in Bob Bilby
+Bandit once peed in a pool as seen and said by Chilli in Swim School.
+He was claimed Dad of the Year in 2019.
+Bandit is often seen reading the newspaper in most episodes.
+Bandit’s child-friendly expletives are mostly food related phrases;
+Bandit says, “Oh, Biscuits!” in several episodes.
+He says, “Cheese and Crackers!” in Daddy Robot and Taxi.
+He also says, “Beans on Toast!” and “Goodness Gravy!” in Taxi.
+He says, “Bread and Jam!” in Tickle Crabs.
+He exclaims, “Oh, Duck Cake!” in Duck Cake.
+He says, “Crumbed Steak” in Road Trip.
+Before the title cards when Bluey and Bingo decide what game to play, Bandit says “Oh no, not [NAME OF GAME]” after Bluey and/or Bingo says the name of the game.
+He is left-handed, as revealed in The Claw.
+He will get cranky when he is hungry, as revealed in Omelette.
+A ten-year-old version of Bandit can be seen in Fairytale.
+Bandit is revealed to be the middle child in the same episode.
+In Fairytale, a cassette for the song "Bad Medicine" by Bon Jovi can be seen. This song was released in 1988, meaning that the events of Fairytale would have taken place during 1988 or 1989. Because Bandit was 10 years old in Fairytale, he would have been born some time between 1977 and 1979.
+Assuming Season 3 takes place in 2022, this would place him somewhere between 43 and 45 years old in Season 3.
+Bandit is revealed to have a doctorate in archaeology in Archaeology.
+In Polish dub, his name is "Bandżi" (pronounced "bungee").
+"Seesaw" reveals that he weighs about as much as Bluey, Bingo, Chloe, and Coco put together.
+In "Movies", he's revealed to dislike musical movies, as when the character in the movie he and his daughters were watching started singing, he exclaimed, "Ugh! Songs!".
+"Family Meeting" reveals that he charges his tablet on the bedside table and sometimes drops it.
+It’s revealed in "Pavlova (Episode)" that Bandit, and possibly Chilli, in the English Dub, can both speak French. Because Bluey and Bingo don't speak French, Bandit takes advantage of that to speak nonsense French to them, as if teasing them.
+Gallery
+Artwork
+BanditVICTOR!!OHYEEEEAAAAHH
+His really early design
+Bandit pilot design
+Pilot design
+Bandit's Pilot Render
+Pilot design used accidentally in a card game
+Bandit stock pose
+BanditArtwork01
+Bandit dancing in the intro
+BanditArtwork02
+BanditArtwork03
+Bandit playing The Magic Xylophone
+BanditArtwork04
+Bandit reading the newspaper on the lounge
+BlueyBingo&Bandit01
+Bandit playing Wagon Ride with Bluey and Bingo
+BlueyBingo&Bandit02
+Artwork of Bandit, Bluey and Bingo as seen on the DVD cover of The Pool & Other Stories
+Bandit Heeler
+Bandit
+Bandit's Pilot Render
+Bandit dancing without patch
+Bandit
+As seen as a old design proper Bandit Heeler
+Bandit dancing in premade by Samoi
+Bandit pose
+Screenshots
+Uncle Rad, Stripe & Bandit Heeler Riding - Fairytale
+Bandit and his brothers as kids
+Tickle Crabs-preview
+Bandit being chased by Tickle Crabs
+Daddy-Putdown-screen
+Bandit holding Bingo while Chilli goes to a baby shower
+Shaun-screen
+Bandit and Shaun
+Asparagus-screen
+Bandit and his Family having dinner
+Teasing-screen
+Bandit and Chilli putting the kids to sleep
+Neighbours-screen
+Bandit playing Neighbours
+Chickenrat-screen
+Bandit going to the table in Chickenrat
+Mount-Mumandad-screen
+Bandit as part of Mount Mumandad
+Camping-screen
+Bandit captured by Jean-Luc and Bluey
+Hide-and-Seek-screen
+The Heeler Family laughing
+Copycat-screen
+Bandit and Bluey take a budgie to the vet
+Backpackers-screen
+Bandit and Chilli in the kitchen with their daughters and nieces
+Zoo-screen
+Bandit reading a newspaper
+The-Dump-screen
+Bandit taking his daughters to The Dump
+Trampoline-screen
+Bandit trying to go to work
+Work-screen
+Bandit about to have a job interview
+D675a0faf2c114865bee618e4f1edaa13aacbcb3
+Fairies-screen
+Bandit and the Family hiding in the pantry
+Pirates-screen
+Bandit and Chilli in the park with the kids and a friend
+The-Beach-screen
+Bandit taking the girls to the Beach
+Taxi-screen
+Bandit sharing a Taxi
+Wagon Ride-screen
+Bandit taking the girls on a Wagon Ride
+The-Doctor-screen
+An injured Bandit waiting for The Doctor
+Yoga-Ball-screen
+Bandit and his family in his study
+Takeaway-screen
+Bandit and his daughters at a takeaway restaurant
+Bob-Bilby-screen
+Bandit and Bob Bilby with the family
+Bike-screen
+Bandit watching Bluey on the Bike
+Hotel-Screen
+Bandit and his daughters
+Horsey Ride-screen
+Bandit playing Horsey Ride
+Fruitbat-screen
+Bandit reading to Bluey and Bingo
+BBQ-screen
+Bandit and the Heeler Family having a BBQ
+Keepy Uppy-screen
+Bandit playing in the yard with his family
+Bandit - The Creek Episode
+Bandit visiting The Creek with his daughters and Mackenzie
+BanditChilliEscape
+Bandit and Chilli as sketches as seen on Escape.
+Bluey 16
+Bandit with Bingo and Bluey at the takeaway restaurant
+Animated
+Bandit - dancing
+Bandit killin' his moves
+Teasinggif1
+Bandit - russian dancing
+"Come back here, guinea pig!"
+DadTaunt
+"How good was it?"
+Featherwandgif7
+"Bye."
+DaddyPutdowngif
+"Dinner!"
+DaddyDropoffgif5
+Bandit being leashed by Bluey and Bingo
+Bluey-family
+Bandit hi-fiving Pat.
+References
+The Show
+The Magic Xylophone
+Fairytale
+The Show
+The Show
+Yoga Ball
+Chest#Trivia
+
+Bandit Heeler
+49
+VIEW SOURCE
+"Oh, no, not (name of game)!" ― Bandit’s catchphrase
+
+"Oh, biscuits!" ― Bandit's second catchphrase
+
+Bandit Heeler
+
+Characteristics
+Breed
+Blue Heeler
+Gender
+Male ♂
+Age
+42-45
+Traits
+Eyes
+Black
+Fur
+Blue, light blue, tan and black
+Personal Status
+Relative(s)
+Chilli (wife)
+Bluey (older daughter)
+Bingo (younger daughter)
+Bob (father)
+Chris (mother)
+Radley (older brother)
+Stripe (younger brother)
+Brandy (sister-in-law)
+Trixie (sister-in-law)
+Muffin (niece)
+Socks (niece)
+Mort (father-in-law)
+Mrs. Cattle (mother-in-law)
+Rodney (pet rock)
+Mary (Aunt)
+Friend(s)
+Pat
+Frank
+Chloe’s Mum
+Marcus
+Daisy
+Wendy
+Mackenzie’s Dad
+Mackenzie’s Mum
+Indy's Mum
+Rocko
+Fido
+Lucky
+Indy
+Coco
+Snickers
+Honey
+Mackenzie
+Chloe
+Judo
+Rusty
+Frisky
+Winnie
+Doreen
+Rodney’s Pet Rock
+Pom Pom
+Media
+First Appearance
+The Magic Xylophone
+(First Technical Appearance: Unnamed 2016 Pilot Episode
+(Production Appearance: Yoga Ball)
+(US Appearance: Keepy Uppy)
+Voice Actor
+Dave McCormack
+Bandit Heeler is a main character, the husband of Chilli, the younger brother of Rad, the older brother of Stripe, father of Bluey and Bingo, and uncle of Muffin and Socks.
+
+Contents
+1 Bluey.tv Description
+2 Appearance
+3 Personality
+4 Biography
+5 Absences
+5.1 Episodes
+5.2 Others
+6 Nicknames
+7 Trivia
+8 Gallery
+8.1 Artwork
+8.2 Screenshots
+8.3 Animated
+9 References
+
+AD
+Bluey.tv Description
+"Dad is an archaeologist (he loves to dig up bones). As the devoted, yet tired father, he does his best to use whatever energy is left after interrupted sleep, work and household chores, to invent and play games with his two girls. He still tries to continue his own life amidst the chaos of childrearing but often struggles to juggle these two competing tasks!"
+
+Appearance
+Bandit is a Blue Heeler with blue, light blue, tan and black fur. He has light blue feet, hands, outer belly, outer muzzle and eyebrows, blue legs, arms, tail tip and torso, tan belly, muzzle and inner ears, and black tail stem, head and outer ears. He also has a black nose and beard whiskers on his muzzle.
+
+Personality
+Bandit is a character that loves to play with his daughters. He will take his role in a game seriously even though he's often seen unwilling and reluctant whenever his daughters mention a game to play. While playing with his daughters, he often teaches them life lessons along the way.
+
+Biography
+Bandit is one of the members of the Heeler family. He's the husband of Chilli, the father of Bluey and Bingo, younger brother of Rad, older brother of Stripe, brother-in-law of Trixie, son of Bob and Nana, the uncle of Muffin and Socks and the son-in-law of Mort. He works as an archaeologist.
+
+When he was younger, Bandit was a bully to his younger brother Stripe as a child. One day, Bandit was jinxed by Rad, so he was not allowed to speak until someone said his name.
+
+At the time he was at England, he met Chilli or possibly someone who looked similar to her, she now has no memory of this occurring though she and her family has spent vacations there. There is “some dispute” as to the exact circumstances, but it apparently took place “at a party in London.”[1] Chilli would later recall that Bandit had a finger up his nose when they first met,[2] though Bandit argues later on that they had met in a holiday park when he was 10.[3] Eventually, the two began dating, and later on went on a backpacking trip to Italy. While there, Bandit proposed to Chilli, and she accepted; the pair were later married.[4] Some time afterwards, Chilli became pregnant, later giving birth to Bluey.[5] Bandit would later claim to have “wrecked [his] back changing [Bluey’s] nappies,” though he probably only said this in jest. Bingo, their younger daughter, was born a couple of years later.[6]
+
+Absences
+Episodes
+S01E05 - Shadowlands
+S01E17 - Calypso
+S01E23 - Shops
+S01E37 - The Adventure
+S01E40 - Early Baby
+S01E41 - Mums and Dads
+S02E12 - Sticky Gecko
+S02E16 - Army
+S02E25 - Helicopter
+S02E27 - Grandad
+S02E30 - Library
+S02E31 - Barky Boats
+S02E43 - Muffin Cone
+S02E49 - Typewriter
+S03E28 - Stories
+S03E34 - Space
+Others
+SN/AEN/A - Crazy Christmas Lights
+SN/AEN/A - The Lollipop Song
+SN/AEN/A - Tea Party with Bluey
+SN/AEN/A - Humpty Dumpty
+SN/AEN/A - Flying Saucer
+SN/AEN/A - Tongue Twister
+SN/AEN/A - Green Bottles
+SN/AEN/A - Make Mum Laugh
+SN/AEN/A - Honk
+SN/AEN/A - Highball
+SN/AEN/A - K9 News
+Nicknames
+The following is a list of Nicknames used for or by Bandit throughout the series.
+
+Nickname Episode
+Bugalugs Granny Mobile
+Telemachus Hospital & Tickle Crabs
+Bert Handsome Hairdressers
+Diddums Kids & Fairytale
+Romeo McFlourish Fancy Restaurant
+Shooby-Doowah Teasing (originally Ooga-Booga)
+Bevan Swim School
+Deep blue[7] Chest
+Ooh-Ooh Zoo
+Gallahop Horsey Ride
+Big Blue Meanie Seesaw
+Bandishwasher Fairytale
+Trivia
+He is voiced by Dave McCormack, the frontman of Australian '90s Indie rock band Custard.
+This is also the debut of McCormack in animated television, The next character to be voiced by a member of a band is Postie.
+He used to play touch football, as mentioned in Fruitbat. He wants to do it again, but has been too busy with parenting and his job.
+He likes to watch cricket, as seen in Horsey Ride & The Weekend.
+He likes to play squash, as seen in Squash.
+He burps after eating sauerkraut in the original dub of Chickenrat.
+However, in the Disney dub, he sneezes after eating sauerkraut.
+This could possibly mean he is allergic to sauerkraut.
+Another possibility is they simply changed it to be more "family friendly" for America.
+He loves bananas, but hates rockmelon (cantaloupe), as mentioned in Trampoline.
+He makes several “dad-jokes” to Bluey and Bingo as shown in a couple of episodes of Season 1, most notably in The Creek and The Pool.
+As of Season 2, he doesn’t do “dad-jokes” as much, but he still has his cheekiness in some episodes in Season 2.
+He is the only male member of the main cast.
+It is yet to be shown of where Bandit works.
+A younger version of him can be seen in the flashback of the episode Baby Race, wherein he lacks the hairs.
+Bandit farted at least in five episodes (as humour) in Daddy Robot, Fairies, Teasing,Family Meeting, and Smoochy Kiss, though this gag has decreased as of Season 2.
+"Family Meeting" reveals that baked beans, nut roast, and pie can all give him gas.
+Bandit can ride a skateboard as seen in Bob Bilby
+Bandit once peed in a pool as seen and said by Chilli in Swim School.
+He was claimed Dad of the Year in 2019.
+Bandit is often seen reading the newspaper in most episodes.
+Bandit’s child-friendly expletives are mostly food related phrases;
+Bandit says, “Oh, Biscuits!” in several episodes.
+He says, “Cheese and Crackers!” in Daddy Robot and Taxi.
+He also says, “Beans on Toast!” and “Goodness Gravy!” in Taxi.
+He says, “Bread and Jam!” in Tickle Crabs.
+He exclaims, “Oh, Duck Cake!” in Duck Cake.
+He says, “Crumbed Steak” in Road Trip.
+Before the title cards when Bluey and Bingo decide what game to play, Bandit says “Oh no, not [NAME OF GAME]” after Bluey and/or Bingo says the name of the game.
+He is left-handed, as revealed in The Claw.
+He will get cranky when he is hungry, as revealed in Omelette.
+A ten-year-old version of Bandit can be seen in Fairytale.
+Bandit is revealed to be the middle child in the same episode.
+In Fairytale, a cassette for the song "Bad Medicine" by Bon Jovi can be seen. This song was released in 1988, meaning that the events of Fairytale would have taken place during 1988 or 1989. Because Bandit was 10 years old in Fairytale, he would have been born some time between 1977 and 1979.
+Assuming Season 3 takes place in 2022, this would place him somewhere between 43 and 45 years old in Season 3.
+Bandit is revealed to have a doctorate in archaeology in Archaeology.
+In Polish dub, his name is "Bandżi" (pronounced "bungee").
+"Seesaw" reveals that he weighs about as much as Bluey, Bingo, Chloe, and Coco put together.
+In "Movies", he's revealed to dislike musical movies, as when the character in the movie he and his daughters were watching started singing, he exclaimed, "Ugh! Songs!".
+"Family Meeting" reveals that he charges his tablet on the bedside table and sometimes drops it.
+It’s revealed in "Pavlova (Episode)" that Bandit, and possibly Chilli, in the English Dub, can both speak French. Because Bluey and Bingo don't speak French, Bandit takes advantage of that to speak nonsense French to them, as if teasing them.
+Gallery
+Artwork
+BanditVICTOR!!OHYEEEEAAAAHH
+His really early design
+Bandit pilot design
+Pilot design
+Bandit's Pilot Render
+Pilot design used accidentally in a card game
+Bandit stock pose
+BanditArtwork01
+Bandit dancing in the intro
+BanditArtwork02
+BanditArtwork03
+Bandit playing The Magic Xylophone
+BanditArtwork04
+Bandit reading the newspaper on the lounge
+BlueyBingo&Bandit01
+Bandit playing Wagon Ride with Bluey and Bingo
+BlueyBingo&Bandit02
+Artwork of Bandit, Bluey and Bingo as seen on the DVD cover of The Pool & Other Stories
+Bandit Heeler
+Bandit
+Bandit's Pilot Render
+Bandit dancing without patch
+Bandit
+As seen as a old design proper Bandit Heeler
+Bandit dancing in premade by Samoi
+Bandit pose
+Screenshots
+Uncle Rad, Stripe & Bandit Heeler Riding - Fairytale
+Bandit and his brothers as kids
+Tickle Crabs-preview
+Bandit being chased by Tickle Crabs
+Daddy-Putdown-screen
+Bandit holding Bingo while Chilli goes to a baby shower
+Shaun-screen
+Bandit and Shaun
+Asparagus-screen
+Bandit and his Family having dinner
+Teasing-screen
+Bandit and Chilli putting the kids to sleep
+Neighbours-screen
+Bandit playing Neighbours
+Chickenrat-screen
+Bandit going to the table in Chickenrat
+Mount-Mumandad-screen
+Bandit as part of Mount Mumandad
+Camping-screen
+Bandit captured by Jean-Luc and Bluey
+Hide-and-Seek-screen
+The Heeler Family laughing
+Copycat-screen
+Bandit and Bluey take a budgie to the vet
+Backpackers-screen
+Bandit and Chilli in the kitchen with their daughters and nieces
+Zoo-screen
+Bandit reading a newspaper
+The-Dump-screen
+Bandit taking his daughters to The Dump
+Trampoline-screen
+Bandit trying to go to work
+Work-screen
+Bandit about to have a job interview
+D675a0faf2c114865bee618e4f1edaa13aacbcb3
+Fairies-screen
+Bandit and the Family hiding in the pantry
+Pirates-screen
+Bandit and Chilli in the park with the kids and a friend
+The-Beach-screen
+Bandit taking the girls to the Beach
+Taxi-screen
+Bandit sharing a Taxi
+Wagon Ride-screen
+Bandit taking the girls on a Wagon Ride
+The-Doctor-screen
+An injured Bandit waiting for The Doctor
+Yoga-Ball-screen
+Bandit and his family in his study
+Takeaway-screen
+Bandit and his daughters at a takeaway restaurant
+Bob-Bilby-screen
+Bandit and Bob Bilby with the family
+Bike-screen
+Bandit watching Bluey on the Bike
+Hotel-Screen
+Bandit and his daughters
+Horsey Ride-screen
+Bandit playing Horsey Ride
+Fruitbat-screen
+Bandit reading to Bluey and Bingo
+BBQ-screen
+Bandit and the Heeler Family having a BBQ
+Keepy Uppy-screen
+Bandit playing in the yard with his family
+Bandit - The Creek Episode
+Bandit visiting The Creek with his daughters and Mackenzie
+BanditChilliEscape
+Bandit and Chilli as sketches as seen on Escape.
+Bluey 16
+Bandit with Bingo and Bluey at the takeaway restaurant
+Animated
+Bandit - dancing
+Bandit killin' his moves
+Teasinggif1
+Bandit - russian dancing
+"Come back here, guinea pig!"
+DadTaunt
+"How good was it?"
+Featherwandgif7
+"Bye."
+DaddyPutdowngif
+"Dinner!"
+DaddyDropoffgif5
+Bandit being leashed by Bluey and Bingo
+Bluey-family
+Bandit hi-fiving Pat.
+References
+The Show
+The Magic Xylophone
+Fairytale
+The Show
+The Show
+Yoga Ball
+Chest#Trivia
+
+Bella
+Bella
+3
+VIEW SOURCE
+Bella
+
+Bella with Baby Coco.
+Characteristics
+Breed
+Poodle
+Gender
+Female ♀
+Traits
+Eyes
+Black
+Fur
+Pink and dark pink
+Personal Status
+Relative(s)
+Coco (daughter)
+Unnamed husband
+3 unnamed sons
+5 unnamed daughters
+Friend(s)
+Chilli
+Snickers’ Mum
+Wendy
+Media
+First Appearance
+Shadowlands
+Voice Actor
+Hsiao-Ling Tang (Shadowlands)
+Leigh Sales
+Bella (also known as Coco's Mum) is a secondary character that appeared in Shadowlands.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearances
+4 Trivia
+5 Gallery
+5.1 Artwork
+5.2 Screenshots
+
+AD
+Appearance
+Bella is a Poodle with pink and dark pink fur. She has pink legs, feet, arms, hands, tail stem, eyebrows and face, and dark pink arm tufts, leg tufts, tail tuft, torso tuft and head tuft. She also has a black nose.
+
+Biography
+Bella is Chilli and Snickers’ Mum's friend. She has nine kids including Coco and a husband.
+
+Appearances
+S1E12 - Bob Bilby
+S1E03 - Shadowlands
+S2E08 - Daddy Dropoff
+S2E16 - Army
+S2E33 - Circus (cameo)
+S2E50 - Baby Race
+S03E15 - Explorers
+Trivia
+In Shadowlands, she is voiced by Hsiao-Ling Tang, who also voices Chloe’s Mum, but in Baby Race, she is voiced by Leigh Sales.
+Her name was revealed in Baby Race.
+She has nine kids, including Coco and her siblings.
+Gallery
+Artwork
+Cocos-Mum
+Bella with Baby Coco
+Screenshots
+Cocos-family
+Bella's family photo
+Coco being called over to go home
+Some of Bella's children as seen in Explorers
+Others like you also viewed
+Coco
+Chilli Heeler
+Bluey Heeler
+Radley Heeler
+Frisky
+Mackenzie
+Brandy Cattle
+Muffin Heeler
+Bluey Wiki
+Bandit Heeler
+Judo
+Socks Heeler
+Daisy
+Bob Heeler
+Chloe
+
+Categories
+Community content is available under CC-BY-SA unless otherwise noted.
+
+Bentley
+Bentley
+8
+VIEW SOURCE
+Bentley
+
+Characteristics
+Breed
+Cavalier King Charles Spaniel
+Gender
+Female ♀
+Male ♂ (Italian dub)
+Traits
+Eyes
+Black
+Fur
+White and brown
+Personal Status
+Relative(s)
+Zara (twin sister)
+Friend(s)
+Bingo
+Media
+First Appearance
+Bike
+Bentley is a secondary character that has appeared in multiple episodes of Bluey.
+
+Contents
+1 Bluey.tv Description
+2 Appearance
+3 Biography
+4 Episodes
+5 Trivia
+6 Gallery
+7 References
+
+AD
+Bluey.tv Description
+"Small, inventive and determined."
+
+Appearance
+Bentley is a Cavalier King Charles Spaniel[1] with white and brown fur. She has brown legs, arms, tail stem, torso, ears and head, and whiter feet, hands, tail tip, chest and muzzle. She also has a black nose.
+
+Biography
+Bentley is friends with most of the students in Mrs. Retriever’s school. She has a sister.
+
+Episodes
+S01E11 - Bike
+S01E12 - Bob Bilby
+S01E29 - The Creek
+S01E30 - Fairies
+S02E08 - Daddy Dropoff
+S03E09 - Curry Quest (cameo)
+Trivia
+In the Italian dub, she is male instead of female.
+She gets sad when she can't do something, just like most people.
+Gallery
+Bentley
+Bentley1
+Bentley2
+Bentley3
+Bentley4
+Bentley5
+Bentley6
+Bentley7
+Bentley8
+Bentley9
+Bentley11
+Bentley12
+Bentley13
+Bentley14
+Bentley15
+Bentley16
+Bentley17
+Bentley18
+Bentley19
+Bentley20
+Bentley21
+Bentley22
+Bentley23
+Bentley24
+References
+https://www.instagram.com/p/Cc2PNDJrmb6/
+
+Benlet's Mom
+Bentley’s Mum
+VIEW SOURCE
+bf182b65-9ab3-463a-aabf-b657235fd4d0
+
+The mother of Bentley and Zara. Seen in Daddy Dropoff.
+
+Others like you also viewed
+Zara
+Bentley
+Winton's Dad's Girlfriend
+Radley Heeler
+Rusty's Dad
+Docket Boy
+Chloe's Mum
+Chippy
+Alfie's Boss
+Postie
+Mrs. Cattle
+Maynard
+Mort
+Winton's Dad
+Busker
+
+Categories
+Community content is available under CC-BY-SA unless otherwise noted.
+
+Biscuits & Buttermilk
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+Buttermilk (left) and Biscuits (right) with Pony Lady, Bluey and Indy
+
+Biscuits and Buttermilk are minor characters who appear throughout Bluey.
+
+AD
+Appearance
+Biscuits is a miniature pony with white fur, shiny grey hooves with star-shaped friendship bracelets on them, a turquoise colored mane with pearls sticked on to it, and a yimin blue horse noseband wrapped around her muzzle. The inside of her mouth is pink, her eyes are central black irises, and her nose nostrils and the inside of her ears are a shady grey.
+
+Buttermilk is a pony with white fur and colorful hair. She has a pink saddle and muzzle. She is also seen with a rainbow-colored horn.
+
+Episodes
+S1E20 - Markets
+S3E09 - Curry Quest
+S3E14 - Pass the Parcel
+Category:Animals
+
+Others like you also viewed
+Pony Lady
+Indy
+Bluey Wiki
+Captain
+Mia
+Chris Heeler
+Barky Boats
+Unicorse and Shaun
+Judo
+
+Categories
+Community content is available under CC-BY-SA unless otherwise noted.
+
+Bob Heeler
+Bob Heeler
+21
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+Reason: Needs more pictures for the gallery
+
+Chest/Script
+< Chest
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+Reason: Figure out what they say in inaudible sections.
+
+EpisodeGalleryScript
+
+Script.jpg
+The classic distant view of the Heeler home is displayed, then cuts to the kitchen, where Chilli is cooking, Bluey is sitting and Bandit walking with a chess board.
+
+Bandit: "Alright, here we go, Bluey." He puts down and opens the chess board on the kitchen countertop. "I'm gonna teach you how to play Chess."
+
+Bluey: "What's Chest?"
+
+Bandit: "No, not Chest, Chess." Putting out the chess pieces
+
+Bluey: "Yeah, Chest."
+
+Bandit: "Ok, fine." Flips over the chess board "I'm gonna teach ya how to play Chess."
+
+Bluey: "Oh! It's like Checkers!"
+
+Bandit: "Yeah, but a lot harder than Checkers."
+
+Chilli: "And so probably a bit old for Bluey, right?"
+
+Bandit: "Oh, how old are you?"
+
+Bluey: "Don't you know how old is your own child is?"
+
+Bandit: "I think I do, but just tell me."
+
+Bluey: "I'm six!"
+
+Bandit: "Are you still six? Wow."
+
+Bluey: "I'm almost seven."
+
+Bandit: "Well, I reckon that's old enough."
+
+Chilli: Chopping carrots "Can I ask why you want to teach Bluey chess?"
+
+Bandit: "To start people playing Chess."
+
+Bingo comes in onto the wooden stepping stair stool prototype
+
+Bingo: "Can I play?"
+
+Bluey: "She's five."
+
+Bandit: "Well, you might not be old enough for Chess, Bingo. But you can watch us play."
+
+Bingo, sad: "Aww."
+
+Bluey: "It's ok, Bingo. You can help me!"
+
+Chilli: "Aw, Bluey."
+
+Bingo: "Thanks, Bluey! Where's the dice?"
+
+Bandit's facial expression turns into a "bruh"
+
+TITLE CARD: Chest
+
+Bluey: "This episode of Bluey is called, Chest."
+
+TITLE CARD END
+
+Bandit: "Ook, I'll show you the pieces."
+
+Bingo: "Who are the little ball guys?" Holding up one of the white pawns on her and Bluey's side
+
+Bandit: "They’re called "pawns"."
+
+Bingo: "Prawns?"
+
+Bandit: "No, not “prawns”." He puts the pawn down to it's spot from Bingo "Pawns!"
+
+Bluey: "Hello, little prawn!"
+
+Bandit: "Ok, so the pawns can move one square forward. Well, sometimes two squares, but only on the first turn, and can take diagonally, see?"
+
+Bluey and Bingo just blankly stare into Bandit.
+
+Bandit: "Eh, don't worry about that. Now, this goes-"
+
+'Bluey places down a Charlevol figurine
+
+Bandit: "Hang on, who's this?" Points to the figurine
+
+Bingo: "This is Charevol."
+
+Bluey: Places down a Bonny Bom Bom figurine "And this is Bonny Bom Bom!"
+
+Bandit: "Ok, Charlevol and Bonny Bom Bom aren't invited." Putting both of the figurines at the side of the board
+
+Bluey and Bingo: "Aww.."
+
+Bluey: Gasping "A horsey!" Grabs the Knight piece
+
+Bingo: "I've got one too!" Grabs the other Knight piece
+
+Both of them squeal
+
+Bandit: "Ok, he's the Knight."
+
+Bingo: "No, he's a horsey!"
+
+Bandit: "Yeah, he's called the Knight."
+
+Bluey: "No, the Knight sits on the horsey!"
+
+Bandit: "Well, yeah, that's true.”
+
+Bingo: "Everyone knows that."
+
+Chilli: "I thought you said smart people played Chess." Mixing something
+
+Bandit: "Well, whatever you call him-"
+
+Bingo: "Mine's called Gallahop!"
+
+Bluey: "Mine's called... Daughter of Gallahop!"
+
+Bandit: "He moves by jumping!"
+
+Bluey: "Oh yes, horseys love jumping."
+
+Bingo: "Oooh." Grabs the Rook piece "Who is Castlehead?"
+
+Bandit: "That's the Rook."
+
+Bingo: "I'm gonna call him Castlehead."
+
+Bandit: "Fine, Castlehead moves straight like this." Demonstrating to the girls
+
+Bingo: "Castles can't move! This game is confusing."
+
+Bandit: "Yeah, it is Bingo. Maybe you want to do some colouring."
+
+Bluey: "No, she's on my team!" Proceeding to hug Bingo to show that Bingo's on her team.
+
+Bandit: "Agh, right, let's just start." Moves the pawn piece from A7 to A6 "You go, Bluey."
+
+Bingo: "Aww, I want my own Chest team!"
+
+Bandit: "But there is only two teams, Bingo, so maybe you just watch."
+
+Bingo: "Aw."
+
+Bluey: "Dont worry, Bingo." Proceeding to separate the white team in half "There's two horseys, see, two Castleheads, and two.. Pom Pom Elves?"
+
+Bandit: "Bishops."
+
+Bluey: "And the prawns."
+
+Bandit, in an annoyed tone: "Pawnnnss."
+
+Bluey: "So this can be your team, and this one's mine!"
+
+Bingo: "Thanks, Bluey."
+
+Chilli: "Nice one, Bluey." Putting something together which looks like something red
+
+Bandit: "Uh, look, that’s not a-"
+
+Chilli: "Let it go, Deep Blue."
+
+Bluey: "Hang on." Grabs the Queen piece "There is only one crown lady."
+
+Bingo: "And one Wedding Cake head!"
+
+Bandit: "Ah, now that's the King, and that's the Queen."
+
+Bingo and Bluey: Squeals "King and Queen!"
+
+Bingo: "Can I have the Queen, Bluey?"
+
+Bluey: "Uh.. sure!" Hands over the Queen piece for the King piece
+
+Bingo: "THAANNNKS!"
+
+Bandit: "Agh, you can't- eh, that's just fine." Swaps the King and Queen pieces on his side.
+
+Bingo: "Are you sure you’re happy with the King?"
+
+Bluey: "Yeah, I'm ok."
+
+Bandit: "Don't worry, Bluey, the king is the most important piece on the board.
+
+Chilli: unknown sound "Is that right?"
+
+Bandit: "Yes."
+
+Chilli: "And how many squares can he move?" Approaching to Bandit's side.
+
+Bandit: "Well, just one."
+
+Chilli: "Just one square? That was a big square, wasn't it?"
+
+Bandit's face is completely just turns into a "bruh" again.
+
+Chilli: "Oh, I rest my royal feeties. They’re a little tired!"
+
+Bluey and Bingo laugh
+
+Chilli: "Meanwhile," Bumping Bandit out of the way "The queen moves as far as she wants! In any direction. Which is handy, because she has to do all the work!" Moving the Queen piece that looks diagonally, horizontally and vertically
+
+Bandit: "Are you finished?"
+
+Chilli: "Yes."
+
+Bandit: "Anyway, hey, where's Bingo?"
+
+Bingo, having placed the queen on Bandit's bottom, moving to what it's on it's way to a nice lil' picnic
+
+'Bingo: "Ooh, it's a lovely day for a picnic!"
+
+Bandit: "Hey!" Grabbing the Queen piece onto their side while Bingo runs back to her side. Then having to clear up the chess board to it's original state before shenanigans happened.
+
+Bluey: "I thought the queen could go anywhere!"
+
+Bandit: "Bluey, have your turn!"
+
+Bluey: "What do I do?"
+
+Bandit: "Just move a prawn. Pawn!"
+
+Bluey, moving a pawn on C2 to D3”
+
+Bandit: "No, no. Forward only."
+
+Bluey, then moving the pawn on D3 to C4
+
+Bandit: "My turn."
+
+Bingo: "Hey!"
+
+Bandit: "Oh, yeup. Your turn."
+
+Bingo gets on the kitchen countertop
+
+Bingo: "I'm moving Gallahop!" Grabbing a Knight piece and a pawn piece, and moving the Knight from G1 to F6 and the pawn to G2 to F7, already occupying the pawn already from F7.
+
+Bandit: "Ah, no, you can't go that far,mate, and you can't move 2 pieces at once."
+
+Bingo: "But Boulderkiss wants to visit Ms. Shinyhead. They’re friends!"
+
+Bandit: "Well, no, they’re actually enemies."
+
+Bluey: "No, they’re friends!"
+
+Bingo: "They’re little prawns so they can go to kindy together!"
+
+Bandit: "Ok, they’re friends. Ok, watch, this is how you take a piece." He moves the pawn that's on E7 to F6, removing the Knight on F6.. "See?"
+
+Bingo: Gasps "Gallahop!"
+
+Bluey: "It's ok, he just starts back from here."
+
+Bingo: "Oh, phew."
+
+Bandit: "Nah, he's dead."
+
+Bingo: "Gallahop is dead?!"
+
+Chilli: "Of course he's not dead."
+
+Bandit: "Oh,uh, yeah, he's not dead, he's just out of the game."
+
+Bingo: "Awww."
+
+Bandit: "I did say Chess might be a bit older for you."
+
+Bluey: "You’re going to pay, young man. My turn. Right. Where can I move?"
+
+Bandit: "Here or here."
+
+Bluey: "Bang there." Moving the horse from B1 to A3
+
+Bandit: "Ok, now, you see, it's important to keep your pieces protected. I can just take him, like this." Moving the bishop on F8 to A3, and removing the second Knight on the chess board
+
+Bingo: Gasp "Daughter of Gallahop!"
+
+Bluey: "Errgh!" Moving the pawn on C4 to C5
+
+Bandit: "Yeah, I can just take him." Moving the Bishop from A3 to B2
+
+Bluey: "What about here?" Moving the pawn from A2 to A3
+
+Bandit: "Yeah, I'll take him again." Moving the Bishop on B2 to C1
+
+Bluey: "Aah!"
+
+Bingo: "Stop it!"
+
+Bandit: "I'm just showing you the rules!"
+
+Chilli: "Get the queen out, Bluey!"
+
+Bluey: "Oh yeah, time for another picnic!" Moving the Queen from E1 to E7, eliminating the pawn.
+
+Bandit: "But... I have him protected." Moves the King from D8 to E7, eliminating the queen.
+
+Bingo: Gasp "My queen!"
+
+Bluey: "Oh, no!"
+
+Chilli: "Really, Bandit!"
+
+Bandit: "Ooh, it was the King who did the honours."
+
+Bluey: "Mum! How do you beat Dad?"
+
+Chilli: Taking off the apron and walking to Bandits side on the chess board. "It's easy."
+
+Bandit: "Here we go."
+
+Chilli: "I can beat him in 4 moves." Giving a bowl to Bingo, and taking the queen piece
+
+Bingo: "Ooh."
+
+Chilli: "I move this guy here." Moving the bishop on F1 to A6, eliminating a pawn.
+
+Bandit: "Heh, great start." Moving the pawn on B7 to A6, removing the bishop. "Doink."
+
+Chilli: "Then, I move him, and ask, “Why do you want to teach the kids this game?”" Moving the Rook from A1 to C1, eliminating the Bishop.
+
+Bandit: Moves the pawn on D7 to D5.
+
+Chilli: "And he answers, “Because smart people play chess.”"
+
+Bingo takes all the chess pieces that were removed from the game
+
+Chilli: "“And I want my kids to be smart.” Next move, I ask: “Why do you want the kids to be smart?”"
+
+Bandit: "Heh, that's a bad move."
+
+Chilli: "This is what I'll say. “Right now, you kids are little prawns."” Moving the pawn piece on F7 to F8, and then replacing the pawn with the Queen piece "“ But one day you'll be queens”."
+
+Bandit removes the queen piece by moving the king piece from E7 to F8.
+
+Chilli: "“And I won't always be there to protect you, so you have to look after yourselves.”"
+
+Bluey jumps down the stepping stair thing to go play with Bingo, playing with the chess pieces.
+
+Chilli: "Moving the piece from F2 to F4 "“But I'm going to do whatever I can now to help you.”"
+
+Bandit: "Checkmate."
+
+Chilli: "”Cause he's a good king.”"
+
+Bandit: "And you’re a good queen."
+
+Chilli: "But a lousy chess player."
+
+Bandit: "And you turned out fine."
+
+Chilli: "Work on the heads later, for now, just hearts." Putting her arm around Bandit
+
+Bluey: Grabs the rook piece to the bowl thing "Here, Bingo!"
+
+Bingo: "Ooh, welcome! First things first, you’re not dead, ok? You’re at a pool party! Yay!" Putting the Rook down into the bowl
+
+It shows the end credits, with the King and Queen piece fading on the credits
+
+Bob Heeler
+
+Characteristics
+Breed
+Blue Heeler
+Gender
+Male ♂
+Traits
+Eyes
+Black
+Fur
+White, grey, dark grey, black and brown
+Personal Status
+Relative(s)
+Chris (wife)
+Bandit (son)
+Stripe (son)
+Rad (son)
+Chilli (daughter-in-law)
+Bluey (granddaughter)
+Bingo (granddaughter)
+Trixie (daughter-in-law)
+Muffin (granddaughter)
+Socks (granddaughter)
+Chris's Nana (grandmother in-law)
+Media
+First Appearance
+Grannies
+Voice Actor
+Ian McFadyen
+Sam Simmons (young)
+
+Bob is a secondary character who first appeared in Grannies.
+
+Contents
+1 Bluey.tv Description
+2 Appearance
+3 Biography
+4 Appearances
+5 Trivia
+6 Gallery
+
+AD
+Bluey.tv Description
+"Bluey & Bingo’s Grandad."
+
+Appearance
+Bob is a Blue Heeler with white, grey, black, dark grey and brown fur. He has white feet, hands, chest, muzzle and eyebrows, grey legs, leg spots, arms, torso, tail tip and head spots, dark grey leg splotches, leg spots, tail stem and right head, black outer ears, and brown leg spots, head spots, left head and inner ears. He also has a black nose, beard whiskers on his muzzle and part of his left ear missing.
+
+In his younger years (during the 80s), his grey fur used to be blue and his dark grey and brown (on his head) fur used be black, similar to his son Bandit. His left ear also used to be whole as well.
+
+Biography
+Bob has no known real friends yet, but he is the husband of Chris (Nana), the dad of Bandit, Stripe, and Rad, the father-in-law of Chilli and Trixie, and the grandpa of Bluey, Bingo, Muffin and Socks.
+
+Appearances
+S1E28 - Grannies
+S2E11 - Charades (pictured)
+S2E21 - Escape (pictured)
+SN/AEN/A - Humpty Dumpty (mentioned)
+S3E2 - Bedroom (mentioned)
+S3E26 - Fairytale (flashback)
+Trivia
+He has a piece of his left ear missing.
+Bob is voiced (as a retiree) by writer, actor, director, producer, teacher, essayist and painter Ian McFadyen.
+Bob has had the longest absence of any character, with a gap of 101 episodes between his physical appearances in Grannies and Fairytale, but even his appearance in Fairytales was a flashback.
+Since the episode called Christmas Swim, many fans have speculated him to be dead, while others think that he was divorced, others think he passed away due to dementia, others think he's too busy focusing on a job or was likely sent to a hospital in a prolonged time for long-term care. No official explanation has been provided yet.
+In a 2021 interview[1], Joe Brumm confirmed that Bob is alive and would make an appearance in season 3, offering "proof of life" - so presumably not referring to Fairytale. He offered an out-of-character reason for his absence: Mort was given all the "Grandad" stories to show some of Chilli's side of the family.
+Although there are a couple of people that think he just isn't too connected to the family due to a possible conflict. However, it's strange to think that the family aren't somewhat concerned about it nor they explain the loss of it.
+This is acknowledged in an episode Bedroom, Bingo says “Goodnight Grandpa Bob, wherever you are,” hinting Bob’s absence.
+In the short Humpty Dumpty, Muffin mentions him as "grandad" when Chilli decides to send him a message. Although, she doesn't specify which one. She could be referring to Trixie's father but many believe that the message is in fact being sent to Bob.
+His nick name is Bobba, used by Nana in the Episode "Grannies", and in the Grannies book.
+A younger version of him can be seen in Fairytale
+Also, despite his more youthful appearance in the said episode, he doesn't even remember his sons' name.
+He had blue and black fur when he was younger, making him look like Bandit.
+Bob did make a major appearance in the book Where's Bluey? where he makes a cameo holding a soda can in one page that takes place in the episode BBQ. His small appearance did mean something, in which you have to find items scattered across the scenario full of characters, he was one of them.
+Gallery
+Bob
+Bob doing the floss in "grannies".
+Bandit's family picture
+from "charades", in the picture you can see bob
+Fairytale 4heelers
+Bob in the 1980's
+Bob-Wheres-Bluey
+Bob in the "Where's Bluey?" book.
+Bob-floss
+Bob's appearance in "Grannies".
+Bob-smile
+Bob smiling.
+https://www.blueypod.com/e/bonus-ep-aka-joe-brumm-in-2021/ (relevant section begins at 13:50
+Others like you also viewed
+Radley Heeler
+Chris Heeler
+Bandit Heeler
+Chilli Heeler
+Frisky
+Mrs. Cattle
+Stripe Heeler
+Brandy Cattle
+Socks Heeler
+Mort
+Trixie Heeler
+Bluey Heeler
+Muffin Heeler
+Bluey Wiki
+Bingo Heeler
+
+Categories
+Languages
+Community content is available under CC-BY-SA unless otherwise noted.
 
 Chilli
 Chilli
 After having the kids, Mum’s recently gone back to her job working at Airport Security and juggles this with raising her two little kids. Mum often has a wry comment about the kids' antics or a kind word for an overwrought child, but she’s equally at home throwing herself into a game and always able to see the funny side.
+Chilli Heeler
+16
+VIEW SOURCE
+"Wackadoo!" ― Chilli's catchphrase
+
+Chilli Heeler
+
+Characteristics
+Breed
+Red Heeler
+Gender
+Female ♀
+Age
+41-44
+Traits
+Eyes
+Black
+Fur
+Cream, light orange and brown
+Personal Status
+Relative(s)
+Bandit (husband)
+Bluey (daughter)
+Bingo (daughter)
+Mort (father)
+Mrs. Cattle (mother)
+Brandy (older sister)
+Stripe (brother-in-law)
+Radley (brother-in-law)
+Trixie (sister-in-law)
+Muffin (niece)
+Socks (niece)
+Bob (father-in-law)
+Chris (mother-in-law)
+Auntie Mary (aunt)
+Friend(s)
+Daisy
+Mackenzie’s Mum
+Chloe’s Mum
+Snickers’ Mum
+Bella
+Wendy
+Frisky
+Maynard
+Pat
+Media
+First Appearance
+The Magic Xylophone
+(Production Appearance: Yoga Ball)
+(US Appearance: Keepy Uppy)
+Voice Actor
+Melanie Zanetti
+
+Chilli Heeler is a main character, the wife of Bandit, mother of Bluey and Bingo, and aunt of Socks and Muffin.
+
+Contents
+1 Bluey.tv Description
+1.1 Current
+1.2 Original
+2 Appearance
+3 Personality
+4 Biography
+5 Absences
+5.1 Episodes
+5.2 Others
+6 Nicknames
+7 Trivia
+8 Gallery
+8.1 Artwork
+8.2 Screenshots
+8.3 Animated
+9 References
+
+AD
+Bluey.tv Description
+Current
+"After having the kids, Chilli’s recently gone back to her job working at Airport Security and juggles this with raising her two little pups. Mum often has a wry comment about the kids' antics or a kind word for an overwrought child, but she’s equally at home throwing herself into a game and always able to see the funny side."
+
+Original
+"After having the kids, Chilli’s recently gone back to her job working at Airport Security and juggles this with raising her two little pups, which means sometimes she falls a bit short of what her other mother friends are able to pull off."
+
+Appearance
+Chilli is a Red Heeler with cream, light orange and brown fur. She has cream feet, hands, tail spots, back spots, chest, muzzle and eyebrows, light orange legs, arms, tail, torso and head, brown outer ears and right head and light brown inner ears. She also has a dark brown nose.
+
+Personality
+Chilli is a character that cares about her family. She's a comforting character as seen on Yoga Ball and Sleepytime. She likes to play along with her daughter and husband whenever they're setting up games.
+
+Biography
+Chilli is a member of the Heeler family. She's the wife of Bandit, the mother of Bluey and Bingo, the aunt of Muffin and Socks, the daughter-in-law of Bob and Nana, and the sister-in-law of Trixie, Rad, and Stripe. Her father is Mort, and her older sister is Brandy.
+
+Chilli works part-time in airport security.
+
+As a child, Chilli spent a lot of time playing in "the scrub" near her father’s home[1]. Her family would vacation at a caravan park where Bandit would recall meeting as children; Chilli does not remember this, but admits it could be the case[2]. She recalls their first meeting being a party in London[3]. Chilli would later recall that Bandit had a finger up his nose when they first met[4].
+
+The two began dating, and eventually went on a backpacking trip to Italy. While there, Bandit proposed to Chilli, and she accepted. The pair were later married[5]. Among the guests at the wedding were Frisky, who would later become Bluey’s godmother, and Bandit's brother Rad. The venue included a pool, which Rad "probably" fell into[6]. Some time afterwards, Chilli became pregnant, later giving birth to Bluey[7]. Bingo, their youngest daughter, would be born a couple of years later[8].
+
+Chilli currently lives with Bandit and her daughters in the suburbs.
+
+Absences
+Episodes
+S01E02 - Hospital
+S01E11 - Bike
+S01E14 - Takeaway (with the exception of her voice)
+S01E15 - Butterflies
+S01E17 - Calypso
+S01E23 - Shops
+S01E29 - The Creek
+S01E34 - The Dump
+S01E37 - The Adventure
+S01E40 - Early Baby
+S01E41 - Mums and Dads
+S01E45 - Kids
+S02E04 - Squash
+S02E11 - Charades
+S02E16 - Army
+S02E29 - Movies
+S02E31 - Barky Boats
+S02E41 - Octopus
+S02E47 - Ice Cream
+S02E49 - Typewriter
+S03E15 - Explorers
+S03E25 - Ragdoll (mentioned only)
+S03E28 - Stories
+S03E30 - Turtleboy (mentioned only)
+S03E34 - Space
+Others
+SN/AEN/A - Silent Night (before Christmas)
+SN/AEN/A - Crazy Christmas Lights
+SN/AEN/A - Jingle Bells
+SN/AEN/A - Tea Party with Bluey
+SN/AEN/A - Pea Pod Sausages
+SN/AEN/A - Tongue Twister
+SN/AEN/A - Honk
+SN/AEN/A - Highball
+SN/AEN/A - K9 News
+Nicknames
+The following is a list of Nicknames used for or by Chilli throughout the series
+
+Nickname Episode
+Pavlova Work
+Lady Gaberdine Zoo
+Madge Trains
+Chilli Dog Library
+Sharon Swim School
+Trivia
+Chilli plays field hockey with her sister-in-law and excels to the point of winning awards.
+Chilli loves a good problem, as shown and explained in "Bingo" when she was fixing the toilet.
+Chilli has the most episode absences out of the immediate Heeler Family.
+Younger versions of Chilli can be seen in Grandad and Baby Race.
+If Bandit is correct on how the two first met, a kid version of Chilli can also be seen in Fairytale.
+If his version is indeed correct, Chilli was a fan of She-Ra as seen by the costume she wore in the aforementioned episode.
+She is the only member of the show's main family whose first name does not start with a B.
+She is named after food, just like with Coco, Honey and Snickers.
+In Sticky Gecko, Queens, Grandad and Perfect; Chilli displays a “very angry face”.
+This indicates that Chilli is especially annoyed or irritated.
+In Sticky Gecko, Chilli says, "Damn it. Really stuck!" This was cut from US releases because it is a swear in the US.
+In Bin Night, she reveals that when they are little, heelers are a bit stubby, but tough.
+In Library, Stripe reveals her nickname: Chilli Dog.
+In the Weekend Pilot, she is at one point drawn without her brown fur patch on her face, despite this, her pilot design did have the brown patch.
+She was called by the zoo visitor name "Lady Gaberdine" in Zoo.
+Chilli is voiced by Australian actress, model, artist, journalist, and performer Melanie Zanetti.
+She is named after the hot-tasting spicy vegetable of the same name; the Chilli Pepper.
+Her maiden name may be Cattle, although this depends on whether or not Brandy is married. Brandy's last name was confirmed by Nick Rees on Twitter (@N1ckBee5) who made a poster for the Onesies episode and credited her last name as "Cattle”.[9]
+She seems to enjoy eating sardines, as revealed in Smoochy Kiss.
+Her job as airport security might be a reference to sniffer dogs, and she might even be one.
+Chilli is known to frequently hum the show's theme song. Doing so across multiple episodes.
+Gallery
+Artwork
+ChilliInPilot
+Chilli's old design (used during 2016-2017)
+ChilliArtwork01
+Chilli with a hockey stick.
+ChilliArtwork02
+Chilli waving.
+Chilli-uniform
+Chilli dressed as a police officer/cop.
+Screenshots
+Daddy-Putdown-screen
+Chilli saying good bye to Bluey.
+Shaun-screen
+Chilli talking to Shaun.
+Asparagus-screen
+Chilli eating dinner with her family.
+Teasing-screen
+Chilli putting the kids to sleep.
+Neighbours-screen
+Chilli playing Neighbours.
+Chickenrat-screen
+Chilli folding laundry.
+Mount-Mumandad-screen
+Chilli as part of Mount Mumandad.
+Hide-and-Seek-screen
+Chilli and the family laughing.
+The-Sleepover-screen
+Chilli welcoming Muffin and Stripe.
+Backpackers-screen
+Chilli with Bandit in the kitchen.
+Trampoline-screen
+Chilli rescuing Bandit from the girls.
+Bumpy-screen
+Chilli with Bingo in the Hospital.
+Fairies-screen
+Chilli hiding in the pantry with the family.
+Grannies-screen
+Chilli cleaning the oven.
+Pirates-screen
+Chilli in the park with the family and a friend.
+Yoga-Ball-screen
+Chilli talking to Bandit in the study.
+Bob-Bilby-screen
+Chilli and the family with Bob Bilby.
+BBQ-screen
+Chilli having a barbecue with her family.
+Shadowlands-screen
+Chilli with her friends playing in the park.
+Keepy Uppy-screen
+Chilli playing with the family in the garden.
+BanditChilliEscape
+Bandit and Chilli as sketches as seen on Escape.
+Favourite-Thing2
+Chilli eating with Bingo.
+Favourite-Thing1
+Chilli at the dinner table
+The Heelers opening their presents
+Young Chilli and Grandad
+Young Chilli and Grandad, as seen in the end of the episode Grandad
+YoungChilli
+Young Chilli, as seen in Obstacle Course.
+Animated
+Chilli
+Chilli dancing in the intro.
+Chilli - dancing
+"Ooh, island rhythms!"
+MumConfused
+_Stare_
+References
+Grandad
+Fairytale
+The Show
+The Magic Xylophone
+The Show
+Double Babysitter
+The Show
+Yoga Ball
+https://mobile.twitter.com/N1ckBee5/status/1537639499391348736
 
 Muffin
 Muffin
@@ -48,6 +2989,212 @@ Assertive, thoughtful and mindful.
 Coco
 Coco
 Enthusiastic, impatient.
+Coco
+10
+VIEW SOURCE
+Coco
+Normal
+Baby
+Normal
+Characteristics
+Breed
+Poodle
+Gender
+Female ♀
+Age
+7 and a half
+Traits
+Eyes
+Black
+Fur
+Pink and light pink
+Personal Status
+Relative(s)
+Bella (mother)
+Unnamed father
+3 unnamed older brothers
+5 unnamed older sisters
+Friend(s)
+Bluey
+Bingo
+Indy
+Rusty
+Honey
+Snickers
+Chloe
+The Terriers
+Hercules
+Pom Pom
+Jack
+Media
+First Appearance
+Shadowlands
+Coco is a secondary character that has appeared in multiple episodes of Bluey.
+
+Contents
+1 Bluey.tv Description
+2 Appearance
+3 Biography
+4 Appearances
+5 Trivia
+6 Gallery
+6.1 Merchandise
+
+AD
+Bluey.tv Description
+"Enthusiastic, impatient."
+
+Appearance
+Coco is a pink Poodle that wears blue butterfly hair clips. She has bright pink tufts of fur on her head, ears, hands, feet and tail. The rest is light pink.
+
+Biography
+Coco is friends with most of the students in Calypso’s School. She has a mum, a dad and eight older siblings.
+
+Appearances
+S01E05 - Shadowlands
+S01E17 - Calypso
+S01E18 - The Doctor
+S01E40 - Early Baby
+S01E41 - Mums and Dads
+S02E16 - Army
+S02E28 - Seesaw
+S02E31 - Barky Boats (cameo)
+S02E33 - Circus
+S02E50 - Baby Race
+S02E45 - Handstand
+S02E49 - Typewriter
+S03E15 - Explorers
+S03E28 - Stories
+S03E34 - Space (cameo)
+Trivia
+She likes to sometimes bend the rules of certain games to make it easier for her.
+She is the only kid and one of five characters to have visible eyelashes, the others being Calypso, Mrs. Retriever, Wendy, and Cherry.
+In the episode Baby Race, it is revealed that she has eight siblings, all of which are older than her.
+A baby version of her can be seen in the episode Baby Race.
+She is the first female out of Bluey's friends to appear.
+She appears to have a crush on Mackenzie, as seen in Circus.
+In Brazilian version, her name is "Cacau" which means "Cocoa".
+Gallery
+Calypso-screen
+Cocos-family
+Her family
+Merchandise
+Bluey-Friends-Figures
+Bluey-Family-And-Friends-Figures
+Bluey-Coco-Plush
+
+Coco's Siblings
+VIEW SOURCE
+Coco’s 9 other brothers and sisters.
+
+BanditArtwork03.png
+Aw, biscuits!
+
+This article/section Is a candidate for deletion.
+You can help Bluey Wiki by contacting the moderators. Don't remove this template or The Magic Xylophone is going to freeze you.
+Remember to check what links here and the page history before deletion.
+
+Reason: Duplicate page
+
+Customer
+4
+VIEW SOURCE
+Customer
+
+Characteristics
+Breed
+Siberian Husky
+Gender
+Male ♂
+Traits
+Eyes
+Grey and black
+Fur
+Brown, dark brown, white, grey and pink
+Personal Status
+Friend(s)
+Bandit
+Media
+First Appearance
+Kids
+Voice Actor
+Joe Brumm
+Customer is a secondary character who appeared in Kids.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearances
+4 Trivia
+5 Gallery
+5.1 Screenshots
+
+AD
+Appearance
+Customer is a Siberian Husky. He has brown legs, arms, tail stem and torso, dark brown outer ears and head, white feet, tail tip, chest, hands, eyebrows and outer muzzle, grey muzzle and pink inner ears. He also has a black nose.
+
+Biography
+Customer is friends with Bandit, but has no relatives as of yet.
+
+Appearances
+S1E45 - Kids
+S2E01- Hammerbarn
+Trivia
+He has the same design as Poffertje Dog who appeared in Markets, but he is voiced by a different person in each occurrence.
+He is one of the few characters to have a coloured iris.
+He is voiced by director Joe Brumm
+Gallery
+Screenshots
+26C29322-0D11-4DA9-99E5-16247D734CB6
+Customer talking to Bandit.
+
+Customer 2
+5
+VIEW SOURCE
+Customer 2
+
+Characteristics
+Breed
+Basenji
+Traits
+Eyes
+Black
+Fur
+Orange, White and Light Brown
+Media
+First Appearance
+Markets
+Customer 2 is a secondary character that has appeared in multiple episodes of Bluey.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearances
+4 Trivia
+5 Gallery
+
+AD
+Appearance
+Customer 2 is a Basenji with orange, white, pink and light brown fur. It has orange legs, arms, tail stem, torso, head and outer ears, white feet, tail tip, hands, chest and eyebrows, light brown muzzle and pink inner ears. It also has a black nose.
+
+Biography
+Customer 2 sells fruit and veggies at the market and has no known friends or relatives as of yet.
+
+Appearances
+S1E20 - Markets
+S1E45 - Kids
+S2E01 - Dance Mode
+S2E02 - Hammerbarn
+S2E33 - Ice Cream
+Trivia
+The gender for customer 2 is currently unknown.
+Gallery
+5E1A271F-3858-4D69-AB36-49AB82AA7639
+Customer 2 looking at Bluey and Bandit.
+32949922-80FB-4E91-8A48-0F9841AC546E
+Customer 2 in the Hammerbarn parking lot.
+Customer-2-markets
+Customer 2 selling carrots to Juniper in markets
 
 Snickers
 Snickers
@@ -56,6 +3203,299 @@ Not the most physical kid but loves machines, atoms and the stars.
 Chloe
 Chloe
 Bluey’s Best Friend. Super kind, gentle and smart.
+Chloe
+10
+VIEW SOURCE
+Chloe
+
+Characteristics
+Breed
+Dalmatian
+Gender
+Female ♀
+Age
+6
+7 (as of Featherwand)
+Traits
+Eyes
+Black
+Fur
+White with black spots
+Personal Status
+Relative(s)
+Frank (father)
+Chloe’s Mum
+Unnamed baby brother
+Friend(s)
+Bluey (best friend)
+Bingo
+Mackenzie
+Indy
+Honey
+Rusty
+Coco
+Gruber
+Media
+First Appearance
+Bike
+Spy Game (with lines)
+
+Voice Actor
+Charlotte Stent
+Chloe is a secondary character that has appeared in multiple episodes of Bluey. She is the best friend of Bluey.
+
+Contents
+1 Bluey.tv Description
+2 Appearance
+3 Personality
+4 Biography
+5 Appearances
+6 Trivia
+7 Gallery
+7.1 Merchandise
+
+AD
+Bluey.tv Description
+"Bluey’s Best Friend. Super kind, gentle and smart."
+
+Appearance
+Chloe is a Dalmatian with white and black fur. She has black leg spots, arm spots, chest spots, tail tip, ear spots and head spots, and white feet, legs, arms, hands, tail stem, torso, head, ears and eyebrows. She also has a black nose and bright pink inner ears.
+
+Personality
+Chloe is energetic and loves playing with Bluey and her friends at Calypso's School.
+
+Biography
+Chloe is Bluey’s best friend but is also friends with most of the students in Calypso‘s school. She is seven years old, and has a Dad, Mum and Baby Brother.
+
+Appearances
+S01E11 - Bike (debut; no lines)
+S01E13 - Spy Game
+S01E17 - Calypso
+S01E23 - Shops
+S01E37 - The Adventure
+S01E40 - Early Baby
+S01E41 - Mums and Dads
+S02E03 - Featherwand (mentioned)
+S02E09 - Bingo (mentioned)
+S02E16 - Army
+S02E25 - Helicopter
+S02E28 - Seesaw
+S02E31 - Barky Boats
+S02E41 - Octopus
+S02E45 - Handstand
+S02E48 - Dunny (mentioned)
+S02E49 - Typewriter
+S03E01 - Perfect (drawing cameo)
+S03E09 - Curry Quest
+S03E14 - Pass the Parcel
+S03E15 - Explorers
+S03E28 - Stories
+S03E34 - Space
+Trivia
+Her age was revealed to be 7 at the start of "Featherwand" .
+In the episode "Featherwand" an invitation to her birthday party read by Chilli has an address of 26 Nudgee Road. In the episode "Octopus" her house has a number 101 on it; this may indicate that the party was held somewhere other than her house
+Chloe’s house, as shown in episode "Octopus", have a number 101 which is a reference to a 1956 book The Hundred and One Dalmatians by Dodie Smith and its 1961 animated film adaptation One Hundred and One Dalmatians, both focusing on family of 101 Dalmatian dogs. It might also refer to 2019 animated TV show 101 Dalmatian Street which aired on Disney Channel, Disney Junior and Disney+ same as Bluey.
+She is the first character who had a birthday and aged up in the series.
+Her favourite TV show is the same as Bluey's, Chunky Chimp.
+In Polish version, her name is "Łatka" which means "Spot".
+It's revealed in "Dunny" that her family bans her from using the word "naughty."
+Gallery
+Calypso-screen
+Spy game-screen
+The-Adventure-screen
+Merchandise
+Bluey-School-Figures
+Blueyheelerfamilyandmatespack
+Bluey-Chloe-Plush
+
+Chloe's Mom
+Chloe's Mum
+3
+VIEW SOURCE
+Chloe's Mum
+
+Characteristics
+Breed
+Dalmatian
+Gender
+Female ♀
+Traits
+Eyes
+Black
+Fur
+White and black fur and spots
+Personal Status
+Relative(s)
+Frank (husband)
+Chloe (daughter)
+Unnamed son
+Friend(s)
+Bandit
+Chilli
+Mackenzie’s Dad
+Mackenzie’s Mum
+Marcus
+Daisy
+Media
+First Appearance
+The Magic Xylophone
+Voice Actor
+Hsiao-Ling Tang
+
+Chloe’s Mum is a secondary character that has appeared in multiple episodes of Bluey.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearances
+4 Trivia
+5 Gallery
+
+AD
+Appearance
+Chloe’s Mum is a Dalmatian with white and black fur. She has black leg spots, torso spots, arm spots, tail tip, head spots and ears, and white feet, legs, arms, hands, torso, tail stem, head, eyebrows and ear spots. She also has a black nose and is commonly seen wheeling a pram around with Chloe’s Baby Brother inside of it.
+
+Biography
+Chloe’s Mum is friends with Bluey, Honey and Mackenzie’s parents. she has a daughter named Chloe, a husband and a baby son.
+
+Appearances
+S1E01 - Magic Xylophone
+S1E12 - Bob Bilby (cameo)
+S1E13 - Spy Game
+S1E24 - Wagon Ride
+S2E08 - Daddy Dropoff
+Trivia
+Chloe's Mum is voiced by actress Hsiao-Ling Tang.
+She is mostly seen taking her baby for a walk.
+She is the first secondary character, who is not part of the Bluey family to cameo in Bluey.
+Gallery
+Coming-soon
+
+Frank
+3
+VIEW SOURCE
+Frank
+
+Characteristics
+Breed
+Dalmatian
+Gender
+Male ♂
+Traits
+Eyes
+Black
+Fur
+White and black fur and spots
+Personal Status
+Relative(s)
+Chloe (daughter)
+Chloe’s Mum (wife)
+Unnamed son
+Friend(s)
+Chilli
+Bandit
+Mackenzie’s Dad
+Mackenzie’s Mum
+Marcus
+Daisy
+Media
+First Appearance
+Spy Game
+Voice Actor
+Francis Stanton
+
+Frank[1] is a secondary character that has appeared in multiple episodes of Bluey.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearance
+4 Trivia
+5 Gallery
+
+AD
+Appearance
+Frank is a Dalmatian with white and black fur. He has black leg spots, arm spots, torso spots, tail spots, tail tip, head spots, eyebrows and ears, and white feet, legs, hands, arms, tail stem, torso and head. He also has a black nose.
+
+Biography
+Frank is friends with Bluey, Mackenzie and Honey‘s parents. He has a wife, a baby son and a daughter named Chloe.
+
+Appearance
+S01E13 - Spy Game
+S01E37 - The Adventure
+S02E16 - Army
+S02E33 - Circus (cameo)
+S02E41 - Octopus
+Trivia
+He is voiced by one of the show’s designers, Francis Stanton.
+He probably works as an architect
+Gallery
+Chloes-Dad-Spy-Game
+FrankAndChloeComputer1
+FrankAndChloeComputer2
+Named in Bluey Magazine, September 2021, page 20
+
+Chloe's Mum
+3
+VIEW SOURCE
+Chloe's Mum
+
+Characteristics
+Breed
+Dalmatian
+Gender
+Female ♀
+Traits
+Eyes
+Black
+Fur
+White and black fur and spots
+Personal Status
+Relative(s)
+Frank (husband)
+Chloe (daughter)
+Unnamed son
+Friend(s)
+Bandit
+Chilli
+Mackenzie’s Dad
+Mackenzie’s Mum
+Marcus
+Daisy
+Media
+First Appearance
+The Magic Xylophone
+Voice Actor
+Hsiao-Ling Tang
+
+Chloe’s Mum is a secondary character that has appeared in multiple episodes of Bluey.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearances
+4 Trivia
+5 Gallery
+
+AD
+Appearance
+Chloe’s Mum is a Dalmatian with white and black fur. She has black leg spots, torso spots, arm spots, tail tip, head spots and ears, and white feet, legs, arms, hands, torso, tail stem, head, eyebrows and ear spots. She also has a black nose and is commonly seen wheeling a pram around with Chloe’s Baby Brother inside of it.
+
+Biography
+Chloe’s Mum is friends with Bluey, Honey and Mackenzie’s parents. she has a daughter named Chloe, a husband and a baby son.
+
+Appearances
+S1E01 - Magic Xylophone
+S1E12 - Bob Bilby (cameo)
+S1E13 - Spy Game
+S1E24 - Wagon Ride
+S2E08 - Daddy Dropoff
+Trivia
+Chloe's Mum is voiced by actress Hsiao-Ling Tang.
+She is mostly seen taking her baby for a walk.
+She is the first secondary character, who is not part of the Bluey family to cameo in Bluey.
+Gallery
+Coming-soon
 
 Judo
 Judo
@@ -80,10 +3520,326 @@ Super brave when she’s ready.
 Buddy
 Buddy
 Patient for days.
+Buddy
+8
+VIEW SOURCE
+Buddy
+
+Characteristics
+Breed
+Pug
+Gender
+Male ♂
+Age
+5 (as of Pass the Parcel)
+Traits
+Eyes
+Black
+Fur
+Brown, light brown and tan
+Personal Status
+Relative(s)
+Unnamed mother
+Friend(s)
+Bingo
+Media
+First Appearance
+Bob Bilby
+Buddy is a secondary character that has appeared in multiple episodes of Bluey.
+
+Contents
+1 Bluey.tv Description
+2 Appearance
+3 Biography
+4 Appearances
+5 Trivia
+6 Gallery
+6.1 Animated
+
+AD
+Bluey.tv Description
+"Patient for days."
+
+Appearance
+Buddy is a Fawn Pug with brown, light brown and tan fur. He has tan legs, feet, arms, hands, tail, torso and head, brown eyebrows and ears, and light brown muzzle. He also has a brown nose.
+
+Biography
+Buddy is friends with most of the students in Mrs. Retriever’s school.
+
+Appearances
+S1E12 - Bob Bilby
+S1E20 - Markets
+S1E29 - The Creek
+S1E50 - Shaun
+S2E08 - Daddy Dropoff
+S2E45 - Handstand (mini speaking role)
+S3E14 - Pass the Parcel (first speaking role)
+Trivia
+He is usually seen panting and picking his nose.
+He is 5 and his birthday is on November 12th, as confirmed in Pass the Parcel.
+November 12th, 2020 is also the air date of Handstand.
+
+Buddy's Mum
+Buddy's Mum
+VIEW SOURCE
+Buddy's Mum
+
+Characteristics
+Breed
+Pug
+Gender
+Female
+Traits
+Eyes
+Black
+Fur
+Tan, Brown, and Grey
+Personal Status
+Relative(s)
+Buddy (son)
+Friend(s)
+Chilli
+Bandit
+Pat
+Janelle
+Missy's Mum
+Sheila
+Pom Pom's Mom
+Jasper's Mum
+Media
+First Appearance
+Pass the Parcel
+Voice Actor
+Greta Lee Jackson
+Buddy's mum is a secondary character who appears in Pass the Parcel.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearances
+4 Gallery
+4.1 Screenshots
+
+AD
+Appearance
+Buddy's mum is a pug with tan fur. Her ears and eyebrows are brown, and her muzzle is grey. She wears lime green half moon glasses.
+
+Biography
+Buddy's mum is friends with the parents of Buddy's friends. Aside from her son, she has no known family members.
+
+Appearances
+S3E14 - Pass the Parcel
+
+Bull Terriers
+Bull Terriers
+2
+VIEW SOURCE
+Bull Terriers
+
+Characteristics
+Breed
+Bull Terriers
+Gender
+Female ♀️ (mum)
+Male ♂️(kid)
+Traits
+Eyes
+Black
+Fur
+White, brown, grey, maroon, and a bit of pink
+Personal status
+Friend(s)
+Surfer
+Media
+First Appearance
+Piggyback
+
+The Bull Terriers are characters that have appeared in Bluey.
+
+Contents
+1 Appearances
+2 Appearance
+3 Biography
+4 Trivia
+
+AD
+Appearances
+S2EP18 - Piggyback
+S2EP35 - The Quiet Game
+Appearance
+Mum: She is a fully-grown Bull Terrier with white fur, but her muzzle, feet, ears and her belly being a light pink yogurty color. She sports a right sided tawny colored eyepatch, her nose being a dusty brown color, and she has slightly plump eyebrows.
+
+Kid: He is a young Bull Terrier pup with white fur, but his muzzle, nose, and only the inside of his left ear being a light pink cotton candy color. He sports a right sided fable colored eyepatch, his nose being a blacker color, and he has more oval-like eyebrows. He notably also has floppy ears, a cinnamon-colored spot on his back, and the inside of his right ear is rather a smokey grey instead of pink.
+
+Biography
+Both of the Bull Terriers seem to enjoy being sociable. With most of their cameos being with family members. However, it is unknown if the kid has a father or if the mom has a husband. They have no known friends or family relatives yet.
+
+Trivia
+The mum has a eye patch on her right eye, whereas her pup has one on his left eye.
+They can be seen at a table near the semi-beginning of the aforementioned episode chatting next with some type of orange and white like Brittany.
+The pup can be viewed playing with a blue toy car, and the mum is sitting right next to him staring at him for safety, and a punnet of strawberries is seen lying next to her.
+The Bull Terrier mum is the only character with visible flat eyelashes.
+In The Quiet Game, she is seen chatting with the Surfer without her son in the scene when Bandit, Bluey, and Bingo go out to the streets to pick a present for Muffin.
+Others like you also viewed
+Harley
+Captain
+Bentley
+Alfie
+Missy
+Pretzel
+Dougie
+Gruber
+Juniper
+Chippy
+Docket Boy
+Buddy
+Grey Dad
+Dusty
+
+Categories
+Community content is available under CC-BY-SA unless otherwise noted.
+
+Bus Stop Dog
+VIEW SOURCE
+Bus Stop Dog
+
+Characteristics
+Breed
+Samoyed
+Gender
+Female
+Traits
+Eyes
+Black
+Fur
+White
+Media
+First Appearance
+Wagon Ride
+Voice Actor
+Julie Baster
+
+The Bus Stop Dog is a character who is always sitting on the bench at the bus stop. She has white fur and blue glasses. She speaks once when confronted by Bandit saying she doesn’t need to worry about the Sun since it’s meant to be there. She appears in Wagon Ride and Born Yesterday
+
+Others like you also viewed
+Hercules
+Captain
+Cherry
+Gruber
+Juniper
+Lila
+Sparky
+Jasper W
+Customer
+Pretzel
+Docket Boy
+Doreen
+Chippy
+Doctor
+
+Community content is available under CC-BY-SA unless otherwise noted.
 
 Calypso
 Calypso
 Bluey's teacher for Prep. An Aussie Shepherd.
+Calypso
+13
+VIEW SOURCE
+This is confusing.png
+"This is confusing."
+This article is about the character.
+You may be looking for the episode.
+
+Calypso
+
+Characteristics
+Breed
+Australian Shepherd
+Gender
+Female ♀
+Traits
+Eyes
+Black
+Fur
+Orange, gray with black spots, and white (merle tricolor)
+Media
+First Appearance
+Calypso
+Voice Actor
+Megan Washington
+"Sister Rain has left, and Father Sun is home. Brother Wind comes blowing in to welcome home the gnome." ― Calypso's song[source]
+
+Calypso is a secondary character that has appeared in multiple episodes of Bluey.
+
+Contents
+1 Bluey.tv Description
+2 Appearance
+3 Biography
+4 Appearances
+5 Trivia
+6 Gallery
+6.1 Screenshots
+
+AD
+Bluey.tv Description
+"Bluey's teacher for Prep. An Aussie Shepherd."
+
+Appearance
+Calypso is a Blue Merle Australian Shepherd with dark brown, grey, white, dark grey, orange and light orange fur. She has white feet, hands, tail tip, chest, muzzle and head spots, light orange bottom legs, bottom arms, tail bottom, torso, outer muzzle and eyebrows, orange top legs, top arms and outer muzzle, dark brown back spots, head splotches, head spots and top ears, grey tail top and head, and dark grey tail spots. She also has a black nose and wears a blue shawl.
+
+Biography
+Calypso is the teacher at Bluey's school, Glasshouse Primary School. She has no known relatives but is friends with many of her students.
+
+Appearances
+S1E17 - Calypso
+S1E37 - The Adventure (cameo)
+S1E40 - Early Baby
+S1E41 - Mums and Dads
+S2E08 -Daddy Dropoff (cameo)
+S2E16 - Army
+S2E31 - Barky Boats
+S2E33 - Circus (cameo)
+S2E35 - Typewriter
+S3E15 - Explorers
+S3E28 - Stories
+S3E34 - Space
+Trivia
+She is voiced by musician and songwriter Megan Alexanda Washington.
+She works in a Steiner school, Glasshouse Primary, which is based on one in The Samford Valley, near Brisbane.
+This is the second character to be voiced by a musician, the first being Bandit.
+Based on her appearance and voice, she appears to be an older character, possibly middle-aged.
+Her name is based off the genre of Caribbean music of the same name, which features syncopated African rhythms and, typically, words improvised on a topical theme.
+She is skilled at knitting, as showing off her talent mainly in Barky Boats and Typewriter.
+There is an episode named after her.
+Her hair in Calypso is off to the right but it is switched to the left for the rest of Season 1.
+In Polish dub her name is "Pani Matylda" (Mrs. Matilda).
+In the persian dub, Calypso, alongside Pony Lady, is voiced by a man.[citation needed]
+Gallery
+Screenshots
+Calypso in mums and dads
+Calypso talking to Indy and Rusty.
+Calypso talking to Chloe and Chloe’s Mum
+Calypso talking to Chloe and her father
+Others like you also viewed
+Mackenzie
+Radley Heeler
+Rusty
+Indy
+Bluey Heeler
+Frisky
+Bandit Heeler
+Bluey Wiki
+Pretzel
+Calypso (Episode)
+Judo
+Honey
+Brandy Cattle
+Socks Heeler
+Bingo Heeler
+
+Categories
+Languages
+Community content is available under CC-BY-SA unless otherwise noted.
 
 Winton
 Winton
@@ -108,3 +3864,1195 @@ Bandit’s Mum and Bluey & Bingo’s Nana. Retired to the Gold Coast.
 Grandad (Bob)
 Grandad (Bob)
 Bluey & Bingo’s Grandad.
+Bob Heeler
+21
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+Reason: Needs more pictures for the gallery
+
+Bob Heeler
+
+Characteristics
+Breed
+Blue Heeler
+Gender
+Male ♂
+Traits
+Eyes
+Black
+Fur
+White, grey, dark grey, black and brown
+Personal Status
+Relative(s)
+Chris (wife)
+Bandit (son)
+Stripe (son)
+Rad (son)
+Chilli (daughter-in-law)
+Bluey (granddaughter)
+Bingo (granddaughter)
+Trixie (daughter-in-law)
+Muffin (granddaughter)
+Socks (granddaughter)
+Chris's Nana (grandmother in-law)
+Media
+First Appearance
+Grannies
+Voice Actor
+Ian McFadyen
+Sam Simmons (young)
+
+Bob is a secondary character who first appeared in Grannies.
+
+Contents
+1 Bluey.tv Description
+2 Appearance
+3 Biography
+4 Appearances
+5 Trivia
+6 Gallery
+
+AD
+Bluey.tv Description
+"Bluey & Bingo’s Grandad."
+
+Appearance
+Bob is a Blue Heeler with white, grey, black, dark grey and brown fur. He has white feet, hands, chest, muzzle and eyebrows, grey legs, leg spots, arms, torso, tail tip and head spots, dark grey leg splotches, leg spots, tail stem and right head, black outer ears, and brown leg spots, head spots, left head and inner ears. He also has a black nose, beard whiskers on his muzzle and part of his left ear missing.
+
+In his younger years (during the 80s), his grey fur used to be blue and his dark grey and brown (on his head) fur used be black, similar to his son Bandit. His left ear also used to be whole as well.
+
+Biography
+Bob has no known real friends yet, but he is the husband of Chris (Nana), the dad of Bandit, Stripe, and Rad, the father-in-law of Chilli and Trixie, and the grandpa of Bluey, Bingo, Muffin and Socks.
+
+Appearances
+S1E28 - Grannies
+S2E11 - Charades (pictured)
+S2E21 - Escape (pictured)
+SN/AEN/A - Humpty Dumpty (mentioned)
+S3E2 - Bedroom (mentioned)
+S3E26 - Fairytale (flashback)
+Trivia
+He has a piece of his left ear missing.
+Bob is voiced (as a retiree) by writer, actor, director, producer, teacher, essayist and painter Ian McFadyen.
+Bob has had the longest absence of any character, with a gap of 101 episodes between his physical appearances in Grannies and Fairytale, but even his appearance in Fairytales was a flashback.
+Since the episode called Christmas Swim, many fans have speculated him to be dead, while others think that he was divorced, others think he passed away due to dementia, others think he's too busy focusing on a job or was likely sent to a hospital in a prolonged time for long-term care. No official explanation has been provided yet.
+In a 2021 interview[1], Joe Brumm confirmed that Bob is alive and would make an appearance in season 3, offering "proof of life" - so presumably not referring to Fairytale. He offered an out-of-character reason for his absence: Mort was given all the "Grandad" stories to show some of Chilli's side of the family.
+Although there are a couple of people that think he just isn't too connected to the family due to a possible conflict. However, it's strange to think that the family aren't somewhat concerned about it nor they explain the loss of it.
+This is acknowledged in an episode Bedroom, Bingo says “Goodnight Grandpa Bob, wherever you are,” hinting Bob’s absence.
+In the short Humpty Dumpty, Muffin mentions him as "grandad" when Chilli decides to send him a message. Although, she doesn't specify which one. She could be referring to Trixie's father but many believe that the message is in fact being sent to Bob.
+His nick name is Bobba, used by Nana in the Episode "Grannies", and in the Grannies book.
+A younger version of him can be seen in Fairytale
+Also, despite his more youthful appearance in the said episode, he doesn't even remember his sons' name.
+He had blue and black fur when he was younger, making him look like Bandit.
+Bob did make a major appearance in the book Where's Bluey? where he makes a cameo holding a soda can in one page that takes place in the episode BBQ. His small appearance did mean something, in which you have to find items scattered across the scenario full of characters, he was one of them.
+Gallery
+Bob
+Bob doing the floss in "grannies".
+Bandit's family picture
+from "charades", in the picture you can see bob
+Fairytale 4heelers
+Bob in the 1980's
+Bob-Wheres-Bluey
+Bob in the "Where's Bluey?" book.
+Bob-floss
+Bob's appearance in "Grannies".
+Bob-smile
+Bob smiling.
+https://www.blueypod.com/e/bonus-ep-aka-joe-brumm-in-2021/ (relevant section begins at 13:50
+Others like you also viewed
+Radley Heeler
+Chris Heeler
+Bandit Heeler
+Chilli Heeler
+Frisky
+Mrs. Cattle
+Stripe Heeler
+Brandy Cattle
+Socks Heeler
+Mort
+Trixie Heeler
+Bluey Heeler
+Muffin Heeler
+Bluey Wiki
+Bingo Heeler
+
+Categories
+Languages
+
+Bosco
+
+Bosco
+VIEW SOURCE
+Bosco is a character mentioned in Bluey. So far, he has never made an appearance; only mentioned.
+
+Frisky was his wife or girlfriend, later he broke up with her before the events of "Double Babysitter". It's never explained why they broke up, though given that Frisky, when acting as a princess for the Heeler sisters, said that Rad (who was playing the prince) would probably go looking for other princesses, this could imply that either Bosco cheated on Frisky, or Bosco dumped Frisky so that he could date another dog.
+
+Others like you also viewed
+Frisky
+Radley Heeler
+Ice Cream Lady
+Chilli Heeler
+Trixie Heeler
+Brandy Cattle
+Bob Heeler
+Socks Heeler
+Bandit Heeler
+Stripe Heeler
+Mrs. Cattle
+Bluey Heeler
+Chris Heeler
+Mort
+Bluey Wiki
+
+Categories
+Community content is available under CC-BY-SA unless otherwise noted.
+
+Brandy Cattle
+19
+VIEW SOURCE
+Stop.png
+Spoiler Alert!
+
+This article/section may reveal details on recent or upcoming episodes.
+
+If you would like to avoid spoilers, exit the page, or proceed with caution.
+
+"There's something Aunty Brandy wants more than anything as well, but she can't have it, and there's not really anything anyone can do." ― Chilli[source]
+
+Brandy Cattle
+
+Characteristics
+Breed
+Red Heeler
+Gender
+Female ♀
+Age
+Unknown-late 30s to mid 40s
+Traits
+Eyes
+Black
+Fur
+Dark orange, light orange and light cream
+Personal Status
+Relative(s)
+Mort Cattle (father)
+Mrs. Cattle (mother)
+Chilli (younger sister)
+Bandit (brother-in-law)
+Bluey (niece)
+Bingo (niece)
+Media
+First Appearance
+Bluey's Big Play (voice only)
+Obstacle Course (pictured)
+Onesies (physical appearance)
+Voice Actor
+Rose Byrne
+
+Brandy Cattle (also known as Aunty Brandy by Bluey and Bingo) is a secondary character, the older sister of Chilli, the sister-in-law of Bandit, and the maternal aunt of Bluey and Bingo.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearances
+4 Trivia
+5 Gallery
+6 References
+
+AD
+Appearance
+Brandy is a Red Heeler with light orange, dark orange, light cream fur, and a brown nose. She has light cream hands, right foot, left outer ear, left leg, eyebrows, muzzle, forehead, tail spots, belly, a strip in her shoulders and tail end, light orange body, right leg, left foot, start of the tail and inner ears, and dark orange right outer ear, both sides of the head, back spot and tail spot.
+
+Biography
+Brandy is Chilli's older sister. She distanced herself due to the grief of her sister being able to grow a family while she herself had fertility issues. They hadn't spoken for years, but Chilli eventually found the courage to call her, which lead to them reuniting in Onesies.
+
+Appearances
+Bluey's Big Play (mentioned and voice call only)
+S03E03 - Obstacle Course (pictured)
+S03EO4 - Promises (pictured)
+S03E09 - Curry Quest (pictured)
+S03E31 - Onesies (Debut)
+Trivia
+It is revealed Bluey didn't even know she had an aunt on her mum's side of the family.[citation needed]
+A younger version of Brandy can be seen pictured in Obstacle Course and Promises.
+The younger version of Brandy has a slightly different fur pattern, complete with light orange, brown and cream fur, cream feet, hands, eyebrows, back spots, right side of the body and head, a strip in her shoulders, right arm and tail end, light orange back, knees, start of the tail, inner ears and forehead, and brown left side of the head and outer ears.
+Prior to Onesies, Brandy and her sister hadn't met face-to-face in four years.
+Throughout the episode Onesies, it is heavily implied that Brandy has fertility problems, meaning that she may not be able to have children of her own, which may have caused her and Chilli's argument prior to Bluey's Big Play.
+Her last name is confirmed to be "Cattle" due to a movie poster art of Onesies done by Nick Rees (a lead background artist for the show).[1]
+Gallery
+Cattle family
+A younger version of Brandy and her family pictured in Promises
+Brandy
+6-05.png
+Brandy's debut in Onesies
+Brandy Wave
+"Hi, girls!"
+Brandy sad
+Bluey: "Why can't she just have the things she wants?"
+Brandy lay
+Chilli: "Because it's not meant to be."
+Brandy, Chilli, Bluey and Bingo together, with their onesies swapped.
+Brandy, Chilli, Bluey and Bingo together, with the childrens' onesies swapped
+References
+
+https://mobile.twitter.com/N1ckBee5/status/1537639499391348736
+
+Busker
+5
+VIEW SOURCE
+Busker
+
+Characteristics
+Breed
+Brussels griffon
+Gender
+Male ♂
+Traits
+Eyes
+Black
+Fur
+Dark orange, orange, light orange, dark brown, brown and light brown.
+Media
+First Appearance
+Markets
+Voice Actor
+Joff Bush
+Busker is a secondary character that has appeared in multiple episodes of Bluey.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearances
+4 Trivia
+5 Gallery
+5.1 Artwork
+5.2 Screenshots
+6 References
+
+AD
+Appearance
+Busker is a Brussels’ Griffon with dark orange, orange, light orange, dark brown, brown and light brown fur. He has dark orange feet, hands, hair and top tail, orange legs, arms, bottom tail, stomach and head, light orange belly, eyebrows and muzzle outline, dark brown ears, brown inner ears, and a light brown muzzle. He also has a brown nose and wears brown glasses.
+
+Biography
+Busker is a musician. He plays all kinds of different instruments at different venues. He has no known name, and is referred to as busker. He has no known friends or family yet.
+
+Appearances
+Markets
+Dance Mode
+The Quiet Game
+Trivia
+His guitar is decorated with a floral pattern. And is classified as a acoustic guitar.
+He knows how to play the guitar and the thongaphone.
+He is both modelled on[1] and voiced by the show's composer, Joff Bush.
+He is seen spending the 5 bucks he got in Markets in The Quiet Game.
+Speaking of which, the same 5 bucks are foiling in his hat in Dance Mode.
+Gallery
+Artwork
+Busker
+Busker — Character Image on Blue Background with 'Joff (Bluey Composer)' Annotation
+[2]
+Screenshots
+Busker - Markets
+Busker - Dance Mode
+References
+Post by the official Bluey Facebook page.
+Post by the official Bluey Facebook page.
+
+Captain
+12
+VIEW SOURCE
+Captain
+
+Characteristics
+Breed
+American Foxhound
+Gender
+Male
+Age
+11/12
+Traits
+Eyes
+Black
+Fur
+Brown, Dark Brown, White
+Personal Status
+Friend(s)
+Mia
+Mackenzie
+Bluey Heeler
+Media
+First Appearance
+Barky Boats
+Captain is a secondary character that has appeared in multiple episodes of Bluey.
+
+Contents
+1 Appearance
+2 Biography
+3 Episodes
+4 Trivia
+5 Gallery
+
+AD
+Appearance
+Captain is an American Foxhound.
+
+He has a blue-black nose, with white, brown, and dark brown fur. His ears and some of the fur surrounding them is brown. He has a black back, with a ring of brown. The rest of his fur is white. He also has brown patches on the front and a black patch on the back of his legs.
+
+Biography
+Captain is an 11 to 12 year old American Foxhound and is Mackenzie's school buddy.
+
+Episodes
+S2E31 - Barky Boats
+S3E09 - Curry Quest
+Trivia
+Captain's favourite fruits are mangoes.
+Like Mia, he is in year six, the last year of schooling in Australia before Secondary/High School.
+Gallery
+Captain & Mia (Bluey Characters Preview)
+Others like you also viewed
+Mia
+Mackenzie
+Bluey Heeler
+Rusty
+Radley Heeler
+Hercules
+Frisky
+Indy
+Honey
+Bluey Wiki
+Dusty
+Socks Heeler
+Chilli Heeler
+Bandit Heeler
+Chloe
+
+Categories
+Languages
+Community content is available under CC-BY-SA unless otherwise noted.
+
+Checkout Dog
+2
+VIEW SOURCE
+Checkout Dog
+
+Characteristics
+Breed
+Maremma Sheepdog
+Gender
+Female ♀
+Traits
+Eyes
+Black
+Fur
+Cream
+Media
+First Appearance
+Kids
+Voice Actor
+Zoe Foster Blake
+Checkout Dog is a secondary character that has appeared in Bluey.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearances
+4 Trivia
+5 Gallery
+
+AD
+Appearance
+Checkout Dog is a Maremma Sheepdog with cream fur that spread all over her body. She also has a brown nose and a grey, black, white and red apron.
+
+Biography
+Checkout dog works at Hammerbarn. She has no known friends or family as of yet.
+
+Appearances
+S1E45 - Kids
+S2E02 - Hammerbarn
+S2E07 - Favourite Thing (cameo)
+S2E18 - Piggyback (cameo)
+Trivia
+Checkout Dog is voiced by author, columnist, magazine editor, and cosmetics entrepreneur Zoe Foster Blake.
+Gallery
+Coming-soon
+Others like you also viewed
+Alfie
+Employee
+Juniper
+Bentley
+Chippy
+Alfie's Boss
+Docket Boy
+Customer 3
+Lila
+Dougie
+Chucky
+Checkout Lady
+Cherry
+Vet Corgi
+Pretzel
+
+Categories
+Community content is available under CC-BY-SA unless otherwise noted.
+
+Checkout Lady
+1
+VIEW SOURCE
+Checkout Lady
+
+Characteristics
+Breed
+Poodle
+Gender
+Female ♀
+Traits
+Eyes
+Black
+Fur
+Purple
+Media
+First Appearance
+Markets
+(Production Appearance:Kids)
+
+Voice Actor
+Charlotte Nicdao
+Checkout Lady is a secondary character that has appeared in multiple episodes of Bluey.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearances
+4 Trivia
+5 Gallery
+5.1 Screenshots
+
+AD
+Appearance
+Checkout Lady is a poodle with purple fur that covers her whole body. She also has a black nose, wears a black cap with a green paw emblem on it and a green work suit as well.
+
+Biography
+Checkout Lady works at the supermarket in Kids, playing the role of a checkout worker. She has no known friends or family as of yet.
+
+Appearances
+S1E20 - Markets (Cameo)
+S1E45 - Kids
+S3E4 - Promises (cameo)
+Trivia
+She appears to be the same breed as Checkout Dog.
+She is voiced by Australian actress Charlotte Nicdao.
+Gallery
+Screenshots
+F1073194-0BC0-4D36-8EC6-F2FA35B3E247
+Checkout Lady talking to Bluey and Bandit.
+Others like you also viewed
+Checkout Dog
+Captain
+Pony Lady
+Bluey Wiki
+Cherry
+Docket Boy
+Trixie Heeler
+Customer
+Vet Corgi
+Chippy
+Calypso
+Customer 2
+Juniper
+Bentley
+Dusty
+
+Categories
+Community content is available under CC-BY-SA unless otherwise noted.
+
+Cherry
+1
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+Cherry
+
+Characteristics
+Breed
+Saluki
+Gender
+Female
+Traits
+Eyes
+Black
+Fur
+Red
+Personal status
+Friend(s)
+Chippy
+Media
+First Appearance
+Tradies
+
+Cherry is a secondary character that has appeared in Bluey.
+
+Contents
+1 Appearance
+2 Biography
+3 Trivia
+4 Gallery
+
+AD
+Appearance
+Cherry is a red Saluki with a brown nose that wears golden hoop earrings.
+
+Biography
+Cherry is Chippy's girlfriend.
+
+Trivia
+Her voice actress wasn't credited, but all you could hear from her is muffled angry noises from when she was arguing with Chippy.
+Cherry's Ute could be modelled after the Ford BF Falcon Ute with the front of an AU Falcon, painted in Holden Lime Green.
+Cherry's carplate is "SEAGULL", possibly an ode to Chippy voice actor Sam Cotton's Seagull Chippie tiktok series.
+She is one of the very few characters in the show to have eyelashes. The only others are Coco, Wendy, Calypso, and Mrs. Retriever.
+
+Mrs. Cattle
+9
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+Chilli's Mum
+
+Characteristics
+Breed
+Red Heeler
+Gender
+Female ♀
+Traits
+Eyes
+Black
+Fur
+Light orange, Brown, Light yellow
+Personal Status
+Relative(s)
+Mort (husband)
+Chilli (daughter)
+Brandy (daughter)
+Bandit (son-in-law)
+Bluey (granddaughter)
+Bingo (granddaughter)
+Auntie Mary (possible sister or sister in-law)
+Friend(s)
+Not known
+Media
+First Appearance
+Obstacle Course (pictured)
+Voice Actor
+none
+Chilli's Mum is a minor character in Bluey, she appears in a picture in the episodes Obstacle Course and Promises.
+
+AD
+Appearances
+S03E03 - Obstacle Course (pictured)
+S03E04 - Promises (pictured)
+S03E31 - Onesies (mentioned)
+Trivia
+It is currently unknown whether or not there are plans for her to make her physical debut in a future episode.
+She rides a horse as seen in a picture in Promises
+
+Chippy
+2
+VIEW SOURCE
+Chippy
+
+Characteristics
+Breed
+Borzoi
+Gender
+Male
+Traits
+Eyes
+Hidden [Probably black]
+Fur
+Beige, Brown Beige
+Personal status
+Friend(s)
+Cherry
+Media
+First Appearance
+Tradies
+Voice Actor
+Sam Cotton
+
+Chippy is a secondary character that has appeared in Bluey.
+
+Contents
+1 Appearance
+2 Personality
+3 Biography
+4 Trivia
+5 Gallery
+
+AD
+Appearance
+Chippy is a Borzoi with a beige body. The tip of his tail, his feet, his mustache and his "curly mullet" pouf is brown beige. His nose is brown. Chippy's eyes have not been shown so far. Chippy is often seen sporting sunglasses on the top of his head. He also has a black tiger face tattoo on his right upper arm and a cherry tattoo on his left upper arm.
+
+Personality
+Chippy is a laid back dog, but his first appearance is shadowed by an ongoing conflict with Cherry.
+
+Biography
+Chippy works as a tradie (tradesman) under Sparky. He has a close connection with Cherry and the two are in contact often. Cherry drives Chippy to work at the Heeler's house. Chippy is one of the few characters in the Blueyverse that wears clothes, however, they are work clothes, so he likely doesn't wear it at all times.
+
+Trivia
+Chippy is initially given the nickname Chocolate Milk in the episode Tradies.
+Chippy is seen getting a lift from Cherry or Sparky
+It is implied that Chippy probably lost his driving license from either doing something silly with his car or Driving Under the Influence (DUI)
+
+, A to Z, Secondary Characters, and 5 more
+English
+Chris Heeler
+12
+VIEW SOURCE
+"Hang on, I'll just get my glasses!" ― Chris Heeler[source]
+
+Christine Heeler (Nana)
+
+Characteristics
+Breed
+Blue Heeler
+Gender
+Female ♀
+Traits
+Eyes
+Black
+Fur
+Blue, light blue and dark blue
+Personal Status
+Relative(s)
+Bob (husband)
+Radley (oldest son)
+Bandit (middle son)
+Stripe (youngest son)
+Chilli (daughter-in-law)
+Bluey (oldest granddaughter)
+Bingo (second oldest granddaughter)
+Trixie (daughter-in-law)
+Muffin (third oldest granddaughter)
+Socks (youngest granddaughter)
+Friend(s)
+Frisky
+Media
+First Appearance
+Grannies
+Voice Actor
+Chris Brumm
+
+Christine "Chris" Heeler (also known as Nana) (not to be confused with Chilli's Mum) is a secondary character that appeared in multiple episodes of Bluey.
+
+Contents
+1 Bluey.tv Description
+2 Appearance
+3 Biography
+4 Trivia
+5 Appearances:
+6 Gallery
+
+AD
+Bluey.tv Description
+"Bandit’s Mum and Bluey and Bingo’s Nana. Retired to the Gold Coast."
+
+Appearance
+Nana is a Blue Heeler with blue, light blue and very dark blue fur. She has blue legs, arms, tail tip, torso and inner ears, light blue feet, hands, chest, muzzle and eyebrows, and very dark blue tail stem, left and right head and outer ears. She also has a black nose and wears pink glasses. She has a pudgier build than other members of the family.
+
+Biography
+Nana is the grandmother of Bluey, Bingo, Muffin and Socks, the mother of Bandit, Stripe, and Rad, the mother-in-law of Chilli and Trixie and the wife of Bob. She has no known friends as of yet.
+
+Trivia
+Nana has retired to Gold Coast, QLD (Which is a real place like Brisbane).
+She is voiced by Joe Brumm’s mother, Chris Brumm.
+She is also the first character to share the same name with her voice actress.
+She is also the second character to be voiced by a member of Joe Brumm's family, the first was Stripe, who was voiced by Dan Brumm.
+Compared to the rest of the Heeler family, her design is plump, rather than rectangle shaped.
+Her real name was finally revealed in the episode Handstand.
+Younger versions of her can be seen in the flashbacks in Baby Race and Fairytale.
+She calls Bandit "Bandy" (as revealed in Christmas Swim) and Stripe "Stripy" (as revealed in Handstand).
+So far Trixie is the only family member who calls her by her real name.
+Bluey is named after her, since Bluey's middle name has been revealed to be Christine as revealed in Family Meeting
+In the 80's, Nana had a perm as seen in Fairytale.
+She is the only member of Bandit's immediate family to be female.
+"Double Babysitter" reveals that she once babysat Bluey and Bingo overnight, but due to her bad hearing, she turned the television up too loudly and woke Bluey. In addition, the show Chris was watching scared Bluey, which led her to dislike babysitter putdowns. However, after being babysat by Rad and Frisky, who did not watch loud TV at night, this association went away.
+"Baby Race" reveals that she has a way of teaching babies to walk, which is putting olive oil on their knees so they can't crawl. Chilli and Bandit, however, do not like this method.
+Appearances:
+S01E28 - Grannies (debut)
+S02E11 - Charades
+S02E21 - Escape
+S02E39 - Double Babysitter (mentioned)
+S02E45 - Handstand
+S02E50 - Baby Race
+S02E51 - Christmas Swim
+S03E26 - Fairytale (young adult)
+Gallery
+The Heelers opening their presents
+Chris with her family
+Charades2
+Chris with her grandchildren
+Young Chris
+Chris in the 1980's
+
+Chris's Nana
+VIEW SOURCE
+BanditArtwork03.png
+Aw, biscuits!
+
+This article/section Is a candidate for deletion.
+You can help Bluey Wiki by contacting the moderators. Don't remove this template or The Magic Xylophone is going to freeze you.
+Remember to check what links here and the page history before deletion.
+
+Chris’s Nana is mentioned in Charades. she is the Mother of Nana's Mum or Father. the great-great-grandmother of bluey, bingo, Muffin and Socks. And bandit never mentioned her
+
+Chris's Nana
+Gender
+Female
+Breed
+Heeler
+Relatives
+Chris Heeler | Granddaughter
+Bandit | Great Grandson
+
+Stripe | Great Grandson
+
+Rad | Great Grandson
+
+Bluey | Great-great granddaughter
+
+Bingo | Great-great granddaughter
+
+Muffin | Great-great granddaughter
+
+Socks | Great-great granddaughter
+
+First appearance
+Charades (mentioned)
+Latest appearance
+Charades (mentioned)
+Voiced Actor
+N/A
+Age
+100+
+Fur
+N/A
+Others like you also viewed
+Bob Heeler
+Radley Heeler
+Chris Heeler
+Mrs. Cattle
+Chilli Heeler
+Bandit Heeler
+Stripe Heeler
+Bluey Heeler
+Frisky
+Bingo Heeler
+Brandy Cattle
+Trixie Heeler
+Socks Heeler
+Bluey Wiki
+Mort
+
+Categories
+Community content is available under CC-BY-SA unless otherwise noted.
+
+Chris Heeler
+12
+VIEW SOURCE
+"Hang on, I'll just get my glasses!" ― Chris Heeler[source]
+
+Christine Heeler (Nana)
+
+Characteristics
+Breed
+Blue Heeler
+Gender
+Female ♀
+Traits
+Eyes
+Black
+Fur
+Blue, light blue and dark blue
+Personal Status
+Relative(s)
+Bob (husband)
+Radley (oldest son)
+Bandit (middle son)
+Stripe (youngest son)
+Chilli (daughter-in-law)
+Bluey (oldest granddaughter)
+Bingo (second oldest granddaughter)
+Trixie (daughter-in-law)
+Muffin (third oldest granddaughter)
+Socks (youngest granddaughter)
+Friend(s)
+Frisky
+Media
+First Appearance
+Grannies
+Voice Actor
+Chris Brumm
+
+Christine "Chris" Heeler (also known as Nana) (not to be confused with Chilli's Mum) is a secondary character that appeared in multiple episodes of Bluey.
+
+Contents
+1 Bluey.tv Description
+2 Appearance
+3 Biography
+4 Trivia
+5 Appearances:
+6 Gallery
+
+AD
+Bluey.tv Description
+"Bandit’s Mum and Bluey and Bingo’s Nana. Retired to the Gold Coast."
+
+Appearance
+Nana is a Blue Heeler with blue, light blue and very dark blue fur. She has blue legs, arms, tail tip, torso and inner ears, light blue feet, hands, chest, muzzle and eyebrows, and very dark blue tail stem, left and right head and outer ears. She also has a black nose and wears pink glasses. She has a pudgier build than other members of the family.
+
+Biography
+Nana is the grandmother of Bluey, Bingo, Muffin and Socks, the mother of Bandit, Stripe, and Rad, the mother-in-law of Chilli and Trixie and the wife of Bob. She has no known friends as of yet.
+
+Trivia
+Nana has retired to Gold Coast, QLD (Which is a real place like Brisbane).
+She is voiced by Joe Brumm’s mother, Chris Brumm.
+She is also the first character to share the same name with her voice actress.
+She is also the second character to be voiced by a member of Joe Brumm's family, the first was Stripe, who was voiced by Dan Brumm.
+Compared to the rest of the Heeler family, her design is plump, rather than rectangle shaped.
+Her real name was finally revealed in the episode Handstand.
+Younger versions of her can be seen in the flashbacks in Baby Race and Fairytale.
+She calls Bandit "Bandy" (as revealed in Christmas Swim) and Stripe "Stripy" (as revealed in Handstand).
+So far Trixie is the only family member who calls her by her real name.
+Bluey is named after her, since Bluey's middle name has been revealed to be Christine as revealed in Family Meeting
+In the 80's, Nana had a perm as seen in Fairytale.
+She is the only member of Bandit's immediate family to be female.
+"Double Babysitter" reveals that she once babysat Bluey and Bingo overnight, but due to her bad hearing, she turned the television up too loudly and woke Bluey. In addition, the show Chris was watching scared Bluey, which led her to dislike babysitter putdowns. However, after being babysat by Rad and Frisky, who did not watch loud TV at night, this association went away.
+"Baby Race" reveals that she has a way of teaching babies to walk, which is putting olive oil on their knees so they can't crawl. Chilli and Bandit, however, do not like this method.
+Appearances:
+S01E28 - Grannies (debut)
+S02E11 - Charades
+S02E21 - Escape
+S02E39 - Double Babysitter (mentioned)
+S02E45 - Handstand
+S02E50 - Baby Race
+S02E51 - Christmas Swim
+S03E26 - Fairytale (young adult)
+Gallery
+The Heelers opening their presents
+Chris with her family
+Charades2
+Chris with her grandchildren
+Young Chris
+Chris in the 1980's
+
+Chucky
+10
+VIEW SOURCE
+Chucky
+
+Characteristics
+Breed
+Labrador Retriever
+Gender
+Male ♂
+Age
+5
+Traits
+Eyes
+Black
+Fur
+Golden yellow and light yellow
+Personal Status
+Relative(s)
+Pat (father)
+Janelle (mother)
+Lucky (older brother)
+Friend(s)
+Bingo
+Lila
+Missy
+Bluey
+Muffin
+Buddy
+Pom Pom
+Socks
+Chloe
+Juniper
+Chilli
+Bandit
+Aunt Trixie
+Uncle Stripe
+Pom Pom's Mum
+Sheila
+Mackenzie
+Honey
+Media
+First Appearance
+Pass the Parcel
+
+Chucky is a secondary character that has appeared in Bluey.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearances
+4 Trivia
+5 Gallery
+5.1 Screenshots
+
+AD
+Appearance
+Chucky is a Labrador with golden yellow and light yellow fur. He has yellow feet, legs, tail, torso, head, hands, arms and golden ears, and light golden yellow eyebrows. He also has a brown nose. He has extra fluffs of hair on his chest, head, and ears, giving him a distinctly fluffier appearance than the rest of his family.
+
+Biography
+His parents are Pat and Janelle, and his older brother is Lucky. He is the next door neighbour of the Heeler family.
+
+Appearances
+S03E14 - Pass the Parcel (debut)
+S03E37 - The Decider
+Trivia
+He hates his presents being stolen, just like most people.
+He is the first character to have a birthday in their debut episode.
+He was most likely given the name Chucky so that his name would rhyme with his older brother's name.
+In Pass the Parcel, his birthday is revealed to be on July 1st.
+Gallery
+Screenshots
+Chucky2
+
+Chunky's brother
+VIEW SOURCE
+BanditArtwork03.png
+Aw, biscuits!
+
+This article/section Is a candidate for deletion.
+You can help Bluey Wiki by contacting the moderators. Don't remove this template or The Magic Xylophone is going to freeze you.
+Remember to check what links here and the page history before deletion.
+
+Others like you also viewed
+
+Chunky Chimp
+2
+VIEW SOURCE
+Chunky Chimp
+
+Characteristics
+Gender
+Male
+Traits
+Eyes
+Black
+Fur
+Pink and Tan
+Media
+Voice Actor
+Rupert Degas
+
+Chunky Chimp is a minor character seen in the season 2 episode Movies, as well as cameos in a few others.
+
+Contents
+1 Appearance
+2 Personality
+3 Biography
+4 Trivia
+4.1 Episodes
+
+AD
+Appearance
+Chunky Chimp is a pink-and-tan monkey with a tan patch on his stomach and around his entire face. His ears and part of his legs and arms are also tan. The rest of his body is pink. Chunky has a round nose with two nostrils that are (compared to the size of the nose) are small. He has two dark-magenta eyebrows.
+
+Personality
+As seen as in the episode he stars in, he is inventive, and his curiosity led him to go to the “groundlands”, which is just really the ground. As noted by the Magic Pinecone, he shows bravery.
+
+Biography
+Not much is known about his family or friends. One of his friends(?) can be seen up in a tree with him during the start of the Chunky Chimp movie.
+
+Trivia
+The animals in the Chunky Chimp movie are some of the only anthropomorphic animals to not be a dog.
+Chutney Chimp appears to be a separate franchise with a confusingly similar name.
+In the 'Bluey's Bus' playset, the Bluey and Bingo figures are wearing Chunky Chimp shirts, and the back of the bus features an advertisement for the movie.
+Episodes
+S02E29: Movies
+S02E37: The Quiet Game (cameo on poster)
+S02E46: Road Trip (mentioned)
+S03E14: Pass the Parcel (cameo on sticker)
+S03E21: Tina
+Others like you also viewed
+Movies
+Bluey Wiki
+Bluey Heeler
+Frisky
+Chloe
+Muffin Heeler
+Pass the Parcel
+Trixie Heeler
+Cubby
+Mackenzie
+Radley Heeler
+Stripe Heeler
+Cherry
+Mrs. Cattle
+
+Categories
+Community content is available under CC-BY-SA unless otherwise noted.
+
+Cinema counter dog
+VIEW SOURCE
+Cinema counter dog
+
+Characteristics
+Breed
+English pointer
+Gender
+Male
+Traits
+Fur
+White and orange
+Media
+First Appearance
+Movies
+Voice Actor
+Daley Pearson
+
+Cinema counter dog is a employee at the cinema in Movies
+
+Others like you also viewed
+Gruber
+Docket Boy
+Chippy
+Harley
+Calypso
+Hercules
+Alfie
+Customer 3
+Doreen
+Alfie's Boss
+Dougie
+Bull Terriers
+Argentinean Backpacker
+Bluey Wiki
+
+Categories
+Community content is available under CC-BY-SA unless otherwise noted.
+
+Customer 3
+VIEW SOURCE
+Customer 3
+
+Characteristics
+Breed
+Whippet
+Gender
+Male
+Traits
+Eyes
+Black
+Fur
+Grey, dark grey and white
+Media
+First Appearance
+Dance Mode
+
+Customer 3 is a secondary character that has appeared in Dance Mode.
+
+Contents
+1 Appearance
+2 Appearances
+3 Biography
+4 Trivia
+
+AD
+Appearance
+
+Appearances
+S2E03 - Dance Mode
+Biography
+Customer 3 is a shopper and buyer at various stores and supermarkets. Although he has no known friends/relatives revealed just yet.
+
+Trivia
+It’s possible Postie could be one of his friends. Although, this has yet to be confirmed.
+His appearance is similar to that of Nurse. Although the 2 differences is that both the former and latter are different breeds, Nurse is actually a greyhound. Also, one is a male, one is a female.
+Although, it’s possible he is the Nurse’s brother.
+It’s also possible that he could be the Nurse but without her nurse clothes.
+Others like you also viewed
+Cherry
+Customer 2
+Chippy
+Harley
+Jasper W
+Bull Terriers
+Dusty
+Juniper
+Chucky
+Gruber
+Bentley
+Hercules
+Customer
+Lila
+
+Categories
+Community content is available under CC-BY-SA unless otherwise noted.
+
+Customer 4
+1
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+Customer 4
+
+Characteristics
+Breed
+Chow Chow or Husky
+Traits
+Eyes
+Blue
+Fur
+Orange, darker orange, and cream
+Media
+First Appearance
+Dance Mode
+
+Customer 4 is a background character only appearing in the episode, Dance Mode
+
+AD
+Appearance
+Customer 4 is a short fluffy dog. Considering their color and body, they might be a chow chow or husky. They have bright orange fur with a darker mask and ears. They have lighter inner ears and undertail. They are one of the only characters to have blue eys.
+
+Appearances
+S02E29 - Dance Mode (debut)
+Trivia
+Customer 4 is one of the only characters to have blue eyes. The others being Sadie, Takeaway Lady, Joel, Poffertje Dog, and Customer.
+Others like you also viewed
+Chippy
+Customer
+Cherry
+Dougie
+Frisky
+Dusty
+Customer 3
+Alfie
+Bentley
+Indy
+Brandy Cattle
+Customer 2
+Captain
+Doreen
+Cinema counter dog
+
+Categories
+Community content is available under CC-BY-SA unless otherwise noted.

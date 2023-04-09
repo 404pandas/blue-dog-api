@@ -167,3 +167,9 @@ The following is a list of resources used in the making of this API
 https://www.bluey.tv/watch/
 
 https://blueypedia.fandom.com/wiki/Bluey_(TV_series)
+
+## Time Bluey Watched
+
+This portion of the Readme is devoted to keeping track how many times I've rewatched Bluey in its entirety while developing this app.
+
+Current count: 7
