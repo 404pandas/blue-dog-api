@@ -159,3 +159,11 @@ This API is listed on [RapidAPI](https://rapidapi.com/).
 This API is stored on [Github](https://github.com/).
 
 This API is hosted on [Netlify](https://www.netlify.com/).
+
+## Resources Used
+
+The following is a list of resources used in the making of this API
+
+https://www.bluey.tv/watch/
+
+https://blueypedia.fandom.com/wiki/Bluey_(TV_series)
