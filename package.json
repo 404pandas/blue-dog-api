@@ -1,0 +1,23 @@
+{
+  "name": "blue-dog-api",
+  "version": "1.0.0",
+  "description": "An API for use in developing apps themed around the Bluey TV show. BLUEY™ and character logo™ and © Ludo Studio. Licensed by BBC Studios Distribution Ltd.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "type": "module",
+  "keywords": [
+    "api",
+    "open-source",
+    "bluey",
+    "database"
+  ],
+  "author": "Mary Elenius",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
