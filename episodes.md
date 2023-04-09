@@ -2485,3 +2485,655 @@ Jack and Rusty both have camouflage face paints on, as a call back to the game a
 Captain and Mia, the buddies from Barky Boats, can be seen together, most likely on a date.
 References
 https://www.foxtel.com.au/tv-guide/channel/ABC-KidsABC-TV-Plus/A2N/2021/11/29
+
+Dad Baby
+15
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+Dad Baby-In Labour.png
+"But I love my dog teeth!"
+
+This episode has been edited/cut in specific regions, compared to the original Australian version,
+so be wary of differences & spoilers.
+
+Use this template when there are differences between the Australian Original & other viewed versions (such as words changing, scenes being cut etc.).
+
+EpisodeGalleryScript
+
+Dad Baby
+
+Broadcast Information
+Airdate
+March 29, 2020
+August 17, 2022 (CBeebies UK)
+Credits
+Episode Guide
+Previous
+Sticky Gecko
+Next
+Mum School
+Dad Baby is the Thirteenth episode of Season Two of Bluey (TV series).
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+Synopsis
+When Dad shows the kids how to use their old baby-harness, a new game is born: Dad Baby! But dad is unprepared for the harsh realities of giving birth to a baby Bingo.
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Pat
+Lucky
+Wendy
+Trivia
+Lucky’s Dad is referred to as Pat for the first time.
+The song Pat was singing is John Williamson’s "True Blue", which was an Australian folk song released in 1982.
+The song Wendy sings is "I Do Like to Be Beside the Seaside" a popular British music hall song, written by John A. Glover-Kind.
+When Lucky updates Pat on the cricket score, he calls out "It's none for six, Dad!" In conventional parlance, this would mean that no runs have been scored and six wickets (outs) have been made. However, Pat's question about boundaries and Lucky's plausible answer ("one [four-run] boundary, two singles") signifies that cricket scores are given with wickets first and runs second. This is due to regional differences, in which Australian cricket places wickets before runs.
+This is showcased further by the television commentator in The Weekend ("7 for 297").
+This is the first episode to have been entirely skipped over in Disney’s release of the series. While no official reason was given, it is likely that Disney found the themes and content of the episode too inappropriate for the age demographic.
+This would also happen to Family Meeting as well, though this decision was later reversed.
+Despite not being featured on Disney networks and platforms, the episode is still available on DVDs and digital media releases within the USA and select other nations, and has also aired on other regional broadcasters (CBeebies, France 5 etc.).
+This is the only episode to use iris out at the end.
+Long Dog: There are two different long dogs in this episode:
+The first is the original fridge magnet version. It can be seen during the scene in which Bandit attempts to eat Dim Sums.
+The second long dog is grey with a dark grey spot. It can briefly be seen on top of the playroom bookshelf when Bandit is walking down the steps into the backyard.
+This long dog disappears in the long shot when Bluey asks Pat to help. It then later reappears after Bingo is "born" (albeit this time as a dark oblong shadow.)
+
+Daddy Dropoff
+2
+VIEW SOURCE
+EpisodeGalleryScript
+
+Daddy Dropoff
+
+Broadcast Information
+Airdate
+March 24, 2020
+March 17, 2020 (iView)
+July 24, 2020 (US)
+August 10, 2022 (CBeebies UK)
+Credits
+Episode Guide
+Previous
+Favourite Thing
+Next
+Bingo
+Daddy Dropoff is the eighth episode of Season Two of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+Synopsis
+Dad refuses to be late dropping off Bluey and Bingo at kindy and school, but the girls make Dad play so many games, they quickly derail his plan.
+
+Lila semi narrates the episode at the beginning and the end and tells how she met Bingo.
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Lila (debut and narrator)
+Lila’s Mum (debut)
+Mrs. Retriever
+Juniper
+Juniper’s Mum
+Buddy
+Harley
+Harley’s Dad
+Jasper W
+Jasper G.
+Bentley
+Sadie
+Zara (pictured)
+Missy (pictured)
+Calypso
+Chloe’s Mum
+Bella
+Pretzel
+Winton
+Mackenzie
+Mackenzie’s Dad
+Trivia
+This episode opens with Lila speaking to the camera and addressing the audience, the only time has happened in the show.
+In the scene where Lila meets Bingo, a large Pixar Ball can be seen in the background.
+When Bandit is packing Bluey and Bingo‘s lunchbox, he packs a gluten-free packet and a “gluten not-free” packet into the separate lunchboxes.
+In Grandad, we see that Bluey eats from the purple box (the gluten free box), while Bingo from the green ("Gluten not-free").
+This is the debut of Lila and her mum.
+Before the Heelers arrive at The Kindy, Mackenzie and his dad can be seen walking together, while a character similar to Mrs. Retriever can be seen waiting at the bus stop.
+At the end of the episode, a slideshow can be seen that showcases Lila and Bingo growing up.
+Bluey dancing in the credits is replaced with Bingo being a wind-up toy.
+Long Dog: The brown version of the original toy can be seen at school whenever Lila is visible.
+Bluey episode list
+Others like you also viewed
+Lila
+Bluey Wiki
+Bingo Heeler
+Bluey Heeler
+Bingo (Episode)
+Socks Heeler
+Army
+Radley Heeler
+Muffin Heeler
+Mackenzie
+Chilli Heeler
+Bandit Heeler
+Favourite Thing
+Winton
+Dad Baby
+
+Categories
+Languages
+Community content is available under CC-BY-SA unless otherwise noted.
+
+Daddy Putdown
+7
+VIEW SOURCE
+EpisodeGalleryScript
+
+Daddy Putdown
+
+Broadcast Information
+Airdate
+April 25, 2019 (AUS)
+November 6, 2019 (UK)
+November 25, 2019 (US)
+August 5, 2021 (CBeebies UK)
+September 8, 2021 (CBeebies Asia)
+Credits
+Episode Guide
+Previous
+Shaun
+Next
+Verandah Santa
+Daddy Putdown is the fifty-first and penultimate episode of the first season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+Synopsis
+When Mum goes out to a baby shower, Dad takes charge of the girls’ evening routine. But with Bluey missing Mum, Dad has to pull out all the games he knows to keep them entertained.
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Trivia
+This episode was released April 1, 2019 on ABC iview.
+This is the fourth Season 1 episode to have regional differences, the first being BBQ, the second being Markets, the third being Chickenrat and the fifth being Taxi. In the Disney distributed versions of this episode, the part when Bingo asks Bandit how babies get in the Mother’s belly was removed since it was, in Disney’s eyes, a bit too cheeky and inappropriate.
+The scene where Bandit plays with Bluey and Bingo by the swing, a ladybug can be seen twice, but the scene where the swing gets twisted, next scene the ladybug is nowhere to be seen. It appears again during the end credits of the episode.
+The "Follow the Leader" song Bandit sings is based on the song "Funiculì, Funiculà." Contrary to popular belief, the song is not an Italian folk song. It was written in 1880 by Luigi Denza and Peppino Turco to commemorate the opening of the first funicular railway to the top of Mt. Vesuvius. The railway was destroyed when Vesuvius, an active volcano, erupted in March 1944.
+Long Dog: Like the previous two episodes, it once again appears on the fridge.
+This is the most times the magnet long dog has appeared in consecutive episodes.
+Bluey episode list
+Others like you also viewed
+Chickenrat
+Markets
+Bluey Wiki
+Taxi
+Teasing
+Sticky Gecko
+Verandah Santa
+Camping
+Bumpy and the Wise Old Wolfhound
+Dance Mode
+Dad Baby
+Bluey Heeler
+The Dump
+Bingo Heeler
+Hammerbarn
+
+Categories
+Community content is available under CC-BY-SA unless otherwise noted.
+
+Daddy Robot
+7
+VIEW SOURCE
+EpisodeGalleryScript
+
+Daddy Robot
+
+Airdate
+4th October 2018 (ABC)
+29th October 2019 (Disney Channel (UK))
+2nd December 2019 (Disney Channel (US))
+21st April 2021 (CBeebies UK)
+13th May 2021 (Disney Junior India)
+17thJune 2021 (CBeebies Asia)
+Created and Written by
+Joe Brumm (Series Director)
+Cast
+Dave McCormack (Bandit)
+Melanie Zanetti (Chilli)
+Credits
+Producers
+Michael Carrington (Executive-ABC)
+Henrietta Hurford-Jones(Executive-BBC Worldwide)
+Nathan Waddington (Associate-BBC)
+Charlie Aspinwall (Executive)
+Daley Pearson (Executive)
+Sam Moor (Line Producer)
+Music & Sound
+Joff Bush (Music)
+David Barber (Music)
+Dan Brumm (Sound Design)
+David Champion (Recording Engineer)
+Production
+Laura Dimaio (Development Production Manager)
+Meg O'Connell (Development Manager)
+Andi Spark (Production Manager)
+Lauren Brown (Production Coordinator)
+Andy Blazewell (Technical Advisor)
+Simon Lipowicz (Technical Advisor)
+Designers
+Catriona Drummond (Art Director)
+Costa Kassab (Art Director)
+Owain Emmanuel (Lead)
+Mike Chavez (Storyboard)
+Tim Delaney
+Background Artists
+Faith Chen
+Daniela Hammer
+Connor M. Johnston
+Animation
+Richard Jeffery (Director)
+Claire Renton (Lead)
+Kathleen Hirst
+Loko Lui
+Naomi Scutts
+Dan Smith
+Nani Thomann
+Liana Wright (Layout)
+VFX
+Jacob McCann
+Editors/Post-Production
+Sam Carroll (Script Editor)
+Michael Griffin (Editor)
+Grant Sundin (Online Post Production)
+Other Staff
+Daniel Schultz (Production Accountant)
+Jenny Lalor (Production Lawyer)
+Episode Guide
+Previous
+Keepy Uppy
+Following
+Shadowlands
+Daddy Robot is the fourth episode of the first season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+4 Trivia
+Synopsis
+Bluey and Bingo don’t want to tidy the playroom, so they enlist the help of Daddy Robot to do it for them.[1]
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Bluey
+Bingo
+Bandit
+Chilli
+Trivia
+This is the first episode to:
+Not have music similar to the intro play at the beginning of the episode.
+Have Bingo, rather than Bluey, read the title card.
+To include toilet-humor, in this case a brief fart.
+This episode aired as the first sneak peek on ABC Kids in 2018, with the others being The Magic Xylophone, Keepy Uppy, Shadowlands and Fruitbat.[citation needed]
+Despite having a sock on the couch in the title card, it's nowhere to be seen on the couch in the episode.
+Long Dog: Overturned next to the girls' couch in the playroom scene.
+Bluey episode list
+https://www.bluey.tv/watch/season-1/daddy-robot/
+Others like you also viewed
+The Weekend
+BBQ
+Keepy Uppy
+Shadowlands
+Fruitbat
+Takeaway
+Markets
+The Magic Xylophone
+Bob Bilby
+Bike
+Hospital
+Horsey Ride
+Hotel
+Bumpy and the Wise Old Wolfhound
+Grannies
+
+Categories
+Languages
+Community content is available under CC-BY-SA unless otherwise noted.
+
+Dance Mode
+13
+VIEW SOURCE
+EpisodeGalleryScript
+
+Dance Mode
+
+Broadcast Information
+Airdate
+March 17, 2020(AUS)
+July 11, 2020(US)
+August 1, 2022 (CBeebies UK)
+Credits
+Episode Guide
+Previous
+Verandah Santa
+Next
+Hammerbarn
+
+Dance Mode is the first episode of the second season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+5 References
+Synopsis
+After Dad eats her last chip, Bingo is given three chances to put Mum and Dad in "Dance Mode" as payback, but the others can't resist taking Bingo's turns for her.
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Surfer
+Winton’s Dad
+Wendy
+Pat
+Mackenzie’s Mum (cameo)
+Busker
+Postie (debut)
+Customer 3 (debut)
+Honey (mentioned)
+Trivia
+An ibis can be seen picking through the trash in this episode, further reinforcing the nickname "bin chicken."
+At the end the busker’s hat contained the same five-dollar bill with the tooth fairy sticker that Bluey had in Markets.
+This episode has two actors from Australian bands interacting together, that being Anthony Field from The Wiggles (as the postie) and David McCormack from Custard (as Bandit).
+This is the first episode to air in 2020, meaning the first episode to air in the 2020s.
+This episode, along with Hammerbarn and Featherwand, were the first Season 2 episodes to air in the US.
+This episode's inspirational poster is based on the movie poster for the 1984 film Footloose.
+This is the second time Bandit does the please face. The first being Verandah Santa.
+Several cars at the zebra crossing and in the car park have vanity license plates with humorous messages written in letters and numbers. They are:
+SBWFR8 ("subwoofers")
+SPWY2 ("surprise")
+W3ND73 ("Wendie/Wendy")
+LUDO ("Ludo," after the studio that produces Bluey)
+The portrait on the twenty-dollar note is a canine version of John Flynn, a Presbyterian minister who helped to found both the Australian Inland Mission and the Royal Flying Doctor Service, the world's first air ambulance. Flynn is probably depicted as a St. Bernard in honor of the breed famously being used to rescue avalanche victims in the Western Alps.
+When Bandit says he "needs to change the address on this", the card he presents to the Postie is a 2010-2019 Queensland driver's license[1]. It's unclear what he's actually doing in this scene - he can't be changing the address on his driver's license, because you can't do that at a post office, and additional ID is not required[2].
+References
+https://www.qld.gov.au/transport/licensing/getting/about-queensland-driver-licence-cards
+https://www.qld.gov.au/transport/licensing/update/details
+Bluey episode list
+Others like you also viewed
+Bluey Wiki
+Bluey Heeler
+Bandit Heeler
+Hammerbarn
+Camping
+Bingo (Episode)
+Postie
+Army
+Daddy Dropoff
+Mackenzie
+Dad Baby
+Chilli Heeler
+Early Baby
+Asparagus
+Socks Heeler
+
+Categories
+Community content is available under CC-BY-SA unless otherwise noted.
+
+Dirt
+10
+VIEW SOURCE
+Stop.png
+Spoiler Alert!
+
+This article/section may reveal details on recent or upcoming episodes.
+
+If you would like to avoid spoilers, exit the page, or proceed with caution.
+
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+Australia.png
+Australia-Exclusive Content
+
+This article is about content exclusive to Australian audiences.
+If this content gets released elsewhere, this template will be removed.
+
+EpisodeGalleryScript
+
+Dirt
+
+Broadcast Information
+Airdate
+June 22, 2022 [1]
+Credits
+Episode Guide
+Previous
+Smoochy Kiss
+Next
+The Decider
+
+Dirt is the 36th episode of the third season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+5 References
+Synopsis
+Judo wants to play in the dirt with Bluey and Bingo, but she's not supposed to get dirty.
+
+Episode Recap
+Warning Spoilers!
+
+Appearances
+Characters
+Bluey
+Bingo
+Judo
+Wendy
+Bandit
+Truck Driver (cameo)
+Trivia
+In Wendy and Judo's bathroom, there are only two toothbrushes. This may indicate that Wendy is a single parent, although it's not known what happened between her and Judo's dad.
+Both Wendy and Judo cut their hair short.
+The way Judo and Wendy care for their hair references how long-haired Chow Chows (their breed) need frequent baths and brush outs to keep their coat at optimal condition.
+Wendy cutting her hair and Bandit commenting that she "had gone crazy" is a parallel to how during the course of the series she would be shown to be a little disturbed by Bandit's antics during his games with Bluey and Bingo and/or when trying to make them feel better, but now she's doing something crazy herself to make her daughter feel better.
+References
+https://www.foxtel.com.au/tv-guide/channel/ABC-KidsABC-TV-Plus/A2N/2022/06/22
+Bluey episode list
+Others like you also viewed
+Judo
+The Decider
+Space
+Bluey Wiki
+Wendy
+Smoochy Kiss
+Cubby
+Bluey Heeler
+Bandit Heeler
+Chilli Heeler
+Radley Heeler
+Mackenzie
+Granny Mobile
+Frisky
+Socks Heeler
+
+Categories
+Community content is available under CC-BY-SA unless otherwise noted.
+
+Dragon
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+Stop.png
+Spoiler Alert!
+
+This article/section may reveal details on recent or upcoming episodes.
+
+If you would like to avoid spoilers, exit the page, or proceed with caution.
+
+EpisodeGalleryScript
+
+Dragon
+Airdate
+28th May 2023 (ABC Kids)
+Episode Guide
+Previous
+TV Shop
+Following
+Slide
+Dragon is an upcoming episode destined to be the 45th episode of Season 3 of Bluey.
+Synopsis
+Bluey asks Dad to help her draw a dragon for her story.[1]
+
+Appearances
+Bandit Heeler
+Bluey Heeler
+Trivia
+Bluey episode list
+https://www.bluey.tv/blog/updated-brand-new-bluey-more-series-3-episodes-are-coming-to-abc-kids-and-iview/
+Others like you also viewed
+Cubby
+TV Shop
+Episode list
+Bluey Wiki
+The Decider
+
+Categories
+Community content is available under CC-BY-SA unless otherwise noted.
+
+Driving
+VIEW SOURCE
+Stop.png
+Spoiler Alert!
+
+This article/section may reveal details on recent or upcoming episodes.
+
+If you would like to avoid spoilers, exit the page, or proceed with caution.
+
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Driving
+
+Broadcast Information
+Airdate
+December 10, 2021
+December 6, 2022 (US)
+Credits
+Episode Guide
+Previous
+Pizza Girls
+Next
+Tina
+
+Driving is the Twentieth episode of Season 3 of Bluey (TV series).
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+5 Censorship
+6 Errors
+7 References
+Synopsis
+With only five minutes to play 'Driving', Bluey and Mum race against the clock to buy milk for a grumpy guest and have to escape an angry shopkeeper.
+
+Episode Recap
+Warning Spoilers!
+
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Madge (voice call only)
+Jenny (mentioned)
+Trivia
+Chilli's phone ringing sound is used the PAW Patrol phone ringing.
+The radio station B107 is a reference to Brisbane radio station B105.
+Censorship
+In the Disney version of the episode, Agatha’s threat is changed from urinating on the curtains to scratching them.
+Errors
+When Chilli set the 5 min timer the 5 min timer was shorter then that
+It could be possible that the time had passed
+References
+Bluey episode list
+Others like you also viewed
+Faceytalk
+Pizza Girls
+Rain
+Pass the Parcel
+Pavlova (Episode)
+Family Meeting
+Tina
+Bluey Wiki
+Whale Watching
+Phones
+Fairytale
+Explorers
+Musical Statues
+Promises
+Ragdoll
+
+Categories
+Community content is available under CC-BY-SA unless otherwise noted.

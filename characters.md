@@ -5056,3 +5056,391 @@ Cinema counter dog
 
 Categories
 Community content is available under CC-BY-SA unless otherwise noted.
+
+Daisy
+2
+VIEW SOURCE
+Daisy
+
+Characteristics
+Breed
+Beagle
+Gender
+Female ♀
+Traits
+Eyes
+Black
+Fur
+White, honey, dark honey and brown
+Personal Status
+Relative(s)
+Marcus (Husband)
+Honey (Daughter)
+Friend(s)
+Bandit
+Chilli
+Chloe’s Mum
+Frank
+Mackenzie’s Mum
+Mackenzie’s Dad
+Media
+First Appearance
+Spy Game
+Voice Actor
+Sam Moor
+Daisy[1] is a secondary character that has appeared in multiple episodes of Bluey.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearances
+4 Trivia
+5 Gallery
+6 References
+
+AD
+Appearance
+Daisy is a Beagle with white, honey, dark honey and brown fur. She has white feet, hands, chest, muzzle and tail tip, honey legs, arms, torso and head, dark honey ears and tail stem, brown eyebrows and a black nose. She also has a mole on her left cheek and wears magenta glasses.
+
+Biography
+Daisy is friends with Bluey, Chloe and Mackenzie’s parents. She has a husband called Marcus and a daughter called Honey.
+
+Appearances
+S1E13 - Spy Game
+S1E20 - Markets
+S2E33 - Circus (cameo)
+Tea Party with Bluey
+Trivia
+Daisy is voiced by producer and production manager Sam Moor.
+She speaks with an English accent
+Gallery
+Coming-soon
+References
+https://web.archive.org/web/20220823085430/https://twitter.com/CosmicGl0w/status/1433028072165429251
+Others like you also viewed
+Honey
+Frisky
+Chilli Heeler
+Mackenzie
+Marcus
+Radley Heeler
+Mrs. Cattle
+Brandy Cattle
+Bandit Heeler
+Indy
+Bluey Heeler
+Chloe
+Bob Heeler
+Socks Heeler
+Frank
+
+Categories
+Community content is available under CC-BY-SA unless otherwise noted.
+
+Docket Boy
+1
+VIEW SOURCE
+Docket Boy
+
+Characteristics
+Breed
+Catahoula Leopard Dog
+Gender
+Male ♂
+Traits
+Eyes
+Black
+Fur
+Brown, light brown, dark brown and whitish-brown
+Media
+First Appearance
+Kids
+Voice Actor
+Michael Griffin
+Docket Boy is a secondary character that appeared in Kids.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearances
+4 Trivia
+5 Gallery
+
+AD
+Appearance
+Docket Boy is a Catahoula Leopard Dog with brown, light brown, dark brown and whitish-brown. He has brown feet, legs, arms, hands, tail, tors, head and ears, light brown leg spots, head spots and ear spots, dark brown eyebrows and a whitish-brown muzzle. He also has a brown nose and wears a black cap with a green paw emblem on it, a green, white and black outfit with a name tag and holds a black and yellow docket gun.
+
+Biography
+Docket Boy works at the supermarket seen in Kids, where he plays the role of a docket boy. He has no friends or family as of yet.
+
+Appearances
+S1E45 - Kids
+Trivia
+Docket Boy is voiced by filmmaker, comedian, writer and editor Michael Griffin.
+He shares the same design as Postie.
+Gallery
+Coming-soon
+
+Doctor
+5
+VIEW SOURCE
+Doctor
+Doctor (Season 1)
+Doctor (Season 2)
+Doctor (Season 1)
+Characteristics
+Breed
+Schnauzer or Scottish Terrier
+Gender
+Female & Male
+Age
+Unknown
+Traits
+Eyes
+Black
+Fur
+Black, grey and light grey/brown
+Personal Status
+Relative(s)
+The Terriers (possible sons)
+Media
+First Appearance
+Bumpy and the Wise Old Wolfhound (Doctor 1)
+Baby Race (Doctor 2)
+
+Voice Actor
+Claire Renton (Bumpy and the Wise Old Wolfhound)
+Grant Sundin (Baby Race)
+
+The two Doctors' are secondary characters that have appeared seperately in two episodes of Bluey.
+
+Contents
+1 Appearances
+2 Biography
+3 Appearances
+4 Trivia
+5 Gallery
+5.1 Screenshots
+
+AD
+Appearances
+Both of the doctors are Terriers (either Schnauzer or Scottish) with grey, black and either light grey (Season 1 Doc.) or brown fur (Season 2 Doc.). Aside from differences in fur (and that Doctor 1 has white tips along the ears and more varied tones elsewhere), the two are virtually identical.
+
+Both wear uniforms of white laboratory coats, and each have ID cards and matching glasses.
+
+Biography
+Doctor 1 works at the hospital seen in Bumpy and the Wise Old Wolfhound, where she is a nurse.
+
+Doctor 2 is also in the health profession, though working as a general practitioner.
+
+It is possible that the two know each other, and one or both may be the parents to The Terriers.
+
+Appearances
+S01E32 - Bumpy and the Wise Old Wolfhound (Doctor 1)
+S02E50 - Baby Race (Doctor 2)
+Trivia
+Both doctors are voiced by members of Ludo Studios:
+Claire Renton (Doctor 1) was, at the time of Bumpy, The Lead Animator for numerous episodes, before being promoted to Animation Director (and also occasionally Storyboard Artist).
+Grant Sundin (Doctor 2) has been the head of Online Post Production for every episode, with the role changing in Season 3 to On-Line Editor.
+The laboratory coats used by the doctors are reversed, with Doctor 1's pocket being to their right, while Docto 2's being on their left.
+Gallery
+Screenshots
+Bumpy-screen
+Doctor 1 with Chilli and Bingo
+Baby Race-Doctor, Y. Chilli & Y. Bluey
+Doctor 2 with younger Chilli and Bluey.
+
+Dougie
+7
+VIEW SOURCE
+Stop.png
+Spoiler Alert!
+
+This article/section may reveal details on recent or upcoming episodes.
+
+If you would like to avoid spoilers, exit the page, or proceed with caution.
+
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+Dougie
+
+Characteristics
+Breed
+Cavapoo
+Gender
+Male ♂
+Traits
+Eyes
+Black
+Fur
+Light brown, tan
+Personal status
+Relative(s)
+Dougie's Mum
+Media
+First Appearance
+Turtleboy
+
+Dougie is a minor character that has appeared in Turtleboy.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearances
+4 Trivia
+5 Gallery
+
+AD
+Appearance
+Dougie is a cavapoo with light brown fur, tan eyebrows, and a gray nose.
+
+Biography
+He has a mum. He has no known other relatives yet.
+
+Appearances
+S03E20 - Turtleboy
+Trivia
+He is the first deaf character to appear, and he uses Australian Sign Language (Auslan) and lip reading to communicate with his mum.
+He is also the first character to not have a voice actor or to have it be revealed like other kids in the show.
+Gallery
+Dougie
+
+Dougie's Mum
+VIEW SOURCE
+Dougie's mum
+
+Characteristics
+Breed
+Cavapoo
+Gender
+Female ♀
+Traits
+Eyes
+Black
+Fur
+Brown
+Personal Status
+Relative(s)
+Dougie
+Media
+First Appearance
+Turtleboy
+Voice Actor
+Miranda Tapsell
+
+Dougie's Mum is a secondary character that has appeared in Bluey.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearances
+4 Trivia
+5 Gallery
+6 References
+
+AD
+Appearance
+Dougie's Mum is a cavapoo[1] with light brown fur, tan eyebrows, and a gray nose.
+
+Biography
+-Coming soon-
+
+Appearances
+S3E20 - Turtleboy
+Trivia
+Dougie's Mum is voiced by Miranda Tapsell.
+Dougie's Mum's appearance is based on Phoebe Waller-Bridge[1].
+Dougie's Mum is the first dog confirmed to be mixed-breed in Bluey.
+Gallery
+References
+https://web.archive.org/web/20220617051418/https://twitter.com/raffamor/status/1537664790041985030
+Others like you also viewed
+Dougie
+Dusty
+Zara
+Captain
+Frisky
+Chippy
+Missy
+Harley
+Brandy Cattle
+Lila
+Jasper G.
+Mort
+Cherry
+Gruber
+Alfie
+
+Categories
+Community content is available under CC-BY-SA unless otherwise noted.
+
+Dusty
+5
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+Dusty
+
+Characteristics
+Breed
+Red Kelpie
+Gender
+Female ♀
+Traits
+Eyes
+Black
+Fur
+Red and tan
+Personal Status
+Relative(s)
+Rusty's Mum
+Rusty's Dad
+Rusty (older brother)
+
+Contents
+1 About
+2 Appearance
+3 Biography
+4 Appearances
+5 Trivia
+
+AD
+About
+Dusty is Rusty's younger sister.
+
+Appearance
+Dusty is a Red Kelpie with red and tan fur. She has tan feet, hands, muzzle, eyebrows, inner ears and red legs, arms, tail, torso, head and ears. She also has a dark brown nose and and her right ear is bent.
+
+Biography
+Dusty is the daughter of her parents and the younger sister of Rusty.
+
+Appearances
+TBA
+Trivia
+Dusty is expected to appear in a book called Bluey and Friends Little Library, which is releasing in July 2023.
+Others like you also viewed
+Rusty
+Rusty's Dad
+Mackenzie
+Bluey Heeler
+Indy
+Radley Heeler
+Frisky
+Bluey Wiki
+Brandy Cattle
+Socks Heeler
+Dougie
+Chippy
+Cherry
+Missy
+
+Categories
+Community content is available under CC-BY-SA unless otherwise noted.

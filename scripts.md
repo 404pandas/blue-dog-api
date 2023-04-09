@@ -3003,7 +3003,7 @@ Postie (cameo)
 Chloe (mentioned)
 Jean-Luc (pictured)
 Clip
-Bingo*-\_NEW_SEASON_2*-\_Bluey   
+Bingo*-\_NEW_SEASON_2*-\_Bluey  
 Trivia
 This episode is a one-time spin-off of the entire series as it focuses primarily on Bluey's sister, Bingo.
 Bingo gets her own title card, intro and outro in this episode. She says "This episode of Bingo is called "Bingo"" instead of "This episode of Bluey is called "Bingo"".
@@ -5413,3 +5413,858 @@ Cubby/Gallery
 
 Categories
 Community content is available under CC-BY-SA unless otherwise noted.
+
+<!-- Dad Baby/Script
+< Dad Baby
+1
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+
+EpisodeGalleryScript
+
+Script.jpg
+Coming-soon.png -->
+
+Daddy Dropoff/Script
+< Daddy Dropoff
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Script.jpg
+Lila: My name is Lila and this is my story (View outside of kindy) This is me on my first day at kindy. I was really shy. Mum says, that's OK, but that meant sometimes I wasn't really good at making friends. I just didn't know how to do it. But then one day that all changed. (The Heeler house) And it started with pet feet.
+
+Bluey: Oh, hello, my lovely little pet foot.
+
+Bingo: Oh, hello, my lovely little pet foot.
+
+Bluey: Oh, you're extra stinky this morning.
+
+Bingo: Pooh, yeah.
+
+Bluey: Time for tricks. Ready? Stand.
+
+(Both GIggle)
+
+Good boy. Up.
+
+(Both Giggle)
+
+Bluey: Let's say hello to lefty. (squeals)
+
+Bingo: You're pet's attacking my pet!
+
+Bluey: Sit, Righty, sit!
+
+Bingo: Come here! Yaaa!
+
+(Bluey Giggles)
+
+Bandit: Oh, the kids - argh! - are awake.
+
+Chilli: You like making extra work for yourself, don't you?
+
+Bandit: Yeah. At least I get to lie in bed, though.
+
+Chilli: You know it's Daddy Dropoff this morning.
+
+This startles Bandit awake.
+
+Bandit: Right! Kids! Daddy Dropoff! We are not gonna be late this time. (Bandit sees that Bluey and Bingo attached leashes to his ankles.) Huh? Hey.
+
+Bluey and Bingo: (Giggles) Walkies!
+
+This episode of Bluey is called Daddy Dropoff.
+
+Daddy Putdown/Script
+< Daddy Putdown
+VIEW SOURCE
+EpisodeGalleryScript
+
+Script.jpg
+[The episode starts in front of the Heeler's Home Where Bluey, Bingo, Chilli, and Bandit are outside. Chilli is getting ready to go to a baby shower. While Bluey is sad that she is leaving, and Bingo is on Bandit's Shoulder]
+
+Bingo: Look at those big muscles! [while she is patting his muscles]
+
+Bandit: [Lets go of Bingo and grabs her fast] Sorry Bingo. You slipped.
+
+Chilli: [Waves goodbye to Bluey & Bingo] I'll see you in the morning, kids.
+
+Bluey: [Runs to Chilli] I don't want you to go.
+
+Chilli: [Rubs Bluey's Cheek] I know sweetie, but Mummy has to go to a baby shower tonight, okay?
+
+[Bandit lets of of Bingo and grabs her fast again. Chilli gets in the car.]
+
+Bandit: Oh! Again!
+
+Bluey: Will I already be asleep when you get back?
+
+Chilli: Yes, but I'll still come in and give you a kiss good night.
+
+Bluey: But I won't feel it!
+
+Chilli: Yes, you will.
+
+Bingo: Who'll put us to bed?
+
+Chilli: Your dad! It's a Daddy putdown.
+
+Bingo: Hooray!
+
+[Bluey lets out a sad yelp.]
+
+Bandit: Don't worry, Bluey. I'm all over it.
+
+He lets go of Bingo and grabs her fast yet again, this time Bingo almost hitting the ground.
+
+Bandit: Whoa! That was a close one. No more of that game.
+
+[Title card]
+
+Bluey (voiceover): This episode of Bluey is called Daddy Putdown.
+
+[The scene changes to the front of the house. Chilli honks the horn and drives off.]
+
+Bandit & Bingo: Bye!
+
+Bandit: Okay, kids, what should we do?
+
+[Bluey takes out Bandit's phone.]
+
+Bluey: Ring Mum and ask her to come back.
+
+[Bandit takes the phone away.]
+
+Bandit: We're not doing that.
+
+Bluey: But I miss her!
+
+Bandit: Well, let's take your mind off it. How about we play a game?
+
+Bingo: Let's play Follow the Leader!
+
+Bluey & Bandit: Yeah!
+
+[The scene cuts to the dining room of the Heeler's house.]
+
+Bandit: Right! I'm your Magnificent Leader, and you have to follow me. You kids got that?
+
+Bluey & Bingo: Yes, Leader! [Both giggle]
+
+Bandit: Now off to a better tomorrow!
+
+[Bandit turns around and starts walking in a march-like fashion, with Bluey & Bingo following him.]
+
+Bandit: ♪ Follow, follow, follow the Leader ♪
+
+♪ Something, something, united, we are strong ♪
+
+[Both girls turn around and run into the living room and sit down on the couch. Bandit then walks in.]
+
+Bandit: ♪ Follow, follow, follow-- ♪ Oh, hello, there! I- What?!
+
+[Bluey & Bingo giggle]
+
+Bandit: You were supposed to be following me!
+
+[Bluey & Bingo laugh]
+
+Bandit: Get back in line! [Both girls get off the couch and stand behind Bandit] Sitting around will not be tolerated!
+
+[He starts walking in the march-like fashion with both girls following him.]
+
+Bandit: ♪ Follow, follow, follow the Leader ♪ Hmm. I'd best check on these followers to make sure they are indeed following me.
+
+[He turns around, and Bluey & Bingo quickly get behind him.]
+
+Bandit: Hey! What?
+
+[He turns around multiple times, with both of the girls hiding behind him.]
+
+Bandit: Hmph! Where are they?! Grrr! They've gone again!
+
+[Bandit then looks for them in the house, but both girls still hide behind his back when he turns around. He then walks out of the house into the backyard.]
+
+Bandit: There's that giggling again!
+
+Bluey & Bingo: [whispering] One, two, three...
+
+[They proceed to scare Bandit.]
+
+Bandit: You little traitors!
+
+[Bandit then starts chasing the girls. They run around in circles, before being caught by Bandit and falling down on the ground. Bluey & Bingo then giggle.]
+
+Bingo: [Sits on Bandit's belly] Again!
+
+Bandit: Oh, no, mate. The Magnificent Leader needs a break.
+
+Bluey: I miss Mum! [She sits down on the lawn.]
+
+Bandit: Maybe that game wasn't swingy enough. [Points to the swing.]
+
+Bingo: [Gasps and gets off Bandit and runs up to the swing.] I know! Come Here and Go Away!
+
+Bluey & Bandit: Yeah!
+
+[The scene cuts to Bandit pushing the swing with both girls sitting on it.]
+
+Bandit: Okay, kids, come here.
+
+[Bluey & Bingo swing to Bandit.]
+
+Bandit: Now, the thing is-- [They swing away.] What?
+
+[Both girls giggle.]
+
+Bandit: Come here! [They swing back to Bandit.]
+
+Bandit: Okay. So, as I was saying-- [They swing away again] What?!
+
+[Both Girls giggle again]
+
+Bandit: I said, come here! [They swing back to Bandit once again.]
+
+Bandit: What? Aah! [They swing away yet again.]
+
+Bluey: Now play Go Away!
+
+Bandit: Okay. Go away! [He pushes the swing away.]
+
+[Bluey & Bingo swing back to Bandit.]
+
+Bluey: Hi!
+
+Bandit: Huh? I said, go away! [He pushes the swing away as both girls start laughing.]
+
+[They swing back to Bandit again.]
+
+Bluey: We're back!
+
+Daddy Robot
+7
+VIEW SOURCE
+EpisodeGalleryScript
+
+Daddy Robot
+
+Airdate
+4th October 2018 (ABC)
+29th October 2019 (Disney Channel (UK))
+2nd December 2019 (Disney Channel (US))
+21st April 2021 (CBeebies UK)
+13th May 2021 (Disney Junior India)
+17thJune 2021 (CBeebies Asia)
+Created and Written by
+Joe Brumm (Series Director)
+Cast
+Dave McCormack (Bandit)
+Melanie Zanetti (Chilli)
+Credits
+Producers
+Michael Carrington (Executive-ABC)
+Henrietta Hurford-Jones(Executive-BBC Worldwide)
+Nathan Waddington (Associate-BBC)
+Charlie Aspinwall (Executive)
+Daley Pearson (Executive)
+Sam Moor (Line Producer)
+Music & Sound
+Joff Bush (Music)
+David Barber (Music)
+Dan Brumm (Sound Design)
+David Champion (Recording Engineer)
+Production
+Laura Dimaio (Development Production Manager)
+Meg O'Connell (Development Manager)
+Andi Spark (Production Manager)
+Lauren Brown (Production Coordinator)
+Andy Blazewell (Technical Advisor)
+Simon Lipowicz (Technical Advisor)
+Designers
+Catriona Drummond (Art Director)
+Costa Kassab (Art Director)
+Owain Emmanuel (Lead)
+Mike Chavez (Storyboard)
+Tim Delaney
+Background Artists
+Faith Chen
+Daniela Hammer
+Connor M. Johnston
+Animation
+Richard Jeffery (Director)
+Claire Renton (Lead)
+Kathleen Hirst
+Loko Lui
+Naomi Scutts
+Dan Smith
+Nani Thomann
+Liana Wright (Layout)
+VFX
+Jacob McCann
+Editors/Post-Production
+Sam Carroll (Script Editor)
+Michael Griffin (Editor)
+Grant Sundin (Online Post Production)
+Other Staff
+Daniel Schultz (Production Accountant)
+Jenny Lalor (Production Lawyer)
+Episode Guide
+Previous
+Keepy Uppy
+Following
+Shadowlands
+Daddy Robot is the fourth episode of the first season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+4 Trivia
+Synopsis
+Bluey and Bingo don’t want to tidy the playroom, so they enlist the help of Daddy Robot to do it for them.[1]
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Bluey
+Bingo
+Bandit
+Chilli
+Trivia
+This is the first episode to:
+Not have music similar to the intro play at the beginning of the episode.
+Have Bingo, rather than Bluey, read the title card.
+To include toilet-humor, in this case a brief fart.
+This episode aired as the first sneak peek on ABC Kids in 2018, with the others being The Magic Xylophone, Keepy Uppy, Shadowlands and Fruitbat.[citation needed]
+Despite having a sock on the couch in the title card, it's nowhere to be seen on the couch in the episode.
+Long Dog: Overturned next to the girls' couch in the playroom scene.
+Bluey episode list
+https://www.bluey.tv/watch/season-1/daddy-robot/
+Others like you also viewed
+The Weekend
+BBQ
+Keepy Uppy
+Shadowlands
+Fruitbat
+Takeaway
+Markets
+The Magic Xylophone
+Bob Bilby
+Bike
+Hospital
+Horsey Ride
+Hotel
+Bumpy and the Wise Old Wolfhound
+Grannies
+
+Categories
+Languages
+Community content is available under CC-BY-SA unless otherwise noted.
+
+Dance Mode/Script
+< Dance Mode
+VIEW SOURCE
+EpisodeGalleryScript
+
+Script.jpg
+This episode opens on the remains of a meal - a single crinkle-cut chip on a plate, surrounded by ketchup. The shot pulls back to show the whole table: the Heelers have just finished a meal. Bluey and Bingo are coloring with crayons. Bandit is sitting quietly; Chilli raises a hand to get a server's attention.
+
+Contents
+1 Local Restaurant
+2 Crossing the Street/First Dance Mode
+3 Post Office/ Second Dance Mode
+4 Busker busking in the plaza
+5 Yes/No Button Store
+6 Heeler's Car
+7 Back at the plaza
+Local Restaurant
+Dance-Mode-Restaurant.png
+Chilli: Excuse me? Yes, over here.
+
+Bingo: Ooh, I need brown.
+
+Bingo reaches for her crayons, and knocks the box off the table.
+
+Bingo: Oops.
+
+Bingo ducks under the table. She bumps the table, knocking over the table number. Chilli picks it up and straightens the card.
+
+Chilli: Oh, yes. Can we get the bill, please?
+
+Bluey: (singing loudly and shrilly) OH, CAN WE GET THE BILL?!
+
+Bandit: Bluey, inside voice.
+
+Bluey: (singing quietly) Oh, can we get the bill?
+
+Bandit: Is Bingo gonna eat that chip?
+
+Chilli: Uh, no. I think she's finished.
+
+Bandit: SCAB!
+
+Bandit snatches the ship and eats it. Bingo climbs back into her seat and sets her crayon box on the table.
+
+Bingo: There! Hey, where's my chip?
+
+Bandit: Ee!
+
+Bluey: Dad ate it.
+
+Bandit swallows guiltily.
+
+Bingo: (betrayed) What?!
+
+Crossing the Street/First Dance Mode
+Dance-Mode-Crossing.png
+The Heeler family is standing outside at a crosswalk. Bingo looks very upset.
+
+Bingo: I was saving that chippy.
+
+Bandit: I know. I said I was sorry, kid.
+
+Chilli: It's my fault. I thought you'd finished.
+
+Bingo: I was still very hungry.
+
+Chilli: How can we make it up to you, Bingo?
+
+Bandit: Yeah. Name your price.
+
+Bluey: Ah! I know.
+
+Bluey whispers something in Bingo's ear. She perks up, and both Bingo and Bluey start to wag their tails.
+
+Bingo: Eee! Dance mode!
+
+Bandit and Chilli: Aw, not dance mode.
+
+Bingo and Bluey giggle.
+
+TITLE CARD - Dance Mode
+
+Bluey: [voiceover] This episode of Bluey is called Dance Mode.
+
+Chilli pushes the crossing button repeatedly.
+
+Bluey: Eee, I'm so excited!
+
+Bingo: Me too!
+
+Bandit: Right. You get three dance modes, Bingo, and then that's it.
+
+Bluey and Bingo: Okay.
+
+The crossing signal changes from a red sitting dog to a green walking dog.
+
+Chilli: Green dog. Come on.
+
+The Heelers cross the street. One of the cars is playing loud music.
+
+Bluey: (gasps) Bingo, music! Shall we put Mum in dance mode?
+
+Bingo: Um, yes, okay.
+
+Bluey: I'll do it.
+
+Bluey flips Chilli's tail like a switch. Chilli immediately starts to dance as she continues through the crosswalk.
+
+Bluey and Bingo: (laugh)
+
+As Chilli continues to dance, drivers stare, laugh, and honk their horns.
+
+Bandit: Quick, let's bail kids! [to the drivers] She's not with us!
+
+Chilli: Bandit!
+
+Bandit hurries away, taking Bluey and Bingo with him. Chilli has one more car to cross in front of - and Wendy is driving it. Pat is in the car behind Wendy. Wendy doesn't notice Chilli - she's rummaging in the glove box, and then she recognizes Bandit and watches him leave the crosswalk. As Chilli shimmies in front of Wendy's car, Pat leans out the window.
+
+Pat: Whoo! Shake it Chilli!
+
+Wendy glares at Pat and shakes her head.
+
+Chilli: (waves) Morning, Wendy!
+
+Wendy finally notices Chilli, looking shocked. The shot cuts to the other side of the crosswalk. As Chilli exits the street, Bluey and Bingo giggle. Chilli leans on the crosswalk button and wipes sweat from her brow.
+
+Chilli: Phew.
+
+Bluey: That was so funny.
+
+Chilli is sweating a lot.
+
+Bandit: You still got it, babe.
+
+Chilli: You'll get yours.
+
+Bingo: Bluey, the next dance mode is going to be mine to choose when, okay? Not you.
+
+Bluey: Okay.
+
+Post Office/ Second Dance Mode
+Dance-Mode-Post-Office.png
+A few dogs are standing around outside a post office. Inside, Bandit is second in line at the counter. Bluey is holding his hand, Bingo is reading a book, and Chilli is browsing a display of greeting cards.
+
+Bluey: Are you gonna use your dance mode in here, Bingo?
+
+Bingo: No. I wanna save it for somewhere special. Plus there's no music here.
+
+Bluey: Oh, yeah.
+
+Bandit: Aw, what a shame.
+
+Postie: Next, please.
+
+Bandit and Bluey walk up to the counter.
+
+Postie: How can I help?
+
+Bandit: I just need to change the address on this.
+
+Bandit hands Postie his driver's license.
+
+Postie: Okay. I'll need to see two forms of I.D., please.
+
+Bandit: Two? Uh, hang on. Let me have a look.
+
+Chilli opens up a card - it plays a chiptune version of Oh! Susannah.
+
+Chilli: Ooh, music! Bingo, can I please use dance mode on your dad?
+
+Bingo: Uh, well, it's just --
+
+Chilli: Pretty please.
+
+Chilli makes her Please Face.
+
+Bingo: (hesistantly) Uh, okay, yes.
+
+Chilli: Oh, thank you, thank you, thank you!
+
+The scene cuts back to Bandit, who is holding out another card for Postie to see.
+
+Bandit: Well, I've got my gym card. It's sorta got my picture on it.
+
+Postie: Uh, no. I can't use a gym card, mate.
+
+Oh! Susannah begins to play from offscreen.
+
+Bandit: Oh no!
+
+Chilli flips Bandit's tail down, activating Dance Mode.
+
+Chilli: Dance mode!
+
+Bandit spins around, then starts shaking his bum. Chilli, Bingo and Bluey laugh. Bandit keeps holding up his gym card as he dances.
+
+Postie: Uh, are you okay?
+
+Bandit does some kicks.
+
+Bandit: I'm fine. Just ignore this.
+
+Bandit does The Twist. He gets out his library card
+
+Bandit: Now, um, what about my library card?
+
+Postie: Uh, I'm sorry, we can only accept...
+
+Bandit does The Running Man.
+
+Postie: Look, if you could just stop dancing for a moment.
+
+Bandit does a Cossack dance.
+
+Bandit: I would if I could, mate.
+
+Bandit starts doing a jig. Chilli, Bingo, and Bluey are laughing at him. The customer at the end of the line heckles him.
+
+Customer: Hey, Twinkle-toes! Hurry up!
+
+Busker busking in the plaza
+The scene cuts to the Heeler family walking down the sidewalk. Bingo and Bluey are still laughing.
+
+Chilli: That was glorious.
+
+Bandit: Uh, yeah, yeah, yeah.
+
+Bluey: When are you gonna use your last dance mode, Bingo?
+
+Bingo: Last one? But I haven't even used my first one yet.
+
+Music starts to play.
+
+Bluey: What's that noise?
+
+Bandit starts to herd his family back the way they came.;;
+
+Bandit: Uh, let's, um, go this way instead. Come on, come on, come on!
+
+Bluey: Ooh, here. Hang on.
+
+Bandit tries to block Bluey's view with his body.
+
+Bandit: Nothing to see up there.
+
+Bluey: Ooh, look!
+
+Bingo points past Bandit. Cut to Busker, who is playing Dance Mode on a Thongophone - an instrument consisting of a tangle of PVC pipes, played by slapping the pipe openings with thongs. He is surrounded by a crowd of several dozen people, and has set out a hat to accept tips.
+
+Busker: Whoo! Shake it! (howls)
+
+The Heelers approach.
+
+Busker: Shake your tails!
+
+Bluey: He's playing music with thongs!
+
+Bingo: Wow!
+
+Bluey: Is this a good place for you dance mode?
+
+Bingo: Ooh, yeah!
+
+Bluey: Do it, Bingo.
+
+Bingo: Dance mo--
+
+Bingo tries to flip Bandit and Chilli's tails. They grab their tails and pull them out of the way before Bingo can reach them.
+
+Bandit: Oh, hang on.
+
+Chilli: Yeah, hang on.
+
+Bingo: Hey.
+
+Bandit: Look, uh, you seem like you're cheered up, Bingo. Maybe we can forget about that last dance mode.
+
+Bingo: Aw, what?
+
+Bluey: No fair!
+
+Bandit pulls out his wallet and rummages for bills.
+
+Dance-Mode-Bribe.png
+Bandit: Okay, look, I'm gonna buy your last dance mode off you for, uh, ten -- no, no, no, twenty bucks.
+
+Chilli: Bandit, no!
+
+Bluey: Whoa, twenty dollar bucks! You could buy a Yes/No button!
+
+Bandit: Yeah, yeah. Yes/No button -- that thing sounds good.
+
+Bluey makes her Please Face.
+
+Bluey: Please, Bingo?
+
+Bandit makes his Please Face, holding out a 20 dollar bill. Chilli glares at him and shakes her head.
+
+Bandit: Pretty please?
+
+Bingo: Uh. Okay.
+
+Bingo takes the 20 dollar bill, but looks conflicted about it.
+
+Bluey: Hooray! Let's go!
+
+Bluey runs off happily. Bingo follows. Bandit pantomimes wiping his brow.
+
+Bandit: Phew!
+
+Chilli: This is not good parenting.
+
+Yes/No Button Store
+The scene cuts to a very small store that mainly sells backpacks - it also sells plushies, water bottles, keychains, and headphones. And, of course, Yes/No buttons - a yellow keychain with a green "Y" button and a red "N" button. Bandit and Chilli are standing at the register, looking bored. Bingo and Bluey are over by the Yes/No buttons.
+
+Bluey: Oh, here it is. Look, Bingo. You push this.
+
+Yes/No Button: YES
+
+Bluey laughs. Bingo looks at her blankly.
+
+Bluey: And if you push this one...
+
+Dance-Mode-Shop.png
+Yes/No Button: NO
+
+Bluey laughs.
+
+Bluey: What do you think? Do you want it, yeah? Should we get it?
+
+Bingo: Uh, okay.
+
+Bluey: Hooray!
+
+The scene cuts to a parking garage. The family is walking together; Bluey is playing with the Yes/No Button.
+
+Yes/No Button: NO NO NO NO NO NO NO NO
+
+Bandit: Well that all worked out, didn't it, kids?
+
+Yes/No Button: YES
+
+Bluey giggles. Bingo looks sad.
+
+Heeler's Car
+The scene changes to the back seat of the Heeler's car. Bluey is still playing with the Yes/No Button, Bingo is still sad.
+
+Yes/No Button: YES YES YES YES YES YES YES
+
+Bandit: Aw, Bingo, what's up?
+
+Chilli: You wanna tell us what's the matter, honey?
+
+Bingo shakes her head.
+
+Bluey: Do you not like your Yes/No Button?
+
+Bingo takes the Yes/No Button and presses "N."
+
+Dance-Mode-Car-Talk.png
+Yes/No Button: NO
+
+Bluey: (yelling) BUT YOU SAID YOU WANTED IT!
+
+Bandit: Bluey, inside voice.
+
+Bluey: (stage-whispering) But she said she wanted it, so why is she upset?
+
+Chilli: Is it because people keep taking things from you without asking?
+
+Bingo presses "Y."
+
+Yes/No Button: YES
+
+Chilli: I thought so.
+
+Bandit: Like when I took your last chip?
+
+Bingo presses "Y."
+
+Yes/No Button: YES
+
+Chilli: And I took one of your dance modes.
+
+Bingo presses "Y."
+
+Yes/No Button: YES
+
+Bluey: Well, I took one, too, but I asked. We all asked, and she said "yes." Didn't you Bingo?
+
+Bingo hesitates, then presses "Y."
+
+Yes/No Button: YES
+
+Bluey: See? So what are we meant to do then?
+
+Bandit: This is confusing.
+
+Chilli: Bingo, sometimes does your outside voice say "yes" when your inside voice really means "no"?
+
+Bluey: Oh, yeah, like this.
+
+Bluey mashes the Yes and No button at the same time.
+
+Yes/No Button: YES NO NO Y-NO YES
+
+Bingo smiles. Bluey, Bingo, and Bandit laugh.
+
+Bluey: I'm sorry Bingo.
+
+Chilli: Me too.
+
+Bandit: Yeah, me too.
+
+Bandit rubs Bingo's head and she giggles.
+
+Bluey: (leadingly) Can you think of a way that we can make it up to you?
+
+Bandit and Chilli: Whoa, hang on.
+
+Thongophone music begins to play, and Bingo smiles evilly. She presses the "Y" button.
+
+Yes/No Button: YES
+
+Back at the plaza
+The scene cuts back to Busker playing the thongophone. Bluey's Tooth Fairy money is in his hat.
+
+Busker: Hey! Hey, hey!
+
+The Heelers are standing at the front of the crowd. Bingo's tail is wagging hard.
+
+Bluey: This is gonna be fun!
+
+Bandit: Oh, boy.
+
+Bandit, Chilli, and Bluey all put their tails together.
+
+Bluey: We're ready, Bingo!
+
+Bingo squeals and moves into position.
+
+Bluey-Bandit-Chilli-Dancemode.png
+Bandit: This seems to happen to us a lot.
+
+Chilli: (laughing) Just dance like no one's watching.
+
+Bingo stands behind them with her hand in the air.
+
+Bingo: Ready?
+
+Bandit closes his eyes in embarrassment and addresses the crowd.
+
+Bandit: Ladies and gentlemen, I'm doing this for my kid.
+
+Bingo slaps her hand down, flipping down all of their tails.
+
+Bingo: Dance Moooode!
+
+Bandit, Chilli, and Bluey leap into the open space in the center of the plaza, and start dancing like crazy.
+
+Busker: Whoo! Yeah! Here we go!
+
+As the Heelers dance, each of them gets a solo shot: Bluey is fist pumping and jumping around; Chilli is windmilling her arms; Bandit is doing the robot. Bingo is bouncing from side to side and hitting the "Y" button.
+
+Yes/No Button: YES YES YES YES
+
+Busker: Whoo! Yeah!
+
+Bandit, Chilli, and Bluey are still dancing.
+
+Bandit: Let's take this to the mat!
+
+Bandit flops down on the ground and starts doing the Worm.
+
+Busker: Who likes to daaaance?!
+
+[End credits]
+
+Busker's song continues through the end credits.
+
+<!-- Script for Dragon, 45th episode of Season 3 -->
+
+<!-- Driving/Script
+< Driving
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+
+EpisodeGalleryScript
+
+Script.jpg
+Coming-soon.png -->
