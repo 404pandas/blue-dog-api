@@ -172,4 +172,4 @@ https://blueypedia.fandom.com/wiki/Bluey_(TV_series)
 
 This portion of the Readme is devoted to keeping track how many times I've rewatched Bluey in its entirety while developing this app.
 
-Current count: 7
+Current count: 8
