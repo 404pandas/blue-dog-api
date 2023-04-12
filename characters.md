@@ -2965,6 +2965,84 @@ Bluey’s non-stop cousin. Always speaks her mind.
 Jack
 Jack
 Jack Russell is a lively Jack Russell terrier. His best friend is Rusty.
+Jack Russell
+25
+VIEW SOURCE
+Jack Russell
+
+Characteristics
+Breed
+Jack Russell Terrier
+Gender
+Male ♂
+Age
+6 (formerly)
+7 (Currently)
+Traits
+Eyes
+Black
+Fur
+Brown, light brown, dark brown and white
+Personal Status
+Relative(s)
+Jack's Dad
+Jack's Mum
+Lulu (younger sister)
+Friend(s)
+Rusty (best friend)
+Bluey
+Coco
+Mackenzie
+Media
+First Appearance
+Army
+
+Jack is a secondary character that has appeared in multiple episodes of Bluey.
+
+Contents
+1 Bluey.tv Description
+2 Appearance
+3 Biography
+4 Appearances
+5 Trivia
+6 Gallery
+6.1 Artwork
+6.2 Animated
+
+AD
+Bluey.tv Description
+"Jack Russell is a lively Jack Russell terrier. His best friend is Rusty."
+
+Appearance
+Jack is a Jack Russell Terrier with brown, light brown, dark brown and white fur. He has white feet, legs, hands, arms, tail tip, tummy, head and muzzle, brown ears and inner torso spot, dark brown tail stem, outer torso spot and eyebrows, and brown head spots. He also has a grey nose.
+
+Biography
+Jack is a new student at Calypso’s School, best friends with Rusty, the son of his parents and the older brother of Lulu.
+
+Appearances
+S02E16 - Army
+S02E25 - Helicopter
+S02E47 - Ice Cream (cameo)
+S03E09 - Curry Quest (cameo)
+S03E15 - Explorers
+S03E34 - Space
+Trivia
+He loves condensed milk.
+He is the first known character to be neurodivergent, in his case he has ADHD.
+In Explorers, it is revealed that Jack and his family are from Victoria. This can be shown on the number plate shown on his family's car.
+Gallery
+Artwork
+Jack Army-1
+Jack-0
+Jack sad while everyone left the boat
+Sad Jack
+Jack joins Rusty's Army - Season 2 - Bluey
+Jack joins Rusty's Army - Season 2 - Bluey
+Jack and Rusty, seen in Army
+Screenshot 2023-01-13 6.47.36 PM
+Jack and his family, seen in Ice Cream
+Animated
+Jack
 
 Rusty
 Rusty
@@ -2981,6 +3059,90 @@ Quick, sociable and from New Zealand.
 Indy
 Indy
 Super open and imaginative.
+Indy
+10
+VIEW SOURCE
+Indy
+
+Characteristics
+Breed
+Afghan Hound
+Gender
+Female ♀
+Traits
+Eyes
+Black
+Fur
+Orange, tan and cream
+Personal Status
+Relative(s)
+Indy's Mum
+Unnamed sister (Early Baby)
+Friend(s)
+Bluey
+Bingo
+Chloe
+Honey
+Rusty
+Gruber
+Winton
+Snickers
+The Terriers
+Coco
+Mackenzie
+Media
+First Appearance
+Calypso
+(Production Appearance: The Doctor)
+
+Indy is a secondary character that has appeared in multiple episodes of Bluey.
+
+Contents
+1 Bluey.tv Description
+2 Appearance
+3 Biography
+4 Appearances
+5 Trivia
+6 Gallery
+6.1 Screenshots
+
+AD
+Bluey.tv Description
+"Super open and imaginative."
+
+Appearance
+Indy is an Afghan Hound with tan, orange, and cream fur. She has tan on her legs, hands, arms, tail, torso, bottom of her head and muzzle, and eyebrows; orange on her hair and the top of her head and muzzle; and cream feet. She also has a black nose and wears green hair rings, a brown, pink, blue, green, and yellow vest with a rainbow at the back, and a necklace with a white swirly circle on it.
+
+Biography
+Indy is friends with most of the students in Calypso’s school. She has a Mum and a sister, but no known dad as of yet.
+
+Appearances
+S01E17 - Calypso
+S01E18 - The Doctor
+S01E20 - Markets
+S01E40 - Early Baby
+S01E41 - Mums and Dads
+S02E25 - Helicopter
+S02E31 - Barky Boats (cameo)
+S02E45 - Handstand
+S03E15 - Explorers (cameo)
+S03E28 - Stories
+S03E34 - Space
+S03E?? - Wild Girls
+Trivia
+She is not allowed to eat wheat/gluten, sugar, salt, dairy, or food with added ingredients (like prepackaged tomato sauce, barbecue sauce and mustard), whether it be due to her allergies, her religion, her tradition or her family's basic diet.
+She is seen with longer hair in some episodes, but the studio shortened her hair to make it easier to animate.
+When she had longer hair, she could be seen with green, blue, yellow, and pink hair rings.
+The Early Baby episode reveals that Indy has a sister that either had a premature baby or was a preemie baby herself. (At the moment, this hasn't been elaborated on.) it can be assumed, though based on what Bluey says that it was her sister that had the premature or "early" baby since she says, "Indy wanted to play "Early Baby" like her sister in real life."
+Another character that mentioned her sibling and still didn't appear in the series, is Winnie.
+Her name is a diminutive of Indianapolis.
+Gallery
+Screenshots
+Screenshot at Jun 03 09-15-10
+Screenshot at Jun 03 09-07-41
+Screenshot at Jun 03 09-05-28
+Screenshot at Jun 03 09-06-59
+Indy and Rusty
 
 Honey
 Honey
@@ -3585,6 +3747,83 @@ Bluey’s other neighbour.
 Jean Luc
 Jean Luc
 Bluey’s French Canadian camping buddy.
+Jean-Luc
+15
+VIEW SOURCE
+Jean-Luc
+
+Characteristics
+Breed
+Labrador
+Gender
+Male ♂
+Age
+6
+19 (future)
+Traits
+Eyes
+Black
+Fur
+Bluish-black Navy
+Personal Status
+Relative(s)
+Jean-Luc's Dad
+Jean-Luc's Mum
+Friend(s)
+Bluey
+Bandit
+Media
+First Appearance
+Camping
+
+Jean-Luc is a secondary character that appeared in Camping.
+
+Contents
+1 Bluey.tv Description
+2 Appearance
+3 Biography
+4 Appearances
+5 Trivia
+6 Gallery
+6.1 Screenshots
+6.2 Merchandise
+7 References
+
+AD
+Bluey.tv Description
+"Bluey’s French Canadian camping buddy."
+
+Appearance
+Jean-Luc is a Labrador with Bluish-black fur covering his full body. He also has a dark blue nose.
+
+Biography
+Jean-Luc is friends with Bluey and is the son of Jean-Luc's Dad and Jean-Luc's Mum.
+
+Appearances
+Camping
+Bingo (drawing cameo)
+The Show (drawing cameo)
+Trivia
+Jean-Luc and his parents speak French.
+He is French-Canadian in reference to how his breed – the Labrador Retriever – is named after the province of Newfoundland and Labrador. As the name suggests, the province is comprised of the island of Newfoundland and the mainland region of Labrador, which is located in the northeast of Canada and borders the predominantly French-speaking province of Québec. The province also lends its name to another breed of dog: the Newfoundland or "Newfie."
+Jean-Luc is similar in appearance to Lucky, but isn’t slimmer towards his waist like Lucky and has different coloured fur.
+His future self speaks English as seen at the end of Camping.
+A drawing of him and Bluey can be seen in Bingo and The Show.
+In the French dub, Jean Luc is renamed Johnny, and he speaks English.
+This is the reverse of how it is in the original English version.
+He only appears in one episode.
+His name is pronounced "John-Luke."
+Gallery
+Screenshots
+Camping-screen
+Jean-Luc and Bluey capturing Bandit.
+Jean-Lucs-Family
+Jean Luc's family having dinner.
+Merchandise
+Bluey-Ultimate-Caravan-Adventures-Playset
+Bluey-Caravan-Adventures
+References
+BLUEY FAMILY TREE Part 2: Chilli Heeler family names, MISSING sister Brandi...& Rusty is a cousin?? at the 8:18 mark.
 
 The Terriers
 The Terriers
@@ -6533,3 +6772,850 @@ Not much is known about Hospital Kid's Mum. She visited the op shop that Bluey a
 
 Appearances
 S02EP38 - Mr. Monkeyjocks
+
+Indy's Mum
+3
+VIEW SOURCE
+Indy's Mum
+
+Characteristics
+Breed
+Afghan Hound
+Gender
+Female ♀
+Traits
+Eyes
+Magenta
+Fur
+Dark tan, tan and cream
+Personal Status
+Relative(s)
+Indy (Daughter)
+Unnamed older daughter (mentioned in Early Baby)
+
+Friend(s)
+Bandit
+Poffertje Dog
+
+Media
+First Appearance
+Markets
+Voice Actor
+Myf Warhurst
+Indy's Mum is a secondary character that first appeared in Markets of Bluey.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearances
+4 Trivia
+5 Gallery
+
+AD
+Appearance
+Indy's Mum is an Afghan Hound with dark tan and cream fur. She has tan legs, hands, arms, tail, torso, bottom head and bottom muzzle, cream feet, hair tips and eyebrows; and dark tan top head, top muzzle and blonde hair. She also has a black nose and wears dream catcher earrings, a black and red fanny pack, and a necklace with a jewel attached to it.
+
+Biography
+Indy’s Mum sells gluten free cakes at the markets. She is friends with Bandit, and has two daughters, the younger of whom is called Indy. She has no known husband.
+
+Appearances
+S1E20 - Markets
+S2E02 - Hammerbarn
+S2E33 - Circus (cameo)
+Trivia
+She is voiced by writer and producer Myf Warhurst, who also voices Aunt Trixie.
+190CAE6C-0F43-4AA6-BD6F-91B1FBC34D58.jpg
+Gallery
+Poffertje-dog-with-Indys-mum.jpeg
+
+Jack's Dad
+1
+VIEW SOURCE
+Jack's Dad
+
+Characteristics
+Breed
+Russell Terrier
+Gender
+Male ♂
+Traits
+Eyes
+Black
+Fur
+Brown, dark brown and white
+Personal Status
+Relative(s)
+Jack's Mum (wife)
+Jack (son)
+Lulu (daughter)
+Media
+First Appearance
+Army
+Voice Actor
+Hamish Blake
+Jack's Dad is a secondary character that appeared in the episode Army of the second season of Bluey.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearances
+4 Trivia
+5 Gallery
+5.1 Screenshots
+
+AD
+Appearance
+Jack's Dad is a Jack Russell Terrier with brown, dark brown and white fur. He has white legs, feet, arms, hands, tail tip, torso, muzzle and bottom head, brown back spots, left ear, left head and muzzle spots, and dark brown eyebrows, tail stem, right ear and right head. He also has a black nose and beard whiskers on his muzzle.
+
+Biography
+Jack’s Dad is the father of Jack and Lulu, and the husband of Jack's Mum. He has no known friends as of yet.
+
+Appearances
+S02E16 - Army
+S02E33 - Circus (cameo)
+S02E34 - Ice Cream (cameo)
+S03E15 - Explorers
+Trivia
+He is voiced by Australian comedian, actor and author Hamish Blake. Who also voiced Employee.
+Gallery
+Screenshots
+Jacks-dad
+Jack's Dad with Jack and Lulu.
+
+Jack's Mum
+2
+VIEW SOURCE
+Jack's Mum
+
+Characteristics
+Breed
+Russell Terrier
+Gender
+Female ♀
+Traits
+Eyes
+Black
+Fur
+Brown, dark brown and white
+Personal Status
+Relative(s)
+Jack's Dad (husband)
+Jack (son)
+Lulu (daughter)
+Media
+First Appearance
+Hammerbarn
+Voice Actor
+Zoë Foster Blake
+Jack's Mum is a secondary character that appeared in the episode Army of the second season of Bluey.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearances
+4 Trivia
+5 Gallery
+5.1 Screenshots
+
+AD
+Appearance
+Jack's Mum is a Jack Russell Terrier with brown, dark brown and white fur. She has white feet, legs, hands, arms, tail tip, torso, muzzle and bottom head, brown bottom back spots and left and right head, and dark brown outer back spot, tail stem, eyebrows and ears. She also has a black nose.
+
+Biography
+Jack’s Mum is the mother of Jack and Lulu, and the wife of Jack's Dad. She has no known friends as of yet.
+
+Appearances
+S2E02 - Hammerbarn (cameo)
+S2E16 - Army (official debut)
+S2E33 - Circus (cameo)
+S2E37 - The Quiet Game (cameo)
+Trivia
+She is voiced by Australian author, columnist, magazine editor and cosmetics entrepreneur, Zoë Foster Blake.
+Zoë Blake is also the real-life wife of Hamish Blake who provided the voice of Jack's Dad.
+Gallery
+Screenshots
+CaptureJack'sMum
+
+Janelle
+11
+VIEW SOURCE
+Janelle
+
+Characteristics
+Breed
+Labrador Retreiver
+Gender
+Female ♀
+Traits
+Eyes
+Black
+Fur
+Cream
+Personal Status
+Relative(s)
+Pat (husband)
+Lucky (son)
+Chucky (son)
+Friend(s)
+Chilli
+Bandit
+Buddy's Mum
+Media
+First Appearance
+Asparagus (mentioned)
+Pass the Parcel (physical appearance)
+Voice Actor
+Anna Daniels
+
+Janelle is a secondary character that has been mentioned in multiple episodes of Bluey.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearances
+4 Trivia
+5 Gallery
+6 Administrators notes
+7 References
+
+AD
+Appearance
+Janelle is a Labrador Retriever[1] with light cream fur and a rounded muzzle (a bit like Bingo's muzzle, but bigger). She has a light brown nose. She is a bit slim with long, furry ears that end in slightly darker cream-yellow tips, as does her torso and bottom side of her tail.
+
+Biography
+She is Pat’s wife and has two sons.
+
+Appearances
+S01E49 - Asparagus (Mentioned)
+S01E50 - Shaun (Mentioned)
+S02E10 - Rug Island (Mentioned)
+S03E14 - Pass the Parcel (Debut)
+S03E37 - The Decider
+Trivia
+She finally appeared after being mentioned thrice by her husband.
+She is originally from New South Wales.
+It is now confirmed that her name is Janelle, instead of Shanele
+Gallery
+Shanelle!
+Administrators notes
+There is a current controversy on the name of this character from the mentions and dubbing during season 1-2. On the current Australian showings the name is different, so the determining factor will be resolved with the worldwide release of season 3, the name will be either corrected or left as is when that happens.
+
+References
+https://web.archive.org/web/20211123103744/https://twitter.com/annadtweets/status/1462986333257797637
+
+Jasper's Mum
+1
+VIEW SOURCE
+Jasper's Mum
+
+Characteristics
+Breed
+Doberman
+Gender
+Female
+Traits
+Eyes
+Black
+Fur
+Black and Brown
+Personal Status
+Relative(s)
+Jasper (son)
+Friend(s)
+Chilli
+Bandit
+Pat
+Shanelle
+Sheila
+Pom Pom's Mom
+Missy's Mum
+Buddy's Mum
+Media
+First Appearance
+Pass the Parcel
+Voice Actor
+Adele Vuko
+Jasper's mum is a secondary character that appears in Pass the Parcel.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearances
+4 Gallery
+4.1 Screenshots
+
+AD
+Appearance
+Jasper's mum is a Doberman whose fur is predominately black. Her hands, feet, muzzle, belly, eyebrows, the bottom of her tail, and the inside of her ears are brown.
+
+Biography
+Jasper's mum is friends with the parents of Jasper's friends. Aside from her son, she has no known family members.
+
+Appearances
+S3E14 - Pass the Parcel
+Gallery
+Screenshots
+PasstheParcel3
+
+https://blueypedia.fandom.com/wiki/Jean-Luc%27s_Dad
+
+Jean-Luc's Mum
+3
+VIEW SOURCE
+Jean-Luc's Mum
+
+Characteristics
+Breed
+Labrador
+Gender
+Female ♀
+Traits
+Eyes
+Black
+Fur
+Bluish-black
+Personal Status
+Relative(s)
+Jean-Luc (Son)
+Jean-Luc's Dad (Husband)
+
+Media
+First Appearance
+Camping
+Jean-Luc's Mum is a secondary character that has appeared in one episode of Bluey.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearances
+4 Trivia
+5 Gallery
+5.1 Screenshots
+
+AD
+Appearance
+Jean-Luc's Mum is a Labrador who has bluish-black fur covering her whole body. She also has a black nose and wears aqua glasses.
+
+Biography
+Jean-Luc’s Mum is the wife of Jean-Luc's Dad and the mother of Jean-Luc. She has no known friends as of yet.
+
+Appearances
+S1E43 - Camping
+Trivia
+Gallery
+Screenshots
+Jean-Lucs-Family
+Jean Luc's family having dinner.
+
+Judo
+37
+VIEW SOURCE
+Judo
+
+Characteristics
+Breed
+Chow Chow
+Gender
+Female ♀
+Age
+6
+Traits
+Eyes
+Black
+Fur
+White, grey and beige
+Personal Status
+Relative(s)
+Wendy (mother)
+Friend(s)
+Bluey
+Bingo
+Pom Pom (conceivably)
+Media
+First Appearance
+Butterflies
+Voice Actor
+Charlotte Stent
+
+Judo is a secondary character that has appeared in multiple episodes of Bluey.
+
+Contents
+1 Bluey.tv Description
+2 Appearance
+3 Biography
+4 Appearances
+5 Trivia
+6 Gallery
+
+AD
+Bluey.tv Description
+"Bluey’s other neighbour."
+
+Appearance
+Judo is a Chow Chow with white, grey and beige fur. She has white feet, legs, hands, arms, bottom tail, top torso, head and outer ears, beige bottom torso, top tail, muzzle, hair and inner ears, and grey eyebrows. She also has a dark brown nose and wears a blue headband with yellow dots and a blue and pink bracelet.
+
+Biography
+Judo is one of Bluey & Bingo's friends and next door neighbor. She is the daughter of Wendy, but has no known dad.
+
+Appearances
+S01E15 - Butterflies
+S01E30 - Fairies (non-speaking)
+S02E12 - Sticky Gecko (mentioned)
+S02E28 - Seesaw
+S02E36 - Postman (mentioned)
+S02E50 - Baby Race
+S03E05 - Omelette (cameo)
+S03E12 - Sheep Dog (non-speaking cameo)
+S03E36 - Dirt
+Trivia
+She is very bossy and impatient.
+In Baby Race, a baby version of her was seen.
+In Baby Race, it was revealed that she is the same age as Bluey.
+She is voiced by Charlotte Stent, who also voices Chloe.
+Judo was a baby for one episode, but it may not be possible she'll get an adult episode.
+Judo doesn't have a British accent, unlike her mum, who does. This is possibly because Judo was neither born nor raised in the UK.
+Gallery
+F37e6e9ad7b96ac1cfcdf4ae92829f89
+Judo winning the Baby race
+Butterflies SQUARE
+Bald Judo
+Judo after having her long fur shaved off in Dirt
+
+Juniper
+3
+VIEW SOURCE
+Juniper
+
+Characteristics
+Breed
+Shiba Inu
+Gender
+Female ♀
+Traits
+Eyes
+Black
+Fur
+Purple, pink, brown and light brown
+Personal Status
+Relative(s)
+Juniper’s Mum
+Juniper’s Brother
+Media
+First Appearance
+Bob Bilby
+Juniper is a secondary character that has appeared in multiple episodes of Bluey.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearances
+4 Trivia
+5 Gallery
+6 References
+
+AD
+Appearance
+Juniper is a Shiba Inu with purple, pink, brown and light brown fur. She has purple legs, arms, top tail, torso, head and outer ears, brown leg and arm rings, middle tail, outer muzzle and outer eyebrows, light brown feet, hands, bottom tail, heart-shaped chest patch, muzzle and eyebrows, and pink inner ears. She also has a black nose.
+
+Biography
+Juniper is friends with most of the people at Mrs. Retriever’s school. She is the daughter of Juniper’s Mum, but has no known dad.
+
+Appearances
+S1E12 - Bob Bilby
+S1E20 - Markets
+S1E29 - The Creek
+S1E41 - Mums and Dads
+S1E50 - Shaun
+S2E08 - Daddy Dropoff
+S3E14 - Pass the Parcel (cameo)
+Trivia
+She helps her Mum sell healthy juices at the markets.
+Juniper is the first character designed by Art Director Faith Chen[1].
+Gallery
+JuiceStall
+JuniperWithCarrots
+References
+https://web.archive.org/web/20220311034906/https://twitter.com/faysaysnay/status/1502129398807367680
+
+Juniper’s Brother
+1
+VIEW SOURCE
+Juniper’s Brother
+
+Characteristics
+Breed
+Shiba Inu
+Gender
+Male
+Age
+15-18
+Traits
+Eyes
+Black
+Fur
+Purple, pink, brown, light brown
+Personal Status
+Relative(s)
+Juniper (sister)
+Juniper’s Mum (mother)
+
+Friend(s)
+Pomeranian
+Media
+First Appearance
+Ice Cream
+
+Juniper's Brother is a secondary character appearing in a few episodes.
+
+AD
+Appearance
+Junipers brother is a purple shiba inu with light brown and brown coloured fur. He has purple arms, legs, torso, head, top tail, and outer ears. He has brown lower legs and arm rings, while the rest of his arms are light brown. His feet are also light browsn, while his inner ears are pink. His glasses are teal.
+
+Appearances
+S02E47 - Ice Cream (debut)
+S03E14 - Pass the Parcel
+Biography
+In Pass the Parcel a purple Shiba with glasses appears at Muffin’s birthday party. He is talking to Chilli while sitting with Juniper’s Mum so it is likely he is her brother. He might also be friends with or a Pomeranian, as they are seen together eating Ice Cream.
+
+Juniper’s Mum
+VIEW SOURCE
+Juniper’s Mum
+
+Characteristics
+Breed
+Shiba Inu
+Gender
+Female ♀
+Traits
+Eyes
+Black
+Fur
+Pink, purple, white and beige
+Personal Status
+Relative(s)
+Juniper (Daughter)
+Juniper’s Brother (Son)
+Media
+First Appearance
+Bob Bilby
+Voice Actor
+Liana Wright
+Juniper’s Mum is a secondary character that has appeared in multiple episodes of Bluey.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearances
+4 Trivia
+5 Gallery
+
+AD
+Appearance
+Juniper’s Mum is a Shiba Inu with pink, white, beige and purple fur. She has pink legs, arms, torso, top tail, head and bottom outer ears, white bottom tail, muzzle, inner eyebrows and top outer ears, beige feet, hands, outer muzzle and outer eyebrows, and purple inner ears. She also has a brown nose.
+
+Biography
+Juniper’s Mum sells healthy juices at the market. She has a daughter named Juniper, but has no known husband or friends as of yet.
+
+Appearances
+S1E12 - Bob Bilby
+S1E20 - Markets
+S2E02 - Hammerbarn
+S2E08 - Daddy Dropoff
+S2E33 - Circus (cameo)
+S2E37 - The Quiet Game (cameo)
+S2E38 - Mr. Monkeyjocks (cameo)
+S3E14 - Pass the Parcel
+Trivia
+She is voiced by Animator Liana Wright.
+Gallery
+Coming-soon
+
+Librarian
+1
+VIEW SOURCE
+Librarian
+
+Characteristics
+Gender
+Female
+Traits
+Eyes
+Black
+Fur
+White
+Media
+First Appearance
+Promises
+Voice Actor
+Mary Bolling
+
+Library Dog
+VIEW SOURCE
+Dog
+
+Characteristics
+Gender
+Female
+Traits
+Eyes
+Black
+Fur
+Brown and tan
+Media
+First Appearance
+Promises
+Voice Actor
+Kate McMahon
+
+Library Dog is a minor character which was shown in the episode Promises.
+
+File:Content://com.android.chrome.FileProvider/images/screenshot/1672387908663223430295.jpg
+Library Dog
+
+Lila
+7
+VIEW SOURCE
+Lila
+
+Characteristics
+Breed
+Maltese
+Gender
+Female ♀
+Age
+5 (as of Pass the Parcel)
+Traits
+Eyes
+Black
+Fur
+White
+Personal Status
+Relative(s)
+Sheila (mother)
+Unnamed younger brother
+Friend(s)
+Bingo (best friend)
+Bluey
+Chucky
+Buddy
+Pom Pom
+Jasper G.
+Missy
+Media
+First Appearance
+Daddy Dropoff
+"My name is Lila and this is my story." ― Lila's first line
+
+Lila is a secondary character that has appeared on numerous occasions in Bluey.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearances
+4 Trivia
+5 Gallery
+5.1 Screenshots
+5.2 Animated
+
+AD
+Appearance
+Lila is a Maltese with white fur covering her whole body. She also has a black nose.
+
+Biography
+Lila is Bingo's best friend. She has a Mum, though her Dad hasn't been shown yet.
+
+Appearances
+S02E08 - Daddy Dropoff
+S02E45 - Handstand (Deleted scene - Facebook exclusive)
+S03E01 - Perfect (Drawing cameo)
+S03E02 - Bedroom (mentioned)
+S03E14 - Pass the Parcel
+S03E40 - Water Slide
+Trivia
+She was originally just going to be Jack's younger sister, but she was made into a new character instead.[citation needed]
+Lila attends the same kindy as Bingo.
+Lila was shy upon beginning her kindy classes, but improved thanks to Bingo.
+An older Lila, alongside Bingo, can be seen in a montage at the end of Daddy Dropoff, seeing her in her kindy and primary class photos, alongside photos from state school and university.
+She, along with Muffin and Socks, did appear in Handstand, but only in a deleted scene.
+She was revealed to have a little brother in Pass the Parcel.
+Gallery
+Screenshots
+8FA03450-DAB9-4E20-854E-ACEA1D50BB35
+Lila growing up through school with Bingo.
+Watching-Catsquad
+Lila, Muffin and Socks in Handstand deleted scene
+Animated
+Lila-Bingo-Growing
+
+Lila's Brother
+4
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+Bingo Brother is a character on Bluey. His first appearance was in Pass the Parcel, tugging on the pinata.
+
+Lila's Brother
+
+Characteristics
+Breed
+Maltese
+Gender
+Male♂
+Age
+Possibly 1 or 2
+Traits
+Eyes
+Black
+Fur
+White
+Personal Status
+Relative(s)
+Sheila (mother)
+Lila (older sister)
+
+AD
+Appearance
+Lila's brother is a Maltese with white fur, and a vermilion bracelet.
+
+Biography
+Lila's brother is younger than Lila.
+
+Appearances
+S03E14 - Pass the Parcel
+
+Lucky
+13
+VIEW SOURCE
+Lucky
+
+Characteristics
+Breed
+Labrador Retriever
+Gender
+Male ♂
+Female ♀ (Icelandic dub)
+Traits
+Eyes
+Black
+Fur
+Yellow and light yellow
+Personal Status
+Relative(s)
+Pat (father)
+Janelle (mother)
+Chucky (younger brother)
+Friend(s)
+Bluey (next door neighbour)
+Bingo (next door neighbour)
+Rusty
+Coco
+Snickers
+Honey
+Mackenzie
+Chloe
+Judo
+Winton
+Buddy
+The Terriers
+Pretzel
+Media
+First Appearance
+Keepy Uppy
+
+Lucky is a secondary character that has appeared in multiple episodes of Bluey.
+
+Contents
+1 Bluey.tv Description
+2 Appearance
+3 Biography
+4 Appearances
+5 Trivia
+6 Gallery
+6.1 Screenshots
+
+AD
+Bluey.tv Description
+"Adventurous next door neighbour. Can’t stop moving."
+
+Appearance
+Lucky is a Labrador with yellow and light yellow fur. He has yellow feet, legs, tail, torso, head, hands, arms and ears, and light yellow eyebrows. He also has a brown nose and is sometimes seen with a red footy ball and a dark blue backpack with a gold and white stripe horizontally across it.
+
+Biography
+Lucky is friends with most of the members of Calypso’s school. His parents are Pat and Janelle, His brother is named Chucky. He is the next door neighbour of the Heeler family.
+
+Appearances
+S01E03 - Keepy Uppy
+S01E12 - Bob Bilby (Cameo)
+S01E18 - The Doctor
+S01E29 - The Creek (Cameo)
+S01E30 - Fairies (Cameo)
+S01E32 - Bumpy and the Wise Old Wolfhound
+S01E49 - Asparagus (Mentioned)
+S02E10 - Rug Island
+S02E13 - Dad Baby
+S02E45 - Handstand
+S03E14 - Pass the Parcel
+S03E37 - The Decider
+Trivia
+He likes to watch the cricket with his dad.
+His mum is mentioned throughout the series, but doesn't appear until Pass the Parcel.
+He also has a little brother, as revealed in the same episode.
+He's the first one of Bluey's friends to appear.
+In the Icelandic dub, his gender was changed to female.
+
+Lulu
+4
+VIEW SOURCE
+Lulu
+
+Characteristics
+Breed
+Russell Terrier
+Gender
+Female ♀
+Male ♂ (Dutch dub)
+Traits
+Eyes
+Black
+Fur
+Brown, light brown, dark brown and white
+Personal Status
+Relative(s)
+Jack's Dad
+Jack's Mum
+Jack (older brother)
+Media
+First Appearance
+Army
+
+Lulu is a secondary character that appeared in multiple episodes of Bluey.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearances
+4 Trivia
+5 Gallery
+
+AD
+Appearance
+Lulu is a Jack Russell Terrier with white, brown, light brown and dark brown fur. She has white feet, legs, hands, arms, torso, chest, tail and muzzle, brown head, light brown torso spots and dark brown ears and eyebrows. She also has a black nose.
+
+Biography
+Lulu is the daughter of Jack's Dad and Jack's Mum, and the younger sister of Jack. She has no known friends as of yet.
+
+Appearances
+S02E16 - Army (debut)
+S02E37 - The Quiet Game (cameo)
+S02E47 - Ice Cream (cameo)
+S03E15 - Explorers
+Trivia
+She is very sassy towards her brother.
+Her name was revealed in Explorers.
+Lulu is actually male in the Dutch dub.
+Gallery
+Coming-soon

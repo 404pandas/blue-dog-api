@@ -5185,3 +5185,254 @@ Censorship
 In the Disney version of this episode, the scene where Bandit does a spin and pulls his groin has been trimmed.
 References
 https://www.foxtel.com.au/tv-guide/channel/ABC-KidsABC-TV-Plus/A2N/2021/12/03
+
+Keepy Uppy
+10
+VIEW SOURCE
+EpisodeGalleryScript
+
+Keepy Uppy
+
+Airdate
+3rd October 2018 (ABC)
+9th September 2019 (Disney Channel (US))
+28th October 2019 (Disney Channel (UK))
+12th May 2021 (Disney Junior India)
+31st May 2021 (CBeebies UK)
+16th June 2021 (CBeebies Asia)
+Created and Written by
+Joe Brumm (Series Director)
+Cast
+Dave McCormack (Bandit)
+Melanie Zanetti(Chilli)
+Brad Elliot (Pat)
+Credits
+Producers
+Michael Carrington (Executive-ABC)
+Henrietta Hurford-Jones(Executive-BBC Worldwide)
+Nathan Waddington (Associate-BBC)
+Charlie Aspinwall (Executive)
+Daley Pearson (Executive)
+Sam Moor (Line Producer)
+Music & Sound
+Joff Bush (Music)
+Dan Brumm (Sound Design)
+Liam Gould (Recording Engineer)
+Production
+Laura Dimaio (Development Production Manager)
+Meg O'Connell (Development Manager)
+Andi Spark (Production Manager)
+Lauren Brown (Production Coordinator)
+Andy Blazewell (Technical Advisor)
+Simon Lipowicz (Technical Advisor)
+Designers
+Catriona Drummond (Art Director)
+Costa Kassab (Art Director)
+Owain Emmanuel (Lead)
+Mike Chavez (Storyboard)
+Tim Delaney
+Trudi Monteath
+Jim Nolan
+Background Artists
+Rob Corless
+Josh Hall
+Connor M. Johnston
+Animation
+Richard Jeffery (Director)
+Claire Renton (Lead)
+Kathleen Hirst
+Loko Lui
+Naomi Scutts
+Dan Smith
+Nani Thomann
+Liana Wright (Layout)
+VFX
+Jacob McCann
+Francis Stanton
+Editors/Post-Production
+Sam Carroll (Script Editor)
+Michael Griffin
+Grant Sundin (Online Post Production)
+Other Staff
+Daniel Schultz (Production Accountant)
+Jenny Lalor (Production Lawyer)
+Episode Guide
+Previous
+Hospital
+Following
+Daddy Robot
+Keepy Uppy is the third episode of the first season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+4 Trivia
+5 Errors
+6 Music
+Synopsis
+Bluey, Bingo and Mum are enjoying a game of Keepy Uppy around the house with their last balloon. All is fine until their Dad joins in and soon, the game becomes the ultimate test of skill.[1]
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+The Heeler Family:
+Bluey
+Chilli Heeler
+Bingo
+Bandit
+Lucky (debut)
+Pat (debut)
+Trivia
+The Heelers' House's smoke alarms are visible in a shot near the lights on the roof when Chilli launches the balloon first time.
+The term Keepy Uppy also refers a Soccer move.
+This is one of five season 1 episodes to have sneak peaks in 2018, the others being The Magic Xylophone, Daddy Robot, Shadowlands and Fruitbat.[citation needed]
+This is the first episode where:
+Characters other than the Heeler Family are shown.
+Lucky and Pat appear.
+The sky is not clear in the establishing shot at the beginning of the episode
+The intro screen features a moving object; in this case, the balloon falls from the top of the screen
+The catchphrase "For real life?" is used
+This is the first episode aired in the USA. [citation needed]
+The main theme to this episode was used in Bluey: The Album.
+Long Dog: Overturned on the left side of the screen during the playroom scene.
+Errors
+In the first scene, a picture of Bingo and Bluey can be seen on the bedside table. Bluey has one eye closed, which is drawn in the style of 2016 Pilot of The Weekend where the outline of her eye is not shown. This photo was replaced with a version showing both eyes open starting in Season 2.
+In the same scene, Bluey's bed has no pillow or bedclothes, just a blue fitted sheet.
+Music
+Bluey\_-_Keepy_Uppy
+Bluey episode list
+https://www.bluey.tv/watch/season-1/keepy-uppy/
+
+Kids
+5
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Kids
+
+Broadcast Information
+Airdate
+April 19, 2019
+October 7, 2019 (US)
+February 19, 2020 (UK)
+June 16, 2021 (CBeebies UK)
+August 31, 2021 (CBeebies Asia)
+Credits
+Episode Guide
+Previous
+Mount Mumandad
+Next
+Chickenrat
+
+Kids is the 45th episode of the first season of Bluey.
+
+Library
+6
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Library
+
+Broadcast Information
+Airdate
+October 28, 2020
+February 12, 2021 (US)
+October 11, 2022 (CBeebies UK)
+Credits
+Episode Guide
+Previous
+Movies
+Next
+Barky Boats
+
+Library is the thirtieth episode of the second season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+Synopsis
+When Muffin is told that she is special by her Dad, she interprets it as an excuse to do anything she wants, which means playing Bluey and Bingo's game of Library her way.
+
+Episode Recap
+Warning Spoilers!
+
+Appearances
+Characters
+Bluey
+Bingo
+Chilli
+Muffin
+Uncle Stripe
+Bandit Heeler (mentioned)
+Trixie Heeler (mentioned)
+Trivia
+Muffin replaces Bluey in the credits of this episode.
+The music played throughout the episode is “Sur le Pont d'Avignon”.
+The music in this book plays “The Ants Go Marching” (Johnny Comes Marching Home).
+Stripe reveals he calls Chilli "Chilli Dog."
+Long Dog: This version of the long dog is brown and is evidently flat on it's belly. It can be seen under the couch when Muffin is having her library card photo taken.
+The Cat Squad Theme Song is being played when Muffin is on the motorcycle.
+Bluey episode list
+Others like you also viewed
+Movies
+Bluey Wiki
+Charades
+Escape
+Bluey Heeler
+Dad Baby
+Barky Boats
+Grandad
+Bingo (Episode)
+Stripe Heeler
+Stumpfest
+Muffin Heeler
+The Show
+Fancy Restaurant
+Sticky Gecko
+
+Categories
+Community content is available under CC-BY-SA unless otherwise noted.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+Synopsis
+A quick trip to the shops proves tricky for Dad, when Bingo and Bluey want to play a game of 'Kids'. Now Bluey is Mum, Bingo's her baby and for Dad however, he is a very naughty boy.
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Rocko
+Docket Boy
+Customer
+Customer 2
+Checkout Lady
+Trivia
+The supermarket Bluey, Bingo and Bandit go to closely resembles Woolworths, a popular shop in Australia.
+On cable guides, the episode is titled "The Kids".
+Despite being in the title card, the chocolate milk was never placed in Bandit's kid cart.
+Bluey plays as the Mum, while Bandit and Bingo play as the kids.
+The music of the card that Bingo opens plays “Oh! Susanna,” a popular American song from 1848. It would later be used again in the season 2 episode Dance Mode.

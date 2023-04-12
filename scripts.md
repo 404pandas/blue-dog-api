@@ -12629,3 +12629,1311 @@ EpisodeGalleryScript
 
 Script.jpg
 Coming-soon.png -->
+
+Keepy Uppy/Script
+< Keepy Uppy
+VIEW SOURCE
+EpisodeGalleryScript
+
+Script.jpg
+[Theme song]
+
+The episode opens with a view of the Heeler home, three hot air balloons floating in the background. In the kids' bedroom, Bluey yawns as she wakes up and hops off the bed. She steps on an almost-empty bag of balloons.
+
+Bluey: Ooh! Morning, balloons!
+
+The final balloon falls out of the bag.
+
+Bluey: I mean, morning, last balloon.
+
+Bluey begins blowing up the balloon. In the living room, Chilli is holding Bingo over the couch.
+
+Chilli: You ready?
+
+Bingo: Ready!
+
+Chilli: Keep your arms up!
+
+Bingo does so, and Chilli drops her on the couch.
+
+Chilli: Ah!
+
+Bingo: (giggles) Again!
+
+Bluey walks in, holding the now-inflated balloon.
+
+Chilli: Morning, Bluey! Oh, what have you got there?
+
+Bluey: This is my pet bird!
+
+Bluey lets some air out of the balloon, making a squeaking sound. Bingo giggles.
+
+Bingo: He's saying "Good morniiiiiing!"
+
+Chilli: Oh, good morning, pet birdie.
+
+Bluey: Go free, birdie!
+
+Bluey lets go of the balloon, letting it fly wildly around the room. Everyone laughs, although Chilli briefly ducks for cover. When the air runs out, the deflated balloon lands on Chilli's head. She is a bit annoyed, but smiles seeing her daughters laughing.
+
+Chilli: Oh, that's funny, is it?
+
+Bluey: Yeah!
+
+Bingo: Yeah, it is!
+
+Chilli: Well, I've got a game for you.
+
+She starts blowing up the balloon.
+
+Bluey [excitedly]: Is it Keepy Uppy?!
+
+Chilli: Yeah, it's Keepy Uppy.
+
+Bluey does a little dance.
+
+Bluey: It's Keepy Uppy! Woo!
+
+TITLE CARD - a falling balloon and the episode title
+
+Bluey [voiceover]: This episode of Bluey is called: Keepy Uppy.
+
+Back in the lounge room, Bingo and Bluey are standing in front of Chilli, who is holding the fully inflated balloon.
+
+Bingo: What's Keepy Uppy?
+
+Bluey: You have to keep the balloon in the air and can't let it touch the ground.
+
+Bingo worriedly holds Bluey.
+
+Bingo: What happens if it touches the ground?
+
+Chilli: Oh, nothing, Bingo. It's just a game.
+
+Bingo: Oh, ok.
+
+Chilli: You ready?
+
+Bluey and Bingo: Yeah.
+
+Chilli: Okay... go!
+
+Chilli launches the balloon into the air and the game begins. The kids excitingly giggle and chase after it.
+
+Bingo: Stop! Boot!
+
+Bluey and Bingo keep giggling, "boot"ing the balloon to stop it from touching the ground.
+
+Bluey: Boot!
+
+Chilli runs over to the balloon.
+
+Chilli: Boot!
+
+Bluey: Aah, Bingo, quick!
+
+Bingo chases the balloon across the living room.
+
+Bingo: Yaa! Boot! (giggles)
+
+Bluey: Boot! (giggles)
+
+Bingo balks backwards into a pot plant to get the balloon.
+
+Bingo: I got it, Bluey! Boot! Eee, get it!
+
+Bluey: I got it, I got it!
+
+Bingo: Bluey, get it!
+
+Bluey: Yaah!
+
+Bingo giggles. Chilli fixes up the pot plant as Bingo and Bluey continue playing.
+
+Bluey: I got it!
+
+Bingo: Oh, good.
+
+Bluey: No, no, no, quick, quick!
+
+Chilli "boot"s the balloon as it comes near her.
+
+Chilli: Boot!
+
+Bluey: Aah, Mum, you're making it harder!
+
+Chilli: Ok, I'm going to cook brekkie, kids. Boot!
+
+Bluey: Mum!
+
+Chilli walks out, leaving Bluey and Bingo to continue playing and giggling.
+
+Bluey: Look! What if we do small ones? Boot!
+
+Bingo: Boot! This is so easy now.
+
+Over in the kitchen, Chilli is making breakfast. Bluey and Bingo enter, still using small pushes to keep the balloon off the ground.
+
+Bingo: Boot!
+
+Bluey: Check it out, Mum! Boot!
+
+Chilli: Hey, nice strategy balloon, girls!
+
+Bingo: I'm a Keepy Uppy expert.
+
+Bluey: Yep, but it's not as fun now. Can you make it hard again?
+
+Chilli: Sorry, pickle, I've got my hands full.
+
+Bandit enters the room with a basket full of washing.
+
+Bandit [sung]: Oh good morning, everybody! Said good morning, everyone! Uh! [spoken] Whaddup, party people?
+
+Bluey: Dad, we're playing Keepy Uppy. Can you make it harder?
+
+Bandit walks over to Bingo.
+
+Bandit: Ah, my newspaper.
+
+Bandit grabs Bingo and holds her upside-down like a newspaper, leaving Bluey to frantically skid all over the floor to get the balloon.
+
+Bingo: Dad!
+
+Bluey: Aah! Bingo, help!
+
+Bingo: I can't! I'm a newspaper!
+
+Bandit pretends to read the newspaper.
+
+Bandit: Hmm, ah. Old so-and-so is at it again. Hmm, yes, yes...
+
+Bluey gasps as the balloon flies out of her reach and over the counter, where it lands gently on top of a glass of orange juice.
+
+Bluey: (gasps) Look! Wow.
+
+Chilli turns around from the stove to see the balloon.
+
+Chilli: Woah, look at that!
+
+Bingo: Bluey, help!
+
+Bluey: I'll save you, Bingo! Let her go!
+
+Bluey tries to take Bingo out of Bandit's hands.
+
+Bandit: Oh, you want to read the newspaper, Bluey? Ok, just don't do the sudoku.
+
+Bandit lets Bluey have Bingo and walks over to the orange juice.
+
+Bandit: Oh, look, lovely orange juice! Yes, please!
+
+Bandit takes the juice, sending the balloon up and over towards the floor again. Bluey and Bingo scream.
+
+Bluey: No, no, no! Boot!
+
+Bingo [panting]: I'll get it!
+
+Bluey: That's it, Bingo!
+
+Bluey and Bingo run after the balloon, until Bandit grabs Bluey and embraces her Bluey screams and struggle, trying to get out of Bandit's grip.
+
+Bandit: Oh, dear child. You grow up so fast.
+
+Bluey: Ah, Dad, let go! Bingo, get it! Don't let it touch the ground!
+
+Bingo is struggling all over the floor to stop the balloon from touching the ground.
+
+Bingo: Bluey, help! I can't do it by myself!
+
+Bandit: Dear child, embrace your father.
+
+Bluey screams and pushes back against Bandit.
+
+Bluey: Let go!
+
+Bluey successfully gets out of Bandit's grip and starts helping Bingo.
+
+Bluey: Boot!
+
+Bingo: Aah, I'll get it!
+
+Bandit [dramatically]: Oh, this heat is oppressive. I'll just turn on this fan...
+
+Bandit activates a nearby pedestal fan, sending the balloon flying out of the kitchen. Bluey and Bingo scream.
+
+Bluey and Bingo: Dad!
+
+Over in the living room, Bluey and Bingo run in, chasing the balloon.
+
+Bluey: Mine, mine!
+
+Bandit: There's leaves everywhere!
+
+Bandit is already there with a leaf blower. He blows the balloon out of the living room, Bluey and Bingo screaming as they run after it. In the playroom, Bluey and Bingo follow the balloon through lots of toys strewn around the room.
+
+Bluey: There's too many toys on the ground! Boot!
+
+Bingo: Who is responsible for this mess?
+
+Bandit appears, lounging against the doorframe with a bowl of cereal and fruit.
+
+Bandit: My, my, all these toys left lying around sure are making it difficult to keep the balloon up.
+
+Bingo: We know!
+
+Bandit: Can you imagine how easy this would be if you'd tidied them all away?
+
+Bluey: That isn't helping!
+
+Bingo: Oh no!
+
+The balloon gently lands on top of a pile of blocks.
+
+Bluey and Bingo: Ooh!
+
+Bluey: Ha-ha, see, Dad? Our toys saved the balloon.
+
+Bandit: Not for long!
+
+Bandit turns on the ceiling fan, which blows the balloon off the block tower and towards the floor again.
+
+Bluey and Bingo: No!
+
+Bingo: You get it!
+
+Bluey dives through the block pile to get the balloon, hitting it up.
+
+Bluey: Yaa! (gasps)
+
+Bluey: It's heading for the fan!
+
+Bingo: Oh no!
+
+The ceiling fan hits the balloon, sending it flying off. In the kitchen, Chilli is relaxing with a bowl of cereal and fruit - until she sees the balloon floating around outside.
+
+Chilli: (gasps) Oh no!
+
+Chilli runs off. Outside, she runs out after the balloon, Bluey and Bingo fast behind her.
+
+Chilli: We can't let it touch the ground!
+
+Bluey and Bingo: We know!
+
+Bluey: Boot!
+
+Chilli: No, I mean we really can't let it touch the ground. Balloons pop if they touch grass!
+
+Bingo: What? You said nothing would happen!
+
+Bluey: It's my last balloon!
+
+Bingo: Catch it!
+
+Bluey and bingo scream after the balloon. Bluey does a dive after it, hitting it up and over the fence to their neighbours'. Bluey and Chilli gasp, Bingo screams.
+
+Bluey: It's going into Lucky's yard!
+
+Over the fence, Lucky is kicking a rugby ball around. Bluey, Bingo, and Chilli poke their heads over the fence to see the balloon slowly falling towards the grass.
+
+Bluey: Lucky, the balloon!
+
+Chilli: Get it, Lucky!
+
+Lucky: I'll get it! Boot!
+
+Bluey: Aah! Lucky!
+
+Lucky: I'm not going to make it!
+
+Chilli: Oh no!
+
+Bluey: No!
+
+Pat enters the scene, running after the balloon with a mug of liquid.
+
+Pat: Mine! Mine!
+
+Pat hits the balloon up, grunting.
+
+Pat: Yours, Lucky! Get onto it!
+
+Lucky: Good one, Dad! I got it! I got it! (grunts)
+
+Pat: That's it, boy! I got it! Mine!
+
+Pat lunges after the ball, but collapses in pain.
+
+Pat: Uh! (moans) Oh, I've done me hammy! You get it, Lucky.
+
+Bluey: Lucky! Get it!
+
+Lucky: Ok, Bluey!
+
+Lucky runs past a groaning Pat and dives to hit the balloon back into Bluey's backyard.
+
+Lucky: Yaa! There ya go, Bluey!
+
+Bluey: Thanks, Lucky's dad!
+
+Pat: No worries, Bluey.
+
+Back in the Heeler backyard, Bluey, Bingo, and Chilli are running after the balloon again.
+
+Chilli: We can catch it! I can catch it!
+
+Bluey and Bingo: Catch it, Mum!
+
+Suddenly, Bandit puts up an umbrella, hitting the balloon.
+
+Bandit: Looks like rain!
+
+Chilli gasps as the balloon floats down onto the grass. It lands, and pops. Bluey and Bingo scream, Chilli winces.
+
+Bluey and Bingo: No!
+
+Bingo runs over to the remains of the balloon, and sighs sadly.
+
+Bluey: Oh, my balloon.
+
+Bingo: It's popped.
+
+Bandit: It's all good; we can blow up another one.
+
+Bluey: But that was my last balloon.
+
+Bandit [realisation]: Oh. Did I make that a little too fun?
+
+Bingo: Yes.
+
+Bluey: Yeah, you did.
+
+Bandit walks over and kneels next to his kids, putting an arm around Bingo.
+
+Bandit: Sorry, squirts. It's a hard one to get right.
+
+A moment of pause as they all stare at the popped balloon.
+
+Bluey: It was pretty fun, though.
+
+Bingo giggles.
+
+Bingo: Yeah, it was definitely quite fun.
+
+Cut to Lucky and Pat, looking over the fence.
+
+Lucky: Yeah, it was really fun.
+
+Back with the Heelers, Chilli kneels down next to the kids too.
+
+Chilli: You know, I think we've got one last balloon left.
+
+Bluey and Bingo: Really?
+
+Bluey: For real life?
+
+Chilli: Yeah, a big blue one.
+
+Bandit anxiously gets up as Chilli looks at him.
+
+Bandit: Uh-oh...
+
+Cut to Bluey blowing on Bandit's tail, "inflating" him like a balloon. Bingo and Chilli stand nearby, watching and laughing as Bandit gets more inflated.
+
+Bingo: Blow up the Daddy balloon! (giggles)
+
+Chilli: Yeah! (laughs)
+
+Soon, Bandit is fully inflated, with Bluey holding onto his tail.
+
+Bluey: Ready!
+
+Chilli: Shall we play Keepy Uppy?
+
+Bluey: Uh-uh!
+
+Chilli [knowingly]: Oh...
+
+Bandit: What? What?
+
+Bluey: Go free, birdie!
+
+Bluey releases Bandit's tail, letting him run around the whole yard, making raspberry sounds like a deflating balloon. Bluey, Bingo, and Chilli all laugh and giggle as Bandit flops all over the trampoline, before coming around and flying straight into them all.
+
+Chilli: Oh no!
+
+Bandit crashes into his family, grunting on impact. The Heelers lie in a pile, laughing.
+
+[End credits]
+
+The credits music is the episode's soundtrack - a large band playing a fun groove - while the Heelers continue to laugh. Bluey is dancing.
+
+Keepy Uppy/Script
+< Keepy Uppy
+VIEW SOURCE
+EpisodeGalleryScript
+
+Script.jpg
+[Theme song]
+
+The episode opens with a view of the Heeler home, three hot air balloons floating in the background. In the kids' bedroom, Bluey yawns as she wakes up and hops off the bed. She steps on an almost-empty bag of balloons.
+
+Bluey: Ooh! Morning, balloons!
+
+The final balloon falls out of the bag.
+
+Bluey: I mean, morning, last balloon.
+
+Bluey begins blowing up the balloon. In the living room, Chilli is holding Bingo over the couch.
+
+Chilli: You ready?
+
+Bingo: Ready!
+
+Chilli: Keep your arms up!
+
+Bingo does so, and Chilli drops her on the couch.
+
+Chilli: Ah!
+
+Bingo: (giggles) Again!
+
+Bluey walks in, holding the now-inflated balloon.
+
+Chilli: Morning, Bluey! Oh, what have you got there?
+
+Bluey: This is my pet bird!
+
+Bluey lets some air out of the balloon, making a squeaking sound. Bingo giggles.
+
+Bingo: He's saying "Good morniiiiiing!"
+
+Chilli: Oh, good morning, pet birdie.
+
+Bluey: Go free, birdie!
+
+Bluey lets go of the balloon, letting it fly wildly around the room. Everyone laughs, although Chilli briefly ducks for cover. When the air runs out, the deflated balloon lands on Chilli's head. She is a bit annoyed, but smiles seeing her daughters laughing.
+
+Chilli: Oh, that's funny, is it?
+
+Bluey: Yeah!
+
+Bingo: Yeah, it is!
+
+Chilli: Well, I've got a game for you.
+
+She starts blowing up the balloon.
+
+Bluey [excitedly]: Is it Keepy Uppy?!
+
+Chilli: Yeah, it's Keepy Uppy.
+
+Bluey does a little dance.
+
+Bluey: It's Keepy Uppy! Woo!
+
+TITLE CARD - a falling balloon and the episode title
+
+Bluey [voiceover]: This episode of Bluey is called: Keepy Uppy.
+
+Back in the lounge room, Bingo and Bluey are standing in front of Chilli, who is holding the fully inflated balloon.
+
+Bingo: What's Keepy Uppy?
+
+Bluey: You have to keep the balloon in the air and can't let it touch the ground.
+
+Bingo worriedly holds Bluey.
+
+Bingo: What happens if it touches the ground?
+
+Chilli: Oh, nothing, Bingo. It's just a game.
+
+Bingo: Oh, ok.
+
+Chilli: You ready?
+
+Bluey and Bingo: Yeah.
+
+Chilli: Okay... go!
+
+Chilli launches the balloon into the air and the game begins. The kids excitingly giggle and chase after it.
+
+Bingo: Stop! Boot!
+
+Bluey and Bingo keep giggling, "boot"ing the balloon to stop it from touching the ground.
+
+Bluey: Boot!
+
+Chilli runs over to the balloon.
+
+Chilli: Boot!
+
+Bluey: Aah, Bingo, quick!
+
+Bingo chases the balloon across the living room.
+
+Bingo: Yaa! Boot! (giggles)
+
+Bluey: Boot! (giggles)
+
+Bingo balks backwards into a pot plant to get the balloon.
+
+Bingo: I got it, Bluey! Boot! Eee, get it!
+
+Bluey: I got it, I got it!
+
+Bingo: Bluey, get it!
+
+Bluey: Yaah!
+
+Bingo giggles. Chilli fixes up the pot plant as Bingo and Bluey continue playing.
+
+Bluey: I got it!
+
+Bingo: Oh, good.
+
+Bluey: No, no, no, quick, quick!
+
+Chilli "boot"s the balloon as it comes near her.
+
+Chilli: Boot!
+
+Bluey: Aah, Mum, you're making it harder!
+
+Chilli: Ok, I'm going to cook brekkie, kids. Boot!
+
+Bluey: Mum!
+
+Chilli walks out, leaving Bluey and Bingo to continue playing and giggling.
+
+Bluey: Look! What if we do small ones? Boot!
+
+Bingo: Boot! This is so easy now.
+
+Over in the kitchen, Chilli is making breakfast. Bluey and Bingo enter, still using small pushes to keep the balloon off the ground.
+
+Bingo: Boot!
+
+Bluey: Check it out, Mum! Boot!
+
+Chilli: Hey, nice strategy balloon, girls!
+
+Bingo: I'm a Keepy Uppy expert.
+
+Bluey: Yep, but it's not as fun now. Can you make it hard again?
+
+Chilli: Sorry, pickle, I've got my hands full.
+
+Bandit enters the room with a basket full of washing.
+
+Bandit [sung]: Oh good morning, everybody! Said good morning, everyone! Uh! [spoken] Whaddup, party people?
+
+Bluey: Dad, we're playing Keepy Uppy. Can you make it harder?
+
+Bandit walks over to Bingo.
+
+Bandit: Ah, my newspaper.
+
+Bandit grabs Bingo and holds her upside-down like a newspaper, leaving Bluey to frantically skid all over the floor to get the balloon.
+
+Bingo: Dad!
+
+Bluey: Aah! Bingo, help!
+
+Bingo: I can't! I'm a newspaper!
+
+Bandit pretends to read the newspaper.
+
+Bandit: Hmm, ah. Old so-and-so is at it again. Hmm, yes, yes...
+
+Bluey gasps as the balloon flies out of her reach and over the counter, where it lands gently on top of a glass of orange juice.
+
+Bluey: (gasps) Look! Wow.
+
+Chilli turns around from the stove to see the balloon.
+
+Chilli: Woah, look at that!
+
+Bingo: Bluey, help!
+
+Bluey: I'll save you, Bingo! Let her go!
+
+Bluey tries to take Bingo out of Bandit's hands.
+
+Bandit: Oh, you want to read the newspaper, Bluey? Ok, just don't do the sudoku.
+
+Bandit lets Bluey have Bingo and walks over to the orange juice.
+
+Bandit: Oh, look, lovely orange juice! Yes, please!
+
+Bandit takes the juice, sending the balloon up and over towards the floor again. Bluey and Bingo scream.
+
+Bluey: No, no, no! Boot!
+
+Bingo [panting]: I'll get it!
+
+Bluey: That's it, Bingo!
+
+Bluey and Bingo run after the balloon, until Bandit grabs Bluey and embraces her Bluey screams and struggle, trying to get out of Bandit's grip.
+
+Bandit: Oh, dear child. You grow up so fast.
+
+Bluey: Ah, Dad, let go! Bingo, get it! Don't let it touch the ground!
+
+Bingo is struggling all over the floor to stop the balloon from touching the ground.
+
+Bingo: Bluey, help! I can't do it by myself!
+
+Bandit: Dear child, embrace your father.
+
+Bluey screams and pushes back against Bandit.
+
+Bluey: Let go!
+
+Bluey successfully gets out of Bandit's grip and starts helping Bingo.
+
+Bluey: Boot!
+
+Bingo: Aah, I'll get it!
+
+Bandit [dramatically]: Oh, this heat is oppressive. I'll just turn on this fan...
+
+Bandit activates a nearby pedestal fan, sending the balloon flying out of the kitchen. Bluey and Bingo scream.
+
+Bluey and Bingo: Dad!
+
+Over in the living room, Bluey and Bingo run in, chasing the balloon.
+
+Bluey: Mine, mine!
+
+Bandit: There's leaves everywhere!
+
+Bandit is already there with a leaf blower. He blows the balloon out of the living room, Bluey and Bingo screaming as they run after it. In the playroom, Bluey and Bingo follow the balloon through lots of toys strewn around the room.
+
+Bluey: There's too many toys on the ground! Boot!
+
+Bingo: Who is responsible for this mess?
+
+Bandit appears, lounging against the doorframe with a bowl of cereal and fruit.
+
+Bandit: My, my, all these toys left lying around sure are making it difficult to keep the balloon up.
+
+Bingo: We know!
+
+Bandit: Can you imagine how easy this would be if you'd tidied them all away?
+
+Bluey: That isn't helping!
+
+Bingo: Oh no!
+
+The balloon gently lands on top of a pile of blocks.
+
+Bluey and Bingo: Ooh!
+
+Bluey: Ha-ha, see, Dad? Our toys saved the balloon.
+
+Bandit: Not for long!
+
+Bandit turns on the ceiling fan, which blows the balloon off the block tower and towards the floor again.
+
+Bluey and Bingo: No!
+
+Bingo: You get it!
+
+Bluey dives through the block pile to get the balloon, hitting it up.
+
+Bluey: Yaa! (gasps)
+
+Bluey: It's heading for the fan!
+
+Bingo: Oh no!
+
+The ceiling fan hits the balloon, sending it flying off. In the kitchen, Chilli is relaxing with a bowl of cereal and fruit - until she sees the balloon floating around outside.
+
+Chilli: (gasps) Oh no!
+
+Chilli runs off. Outside, she runs out after the balloon, Bluey and Bingo fast behind her.
+
+Chilli: We can't let it touch the ground!
+
+Bluey and Bingo: We know!
+
+Bluey: Boot!
+
+Chilli: No, I mean we really can't let it touch the ground. Balloons pop if they touch grass!
+
+Bingo: What? You said nothing would happen!
+
+Bluey: It's my last balloon!
+
+Bingo: Catch it!
+
+Bluey and bingo scream after the balloon. Bluey does a dive after it, hitting it up and over the fence to their neighbours'. Bluey and Chilli gasp, Bingo screams.
+
+Bluey: It's going into Lucky's yard!
+
+Over the fence, Lucky is kicking a rugby ball around. Bluey, Bingo, and Chilli poke their heads over the fence to see the balloon slowly falling towards the grass.
+
+Bluey: Lucky, the balloon!
+
+Chilli: Get it, Lucky!
+
+Lucky: I'll get it! Boot!
+
+Bluey: Aah! Lucky!
+
+Lucky: I'm not going to make it!
+
+Chilli: Oh no!
+
+Bluey: No!
+
+Pat enters the scene, running after the balloon with a mug of liquid.
+
+Pat: Mine! Mine!
+
+Pat hits the balloon up, grunting.
+
+Pat: Yours, Lucky! Get onto it!
+
+Lucky: Good one, Dad! I got it! I got it! (grunts)
+
+Pat: That's it, boy! I got it! Mine!
+
+Pat lunges after the ball, but collapses in pain.
+
+Pat: Uh! (moans) Oh, I've done me hammy! You get it, Lucky.
+
+Bluey: Lucky! Get it!
+
+Lucky: Ok, Bluey!
+
+Lucky runs past a groaning Pat and dives to hit the balloon back into Bluey's backyard.
+
+Lucky: Yaa! There ya go, Bluey!
+
+Bluey: Thanks, Lucky's dad!
+
+Pat: No worries, Bluey.
+
+Back in the Heeler backyard, Bluey, Bingo, and Chilli are running after the balloon again.
+
+Chilli: We can catch it! I can catch it!
+
+Bluey and Bingo: Catch it, Mum!
+
+Suddenly, Bandit puts up an umbrella, hitting the balloon.
+
+Bandit: Looks like rain!
+
+Chilli gasps as the balloon floats down onto the grass. It lands, and pops. Bluey and Bingo scream, Chilli winces.
+
+Bluey and Bingo: No!
+
+Bingo runs over to the remains of the balloon, and sighs sadly.
+
+Bluey: Oh, my balloon.
+
+Bingo: It's popped.
+
+Bandit: It's all good; we can blow up another one.
+
+Bluey: But that was my last balloon.
+
+Bandit [realisation]: Oh. Did I make that a little too fun?
+
+Bingo: Yes.
+
+Bluey: Yeah, you did.
+
+Bandit walks over and kneels next to his kids, putting an arm around Bingo.
+
+Bandit: Sorry, squirts. It's a hard one to get right.
+
+A moment of pause as they all stare at the popped balloon.
+
+Bluey: It was pretty fun, though.
+
+Bingo giggles.
+
+Bingo: Yeah, it was definitely quite fun.
+
+Cut to Lucky and Pat, looking over the fence.
+
+Lucky: Yeah, it was really fun.
+
+Back with the Heelers, Chilli kneels down next to the kids too.
+
+Chilli: You know, I think we've got one last balloon left.
+
+Bluey and Bingo: Really?
+
+Bluey: For real life?
+
+Chilli: Yeah, a big blue one.
+
+Bandit anxiously gets up as Chilli looks at him.
+
+Bandit: Uh-oh...
+
+Cut to Bluey blowing on Bandit's tail, "inflating" him like a balloon. Bingo and Chilli stand nearby, watching and laughing as Bandit gets more inflated.
+
+Bingo: Blow up the Daddy balloon! (giggles)
+
+Chilli: Yeah! (laughs)
+
+Soon, Bandit is fully inflated, with Bluey holding onto his tail.
+
+Bluey: Ready!
+
+Chilli: Shall we play Keepy Uppy?
+
+Bluey: Uh-uh!
+
+Chilli [knowingly]: Oh...
+
+Bandit: What? What?
+
+Bluey: Go free, birdie!
+
+Bluey releases Bandit's tail, letting him run around the whole yard, making raspberry sounds like a deflating balloon. Bluey, Bingo, and Chilli all laugh and giggle as Bandit flops all over the trampoline, before coming around and flying straight into them all.
+
+Chilli: Oh no!
+
+Bandit crashes into his family, grunting on impact. The Heelers lie in a pile, laughing.
+
+[End credits]
+
+The credits music is the episode's soundtrack - a large band playing a fun groove - while the Heelers continue to laugh. Bluey is dancing.
+
+Library/Script
+< Library
+VIEW SOURCE
+EpisodeGalleryScript
+
+Script.jpg
+[Theme Song]
+
+The episode opens to a wide shot of Stripe’s car, driving through town in mild rain. The scene quickly cuts to the inside of the car, where Stripe is driving and Muffin, wearing a tiara, is sitting in her harnessed car seat in the back.
+
+Muffin: So that’s why I’m going to write a letter to the toilet fairy.
+
+Stripe: Well, that’s the only way things will change.
+
+Muffin points ahead.
+
+Muffin: Orange light, dad.
+
+Stripe: Oop-
+
+The view cuts back outside briefly; the car simply revs its engine a bit faster and drives through two orange-lighted traffic signals.
+
+Muffin: Dad! You drove through an orange light!
+
+Stripe: Uh, yeah I did.
+
+Muffin: Didn’t you see it?
+
+Stripe: Yeah, I saw it.
+
+Muffin: But orange light means slow down and stop. Why didn’t you slow down and stop?
+
+Stripe: Uh, well… This was a special case.
+
+Muffin: Oh okay, dad. (pauses as she swings her legs back and forth, then stops) Are you special?
+
+Stripe: Well, a little.
+
+Muffin: Am I special?
+
+The camera shot shows Stripe looking back at Muffin through the rear view mirror.
+
+Stripe: Muffy, you’re the most special kid in the whole world.
+
+Muffin: Ooh, interesting.
+
+The scene moves to the Heeler household’s foyer. Muffin is loudly knocking on the door as Chilli is approaching with a folded towel.
+
+Muffin: (through the door) Open the door!
+
+Chilli: Okay, okay, coming.
+
+Chilli opens the door for Muffin, whose feet are muddy.
+
+Muffin: Hello!
+
+Chilli sets the towel down in front of the doorway.
+
+Chilli: Hi, Muffin.
+
+Muffin proceeds to walk right inside, across the towel and tracking mud in her steps.
+
+Chilli: Oh, wipe your feet on the towel, honey! It’s a bit-
+
+Muffin: I don’t have to, Aunt Chilli, I’m special.
+
+Chilli: Okay…
+
+Stripe soon comes to the door afterward, carrying Muffin’s Cat Squad toy motorcycle under his arm. He stops on the towel and wipes his muddy feet on it.
+
+Stripe: Hey, Chilli dog!
+
+Chilli: Stripe.
+
+Chilli and Stripe exchange cheek kisses.
+
+Stripe: Bit muddy out there.
+
+Chilli’s expression lowers disapprovingly.
+
+TITLE CARD - A pinkish purple book with its spine facing to the left stacked on top of a lime green book facing the other way, and the episode title.
+
+Muffin [voiceover]: This episode of Bluey is called Library.
+
+The scene enters the Heeler’s living room, set up to play “Library”. Many books are placed on the couch and a few more are propped up on the TV stand, where Bingo is standing. A drawing of someone yelling crossed out is taped to the arm of the couch. The yellow chair has been moved to the opposite side of the room and a circle of stuffed animals (Polly Puppy, a yellow bear with a red bowtie, Sir Frogdog, a blue whale, a brown racoon, and a purple octopus with a bowler hat) are positioned around it. A bean bag is in the middle of the room. The other side of the room now features a low coffee table, a cardboard box with a piece of paper taped on top, and an end table with its drawer removed and set behind it. Bluey is moving books from a cart to the couch as Muffin enters.
+
+Muffin: Hi Bluey! Hi Bingo!
+
+Bluey and Bingo: Hi Muffin!
+
+Muffin: What are you playing?
+
+Bluey: We’re playing library. I’m the library lady.
+
+Bluey moves over to the coffee table. On top, two books, one pink and one green, are positioned like an open laptop, the green book “lid” supported by a wooden block. A tennis ball is set on top of a pink cylinder pencil case with a purple zipper and yellow flowers. To the other side of the table is a lime green book, a teal stamper, a red pencil, and three index cards: one orange and the other two pink.
+
+Bluey: I’m the library lady. This is my desk. I’ve got a stamp (presses the stamp on one of the pink index cards leaving a blue heart print) and a computer.
+
+Bluey moves over to the cardboard box, grabbing the lime green book and passing it across.
+
+Bluey: And this is the book dooter where you get your book out.
+
+Bluey pushes the book through the end table and drops it into the pushed-out drawer.
+
+Bluey: And here’s where you return those books.
+
+Muffin: Oh.
+
+The camera cuts briefly to the drawing taped to the couch as Bluey points to it.
+
+Bluey: This is a sign to say, “No talking loud.” And that’s it. (hesitates) Oh, wait! These are the books.
+
+Bluey gestures to the wooden cart of books. Bingo is now sitting in the bean bag with a book and Poppy at her side.
+
+Muffin: Wow!
+
+Bingo: Shh!
+
+Muffin: Can I play?
+
+Bluey: Sure. Let’s get you a library card.
+
+Muffin: (yelling) Okay!!
+
+Bingo: Shhh!
+
+The scene cuts to Bluey at her desk, pretending to type on her “computer” and adjusting the tennis ball on top of the pencil case.
+
+Bluey: I’ll just take your picture. Look into this and smile.
+
+As Muffin smiles widely, Bluey makes a camera shutter sound.
+
+Bluey: Excellent.
+
+Bluey types on the “computer” again briefly before moving to an orange index card and drawing Muffin on it.
+
+Bluey: Just waiting for it to be ready. (hands the card to Muffin) There you go.
+
+Muffin: I want a pink one!
+
+Bingo: Shh!
+
+Bluey: (whispering) Library cards are orange.
+
+Muffin: But I want a pink one!
+
+Bluey: (grabs the card back) Okay, I’ll do a pink one. Feel free to choose some books. Just remember to keep quiet.
+
+Muffin: Okay.
+
+As Muffin rushes off, Bluey starts redrawing Muffin onto a pink index card. Meanwhile, Bingo is turning the page of a pop up book to a blue bird-like dinosaur and a fish jumping out of the water.
+
+Bingo: Ooh!
+
+Muffin: (yelling from off screen) Books!
+
+Muffin scoots into frame on her electronic Cat Squad bike, currently flashing lights and playing music, and bumps into Bingo’s bean bag. Bingo folds her ears down.
+
+Cat Squad Bike: Cat Squad is here! (Muffin pushes the button at the front) Cat Squad is here!
+
+Muffin: Cat Squad! (pumps her fist in the air)
+
+Bingo: Muffin, shoosh!
+
+Cat Squad Bike: (Muffin pushes the button again) Fear not! We are here for your purr-tection! Meow!
+
+Muffin mouths the final “meow”, as Bluey approaches.
+
+Bluey: Muffin!
+
+Muffin: (pretending to rev the bike by leaning back) Vroom!
+
+Bluey: (pushes the bike away) You can’t ride the Cat Squad bike into the library!
+
+Muffin: Yes, I can! (leans back again) Vroom!
+
+Muffin pushes the button on the front, causing it to play louder music. Bingo folds her ears down again.
+
+Bingo: Stop it! Cut it out!
+
+Bluey reaches under the Cat Squad bike to flip the off switch.
+
+Muffin: Hey!
+
+Bluey: (turning to Bingo) I’m sorry, library customer. (turns back to Muffin and hands her the pink index card) Here’s your library card, Muffin.
+
+Muffin: Ooh, pink!
+
+Bluey: Yes, it’s pink.
+
+As Muffin dismounts the bike, Bluey pushes it away from the library area.
+
+Bluey: Now, you can borrow any books you want.
+
+Bingo turns the page of her popup book to a green t-rex and a blue velociraptor.
+
+Bingo: Ooh!
+
+Muffin notices and rushes up to grab the book.
+
+Muffin: I want pop up book!
+
+As Bingo tries to tug the book back away from Muffin, Bluey tries to pull Muffin away.
+
+Bluey: Muffin, you can’t have that one.
+
+The scene cuts to the kitchen where Chilli and Stripe are each enjoying a mug of coffee at the counter as Muffin enters.
+
+Chilli: But, you know…
+
+Muffin: Dad!
+
+Stripe: Yes, Muffy?
+
+Muffin: Bluey isn’t letting me play library.
+
+Stripe: Oh.
+
+Chilli and Stripe exchange glances.
+
+Chilli: Bluey!
+
+Bluey and Bingo enter.
+
+Bluey: Yes, Mum?
+
+Chilli: Can you include Muffin in your game, please?
+
+Bluey: We are, but she’s not playing properly.
+
+Stripe: Well, everyone has their own way of playing, Bluey.
+
+Chilli briefly glares at Stripe.
+
+Chilli: Just let Muffin play how she wants, okay honey?
+
+Bluey: Okay…
+
+Bluey dejectedly takes the popup book from Bingo and hands it to Muffin.
+
+Bluey: Here you go.
+
+Muffin: Hooray! (opens the book to the two dinosaurs) Rahhh!
+
+The scene cuts back to the “library” where Bingo is moving three books, one at a time, across the cardboard box “book dooter”.
+
+Bingo. Doot! Doot! Doot!
+
+Bluey: So, Muffin, to borrow books, doot the corner like that.
+
+Muffin: Okay.
+
+Bluey: The library rules are… you can doot three books out at a time.
+
+Bluey yelps as Muffin lifts an entire stack of books and sets them on the counter, moving each one on the stack across the “dooter”.
+
+Muffin: Doot!! Doot!! Doot!!
+
+Bluey: Muffin, that’s too many books.
+
+Muffin: I can play however I want!
+
+She continues frantically passing the books across while saying “doot”.
+
+Bluey: Oh, yes, I forgot.
+
+The scene cuts to Bluey in the chair opposite the library desk, surrounded by a circle of stuffed toys, now including Bingo with Poppy in her lap.
+
+Bluey: Okay, children, welcome to Toddler Time!
+
+Bingo: (softly, as Polly) Yay!
+
+Bluey: Now, there aren’t any books left because Muffin has borrowed them all.
+
+The camera zooms out to show Muffin sitting in the bean bag, surrounded by stacks of books. The book she has open has a few sound buttons on the side. She presses one and it makes a zebra’s whooping sound.
+
+Muffin: Zebras are stripy!
+
+Bluey pulls out a book with a scale on the front cover from behind her.
+
+Bluey: But I did find this one in Dad’s office, but it doesn’t have any pictures.
+
+Bingo: Aww…
+
+Bluey: (opening the book) Once upon a time, there was… some words.
+
+Muffin: (repeatedly pressing a button on her book that makes a cat's meow) Cat!
+
+Bluey: And then there were some more words.
+
+Muffin: (presses a button that plays an elephant’s trumpet) Elephant!
+
+Bingo: Shh!
+
+Muffin silently stands up and approaches with her book.
+
+Muffin: Lion hungry!
+
+Muffin presses a button that plays a lion’s roar and shuts the book on Poppy’s head, running away with both in tow. Bingo tries to reach out for her.
+
+Bingo: Poppy!
+
+Bluey: I’m sorry, children, but she’s allowed to do that.
+
+The scene cuts to the library counter as Bluey claps for attention.
+
+Bluey: Attention, library customers, your books are due back now. Please put them in the book mouth thing.
+
+Bingo pushes her one book through the open desk.
+
+Bluey: Thank you! You, too, Muffin.
+
+Muffin opens her book, which plays “The Ants Go Marching”.
+
+Muffin: No, I’m keeping them!
+
+Bluey: You can’t keep library books, Muffin. If you don’t return them, other people can’t borrow them.
+
+Muffin shuts and reopens her book, restarting the song.
+
+Muffin: Everyone else has to return them but I get to keep them.
+
+Bingo: Why do you get to keep them?
+
+Muffin: ‘Cause I am the most special kid in the world!
+
+Muffin closes and opens the book again.
+
+Bluey: That’s it. (holds the book shut) You can be noisy, you can borrow all the books. You can even eat toddlers. But, you have to return your books. Otherwise, you’re not playing library properly.
+
+After a brief bit of silence, Muffin reopens the book, restarting the music.
+
+The scene cuts back to the kitchen as Bluey and Bingo enter dejectedly, sitting down under the counter.
+
+Stripe: Couple of weeks later, and it’s still there.
+
+Chilli: (notices Bluey and Bingo) What’s up, gang?
+
+Bluey: Muffin’s not playing properly.
+
+Chilli turns around the corner of the counter and kneels down to the girls’ level.
+
+Chilli: Bluey, we spoke about this. Muffin can play however she wants.
+
+Bluey: But, we’re playing library and she won’t return her books.
+
+Bingo: She said she doesn’t have to follow the library rules.
+
+Chilli: Oh.
+
+Stripe: Did she say why?
+
+Bingo: She says ‘cause she’s the most special kid in the world.
+
+Stripe: (nervously realizing) Oh, oh, okay. I’ll be right back.
+
+Chilli gives him a glare as he leaves the room, finding Muffin in the living room sitting on her Cat Squad bike, surrounded by books, and watching Cat Squad on the television.
+
+Stripe: Hey, Muffy. (turns off the TV and kneels down to Muffin’s level)
+
+Muffin: Hey!
+
+Stripe: You know how I said you’re the most special kid in the world?
+
+Muffin: Yes?
+
+Stripe: Well, you’re not.
+
+Muffin: Oh.
+
+Stripe: I mean, you are to me and your mum. We love you more than anything. But, you’re probably not special to everyone else.
+
+Muffin: Oh, okay!
+
+Stripe: So, you have to follow the same rules as everyone, okay?
+
+Muffin: Okay, dad! (sets down her book and goes to hug her dad)
+
+Stripe: Thanks, kiddo.
+
+The scene cuts back to the kitchen as Muffin rushes in, followed shortly by Stripe.
+
+Muffin: Bluey! Guess what!
+
+Bluey: What?
+
+Muffin: I’m not special anymore!
+
+Bluey and Bingo: (jumping back up to their feet) Hooray!
+
+Muffin: Can we play library again? I promise I’ll return my books.
+
+Bluey and Bingo: Yeah!
+
+The scene cuts back to a montage in the "library". Muffin is pushing books from her stack one at a time through the “book mouth” as Bluey takes them and puts them on her wooden cart.
+
+Bingo is back in the bean bag chair, looking through a new popup book with Poppy, who now has the left side of her head bandaged. She turns the page to a popup of a cockatoo.
+
+Bingo: Ooh!
+
+Muffin is sitting on the couch, reading the green “Ants Go Marching” book. She briefly lowers it to shush the seagull plush sitting next to her.
+
+Finally, the Toddler Time circle resumes, Muffin now joining the circle, as Bluey turns to the last page of a space-themed book.
+
+Bluey: The end.
+
+Bingo (as Poppy) and Muffin: Yay!
+
+The scene cuts back to Stripe driving back home with Muffin in the backseat. Muffin has the animal sound book in her hands. She presses the buttons for the cat’s meow and the zebra’s whoop.
+
+Stripe: You have a good time with the cousins, Muffy?
+
+Muffin: Yeah, I did!
+
+Stripe: Great.
+
+Muffin: Can we play library when we get home?
+
+Stripe: Sounds good! Oop, orange light.
+
+The camera briefly cuts to an overhead shot showing the car slowly coming to a stop at the traffic signal.
+
+Stripe: Better stop.
+
+Muffin: Good one, dad.
+
+Stripe: Thanks, princess.
+
+[End credits]
+
+During the end credits, the Cat Squad theme song plays as Muffin rides into the scene on her bike. She presses the button a few times and pretends to rev the engine. She starts riding off screen once the Screen Queensland logo appears.
