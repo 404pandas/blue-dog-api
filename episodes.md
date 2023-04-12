@@ -6192,3 +6192,807 @@ Errors
 When Lila takes one of Chucky's presents while Pat is giving it to her, a chunk of her arm is missing. Her arm goes back to normal when her pupils move to look at Chucky while he screams for Pat to stop giving away his presents.
 In this episode, the subtitles on some providers read as "Birdie Car!" instead of what Bingo is actually says which is "Birdie Kite!" before the end credits rolls
 Jasper G's party is on the 14th December, though Buddy's party, which is after Jaspers, is listed as being on the 12th November.
+
+Pavlova (Episode)
+9
+VIEW SOURCE
+Stop.png
+Spoiler Alert!
+
+This article/section may reveal details on recent or upcoming episodes.
+
+If you would like to avoid spoilers, exit the page, or proceed with caution.
+
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Pavlova (Episode)
+
+Broadcast Information
+Airdate
+December 7, 2021
+November 29, 2022 (US)
+Credits
+Episode Guide
+Previous
+Phones
+Next
+Rain
+
+Pavlova is the Seventeenth episode of Season 3 of Bluey (TV series).
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+5 References
+Synopsis
+Mum won't let Bingo have Pavlova, so the kids find a way by playing a cheeky game of Cafe in the kitchen. But Dad the chef sets up a competing shop that only serves edamame beans.
+
+Episode Recap
+Warning Spoilers!
+
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Trivia
+The board game Bandit and Chilli are playing resembles the wargame Risk, and some of the game pieces are emus. This may be a reference to Australia's Great Emu War.
+Bluey's pronunciation of "edamame" as "edna-dame" may be a reference to Australian comedian Barry Humphries's alter ego Dame Edna Everage. Dame Edna, known for her outlandish outfits and distinctive cat eye glasses, is used by Humphries to satirise class snobbery and celebrity by treating famous people like regular folks and regular folks like celebrities.
+In the French Dub Bandit speaks Italian in place of French, unlike in Camping, Bandit does not speak english.
+In both Cantonese and Mandarin Bandit is shown to be speaking the language 'in a foreign accent'.
+Bandit is revealed to know French, and Bandit says some things in French. Chilli konws a little
+In the episode the word "Mecredi" can be seen used by Bandit. Though is often used by the French as 'child-friendly' swear word (similar to how 'flip' is used in English), the episode does not connote that Bandit intends to use the word in such manner:
+French Translations:
+Bluey's line "How very dare you!" was reused from Kids, used again in season 2's Squash.
+Pavlova is a meringue based dessert originating in Australia or New Zealand usually topped with fruit and whipped cream.
+
+Perfect
+13
+VIEW SOURCE
+Stop.png
+Spoiler Alert!
+
+This article/section may reveal details on recent or upcoming episodes.
+
+If you would like to avoid spoilers, exit the page, or proceed with caution.
+
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Perfect
+
+Broadcast Information
+Airdate
+September 5, 2021 (AUS)
+December 16, 2021 (Latin America)
+November 9, 2022 (US)
+Credits
+Episode Guide
+Previous
+Easter
+Next
+Bedroom
+
+Perfect is the first episode of the third season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trailers
+5 Trivia
+Synopsis
+Bluey's Father's Day card has to be perfect, but she can't decide what to draw! So Mum reminds her about all the fun times she's had with Dad and how he's not so perfect either.
+
+Episode Recap
+Warning Spoilers!
+
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Grey Dad (Cameo)
+Grey Kid (Cameo)
+Winton’s Dad (Cameo)
+Fido
+Pat (Cameo)
+Mia (Drawing)
+Muffin (Drawing)
+Socks (Drawing)
+Frisky (Drawing)
+Uncle Rad (Drawing)
+Lila (Drawing)
+Chloe (Drawing)
+Unicorse (Drawing)
+Trailers
+Bluey-_New_Father's_Day_Episode!_-_💙_Bluey_-\_ABC_Kids  
+Trivia
+This episode was aired on Australia's Father's Day, September 5, 2021.
+Several characters and references to past episodes are depicted as drawings on the fridge:
+Mia (Barky Boats)
+Muffin and Socks
+Lila (Daddy Dropoff)
+Floppy in space (Sleepytime)
+The wagon (Wagon Ride)
+The magic xylophone
+Unicorse (Unicorse)
+Mr. Monkeyjocks
+Chattermax (Hide and Seek and Sticky Gecko)
+The duck cake
+Chunky Chimp (Movies)
+Rad and Frisky (Double Babysitter)
+A canoe (Grandad)
+Chloe dressed as the greedy queen (The Adventure)
+A fairy (Fairies)
+Jerry Lee (Escape)
+This is the second episode in which Chilli gives Bandit an angry glare, the first being Queens; and is the fourth episode overall (counting Sticky Gecko and Grandad.
+A scene where Bandit and Fido are talking, Bandit mentions something to Fido that Bluey probably didn't hear while spinning throughout this scene but Fido reply a similar answer to him. The conversation in question is subtly implying about vasectomy and whether Bandit should have one or not. The conversation also states Chilli wants to "keep her options open" but Bandit isn't sure, in addition about having another child.
+In the American version of the episode, the conversation surrounds the removal of "dog teeth" which Bandit claims he's reluctant to have removed in case "[He wants] to bite someone" (despite this change, the closed captioning still displays the dialogue from the Australian version).
+This marks the first time Bluey made a “open mouth speechless face’’.
+This is the fourth time of Chilli’s “very angry face” since Grandad.
+Bluey Spinning as a boomerang replaces her dancing in the credits.
+On Disney+ and the Bluey Website, this episode is currently listed as the 14th episode of Season 3 instead of the 1st. This creates a minor continuity error as Bluey's drawing is seen on the fridge in Omelette, the 5th episode in the season.
+It is possible that Perfect could be set much later than it aired, as the release was specially timed for Fathers Day in Australia (5th September 2021).
+On ABC iview this episode is only available to watch for a limited time, usually for the month of September, as this is a Father's Day-themed episode, similar to Christmas Swim, Verandah Santa and Easter.
+Bingo complaining that Bandits' games are too rough is a reference to the episode of Yoga Ball, which analysed the game dynamics between Bandit and Bingo.
+In the scene where Bandit threw Bluey onto the beanbag for having "no ticket" is a parody of a scene from the 1989 film, Indiana Jones and the Last Crusade, where Indiana Jones (portrayed by Harrison Ford) had thrown SS Colonel Ernst Vogel (portrayed by Michael Byrne) out the window of a Zepplin airship onto a pile of suitcases.
+Like in the film, Bandit also says "No Ticket" just like Indiana Jones said after throwing Colonel Vogel off the airship.
+
+Phones
+10
+VIEW SOURCE
+Stop.png
+Spoiler Alert!
+
+This article/section may reveal details on recent or upcoming episodes.
+
+If you would like to avoid spoilers, exit the page, or proceed with caution.
+
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Phones
+
+Broadcast Information
+Airdate
+December 6, 2021
+November 28, 2022 (US)
+Credits
+Episode Guide
+Previous
+Explorers
+Next
+Pavlova
+
+Phones is the sixteenth episode of the third season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+5 References
+Synopsis
+Bluey and Bingo want to play restaurants with Grandad, but it's a little different than he's used to... he's going to need an app to order the food!
+
+Episode Recap
+Warning Spoilers!
+
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Mort
+Pat
+Ziggy
+Trivia
+Bluey has a framed picture of the Wiggles in dog form (known as "The Waggles" here) with each of their signatures on it, indicating that she has met them in person.
+This framed picture was taken in time before Emma Watkins' departure at the end of 2021.
+Grandad's name is revealed to be Mort.
+Mort's voice actor, Laurie Newman, is misspelled Lawrie Newman in the credits.
+The portrait on the fifty-dollar note that Mort tries to pay Ziggy with depicts Edith Cowan in canine form. Cowan was a social reformer who advocated for women's and children's rights in the late 1800's. She also has the distinction of being the first woman elected to the Parliament of Western Australia.
+Pat sings Too Ra Loo Ral, or Irish Lullaby, as he’s hanging up his laundry.
+
+Phones/Script
+< Phones
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Script.jpg
+Coming-soon.png
+
+Pirates
+1
+VIEW SOURCE
+EpisodeGalleryScript
+
+Pirates
+
+Broadcast Information
+Airdate
+April 1, 2019
+November 7, 2019 (UK)
+November 18, 2019 (US)
+June 15, 2021 (CBeebies UK)
+August 5, 2021 (CBeebies Asia)
+Credits
+Episode Guide
+Previous
+The Beach
+Next
+Grannies
+Pirates is the twenty-seventh episode of the first season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+Synopsis
+It's an adventure on the high seas as Bluey, Bingo and Missy play Pirates on the hammock swing, but they'll need to find their courage to withstand storms and whale attacks.
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Missy
+Unnamed Dad
+Unnamed Kid
+Trivia
+This was the first Bluey episode to air in 2019, and it aired on April Fool's Day.
+Long Dog: This version of the long dog is blue with black floppy ears. It also has a happy expression. It can be found on the ground by the jungle gym Chilli sits on. It is most visible when Missy is cowering behind the pole and Chilli is in frame.
+
+Pizza Girls
+6
+VIEW SOURCE
+Stop.png
+Spoiler Alert!
+
+This article/section may reveal details on recent or upcoming episodes.
+
+If you would like to avoid spoilers, exit the page, or proceed with caution.
+
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Pizza Girls
+
+Broadcast Information
+Airdate
+December 9, 2021
+December 1, 2022 (US)
+Credits
+Episode Guide
+Previous
+Rain
+Next
+Driving
+
+Pizza Girls is the nineteenth episode of the third season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Errors
+5 Trivia
+6 References
+Synopsis
+Bluey and Bingo make mud pizzas and deliver them to the grown-ups, but their pedal car's wheel keeps falling off.
+
+Episode Recap
+Warning Spoilers!
+
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Uncle Stripe
+Aunt Trixie
+Muffin
+Socks
+Errors
+Upon Muffin arriving in her electric toy car, the pink wheels do not rotate and instead stuck in a stationary position.
+Trivia
+Cel-shaded CGI was used to animate Muffin's electric car when she drives Bluey and Bingo around the house.
+The scene where Muffin's electric toy car is being charged up is a reference to a Top Gear episode where Jeremy Clarkson and James May had to wait for 13 hours for thier electric cars to charge up to full capacity
+Also, Muffin's electric toy car is somewhat a miniaturized toy version of the 5th generation Toyota Hilux.
+
+Promises
+8
+VIEW SOURCE
+Stop.png
+Spoiler Alert!
+
+This article/section may reveal details on recent or upcoming episodes.
+
+If you would like to avoid spoilers, exit the page, or proceed with caution.
+
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Promises
+
+Broadcast Information
+Airdate
+November 24, 2021[1]
+Credits
+Episode Guide
+Previous
+Obstacle Course
+Next
+Omelette
+
+Promises is the Fourth episode of Season 3 of Bluey (TV series).
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+4 Trivia
+5 References
+Synopsis
+When Bluey and Dad start breaking their promises, Mum says they have to keep their promises, but then they start using promises to trick each other.
+
+Episode Recap
+Warning Spoilers!
+
+Appearances
+Bluey
+Bingo
+Bandit
+Chilli
+Hospital Kid (cameo)
+Rocko (cameo)
+Checkout Lady (cameo)
+Vet Corgi (cameo)
+Doreen (cameo)
+Librarian (debut)
+Library Dog (debut)
+Chilli's Mum (pictured)
+Brandy (pictured)
+
+Trivia
+The books from Sleepytime can be seen in the girls' bedroom in the last scene of the episode.
+Bluey checks out Shmurdle the Dirty Turtle in this episode, which becomes a plot point in Mini Bluey.
+The book with the unicorn on the cover appears in numerous later episodes, most notably Unicorse.
+The library which the family borrow book from, alongside the incorporated café and the adjacent playground is based on the real life Ashgrove Library in western Brisbane.
+Towards the end of the episode, Chilli tells Bandit that when she asked Bingo to clean up her beads, Bingo responded “I’m not interesting in that,” which is a line that she says again in Curry Quest.
+Librarian and Library Dog are voiced by Kate McMahon & Mary Bolling respectively, who host the Bluey podcast Gotta Be Done. As a debt of gratitude, Joe Brumm offered the two speaking roles in the show, through this episode.
+It is also said that one of Mary's children auditioned for the role of the toddler on the zip-line, though they didn't make the cut.
+References
+https://www.foxtel.com.au/tv-guide/channel/ABC-KidsABC-TV-Plus/A2N/2021/11/24
+
+Puppets
+14
+VIEW SOURCE
+Stop.png
+Spoiler Alert!
+
+This article/section may reveal details on recent or upcoming episodes.
+
+If you would like to avoid spoilers, exit the page, or proceed with caution.
+
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+Australia.png
+Australia-Exclusive Content
+
+This article is about content exclusive to Australian audiences.
+If this content gets released elsewhere, this template will be removed.
+
+EpisodeGalleryScript
+
+Puppets
+
+Broadcast Information
+Airdate
+June 15, 2022 [1]
+Credits
+Episode Guide
+Previous
+Stories
+Next
+Turtleboy
+
+Puppets is the 29th episode of Season 3 of Bluey (TV series).
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+5 References
+Synopsis
+Bluey and Bingo teach Unicorse good manners so he can ask Mum on a date, but things go awry when Unicorse eats a tick
+
+Episode Recap
+Warning Spoilers!
+
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Unicorse
+Trivia
+Unicorse attempts to read the episode title card, but is unable to.
+This is the second occurrence where the title card is not properly read.
+A younger version of Chilli can be seen as a photo used to motivate Unicorse.
+A younger version of Bandit and Chilli can be seen in their wedding photo.
+Both are wearing their respective wedding attire.
+Joe Brumm makes a cameo as a hand controlling and moving Bluey.
+This is the first time a human hand is seen in Bluey (TV series), or any sign of humans for that matter.
+This as well breaks the fourth wall.
+Bluey states that it was a weird dream.
+References
+https://www.foxtel.com.au/tv-guide/channel/ABC-KidsABC-TV-Plus/A2N/2022/06/15
+
+Queens
+3
+VIEW SOURCE
+EpisodeGalleryScript
+
+Queens
+
+Broadcast Information
+Airdate
+April 8, 2020
+August 28, 2020 (US)
+June 5, 2022 (CBeebies UK)
+Credits
+Episode Guide
+Previous
+Bus
+Next
+Flat Pack
+Queens is the Twenty-Third episode of Season two of Bluey (TV series).
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+Synopsis
+During a game of Queens, Bluey and Bingo find that playing the butler is much more fun. But someone must play the queen, even if it means not being afraid of a bit of hard work.
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Pat
+Trivia
+This episode marks Pat’s last speaking role at this point.
+Bandit cries out “by Toutatis!”, which is a reference to a mythological Celtic deity.
+Long Dog: This version of the long dog resembles a brown Dachshund wearing a crown. It can be seen in the study, on the desk, partially obscured by books. It is most visible after Bluey introduced Queen Bingo to Mr. Frog and the camera pans out to show the desk.
+
+Ragdoll
+5
+VIEW SOURCE
+Stop.png
+Spoiler Alert!
+
+This article/section may reveal details on recent or upcoming episodes.
+
+If you would like to avoid spoilers, exit the page, or proceed with caution.
+
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Ragdoll
+
+Broadcast Information
+Airdate
+December 15, 2021
+December 8, 2022 (US)
+Credits
+Episode Guide
+Previous
+Faceytalk
+Next
+Fairytale
+Ragdoll is the 25th episode of the third season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+5 References
+Synopsis
+Dad agrees to take Bluey and Bingo to the shops to buy an ice-cream if they can get him into the car. Only problem is... he's just entered Ragdoll Mode!
+
+Episode Recap
+Warning Spoilers!
+
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Wendy
+Chilli (mentioned)
+Trivia
+In this episode, Bandit chooses the game and Bluey and Bingo groan "Oh no, not ragdoll!"
+Usually Bandit is reluctant to hear what games Bluey and Bingo chooses but in this episode, Bandit chooses a game for them, which means that the opposite happens with Bluey and Bingo.
+This is the first episode where Bandit reads the title.
+We witness Wendy's strength for the first time as she seems able to lift Bandit into his car with ease thanks to "ten years of Pilates."
+Pilates are a series a mind-body exercises invented by and named after German physical trainer Joseph Pilates in the early twentieth century. While it is compared to similar exercise methods such as yoga or tai chi, Pilates does not delve as deeply into spirituality as other methods (although there is a mental aspect to it).
+The music in the episode, as well as the song sung by Bluey, Bingo, and Wendy, is based on the clapping game "Down By The Banks."
+When Bandit is sliding down the stairs, each of the framed photos that are hung on the wall of the stairs appear twice.
+The ice cream that Bluey receives at the end of the episode is a Splice Pine Lime. This is a reference to Ice Cream (S02E47), in which Bluey mishears Bandit's statement that her and Bingo's melted ice cream will give them a "valuable life lesson," responding with "I don't want a valuable lime [emphasis added] lesson; I just want an ice cream."
+
+Rain
+8
+VIEW SOURCE
+EpisodeGalleryScript
+
+Rain
+
+Airdate
+8th December 2021 (ABC Kids)
+10th August 2022 (Disney+)
+30th November 2022 (Disney Channel (US))
+Created and Written by
+Joe Brumm
+Cast
+Melanie Zanetti (Chilli)
+Dave McCormack (Bandit) (Does not speak)
+Credits
+Producers
+Libbie Doherty (Executive-ABC)
+Henrietta Hurford-Jones (Executive-BBC Studios)
+Richard Jeffery (Series Director)
+Charlie Aspinwall (Executive)
+Daley Pearson (Executive)
+Sam Moor
+Music & Sound
+Joff Bush (Music)
+Jazz D'Arcy (Music)
+Dan Brumm (Sound Design & Mixer)
+Tania Vlassova (Recording Engineer)
+Production
+Lauren Brown (Manager)
+Rhiannon Steffensen (Manager)
+Chloe Hume (Assistant Producer)
+Jessica Margo (Assistant Producer)
+Andy Blazewell (Technical Advisor)
+Simon Lipowicz (Technical Advisor)
+Designers
+Costa Kassab (Lead Art Director)
+Rafferty Amor (Art Director)
+Trudi Monteath (Art Director)
+Alice Walsh (Art Director)
+Rob Smyth (Lead)
+Tim Delaney
+Alice Holmes
+Jasmine Moody (Storyboard)
+Background Artists
+Nick Rees (Lead)
+Jemma Bayley
+Rob Corless
+Daniella Hammer
+Animation
+Claire Renton (Director)
+Beth Durack (Lead)
+Gerard Bishop
+Grace Burden
+Danika Catchpole
+Kiara Hankinson
+Eric H. Linh
+Caitlin O'Brien
+Genevieve Tree (Layout)
+VFX
+Francis Stanton (Lead)
+Nicole Clowes
+Jacob McCann
+Daniel Sun
+Editors/Post-Production
+Josef Switak (Editor)
+Grant Sundin (Online Editor)
+Anthony Pham (Assistant Editor)
+Reezy Miller (Post Production Scripts)
+Chop Shop Post (Post Production)
+Other Staff
+Daniel Schultz (Production Accountant)
+Janny Lalor (Production Lawyer)
+Episode Guide
+Previous
+Pavlova
+Following
+Driving
+Rain is the 18th episode of the third season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+4 Trivia
+5 References
+Synopsis
+When a heavy summer rain thunders over the Heeler home, Bluey is determined to dam the water in the front yard, while Mum tries to stop her constantly tracking mud into the house.[1]
+
+Episode Recap
+Appearances
+The Heeler Family
+Bluey
+Chilli
+Bingo
+Bandit (cameo)
+Trivia
+Rain contains the least amount of spoken words in an episode, with nine in total (plus the groan which Chilli makes between songs).
+After it starts raining, music plays, but no one talks for the rest of the episode even for the title card.
+This marks the second time that the title card is not read by the kids, the first being Unicorse, and the only episode where no dialogue is heard at all.
+Rain is the only official episode to not have its title read aloud at all, the only way being through Audio-Description.
+A double rainbow is shown at the end of the episode, but the colours of the second rainbow are in the incorrect order.
+Both songs in use in this episode, Rain itself and Rainbow, are found in Bluey: Dance Mode! (Album).
+Originally, it was planned that Rain-Boldly in the Pretend would play over the first portion of the episode, but it was decided to make the entire episode filled with instrumental music instead.
+The [YouTube Channel] posted a behinds the scenes of the making of this episode, specifically the VFX behind the show. This is at present the only type of video on said channel.[2]
+References
+https://www.bluey.tv/watch/season-3/rain/
+https://www.youtube.com/watch?v=_GYwru8RdGQ&list=PLbtUQWldWkKhZz6TzgwbFiwljRrH1t1_p
+
+Relax
+1
+VIEW SOURCE
+Stop.png
+Spoiler Alert!
+
+This article/section may reveal details on recent or upcoming episodes.
+
+If you would like to avoid spoilers, exit the page, or proceed with caution.
+
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Relax
+Airdate
+23rd April 2023 (ABC Kids)
+Cast
+Melanie Zanetti (Chilli) (unconfirmed)
+Episode Guide
+Previous
+Exercise
+Following
+Stickbird
+Relax is an upcoming episode destined to be the 45th Bluey Season 3 Episode.
+Synopsis
+Bluey and Bingo would rather explore their hotel room instead of relaxing on the beach.[1]
+
+Characters
+Bluey Heeler
+Bingo Heeler
+Chilli Heeler (unconfirmed)
+Trivia
+While unconfirmed (due to lack of information regarding the episode) it is likely that this was the first episode to be given a sneak peak by ABC Kids's Youtube Channel.[2]
+Bluey episode list
+https://www.bluey.tv/blog/updated-brand-new-bluey-more-series-3-episodes-are-coming-to-abc-kids-and-iview/
+https://www.youtube.com/watch?v=b-Hln2w6o50
+
+Rug Island
+5
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Rug Island
+
+Broadcast Information
+Airdate
+March 26, 2020
+March 17, 2020 (ABC iView)
+August 7, 2020 (US)
+August 12, 2022 (CBeebies UK)
+Credits
+Episode Guide
+Previous
+Bingo
+Next
+Charades
+Rug Island is the Tenth episode of Season two of Bluey (TV series).
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+Synopsis
+On Bingo and Bluey's Rug Island, a pack of felt pens can be anything: bananas, campfires, even a snake. But Dad will need to embrace his inner kid if he wants to make it his home.
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Pat
+Lucky
+Trivia
+When Bingo goes to get some pipis, she says they are “Pipis doing wee-wees!” which is a clear reference to The Beach, where Bluey says the same quote.
+In the Disney Junior airing of this episode, the logo disappears for 7 minutes, and then before it cuts to Hairdressers and the logo reappears.
+When Chilli gives Bluey and Bingo the pack of textas, there are less in the pack then they used in the episode.
+A snippet of Sir Edward Elgar's Pomp and Circumstance No. 1 march is heard when Bluey declares Bandit to be "not a grownup." The march is often heard at graduation and commencement ceremonies throughout the Commonwealth of Nations and the United States.
+The episode's plot is partly inspired by the 1998 American epic World War II film The Thin Red Line, in which one of the film's main protagonists, Private Robert E. Lee Witt, goes AWOL from his unit to live with the peaceful and carefree native Melanesian inhabitants of a South Pacific island before later being found and imprisoned by the United States military.[1]
+Long Dog: Likely the original dog but shadowed. It can be seen on top of the playroom bookshelf after Bandit has been rescued.
+Bluey episode list
+Brumm, Joe (April 2, 2021). "BONUS EP (aka Joe Brumm in 2021!)". Gotta Be Done! (Podcast, Interview). Interviewed by McMahon, Kate & Bolling, Mary. Event occurs at 09:48. Retrieved 15 June 2022.

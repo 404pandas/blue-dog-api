@@ -8803,3 +8803,1170 @@ Gallery
 Coming-soon
 References
 https://web.archive.org/web/20230206033145/https://twitter.com/goodsniff_/status/1601144278499328000
+
+Pedestrian
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+Pedestrian
+
+Characteristics
+Breed
+English Pointer
+Gender
+Male
+Age
+20s-30s
+Traits
+Eyes
+Black
+Fur
+White, orange-brown, darker orange-brown, tan
+Personal Status
+Relative(s)
+Cinema Counter Dog (possible brother)
+Media
+First Appearance
+The Quiet Game
+
+Pedestrian is a background character only appearing in the episode, The Quiet Game.
+
+AD
+Appearance
+Pedestrian is a white English Pointer with an orangeish-brown mask. He has darker eyebrows and tan freckles along his muzzle. His tail is orange until the tip, which is white.
+
+Appearances
+S02E37 - The Quiet Game
+Trivia
+Pedestrians appearance is very similar to that of Cinema counter dog, meaning that they could possibly be brothers.
+
+Pirates Dad
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+Pirates Dad
+
+Characteristics
+Breed
+Boxer/Pitbull
+Gender
+Male
+Age
+Unknown
+Traits
+Eyes
+Black
+Fur
+Various shades of brown
+Personal Status
+Relative(s)
+Unnamed son
+Media
+First Appearance
+Pirates
+
+Pirates Dad is a background character only appearing in a few episodes.
+
+AD
+Appearence
+He is either a pitbull or boxer considering his build and coloring. He is redish-brown, with darker and lighter splotches scattered over his body. He has small, perky folded ears. His hands, feet, belly, and eyebrows are all white. Similar to Trixie Heeler, he has lines of white going up from his feet. He has a white stripe on his forehead, connecting to a darker grey muzzle.
+
+Appearences
+S01E20 - Pirates (debut)
+S02E01 - Dance Mode
+S03E09 - Curry Quest
+Gallery
+Pirates Dad
+In the background of Dance Mode
+Pirates Background Characters
+With his son in Pirates
+
+Poffertje Dog
+3
+VIEW SOURCE
+Poffertje Dog
+
+Characteristics
+Breed
+Siberian Husky
+Gender
+Male ♂
+Traits
+Eyes
+Black and grey
+Fur
+Brown, white, grey and pink
+Media
+First Appearance
+Markets
+Voice Actor
+Daley Pearson
+Poffertje Dog is a secondary character that has appeared in multiple episodes of Bluey.
+
+Contents
+1 Appearance
+2 Biography
+3 Trivia
+4 Gallery
+
+Appearance
+Poffertje Dog is a Siberian Husky. He has white feet, hands, chest, tail tip, eyebrows and outer muzzle, brown legs, arms, tail stem, torso, top head and outer ears, grey muzzle and iris and pink inner ears. He also has a black nose.
+
+Biography
+Poffertje Dog is a Dutch dog, and sells poffertjes at the farm markets. He has no known friends or family members as yet.
+
+Trivia
+His appearance is strikingly similar to that of Customer.
+He is voiced by one of the show’s producers, Daley Pearson.
+He speaks with a Dutch accent.
+Other than selling sugary-poured poffertjes, the background confirms that he also sells pizzas.
+He can be seen with Indy's Mum in the background in the episode Hammerbarn.
+Gallery
+MaxresdefaultITSPOFFERTJETIME
+The Poffertje dog offering Bluey and Indy some poffertjes.
+Poffertje-dog-bluey-sonkala-memper
+Printed mat for Poffertje Dog.
+Poffertje-dog-with-Indys-mum.jpeg
+The Poffertje dog with Indy's Mum.
+Others like you a
+
+Pom Pom
+24
+VIEW SOURCE
+"Pomeranians are a small but hardy breed!" ― Pom Pom[source]
+
+Pom Pom
+
+Characteristics
+Breed
+Teacup Pomeranian
+Gender
+Female ♀
+Age
+5 (as of Pass the Parcel)
+Traits
+Eyes
+Black
+Fur
+White
+Personal Status
+Relative(s)
+Pom Pom's Mum (mother)
+Friend(s)
+Bluey
+Bingo
+Chloe
+Coco
+Snickers
+
+Pom Pom is a secondary character that has appeared in Bluey.
+
+Contents
+1 Appearance
+2 Personality
+3 Biography
+4 Appearances
+5 Trivia
+6 Gallery
+
+AD
+Appearance
+Pom Pom is a white pom-pom-like Pomeranian with pink inner ears and a black nose. She bears little resemblance with a real Pomeranian though.
+
+Personality
+Pom Pom is a really energetic puppy, and will always be trying to get in whatever situation Bluey is pulling off. In the episode seesaw, she gets self conscious about her size when she isn't able to get off a pole, and cant get up a little slope and she runs to her mom, crying a little bit. Later in the episode, when she is needed for seesawing Bluey’s dad (Bandit) off, she climbed up the seesaw, but struggles in the process. As she climbs up the seesaw, she trips and slides down, Bandit almost grabs her, but she perseveres and keeps climbing. Eventually reaching the top, and making Bandit side lift up, making her, Bluey, Bingo and her friends victorious. In a couple of minutes (or maybe hours), she is then seen playing a game involving one spider and a few bugs, presumably flys, with the Heeler sisters, and Judo. After asking Bingo for a turn of being the spider, Judo criticizes Pom Pom about her size and says she can't because of that, Pom Pom then gets upset and disagrees, Bingo and Bluey also disagree as well. It looks like now she is ok with her small stature.
+
+Biography
+Pom Pom is friends to Bluey, Bingo, Chloe, Coco, Snickers. She is daughter of Pom Pom's Mum but has no known Dad.
+
+Appearances
+S2E28 - Seesaw
+S3E9 - Curry Quest (end credits cameo)
+S3E14 - Pass the Parcel
+Trivia
+Pom Pom is sometimes seen to have a dog-like posture like Socks.
+She is 5 and her birthday is the 16th of an unknown month.
+Although she is the same age as Bingo, she was never seen in Kindy.
+It might be possible that she is home-schooled.
+It is also possible that she might be in a different school.
+In Pass the Parcel she gets what resembles a blue chattermax.
+Pom Pom's name is an obvious reference to her species, a pomeranian. Her physical appearance is also similar to that of a decorative ball or tuft of fibrous material of the same name.
+Her name is shared with Pom-Pom from Pup Academy, another Dog related show.
+Some fans have pointed out that in Seesaw she could have just used the lower end of the slope.
+Gallery
+Pom pom rolling down the seesaw
+Pom Pom rolling down the seesaw
+Pomeranians are small but hearty breeds!
+Pomeranians are a small but hardy breed!
+Pompombirthday5th
+Pom Pom's 5th birthday
+Pom-Pom-facepaint
+Pom Pom in butterfly facepaint
+
+Pom Pom's Mom
+3
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+Pom Pom's Mom
+
+Characteristics
+Breed
+Pomeranian
+Gender
+Female ♀
+Traits
+Eyes
+Black
+Fur
+White
+Personal Status
+Relative(s)
+Pom Pom (daughter)
+Friend(s)
+Bandit
+Chilli
+
+Media
+First Appearance
+Seesaw
+Voice Actor
+Suzy Brumm
+
+Pom Pom is a secondary character that has appeared in Bluey.
+
+Contents
+1 Appearance
+2 Personality
+3 Biography
+4 Appearances
+5 Trivia
+6 Gallery
+
+AD
+Appearance
+Pom Pom's Mum is a white Pomeranian with pink inner ears and a black nose.
+
+Personality
+
+- Coming Soon -
+
+Biography
+
+- Coming Soon -
+
+Appearances
+S2E28 - Seesaw
+S3E14 - Pass the Parcel
+Trivia
+Based on a bit of a conversation that can be heard towards the beginning of vanger, it seems that she and Chilli Heeler both have a shared interest in "Stranger Things".
+Gallery
+Itellyawhatman
+
+Pomeranian
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+Pomeranian
+
+Characteristics
+Breed
+Pomeranian
+Gender
+Female
+Traits
+Eyes
+Black
+Fur
+White
+Personal Status
+Friend(s)
+Juniper’s Brother
+Media
+First Appearance
+Ice Cream
+
+The Pomeranian is a background character seen in Ice Cream and Ragdoll. She is frequently seen with Juniper’s Brother.
+
+AD
+Appearance
+Pomeranian is a fluffy white dog with pink inner ears. She has light salmon glasses.
+
+Appearances
+S02E47 - Ice Cream (debut)
+S03E25 - Ragdoll
+Trivia
+She is Jasmine Moody’s character in the Bluey franchise. Jasmine is a storyboard artist and also voices Takeaway Lady.
+She is frequently seen with Juniper’s Brother, possibly meaning they could be dating.
+
+Pony Lady
+3
+VIEW SOURCE
+Pony Lady
+
+Characteristics
+Breed
+Irish setter
+Gender
+Female ♀
+Traits
+Eyes
+Black
+Fur
+Brown, light brown and dark brown
+Media
+First Appearance
+Markets
+Voice Actor
+Meg O’Connell
+Pony Lady is a background character that has appeared in the Markets episode of Bluey.
+
+Contents
+1 Appearance
+2 Biography
+3 Episodes
+4 Trivia
+5 Gallery
+5.1 Screenshots
+
+AD
+Appearance
+Pony Lady is a Irish setter with brown, light brown and dark brown fur. She has light brown feet, hands, bottom torso, bottom chest fur, bottom tail and bottom ears, brown middle tail, middle torso, middle chest fur and middle ears, and dark brown legs, arms, top tail, top torso, top chest fur, head, muzzle and top ears. She also has a dark brown nose, and wears a black, brown and light brown cowboy hat and a purple fanny pack.
+
+Biography
+Pony Lady sells pony rides at the markets. She has no known family members or friends as of yet.
+
+Episodes
+S1E20 - Markets
+S3E09 - Curry Quest (cameo)
+S3E14 - Pass the Parcel (cameo)
+Trivia
+She sells pony rides at the markets, but does not seem to be overly generous, as she wouldn't let Bluey and Indy ride together because Bluey only had $5.
+Her ponies are named Biscuits & Buttermilk (who are dressed as a Pegasus and Unicorn respectively).
+Gallery
+Screenshots
+Ponylady-Ponies
+Pony Lady with the Ponies.
+
+Postie
+3
+VIEW SOURCE
+Postie
+
+Characteristics
+Breed
+Catahoula Leopard Dog
+Gender
+Male ♂
+Traits
+Eyes
+Black
+Fur
+Dark brown, brown, light brown and beige
+Media
+First Appearance
+Dance Mode
+Voice Actor
+Anthony Field
+Postie is a secondary character that has appeared in Bluey.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearances
+4 Trivia
+5 Gallery
+6 References
+
+AD
+Appearance
+Postie is a Catahoula Leopard Dog with brown, dark brown, light brown and beige fur. He has brown arms, head and ears, light brown head spots and ear spots, beige muzzle and dark brown eyebrows. He also has a dark brown nose, and wears a beige uniform with a name tag and tan buttons.
+
+Biography
+Postie works at the post office, playing the role of a checkout worker. He has no known family members or friends as of yet.
+
+Appearances
+S02E01 - Dance Mode (debut)
+S02E07 - Favourite Thing (cameo)
+S02E09 - Bingo
+S03E10 - Curry Quest (cameo)
+Trivia
+Postie is voiced by musician, actor, songwriter and producer Anthony Field, also known as the Blue Wiggle. [1]
+Ironically, Field starred along Robert Irwin's father, Steve Irwin (The Crocodile Hunter) on Wiggly Safari.
+This is the second character to have a actor as a member of a band, the first was David McCormack (The Voice of Bandit), who was in Custard.
+He shares the same design as Docket Boy.
+He is the first character to debut in Season 2.
+Gallery
+Coming-soon
+References
+https://www.kidspot.com.au/lifestyle/entertainment/books-tv-and-movies/wackadoo-a-wiggle-is-coming-to-bluey/news-story/58109c2a801e8703fad4a79cd96795e4
+
+Pretzel
+3
+VIEW SOURCE
+Pretzel
+
+Characteristics
+Breed
+Chihuahua
+Gender
+Male ♂
+Traits
+Eyes
+Black
+Fur
+Brown, dark brown, light brown and beige
+Personal Status
+Friend(s)
+Lucky
+Indy
+Coco
+Snickers
+Honey
+Mackenzie
+Chloe
+Judo
+Winton
+Buddy
+The Terriers
+Bingo
+Bluey
+Media
+First Appearance
+Calypso
+Pretzel is a secondary character that has appeared in multiple episodes of Bluey.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearances
+4 Trivia
+5 Gallery
+
+AD
+Appearance
+Pretzel is a Chihuahua with brown, dark brown, light brown and beige fur. He has brown legs, feet, arms, hands, torso, head and bottom outer ears, dark brown muzzle, eyebrows and top outer ears, light brown chest and inner ears, and a beige torso oval spot. He also has a dark brown nose and is sometimes seen with a brown wooden sword and white, brown and blue cardboard shield.
+
+Biography
+Pretzel is friends with most of the people in Calypso’s School. He has no known family members as of yet.
+
+Appearances
+S1E17 - Calypso
+S1E41 - Mums and Dads
+S2E08 - Daddy Dropoff (cameo)
+S2E16 - Army
+S2E49 - Typewriter
+S3E9 - Curry Quest (cameo)
+S3E28 - Stories
+S3E34 - Space (cameo)
+Trivia
+This character is based on a dog owned by Aivy Nguyen (art director of Bluey). Both share the same name, breed and appearance.
+His name is a reference to the German-baked pastry Pretzel.
+His coat is considered as a “true chocolate” coat, because it has the exact color identical to seen on today’s milk chocolates.
+Gallery
+Calypso-screen
+
+Promises Mum
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+Promises Mum
+
+Characteristics
+Breed
+Shichon
+Gender
+Female
+Age
+20s-30s
+Traits
+Eyes
+Black
+Fur
+Black and grey
+Personal Status
+Relative(s)
+Her Son
+Media
+First Appearance
+Promises
+
+Promises Mum is a background character who appears in Promises.
+
+AD
+Appearance
+Promises Mum is a black Shichon. She has grey tipped ears, grey feet, muzzle, and eyebrows.
+
+Appearances
+S03E04 - Promises (debut)
+Trivia
+It is unknown if she reappears in future episodes along with her son to get a voice actor for her.
+
+Radley Heeler
+40
+VIEW SOURCE
+Radley Heeler
+
+Characteristics
+Breed
+Red and Blue Heeler Mix\Blue Heeler\Red Heeler
+Gender
+Male ♂
+Traits
+Eyes
+Black
+Fur
+Light blue, light yellow, dark orange and light orange
+Personal Status
+Relative(s)
+Bob (father)
+Nana (mother)
+Bandit (younger brother)
+Stripe (youngest brother)
+Chilli (sister-in-law)
+Frisky (girlfriend or fiancée)
+Bluey (niece)
+Bingo (niece)
+Trixie (sister-in-law)
+Muffin (niece)
+Socks (niece)
+Media
+First Appearance
+Charades (pictured)
+Double Babysitter
+Voice Actor
+Patrick Brammall
+
+Radley "Rad" Heeler is a secondary and recurring character that appeared in multiple episodes of Bluey.
+
+Contents
+1 Appearance
+2 Biography
+3 Trivia
+4 Appearances
+5 Gallery
+6 References
+
+AD
+Appearance
+Rad resembles a combination of Bluey and Bingo. The upper half of his body down to his chest, his shoulders, ears, back and tail have the colouration of a Red Heeler and his forearms, stomach and legs have the colouration of a Blue Heeler. He has long hair on the right side of his head. He also has white dots on his chest (or chest hair) on his stomach on the beige-coloured row.
+
+Biography
+Rad is the older brother of Bandit and Stripe, the brother-in-law of Chilli Heeler and Trixie, the uncle of Bluey, Bingo, Muffin, and Socks, and the oldest son of Bob and Chris. He was one of the guests at Bandit and Chilli’s wedding, during which he “probably” fell in the pool. As a result of working on an oil rig, Rad rarely saw his nieces, usually visiting only at Christmas.[1] He is known to have posed for at least one family photo, with his parents and brothers, along with the latter’s wives and children.[2]
+
+During one of his visits, Rad agreed to babysit Bluey and Bingo while their parents went out for the night. Though this would require putting the pair to bed, Rad had no objections, and playfully sneaked into the house after ringing the doorbell. He surprised an excited Bingo by grabbing her from behind, and then calls her Bluey before saying that Bluey is a boy. While Bingo is thrilled to have Rad taking care of them, Bluey isn’t pleased with the prospect of a babysitter putdown.
+
+Unfazed, Rad tries to get Bluey excited about the idea, asking who could be better to handle a babysitter putdown. At that moment, Bluey’s godmother Frisky walks in, and Rad seems stunned at the sight of her. After the pair are introduced, with Frisky recalling seeing Rad at the wedding, Frisky prepares to leave, having not gotten a message from Chilli about canceling her babysitting duties for the night. Bingo objects, wanting Frisky to join Rad in babysitting them, and Rad agrees readily to the unusual arrangement.
+
+After waving goodbye to Bandit and Chilli, Rad suggests that the girls get to know him and Frisky by playing twenty questions. As the girls ask about Rad’s life, he questions whether his job might not be the reason not only for the rare number of times he’s seen them, but also for his single status. He turns the game towards Frisky, and the pair learn that they have a few things in common. After Frisky mentions the recent end of her relationship with Bosco, however, Rad spares her further embarrassment by suggesting that they play a game in the backyard.
+
+Rad proves to be unfamiliar with any of Bandit or Chilli’s games, but Frisky comes to the rescue by proposing torch mouse. The adults take on the role of cats, and Frisky eventually tackles Rad. Later, the two help Bluey and Bingo brush their teeth, and Rad notices that Bluey still seems unhappy. He suggests that he give the new experience a chance, in the hopes that she might get used to and like it. Rad illustrates his point by holding her upside down, allowing her to stand and even sit on the ceiling.
+
+Afterwards, Frisky and Rad tell the girls a story, with Rad playing the role of a prince who defeats a dragon with a punch. However, “Princess” Frisky is uninterested in being rescued, much to the amusement of the girls. Following some banter and the girls’ pleading, though, Frisky agrees that the prince and princess can get married, much to Rad’s pleasure. The adults settle the girls down for bed, with Bingo falling asleep before Rad has even realized it.
+
+Bluey is still hesitant, and with some questions Rad and Frisky discover the cause. It seems that Bluey’s last babysitter putdown with Rad’s mother went poorly, due to Chris’ failing hearing. Her loud late night TV watching woke up Bluey, who was scared by Chris’ choice of programming. With kind words, Rad and Frisky encourage her to give the experience another chance, settling on the floor between her and Bingo’s beds as they wait for her to fall asleep. Afterwards, the two talk quietly on the porch outside, not noticing when Bluey awakens briefly, observes their conversation with a smile, and then returns to sleep.[3]
+
+Rad and Frisky soon became romantically involved, and they went on a trip around Christmas. This caused them to be away during the family Christmas party the rest of the Heelers had on Christmas Day. Rad and Frisky made a video call to their family and friends, with Rad questioning Stripe’s abilities as a cook. Muffin broke in to show Rad one of her presents, and Chris expressed the wish that Rad and Frisky could be at the party, which Rad reciprocated.
+
+Later, Rad left and leaped into the pool he and Frisky were visiting. This occurred while Frisky was chatting with Bluey and her new toy, Bartleby, who according to Bluey is having a rough first Christmas with the Heelers. Frisky used Rad’s performance, which he accompanied with a shout, to prove her point that the Heelers “are a bit crazy.” Rad playfully objected to this statement. He later rejoined Frisky at the bar, pulling her into a one-armed hug as he did so.[4]
+
+Trivia
+Rad Heeler didn't make a physical appearance until the second half of Season 2.
+In fact, his first appearance was in photos.
+Rad was redesigned from the picture to a new design. Originally having his blue fur up to his head in the picture.
+Radley's name is pun on the dog breed "Red Heeler".
+In Double Babysitter, he is shown to be a reckless driver, by him parking his ute messily on the Heeler’s front yard. The same episode reveals that he uses almond milk shampoo, and that he wants to have children.
+A preteen version of Rad can be seen in Fairytale.
+Rad is revealed to be the oldest brother out of Bandit and Stripe in Fairytale.
+It's possible that he is sort of absentminded frequently. Examples include him mistaking Bingo for Bluey, calling Bluey a boy (her having to correct him that she is a girl), and him saying, "Go where?" when Bingo and Bluey want to play “Come here and go away”.
+Unlike his younger brothers, he is clean shaven and does not have whiskers.
+As of Christmas Swim, Rad and Frisky are not married, but may be engaged. Their wedding is likely to be the subject of a future episode. In an interview with Gotta Be Done[5], Joe Brumm stated:
+"A wedding hasn't happened between Rad and Frisky. But, I think, Christmas Swim, yeah, the idea is that the relationship's started, maybe they're engaged. And I love the idea of caricaturing an Australian wedding from the kid's point of view. [...] I'd like to try that."
+
+Unlike his siblings and parents, Rad is a Red Heeler in a family of Blue Heelers, hinting that he could have been born by another Red Heeler, from another parent, he could possibly be adopted, he could have a gene mutation, he could be artificially insemitated, or he could be sperm donored.
+It’s also possible Bandit’s family has a family member who is a Red Heeler.
+Rad is also the first Red Heeler to not be from Chilli's side.
+Appearances
+S02E03 - Featherwand (pictured)
+S02E11 - Charades (pictured)
+S02E39 - Double Babysitter
+S02E52 - Christmas Swim
+S03E10 - Magic (pictured)
+S03E13 - Housework (pictured)
+S03E26 - Fairytale
+S03E35 - Smoochy Kiss (pictured)
+Gallery
+Uncle Rad and Frisky
+The Heeler sisters with Uncle Rad and Frisky.
+DoubleBabysitterPreview
+Bluey and Bingo playing a Save The Princess game with Rad and Frisky.
+Double Babysitter - Uncle Rad meet Frisky
+Rad meeting Frisky up close.
+84CD0A07-D953-4835-BC0D-69186BE3C7E9
+Uncle Rad on a tablet with Frisky during Christmas swim
+28EB984F-415F-4801-812D-4882D202DF33
+Uncle Rad on a tablet with Frisky during Christmas swim being surprised!
+850838C4-D091-4256-8724-5002052D1820
+Uncle rad with Bluey in the episode double babysitter
+2BC415AC-F0DD-45C2-B73A-FC8B48FE155E
+Uncle rad with Stripe Heeler and bandit Heeler in the episode fairytale with Chris Heeler in the background
+55BD1317-E671-4D29-8FB4-1D74260C7CC6
+Uncle rad with Stripe Heeler and bandit Heeler in the episode fairytale with Bob Heeler in the background
+03CBB2AF-60F9-471B-958A-04788DC55427
+Frisky showing Bluey and bingo the game torch mouse with Uncle rad behind frisky
+References
+Double Babysitter
+Charades
+Double Babysitter
+Christmas Swim
+https://www.blueypod.com/e/bonus-ep-aka-joe-brumm-in-2021/ (relevant section begins at 13:00
+
+Rich J.
+3
+VIEW SOURCE
+Rich J.
+
+Characteristics
+Breed
+English Cocker Spaniel
+Gender
+Male
+Traits
+Eyes
+Black
+Fur
+Brown, Light Yellowish-Brown, Cream
+Personal status
+Relative(s)
+Unknown
+Friend(s)
+Bandit (possible childhood friend)
+Media
+First Appearance
+Fairytale
+Rich J. is a secondary character that only appeared in Fairytale.
+
+Appearance
+Rich J. is an English Cocker Spaniel. He has beige fur, peach face, eyebrows and tip of tail and light brown fuzzy ears. He also wears a magenta and yellow cap with a green visor.
+
+AD
+Trivia
+He could have been one of Bandit´s friends.
+He might be in his late 30s to early 40's by now.
+He is seen bouncing on a trampoline and showing off a green bike.
+He could be still living in Brisbane.
+He is knows to have a lot of things with his name writen on them.
+He is the second character to have one letter at the end of his name, the first being Jasper W.
+His name is probably a nod Richard Jeffrey, one of the directors of the show.
+
+Rocko
+3
+VIEW SOURCE
+Rocko
+
+Characteristics
+Breed
+Basset Hound
+Gender
+Male ♂
+Traits
+Eyes
+Black
+Fur
+White, brown and dark brown
+Personal Status
+Relative(s)
+Rocko's Mum (mentioned)
+Friend(s)
+Bandit
+Media
+First Appearance
+Fruitbat
+(Production Appearance: Wagon Ride)
+Voice Actor
+Daley Pearson
+Rocko is a secondary character that has appeared in multiple episodes of Bluey.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearances
+4 Trivia
+5 Gallery
+5.1 Artwork
+5.2 Screenshots
+Appearance
+Rocko is a Basset Hound with white, brown and dark brown fur. He has white feet, leg spots, arms, hands, tail tip, torso and muzzle, brown legs, eyebrows and left and right head spots, and dark brown torso spots, back spot, tail stem and ears. He also has a black nose and is sometimes seen with a grey fitness watch.
+
+Biography
+Rocko is one of Bandit‘s closest friends. He has an unidentified mum.
+
+Appearances
+S1E08 - Fruitbat
+S1E20 - Markets
+S1E24 - Wagon Ride
+S1E30 - Fairies (phone call)
+S1E34 - The Dump (no lines)
+S1E45 - Kids
+S3E04 - Promises (cameo)
+S3E05 - Born Yesterday
+Trivia
+Rocko is voiced by the show's executive producer Daley Pearson.
+He sells bubbles at the marketplace.
+In "fairies" he tries to call Bandit, but the phone is in the fairy ring.
+In the end credits of the season 1 episode "Kids", his name is spelled "Roko", which is likely a typo.
+Gallery
+Artwork
+Rocko2
+Rocko with a diferent shade of feet.
+Rocko
+Rocko as seen in "Wagon Ride".
+Screenshots
+Rocko-Bubbles
+Rocko selling bubbles at the Market.
+
+Rusty
+23
+VIEW SOURCE
+Rusty
+
+Characteristics
+Breed
+Red Kelpie
+Gender
+Male ♂
+Age
+6 (formerly)
+7 (currently)
+Traits
+Eyes
+Black
+Fur
+Red and tan
+Personal Status
+Relative(s)
+Rusty's Dad
+Rusty's Mum (Explorers)
+Dusty (sister)[1]
+Friend(s)
+Bluey
+Snickers
+Coco
+Honey
+Mackenzie
+Chloe
+Pretzel
+Indy
+Bentley
+Lucky
+Jack (best friend)
+Media
+First Appearance
+Calypso
+(Production Appearance: The Doctor)
+
+Rusty is a secondary character that has appeared in multiple episodes of Bluey.
+
+Contents
+1 Bluey.tv Description
+2 Appearance
+3 Biography
+4 Appearances
+5 Trivia
+6 Gallery
+6.1 Artwork
+6.2 Merchandise
+
+AD
+Bluey.tv Description
+Original
+
+"Bluey’s cousin from the bush. Already rides a motorbike."
+
+Edited
+
+"Bluey’s friend from the bush. Already rides a motorbike."[2]
+
+Appearance
+Rusty is a Red Kelpie with red and tan fur. He has tan feet, hands, muzzle, eyebrows, inner ears and diamond chest spot, and red legs, arms, tail, torso, head and ears. He also has a dark brown nose.
+
+Biography
+Rusty is one of Bluey’s friends. He is the son of his parents.
+
+Appearances
+S01E17 - Calypso (debut)
+S01E18 - The Doctor
+S01E23 - Shops
+S01E30 - Fairies
+S01E40 - Early Baby
+S01E41 - Mums and Dads
+S02E16 - Army
+S02E25 - Helicopter
+S02E31 - Barky Boats
+S02E45 - Handstand
+S03E15 - Explorers
+S03E28 - Stories
+S03E34 - Space
+Trivia
+In the show’s very early development, Rusty was originally going to be the main protagonist, though Bluey quickly was chosen to be the main protagonist by the time the first pilot was finished.
+Rusty being one of the first characters created also explains why he is seen in the 2nd pilot's intro, but most other side-characters aren't.
+Many fans consider him to be a male counterpart of Bluey (having the exact same design as her, but with a completely different colour scheme).
+According to the official website, he rides a motorbike, though this has yet to be seen on-screen in the show.
+At one point, the official website stated Rusty was one of Bluey's cousins. But for whatever reason, the description was changed to Rusty being one of Bluey's friends instead. It has since been debated on if Rusty and Bluey being cousins is true or not.
+His mother made her physical debut in Explorers.
+Gallery
+Artwork
+Beta Rusty
+Pilot version
+Rusty stock pose
+Rusty being called to his mom's car
+Rusty being called to his mum's car
+Armygif2
+Best mate thumbs up
+Armygif4
+Running Rusty and Jack
+8A9C3D30-82A1-45B7-AEEF-9E47A1DAAA7A
+Rusty playing cricket
+Merchandise
+Bluey-Family-And-Friends-Figures
+Bluey-School-Figures
+Little rusty
+https://twitter.com/Einsamkeitus/status/1598892778586804224?s=20&t=WDm_yTx_lIH8YQ8c7TlfBQ
+https://www.bluey.tv/characters/
+
+Rusty's Dad
+13
+VIEW SOURCE
+Rusty's Dad
+
+Characteristics
+Breed
+Red Kelpie
+Gender
+Male ♂
+Traits
+Fur
+Red and tan
+Personal Status
+Relative(s)
+Rusty (son)
+Rusty's Mum (wife)
+Dusty (daughter)
+Media
+First Appearance
+Army
+Voice Actor
+Anthony Field (Army)
+Rusty's Dad is a secondary character that has appeared in Army.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearances
+4 Trivia
+5 Gallery
+
+AD
+Appearance
+Rusty's Dad is a Red Kelpie with red and tan fur. He has tan feet, hands and bottom muzzle, and red ears, tail, head and top muzzle. He also has a dark red nose and wears a green army cap and camouflage army overalls.
+
+Biography
+Rusty’s Dad serves in the army. He is the father of Rusty, but has no known friends as of yet.
+
+Appearances
+S2E16 - Army
+Trivia
+He is a soldier in the Australian Army.
+Specifically, his green beret would suggest that he is a commando of either the 1st Commando Regiment (of the Australian Army Reserve) or the 2nd Commando Regiment (of the Australian Army)[1]. However, Rusty's Dad may have been given a green beret by the character designers for trivial or aesthetic purposes.
+His voice actor served in the Australian military.
+He is voiced by musician, actor, songwriter and producer Anthony Field, also known as the Blue Wiggle, who also voices Postie.
+Before becoming a musician, from 1982 to 1985, Anthony Field had served in the 5th/7th Battalion Royal Australian Regiment, first as infantryman and rifleman, before becoming a stretcher-bearer and ambulance driver. While serving in the army, Field had also played the bagpipes during training missions and parades. In July 1985, Field suffered a back injury during training, resulting in the end of Field's military service.
+His back is only shown as seen in Army.
+Gallery
+Coming-soon
+Wikipedia: Regiments of the Australian armed forces that are entitled to wear a green beret.
+
+Scooter Kid
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+Scooter Kid
+
+Characteristics
+Age
+6-9
+Traits
+Eyes
+Black
+Fur
+Red-brown, lighter brown, darker light brown
+Media
+First Appearance
+Ice Cream
+
+Scooter Kid is a background character appearing in Ice Cream.
+
+AD
+Appearance
+Scooter Kid is a brown dog of an unknown breed. They have a lighter muzzle, feet, and hands. They have a darker fron muzzle.
+
+Appearances
+S02E47 - Ice Cream (debut)
+
+Sheila
+2
+VIEW SOURCE
+Sheila
+
+Characteristics
+Breed
+Maltese
+Gender
+Female ♀
+Age
+TBA
+Traits
+Eyes
+Black
+Fur
+White
+Personal Status
+Relative(s)
+Lila (daughter)
+Unnamed son
+Friend(s)
+Pat
+Media
+First Appearance
+Daddy Dropoff
+Voice Actor
+Jess Harris
+
+Sheila is a character that has appeared in Bluey.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearances
+4 Trivia
+5 Gallery
+5.1 Screenshots
+
+AD
+Appearance
+Sheila is a Maltese with white fur covering her whole body, except for her ear tips which are dark gray. She also has a black nose.
+
+Biography
+Sheila is the mother of Lila; at present she has no known husband or friends.
+
+Appearances
+S02E08 - Daddy Dropoff
+S03E14 - Pass the Parcel
+Trivia
+She shares a similar body design to Mrs. Retriever
+Gallery
+Screenshots
+Lila being dropped off by her mum
+
+Shop Assistant
+VIEW SOURCE
+Shop Assistant
+
+Characteristics
+Breed
+Springer Spaniel
+Gender
+Female
+Traits
+Eyes
+Black
+Fur
+Brown, white, and beige
+Media
+First Appearance
+The Quiet Game
+Voice Actor
+Anne Pearson
+"May i help you?" ― Her asking Bandit if he needs anything in The Quiet Game
+
+Shop Assistant is a character that has appeared in Bluey.
+
+Contents
+1 Appearance
+2 Biography
+3 Personality
+4 Trivia
+
+AD
+Appearance
+-Coming soon-
+
+Biography
+-Coming soon-
+
+Personality
+-Coming soon-
+
+Trivia
+-Coming soon-
+
+Snickers
+8
+VIEW SOURCE
+Snickers
+
+Characteristics
+Breed
+Dachshund
+Gender
+Male ♂
+Traits
+Eyes
+Black
+Fur
+Black and brown
+Personal Status
+Relative(s)
+Snickers’ Mum (mother)
+Friend(s)
+Bluey
+Coco
+Honey
+Chloe
+Pretzel
+Rusty
+Indy
+Pom Pom
+Media
+First Appearance
+Shadowlands
+Voice Actor
+Samson Hyland
+Snickers is a secondary character that has appeared in multiple episodes of Bluey.
+
+Contents
+1 Bluey.tv Description
+2 Appearance
+3 Biography
+4 Appearances
+5 Trivia
+6 Gallery
+6.1 Merchandise
+
+AD
+Bluey.tv Description
+"Not the most physical kid but loves machines, atoms and the stars."
+
+Appearance
+Snickers is a Dachshund with brown and black fur. He has brown feet, hands, bottom tail, eyebrows, and muzzle, and black arms, legs, ears, top tail, torso and head. He also has a black nose and wears a yellow legionnaires cap with a green Australia on the front and green tips.
+
+Biography
+Snickers is friends with most of the students in Calypso’s School. He is the son of Snickers’ Mum but has no known Dad.
+
+Appearances
+S1E05 - Shadowlands
+S1E18 - Doctor
+S1E40 - Early Baby
+S1E41 - Mums and Dads
+S2E16 - Army (cameo)
+S2E25 - Helicopter
+S2E28 - Seesaw
+S2E45 - Handstand
+S2E49 - Typewriter
+S2E50 - Baby Race
+S3E28 - Stories
+N/A = K9 News
+Trivia
+He is one of the very few kids featured in Bluey that has a known voice actor.
+A baby version of him can be seen in Baby Race.
+His name (and design) could be a reference to the candy, Snickers.
+Because his mother has a different fur color than Snickers, this may indicate what Snickers' father looks like, who has yet to be mentioned or to make an appearance.
+In Typewriter, Snickers had trouble sitting down, but in Baby Race, he could sit just fine.
+Gallery
+Shadowlands-screen
+Snickers-Typewriter
+We run outa kids
+HIS PET ROCK HAS A PET ROCK LOL
+Static-assets-upload269081076464997436
+Merchandise
+Bluey-Friends-Figures
+Bluey-Family-And-Friends-Figures
+Bluey-Story-Starters-Snickers-And-Water-Blaster
+Bluey-Snickers-Plush
+
+Snickers' Mum
+1
+VIEW SOURCE
+Snickers' Mum
+
+Characteristics
+Breed
+Dachshund
+Gender
+Female ♀
+Traits
+Eyes
+Black
+Fur
+Brown, honey brown and light brown
+Personal Status
+Relative(s)
+Snickers (Son)
+Friend(s)
+Chilli
+Bella
+Wendy
+Media
+First Appearance
+Shadowlands
+Voice Actor
+Vikki Ong
+Snickers' Mum is a secondary character that has appeared in multiple episodes of Bluey.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearances
+4 Trivia
+5 Gallery
+
+AD
+Appearance
+Snicker’s Mum is a Dachshund with brown, honey brown and light brown fur. She has brown ears, honey brown legs, arms, top tail, torso and head and light brown feet, hands, chest, bottom tail and eyebrows. She also has a black nose.
+
+Biography
+Snicker’s Mum is one of Chilli and Bella's friends. She is the mother of Snickers but has no known husband as of yet.
+
+Appearances
+Shadowlands
+Hammerbarn
+S2E37 - The Quiet Game (cameo)
+Baby Race
+Trivia
+Her fur colour is different from that of her son's.
+Gallery
+Coming-soon
