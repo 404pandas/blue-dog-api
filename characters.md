@@ -2985,6 +2985,87 @@ Super open and imaginative.
 Honey
 Honey
 Assertive, thoughtful and mindful.
+Honey
+11
+VIEW SOURCE
+Honey
+
+Characteristics
+Breed
+Beagle
+Gender
+Female ♀
+Traits
+Eyes
+Black
+Fur
+White, honey, dark honey and brown
+Personal Status
+Relative(s)
+Daisy (Mum)
+Marcus (Dad)
+
+Friend(s)
+Bluey
+Coco
+Chloe
+Mackenzie
+Indy
+Bingo
+Rusty
+Hercules
+Snickers
+The Terriers
+Media
+First Appearance
+Spy Game
+(Production Appearance: The Doctor)
+Honey is a secondary character that has appeared in multiple episodes of Bluey.
+
+Contents
+1 Bluey.tv Description
+2 Appearance
+3 Biography
+4 Appearances
+5 Trivia
+6 Gallery
+6.1 Merchandise
+
+AD
+Bluey.tv Description
+"Assertive, thoughtful and mindful."
+
+Appearance
+Honey is a Beagle with white, honey, dark honey and brown fur. She has white feet, hands, 1st tail tip, chest and muzzle, honey legs, arms, tail stem, torso and head, brown eyebrows and 2nd tail tip and dark honey ears. She also has a black nose and wears circle turquoise glasses.
+
+Biography
+Honey is friends with many of the children in Calypso‘s school. She has a Dad called Marcus and a Mum called Daisy.
+
+Appearances
+S1E13 - Spy Game
+S1E17 - Calypso
+S1E18 - The Doctor
+S1E23 - Shops
+S1E40 - Early Baby
+S1E41 - Mums and Dads
+S2E16 - Army
+S2E25 - Helicopter
+S2E31 - Barky Boats (cameo)
+S2E33 - Circus
+S2E45 - Handstand
+S3E09 - Curry Quest
+S3E14 - Pass the Parcel
+S3E15 - Explorers
+S3E28 - Stories
+Trivia
+Honey’s parents both wear glasses like her.
+Her tail can wag her body, unlike other dogs, whose bodies wag their tails.
+Her name is a reference to the sweet food substance of the same name, Honey.
+Gallery
+Spy game-screen
+Calypso-screen
+Tea Party with Bluey - BRAND NEW ORIGINAL - Bluey
+Tea Party with Bluey - BRAND NEW ORIGINAL - Bluey
 
 Coco
 Coco
@@ -6028,3 +6109,427 @@ Trivia
 His character design is very similar to Pat and Jean-Luc's Dad.
 He likes his banana bread toasted, as mentioned in Café.
 His name is a traditional dog name from the Latin word for "loyal"
+
+Grey Dad
+VIEW SOURCE
+
+Grey Dad
+
+Characteristics
+Breed
+Thai Ridgeback
+Gender
+Male
+Traits
+Eyes
+Black
+Fur
+Grey, white, and various shades of charcoal
+Personal status
+Relative(s)
+Grey Kid
+Media
+First Appearance
+Movies
+Grey Dad is a background character appearing in only a few episodes.
+
+Contents
+1 Appearances
+2 Biography
+3 Trivia
+4 Gallery
+
+AD
+Appearances
+S02E28: Movies
+S02E35: The Quiet Game
+S03E01: Perfect
+Biography
+The Grey Dad is a grey Thai Ridgeback that has been seen with his child when he walks around to various places. He has no known friends or family relatives as of yet.
+
+Trivia
+Along with his child, theres another background character that has the same paterns and body as him but are yellow instead of grey. They could possibly be husbands, though.
+If him and the yellow Thai Ridgeback are husbands, that would make them the first gay couple in Bluey.
+He seems to enjoy watching movies with his son, as seen in Movies.
+Gallery
+53B2E939-86C8-4629-B85D-7A027D196FAC
+In Perfect
+Grey Dad and Kid
+With his child in Movies
+Grey Dad Quiet Game
+In The Quiet Game
+
+Grey Kid
+2
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+Grey Kid
+
+Characteristics
+Breed
+Thai Ridgeback
+Age
+6-9
+Traits
+Eyes
+Black
+Fur
+Grey, darker grey, lighter grey.
+Personal Status
+Relative(s)
+Their Dad
+Their possible other Dad
+Their possible Sibling
+Media
+First Appearance
+Movies
+Grey Kid is a background character only appearing in a few episodes.
+
+Contents
+1 Appearance
+2 Appearances
+3 Trivia
+4 Gallery
+
+AD
+Appearance
+Grey Kid has a grey body with a lighter grey belly, hands, feet, and eyebrows. They have a darker muzzle and inner ears. They can also be seen with a teal and pink back-pack.
+
+Appearances
+S02E29 - Movies
+S03E01 - Perfect
+Trivia
+Theres another background character with the exact same patterns and body as Grey Kid, but they are yellow. This is a common pattern with other background characters as well.
+Their father also has a yellow variant. We could assume that they could be a family.
+Gallery
+673E27AF-E8DE-4742-8432-379DCF836BE9
+In Perfect
+Grey Dad and Kid
+With their dad in Movies
+Yellow Dad and Grey Kid
+With their possible other dad in Movies
+
+Grey Nomads
+VIEW SOURCE
+3d45e665-477d-423b-baa5-d0ba21307336
+
+Grey Nomads
+Characteristics
+Gender
+Male and Female
+Age
+70-80
+Traits
+Eyes
+Black
+Fur
+Grey and white
+Media
+First Appearance
+Road Trip
+Voice Actor
+Bob Brumm & Judy Newman
+
+The Grey Nomads are Nannas and Grandads in big, slow caravans. In Road Trip they are headed towards the Big Peanut. They also give Bingo a Big Peanut sticker.
+
+AD
+Appearances
+Road Trip
+Promises(Cameo)
+Curry Quest (Cameo)
+Trivia
+They are voiced by Bob Brumm and Judy Newman.
+Others like you also viewed
+Frisky
+Hercules
+Brandy Cattle
+Fido
+Buddy
+Juniper
+Dougie
+Chippy
+Captain
+Gruber
+Winton's Dad's Girlfriend
+Dusty
+Bluey Wiki
+Frank
+Maynard
+
+Categories
+Community content is available under CC-BY-SA unless otherwise noted.
+
+Gruber
+11
+VIEW SOURCE
+Gruber
+
+Characteristics
+Breed
+German Shepherd
+Gender
+Male ♂
+Traits
+Eyes
+Brown
+Fur
+Brown, light brown, pinkish-brown and black
+Personal Status
+Relative(s)
+Gruber's Dad
+Media
+First Appearance
+Markets
+
+Gruber is a secondary character that has appeared in multiple episodes of Bluey.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearances
+4 Trivia
+5 Gallery
+
+AD
+Appearance
+Gruber is a German Shepherd with brown, black, light brown and brownish-pink fur. He has brown legs, arms, bottom tail, torso and head, light brown hands, feet, chest and eyebrows, black ears, muzzle, back stripes and top tail and brownish-pink inner ears. He also has a black nose.
+
+Biography
+Gruber helps his dad sell German hot dog sausages at the markets. He has a dad, but has no known mum or friends as of yet.
+
+Appearances
+S01E20 - Markets
+S01E41 - Mums and Dads
+Trivia
+In the episode Markets, the subtitles read that his dad called him “Rupert”. This was later revealed to be a mistake and has been confirmed by Ludo themselves that his name was actually Gruber.
+Gallery
+POPOEf0German shepherd idejwijduisjn
+Gruber helping his dad sell a sausage to Winton
+Others like you also viewed
+
+Gruber's Dad
+2
+VIEW SOURCE
+Gruber's Dad
+
+Characteristics
+Breed
+German Shepherd
+Gender
+Male ♂
+Traits
+Eyes
+Black
+Fur
+Brown, light brown, black and brownish-pink
+Personal Status
+Relative(s)
+Gruber (son)
+Media
+First Appearance
+Markets
+Voice Actor
+Joe Brumm
+
+Gruber’s Dad is a secondary character that has appeared in multiple episodes of Bluey.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearances
+4 Trivia
+5 Gallery
+
+AD
+Appearance
+Gruber’s Dad is a German Shepherd with brown, black, light brown and brownish-pink fur. He has brown legs, arm, bottom tail, torso and head, light brown feet, hands, chest and eyebrows, black top tail, back spots, muzzle and outer ears and brownish-pink inner ears. He also has a black nose.
+
+Biography
+Gruber’s Dad sells German sausages at the markets. He has a son named Gruber, but no known wife or friends.
+
+Appearances
+S01E20 - Markets
+S02E01 - Dance Mode
+Trivia
+He is voiced by the show’s creator, Joe Brumm.
+Gallery
+Coming-soon
+
+Hercules
+15
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+Hercules
+
+Characteristics
+Breed
+Saint Bernard
+Gender
+Male ♂
+Traits
+Eyes
+Black
+Fur
+White, brown, dark brown
+Personal Status
+Friend(s)
+Bluey
+Mackenzie
+Coco
+Bingo
+Honey
+Winton
+Media
+First Appearance
+Circus
+
+Hercules is a secondary character that has appeared in Bluey.
+
+Contents
+1 Appearance
+2 Trivia
+3 Gallery
+3.1 Screenshots
+Appearance
+Hercules is a Saint Bernard with white and brown fur. He has dark brown ears and eyebrows; he also has a black nose.
+
+Trivia
+He was one of the first characters to be named after a Greco-roman hero and god of the same name.
+He can be a bit of a bully, but he changed his personality at the end of the episode "Circus", but he was still mean to Mackenzie (the lion tamer) by twirling him around until he got really dizzy.
+
+Homeless Dog
+VIEW SOURCE
+Homeless Dog
+
+Characteristics
+Breed
+Terrier
+Gender
+Male
+Traits
+Eyes
+Black
+Fur
+Grey
+Media
+First Appearance
+The Quiet Game
+
+The Homeless Dog is a grey dog that sits on the streets. He carries around a red trunk. He appears in the episode Ice Cream and the episode The Quiet Game.
+
+AD
+Appearance
+Homeless dog is a grey terrier with a lighter muzzle, spot on tail, feet, and tipped ears. He has darker ears and eyebrows. Homeless dog has lighter hair flecks on his muzzle and face. He is seen with a red sleeping bag and green hat which he uses for donations.
+
+Appearances
+S02E37 - The Quiet Game (debut)
+S02E47 - Ice Cream
+Trivia
+The homeless dog is the first background character to be shown as homeless
+
+Hospital Kid
+1
+VIEW SOURCE
+Hospital Kid
+
+Characteristics
+Breed
+Springer Spaniel
+Gender
+Male
+Traits
+Eyes
+Black
+Fur
+Brown and cream colored
+Personal Status
+Relative(s)
+Hospital Kid's Mum
+Media
+First Appearance
+Mr. Monkeyjocks
+
+Hospital Kid is a secondary character that has appeared in Mr. Monkeyjocks.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearances
+4 Trivia
+
+AD
+Appearance
+Hospital Kid is a light brown and white Springer Spaniel. He has tan eyebrows and a black nose, brown ears with a light brown patch all over his face, a light brown spot at his back and a brown tail tip. He also carries a medical bracelet on his left wrist.
+
+Biography
+Not much is known about him. He suffers an illness, given this he receives Mr. Monkeyjocks from his mother to cheer him up.
+
+Appearances
+S02EP38 - Mr. Monkeyjocks
+Trivia
+He appears to have an illness, yet it is left ambiguous
+He seems to enjoy farms given his drawing and wallpaper
+Others like you also viewed
+Flying Fox Kid
+Dusty
+Radley Heeler
+Bluey Wiki
+Juniper
+Hercules
+Bentley
+Juniper’s Brother
+Zara
+Bluey Heeler
+Bandit Heeler
+Harley
+Gruber
+Pretzel
+Sadie
+
+Categories
+Community content is available under CC-BY-SA unless otherwise noted.
+
+Hospital Kid's Mum
+VIEW SOURCE
+Hospital Kid's Mum
+
+Characteristics
+Breed
+Springer Spaniel
+Gender
+Female
+Traits
+Eyes
+Black
+Fur
+White, tan, tawny
+Personal status
+Relative(s)
+Hospital Kid
+Media
+First Appearance
+Mr. Monkeyjocks
+Voice Actor
+Bishanyia Vincent
+
+Hospital Kid's Mum is a secondary character that has appeared in Mr. Monkeyjocks.
+
+AD
+Appearance
+Hospital Kid's Mum is a light brown and white Springer Spaniel. She has tan eyebrows and a black nose, brown ears with a light brown patch at the right side of her head and brown spots on her lower left side and back. She also has freckles on her muzzle.
+
+Biography
+Not much is known about Hospital Kid's Mum. She visited the op shop that Bluey and her family went to to drop off their excess toys, where she purchased Mr. Monkeyjocks for her son.
+
+Appearances
+S02EP38 - Mr. Monkeyjocks

@@ -4413,7 +4413,7 @@ Chilli Heeler
 Postie (cameo)
 Checkout Dog (cameo)
 Clip
-Favourite*Thing*-_NEW_EPISODES_-\_Bluey   
+Favourite*Thing*-_NEW_EPISODES_-\_Bluey  
 Trivia
 The title wasn't changed to "Favorite Thing" to suit American audiences
 This episode first aired on ABC Kids in 2020 as a sneak peek.
@@ -4471,3 +4471,717 @@ Long Dog: This episode also has two long dogs:
 The first is blue-grey with white patterns. It is wearing a red scarf or ascot and has a somewhat elderly appearance to it.
 This is the most realistic depiction of a real dog that any long dog has been so far.
 The second is another vague oblong shadow situated atop the bookshelf.
+
+pisodes, Season 1
+English
+Grannies
+6
+VIEW SOURCE
+EpisodeGalleryScript
+
+Grannies
+
+Broadcast Information
+Airdate
+April 2, 2019
+September 13, 2019 (US)
+November 1, 2019 (UK)
+June 1, 2021 (CBeebies UK)
+August 6, 2021 (CBeebies Asia)
+Credits
+Episode Guide
+Previous
+Pirates
+Next
+The Creek
+Grannies is the twenty-eighth episode of the first season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+3.2 Objects
+4 Trivia
+Synopsis
+A game of 'Grannies' is fun, until Bingo and Bluey can't agree on one simple question: Can Grannies floss? Now they'll need to video call their Nana to get the answer.
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Bob (debut)
+Nana (debut)
+Socks (cameo in picture)
+Muffin (cameo in picture)
+Objects
+Garden Gnomes
+Trivia
+Bluey was replaced with Nana flossing in the credits.
+The phone Bluey's family uses resembles the design of an Apple IPhone.
+This is one of three season 1 episodes to have sneak peaks in 2019, the other two being The Creek and Asparagus.
+The main dance that appears in this episode is the Backpack Kid's floss dance.
+Both Chilli and Bandit break the fourth wall by looking at the audience.
+This is the first appearance of Bob and Nana.
+Long Dog: This version of the long dog is actually a blue crayon drawing on Nana's fridge. It is visible while the girls are on call with Nana but is not clearly visible except when Bingo is proven wrong and she leaves upset.
+This is the first time the long dog appears in a non toy form.
+
+Granny Mobile
+5
+VIEW SOURCE
+Stop.png
+Spoiler Alert!
+
+This article/section may reveal details on recent or upcoming episodes.
+
+If you would like to avoid spoilers, exit the page, or proceed with caution.
+
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+Australia.png
+Australia-Exclusive Content
+
+This article is about content exclusive to Australian audiences.
+If this content gets released elsewhere, this template will be removed.
+
+EpisodeGalleryScript
+
+Granny Mobile
+
+Broadcast Information
+Airdate
+June 19, 2022 [1]
+Credits
+Episode Guide
+Previous
+Tradies
+Next
+Space
+
+Granny Mobile is the 33rd episode of Season 3 of Bluey (TV series).
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+5 References
+Synopsis
+At a garage sale, Muffin's playing Grouchy Granny, and she's making Dad push her on an old scooter. But then, a real Grouchy Granny wants to buy it, and Muffin won't budge.
+
+Episode Recap
+Warning Spoilers!
+
+Appearances
+Characters
+Bluey
+Bingo
+Bandit (Bugalugs, nicknamed by Grouchy Granny Muffin)
+Chilli
+Muffin
+Doreen
+Shopper
+Len (mentioned)
+Old Pug (debut)
+-Coming soon-
+
+Trivia
+Bluey dancing in the end credits are replaced with the old pug riding the scooter.
+The music for the grouchy granny pug is Habanera Aria by Georges Bizet.
+The painting that the Shopper asks Doreen to price is a piece by Ken Done.[2]
+References
+https://www.foxtel.com.au/tv-guide/channel/ABC-KidsABC-TV-Plus/A2N/2022/06/19
+https://twitter.com/raffamor/status/1539030568511213569
+
+Hairdressers
+9
+VIEW SOURCE
+EpisodeGalleryScript
+
+Hairdressers
+
+Broadcast Information
+Airdate
+March 21, 2020
+August 7, 2020 (US)
+August 5, 2022 (CBeebies UK)
+Credits
+Episode Guide
+Previous
+Squash
+Next
+Stumpfest
+Hairdressers is the Fifth episode of Season two of Bluey (TV series).
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+4.1 Errors
+Synopsis
+During a game of hairdressers, Bluey discovers that big-headed customer Dad has nits! To help treat them Bingo has to find her voice, while Bluey has to find her ears.
+
+Hammerbarn
+8
+VIEW SOURCE
+EpisodeGalleryScript
+
+Hammerbarn
+
+Broadcast Information
+Airdate
+March 18, 2020(AUS)
+July 11, 2020(US)
+August 2, 2022 (CBeebies UK)
+Credits
+Episode Guide
+Previous
+Dance Mode
+Next
+Featherwand
+Hammerbarn is the second episode of the second season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+Synopsis
+On a trip to Hammerbarn, Bluey and Bingo create their own mini-homes side-by-side in the trolley. But Bluey quickly gets jealous of her neighbour, Bingo.
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Pat
+Snickers’ Mum (cameo)
+Juniper’s Mum (cameo)
+Winton (cameo)
+Winton’s Dad (cameo)
+Indy's Mum (cameo)
+Jack's Mum (cameo)
+Poffertje Dog (cameo)
+Employee
+Checkout Dog
+Customer 2 (cameo)
+Uncle Stripe (Unconfirmed cameo)
+Wendy (Unconfirmed cameo)
+Lucky (Mentioned)
+Trivia
+Hammerbarn itself is based off the popular Australian store Bunnings Warehouse.
+This episode marks the first time Chilli actually yells at Bluey.
+A snippet of the "Hallelujah" chorus from Handel's oratorio Messiah is briefly heard when Bluey and Bingo discover the colour swatch aisle.
+This episode, along with Dance Mode, and Featherwand were the first episodes of Season 2 to air in the US.
+Bluey is replaced with Winton's Dad walking in and eating a Hammerbarn sausage in the credits of this episode.
+The names Dimitri, Edelgard and Claude can be seen on the shelves at Hammerbarn. This is a reference to main characters in the game Fire Emblem: Three Houses.
+Hamish Blake, an Australian media personality, has a short cameo in this episode as Employee, giving directions to get to the pizza oven inside Hammerbarn.
+On Disney+, this episode is currently listed as the 1st episode of Season 2 instead of the 2nd.
+Long Dog: This long dog is light brown with a dark brown nose. It is most visible while the Heelers are waiting on the cashier, specifically when the camera has the girls, Chilli, and the cashier in frame. It can be found in the heap of boxes behind them.
+
+Helicopter
+3
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Helicopter
+
+Broadcast Information
+Airdate
+April 10, 2020
+March 26, 2021 (US)
+October 5, 2022 (CBeebies UK)
+
+Credits
+Episode Guide
+Previous
+Flat Pack
+Next
+Sleepytime
+Helicopter is the Twenty-Fifth episode of Season two of Bluey (TV series).
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+Synopsis
+At school, Bluey and her friends turn a tree stump into a thrilling game of Helicopter. But as the pilot, Bluey has to learn to give up some control, so they can all have fun.
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey Heeler
+Bingo Heeler
+Bandit Heeler (voice only)
+Chilli Heeler
+Winton
+Chloe
+Mackenzie
+Snickers
+Honey
+Rusty
+Jack
+Indy
+The Terriers
+Calypso (cameo)
+Winton’s Dad (mentioned)
+Winton's Mum (mentioned)
+Trivia
+Winton's mother is mentioned for the first time, and we also learn that she and Winton's dad are divorced.
+The phone ring used in the episode is also used in ''PAW Patrol'' as the trademark phone ring for Ryder's PupPad.
+This is the first time Bluey meets Jack.
+When Snickers say “Welcome to Channel K9 News”, it is a reference to Channel 9 News; one of many Australian Television News Channel
+Bluey episode list
+
+Hide and Seek
+3
+VIEW SOURCE
+EpisodeGalleryScript
+
+Hide and Seek
+
+Broadcast Information
+Airdate
+March 16, 2019
+October 31, 2019 (UK)
+November 11, 2019 (US)
+July 23, 2021 (CBeebies UK)
+August 26, 2021 (CBeebies Asia)
+Credits
+Episode Guide
+Previous
+Mums and Dads
+Next
+Camping
+Hide and Seek is the forty-second episode of the first season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+Synopsis
+It's time for a family game of hide and seek. Everyone hides, while Bluey counts to twenty, but will she be able to stay focused on the game and not get distracted by all her toys.
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Trivia
+The Chattermax featured in this episode is based off a popular late 90s's toy, Furby.
+The Bluey ditty music heard in this episode is played by an acoustic guitar. This is one of the Bluey episodes that have to ditty music played in a different music instrument.
+Long Dog: This version of the long dog is blue. It is more in line with the updated variant rather than the original toy. It is seen near the bookshelf in the playroom.
+It is possible that the original toy has been modified since it's previous appearance to be more like it's other incarnations.
+
+Horsey Ride
+9
+VIEW SOURCE
+EpisodeGalleryScript
+
+Horsey Ride
+
+Airdate
+9th October 2018 (ABC)
+11th September 2019 (Disney Channel (US))
+2nd November 2019 (Disney Channel (UK))
+28th April 2021 (CBeebies UK)
+20th May 2021 (Disney Junior India)
+24th June 2021 (CBeebies Asia)
+Created and Written by
+Joe Brumm (Series Director)
+Cast
+Dave McCormack (Bandit)
+Melanie Zanetti (Chilli)
+Myf Warhurst (Trixie)
+Dan Brumm (Stripe)
+Credits
+Producers
+Michael Carrington (Executive-ABC)
+Henrietta Hurford-Jones(Executive-BBC Worldwide)
+Nathan Waddington (Associate-BBC)
+Charlie Aspinwall (Executive)
+Daley Pearson (Executive)
+Sam Moor (Line Producer)
+Music & Sound
+Joff Bush (Music)
+Steve Peach (Music)
+Dan Brumm (Sound Design)
+Ian MacWilliams (Recording Engineer)
+Production
+Laura Dimaio (Development Production Manager)
+Meg O'Connell (Development Manager)
+Andi Spark (Production Manager)
+Lauren Brown (Production Coordinator)
+Andy Blazewell (Technical Advisor)
+Simon Lipowicz (Technical Advisor)
+Designers
+Catriona Drummond (Art Director)
+Costa Kassab (Art Director)
+Owain Emmanuel (Lead)
+Chris Voigt (Storyboard)
+Jake Bresanello
+Trudi Monteath
+Background Artists
+Josh Hall
+Daniela Hammer
+Connor M. Johnston
+Animation
+Richard Jeffery (Director)
+Beth Harvey (Lead)
+Gerard Bishop
+Juné Du Plessis
+Lisa Hack
+Eric H. Lin
+Amy Mack
+Liana Wright (Layout)
+VFX
+Jacob McCann
+Francis Stanton
+Editors/Post-Production
+Sam Carroll (Script Editor)
+Michael Griffin (Editor)
+Grant Sundin (Online Post Production)
+Other Staff
+Daniel Schultz (Production Accountant)
+Jenny Lalor (Production Lawyer)
+Episode Guide
+Previous
+Fruitbat
+Following
+Hotel
+
+Horsey Ride is the ninth episode of the first season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+4 Trivia
+Synopsis
+With Mum and Aunt Trixie away, Bluey, Bingo and Muffin make Dad and Uncle Stripe play a game of Horsey Ride.[1]
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+The Heeler Family
+Bluey
+Chilli
+Bandit
+Bingo
+Muffin
+Uncle Stripe
+Aunt Trixie
+Socks
+Trivia
+This is the first episode that:
+Two long dogs are in one episode, plus the first that two have appeared in the same shot:
+There are two almost identical versions of the long dog in this episode. They resemble the original design and can both be found under the table in the playroom, during the wedding scene, after the camera has panned over to Socks.
+Steve Peach is co-composer for an episode, alongside Joff Bush.
+Just after Socks tries to bite Chilli, Chilli says, somewhat hushed, "far out", which is Australian slang for expressing disbelief.
+The sound of "far out" is delayed by around 1.5 seconds after when her lips imply she says this, being an animation error.
+When Muffin and Stripe walk up to the altar, the black markings on Bandit's face disappear for a full second.
+In the title card, Polly Puppy's ears are surrounded by two green boxes. These boxes are for animating the ears in CelAction2D and are hidden when rendered, normally.
+Bluey episode list
+https://www.bluey.tv/watch/season-1/horsey-ride/
+
+Hospital
+4
+VIEW SOURCE
+EpisodeGalleryScript
+
+Hospital
+
+Airdate
+2nd October 2018 (ABC)
+28th October 2019 (Disney Channel (UK))
+25th November 2019 (Disney Channel (US))
+28th October 2019 (Disney Channel (UK))
+20th April 2021 (CBeebies UK)
+11th May 2021 (Disney Junior India)
+15th June 2021 (CBeebies Asia)
+Created and Written by
+Joe Brumm (Series Director)
+Cast
+Dave McCormack (Bandit)
+Credits
+Producers
+Michael Carrington (Executive-ABC)
+Henrietta Hurford-Jones(Executive-BBC Worldwide)
+Nathan Waddington (Associate-BBC)
+Charlie Aspinwall (Executive)
+Daley Pearson (Executive)
+Sam Moor (Line Producer)
+Music & Sound
+Joff Bush (Music)
+Dan Brumm (Sound Design)
+Sam Pankhurst (Recording Engineer)
+Production
+Laura Dimaio (Development Production Manager)
+Meg O'Connell (Development Manager)
+Andi Spark (Production Manager)
+Lauren Brown (Production Coordinator)
+Andy Blazewell (Technical Advisor)
+Simon Lipowicz (Technical Advisor)
+Designers
+Catriona Drummond (Art Director)
+Costa Kassab (Art Director)
+Owain Emmanuel (Lead)
+Jasmine Moody (Storyboard)
+Tim Delaney
+Background Artists
+Nick Rees
+Animation
+Richard Jeffery (Director)
+Beth Harvey (Lead)
+Gerard Bishop
+Lisa Hack
+Eric H. Lin
+Amy Mack
+Mark Paterson
+Juné Du Plessis
+Liana Wright (Layout)
+VFX
+Jacob McCann
+Editors/Post-Production
+Sam Carroll (Script Editor)
+Michael Griffin
+David Peterson
+Grant Sundin (Online Post Production)
+Other Staff
+Daniel Schultz (Production Accountant)
+Jenny Lalor (Production Lawyer)
+Episode Guide
+Previous
+The Magic Xylophone
+Following
+Keepy Uppy
+Hospital is the second episode of the first season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+Synopsis
+Doctor Bluey is needed for assistance when Dad gets a very curious x-ray from Nurse Bingo. It seems that he has a cat in his tummy, leaving Bluey no choice but for her to operate immediately.[1]
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Trivia
+Bandit's patient name is "Telemachus" which is a reference to the show Ulysses 31. According to the showrunners, this is because the episode writer likes the show.[citation needed]
+This marks the first (and currently only) episode to feature a cappella music.
+The episode's name in the original title card was mispelled as “Hospitals”.
+When Bandit says, "good grief" in the episode, this is a reference to Charlie Brown's famous catchphrase.
+This is the first episode in which:
+Chilli does not appear.
+The catchphrases "Hooray" and "Oh no, not..." are used.
+
+Bluey episode list
+https://www.bluey.tv/watch/season-1/hospital/
+
+Hotel
+4
+VIEW SOURCE
+EpisodeGalleryScript
+
+Hotel
+
+Airdate
+10th October 2018 (ABC)
+11th September 2019 (Disney Channel (US))
+3th November 2019 (Disney Channel (UK))
+29th April 2021 (CBeebies UK)
+21st May 2021 (Disney Junior India)
+25rd June 2021 (CBeebies Asia)
+Created and Written by
+Joe Brumm (Series Director)
+Cast
+Dave McCormack (Bandit)
+Melanie Zanetti (Chilli)
+Credits
+Producers
+Michael Carrington (Executive-ABC)
+Henrietta Hurford-Jones(Executive-BBC Worldwide)
+Nathan Waddington (Associate-BBC)
+Charlie Aspinwall (Executive)
+Daley Pearson (Executive)
+Sam Moor (Line Producer)
+Music & Sound
+Joff Bush (Music)
+Dan Brumm (Sound Design)
+Samuel Pankhurst (Recording Engineer)
+David Champion (Recording Engineer)
+Production
+Laura Dimaio (Development Production Manager)
+Meg O'Connell (Development Manager)
+Andi Spark (Production Manager)
+Lauren Brown (Production Coordinator)
+Andy Blazewell (Technical Advisor)
+Simon Lipowicz (Technical Advisor)
+Designers
+Catriona Drummond (Art Director)
+Costa Kassab (Art Director)
+Aivy Nguyen (Art Director)
+Owain Emmanuel
+Tim Delaney
+Background Artists
+Faith Chen
+Daniela Hammer
+Connor M. Johnston
+Jane Osborne
+Animation
+Richard Jeffery (Director)
+Mark Nute (Lead)
+Chris Bennett
+Beth Durack
+Kathleen Hirst
+Juné Du Plessis
+Liam Stewart
+Charmay Adele-Yule
+Liana Wright (Layout)
+VFX
+Jacob McCann
+Editors/Post-Production
+Sam Carroll (Script Editor)
+Michael Griffin (Editor)
+Grant Sundin (Online Post Production)
+Other Staff
+Daniel Schultz (Production Accountant)
+Jenny Lalor (Production Lawyer)
+Episode Guide
+Previous
+Horsey Ride
+Following
+Bike
+Hotel is the tenth episode of the first season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+4 Trivia
+5 Errors
+Synopsis
+Dad gets embroiled in a game of Hotel, where Bluey and Bingo run a crazy hotel and Dad is the beleaguered guest.[1]
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+The Heeler Family
+Bluey
+Bingo
+Bandit
+Chilli
+Trivia
+This was the final Bluey episode to air on Disney Junior UK whenthe channel closed on 1st October 2020 at midnight.
+As Bandit approaches the hotel front desk, he whistles the tune from Yoga Ball.
+This is the first episode to show the parents bedroom, and office.
+This is one[2] of thirteen[3] full-episodes available on the Bluey YouTube Channel.[4]
+Errors
+In the family photo hanging over Bandit and Chilli's bed, Chilli is shown with the brown patch on her eye extending down onto her cheek. This is an older character design dating back to the 2017 pilot, and appears in some shots in The Weekend.
+When Bandit is walking up the stairs to the hotel entrance, a picture of Bluey can be seen on the right side. This picture turns into a picture of a tennis ball on a beach in the next shot.
+In the hall scene, a picture of Chilli and Bandit hiking appears twice.
+In the news scene, for a few frames the orange stripe on Bingo's head disappears.
+Bluey episode list
+https://www.bluey.tv/watch/season-1/hotel/
+https://www.youtube.com/watch?v=R_GMwkf2UM4&list=PLbtUQWldWkKjFcPqDd_XI3QQ_3IBqaoV7&index=10&t=5s
+https://www.youtube.com/playlist?list=PLbtUQWldWkKjFcPqDd_XI3QQ_3IBqaoV7
+https://www.youtube.com/@BlueyOfficialChannel
+
+Housework
+4
+VIEW SOURCE
+Stop.png
+Spoiler Alert!
+
+This article/section may reveal details on recent or upcoming episodes.
+
+If you would like to avoid spoilers, exit the page, or proceed with caution.
+
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Housework
+
+Broadcast Information
+Airdate
+December 3, 2021[1]
+November 24, 2022 (US)
+Credits
+Episode Guide
+Previous
+Sheep Dog
+Next
+Pass the Parcel
+
+Housework is the Thirteenth episode of Season 3 of Bluey (TV series).
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+5 Censorship
+6 References
+Synopsis
+Mum and Dad vow to only finish their boring housework when the kids stop acting silly, but that's never going to happen, so they end up trying the same approach themselves.
+
+Episode Recap
+Warning Spoilers!
+
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Radley (pictured)
+Stripe (pictured)
+Trivia
+At the credits, Bluey is doing a chicken walk instead of her dance.
+In one of the scenes, Bingo's pupil can't be seen. It's either behind her hand, or missing fully.
+Censorship
+In the Disney version of this episode, the scene where Bandit does a spin and pulls his groin has been trimmed.
+References
+https://www.foxtel.com.au/tv-guide/channel/ABC-KidsABC-TV-Plus/A2N/2021/12/03
