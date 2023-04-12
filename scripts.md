@@ -13937,3 +13937,2655 @@ Stripe: Thanks, princess.
 [End credits]
 
 During the end credits, the Cat Squad theme song plays as Muffin rides into the scene on her bike. She presses the button a few times and pretends to rev the engine. She starts riding off screen once the Screen Queensland logo appears.
+
+Magic/Script
+< Magic
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Script.jpg
+(Opens to Chilli mopping the floor)
+
+Chilli: done
+
+Bingo: Mum can you play with me?
+
+Chilli: You know what Bingo not right now hun
+
+Bingo: Why not?
+
+Chilli: Well, I just don’t feel like playing right now
+
+Bingo: So?
+
+Chilli: Bingo!
+
+(Skips to next scene)
+
+Bluey: Hey Bingo
+
+Bingo: Do you want to play Bluey?
+
+Bluey: Yes
+
+Bingo: Mum says she can’t play with me
+
+Bluey: You know there’s a way you can make people play with you
+
+Bingo: How?
+
+Bluey: You can use magic
+
+Bingo: Magic?
+
+Bluey: Yeah you can use it to make people do anything
+
+Bluey: Mum taught me
+
+Bingo: show me
+
+Bluey: okay turn around
+
+Bluey: watch I can make your tail go this way
+
+Bluey: oh Bingo pretend my hand controls your tail
+
+Bluey: I can make it go this way Bingo: Wow
+
+Bluey: and wag
+
+(Bingo laughs)
+
+Bingo: Look at it
+
+Bluey: And it’s not just tails I can do this
+
+(Forces Bingo onto the bed)
+
+Bingo: teach me
+
+Bluey: sure I guess Mum won’t mind
+
+(Title card plays)
+
+Bluey: ok Bingo let’s do this try to magic my ears
+
+Bingo: It’s not working
+
+Bluey: You’ve got to be more dramatic like… you know?
+
+Bluey: Ok arm up, feet out Okay try again
+
+Markets/Script
+< Markets
+VIEW SOURCE
+EpisodeGalleryScript
+
+Script.jpg
+The episode opens with an establishing shot of the Heeler house. Cut to a shot from under Bluey's pillow. She lifts the pillow.
+
+Bluey: She came!
+
+Cut to the kitchen. Bandit is reading the paper and eating cereal; Chilli is making tea. Bluey runs in, waving a $5 bill.
+
+Bluey: The Tooth Fairy came!
+
+Bluey begins to floss. Chilli attempts to join in but doesn't quite have the hang of it.
+
+Chilli: Hey, nice one Bluey!
+
+Bandit: Way to go, kid.
+
+Bluey stops dancing and waves the bill around.
+
+Bluey: She left me five bucks!
+
+Bandit spits out his cereal.
+
+Bandit: Five bucks?!
+
+Bluey: Yeah, I know. Five bucks!
+
+Bandit: (to Chilli) Five bucks?
+
+Chilli: (to Bandit) That's what she left all Bluey's friends.
+
+Bandit: Well, that Tooth Fairy's doing well for herself, isn't she?
+
+Chilli: Hey, maybe you can spend it at the markets today.
+
+Bluey: Yeah!
+
+Bluey starts flossing again.
+
+TITLE CARD - Markets
+
+Bingo [voiceover]: This episode of Bluey is called Markets.
+
+Cut to Bandit, Bingo, and Bluey walking through an open field. Bandit is swinging Bingo around as they walk. Bluey is staring at her $5 bill.
+
+Bingo: (laughs)
+
+Bandit rubs Bluey's head.
+
+Bandit: This little piggy went to market...
+
+Bandit rubs Bingo's head.
+
+Bandit: and this little piggy stayed home.
+
+Bingo: Hey, no I didn't! I'm coming too!
+
+Bluey: Check this out, Bingo! The Tooth Fairy put a special sticker on here.
+
+Bingo: Wow.
+
+Bandit: What are you gonna spend it on, that's the question.
+
+Bluey: Hmmm, that is a question.
+
+Bingo: Hmm, question.
+
+Cut to the markets. We see a number of stands selling food and crafts, with customers walking around. Cut to Indy's Mum's stall. It's decorated with Tibetan prayer flags. She's arranging baked goods, with a "no wheat" sign suggesting they are gluten free. Indy reaches up and dings a windchime. Bingo, Bluey, and Bandit approach.
+
+Indy: Bluey!
+
+Bluey: Indy!
+
+Indy runs out to meet Bluey. They hug and laugh.
+
+Bluey: Look, Indy. The Tooth Fairy gave me five bucks!
+
+Indy: Wow! What are you gonna spend it on?
+
+Bluey: I don't know. Can you come and help me?
+
+Indy: Yeah! Mum, can I go and help Bluey?
+
+Indy's Mum: Sure thing, Indy.
+
+Bandit: I'll keep an eye on 'em.
+
+Indy: Follow me!
+
+Indy and Bluey run off. Bandit and Bingo follow at a walk. Cut to a stand selling bubble wands. The owner blows some large bubbles with a large bubble wand. Bluey runs in, with Indy riding piggyback.
+
+Indy: Giant bubbles!
+
+Bluey: Wooow!
+
+The two run around popping bubbles for a moment.
+
+Indy: Do you want to get one?
+
+Bluey: Yeah, I do. Wait!
+
+Cut to another booth. This one has two ponies - one with rainbow dyed hair and legwarmers, the other with teal hair and star anklets.
+
+Indy: Pony ride!
+
+Bluey: Excuse me. (pointing at teal pony) What's that pony's name?
+
+Pony Lady: Her name's Biscuits.
+
+Bluey and Indy: Awww!
+
+Bluey: (pointing at rainbow pony) And what's that one's name?
+
+Pony Lady: Buttermilk.
+
+Bluey and Indy: Awww!
+
+Indy: (whispering) I really, really want to ride Buttermilk.
+
+Bluey: Definitely Buttermilk.
+
+Bluey offers her money to the Pony Lady, who puts it in her pouch.
+
+Bluey: Can we ride Buttermilk, please?
+
+Pony Lady: Okay honey. Up you get.
+
+Pony Lady picks Bluey up and sets her on Buttermilk's saddle.
+
+Bluey: Okay, Indy, you can sit in front.
+
+Pony Lady: Oh, I'm sorry, honey, you don't have enough money for two riders.
+
+Bluey: Oh. I only want to go if Indy can come.
+
+Indy: It's okay, Bluey. I'll wait here.
+
+Bluey: Hmm. I think I've changed my mind.
+
+The Pony Lady lifts Bluey back down and gives her money back.
+
+Pony Lady: Well, aren't you a good friend?
+
+Bluey: Yes, Pony Lady.
+
+Bluey walks up to Buttermilk and pets her nose.
+
+Bluey: Goodbye, Buttermilk. You're so beautiful.
+
+--The next segment was cut from Disney-distributed versions--
+
+Buttermilk lifts her tail and poops. A lot. Bluey and Indy run away screaming. Cut to another street at the market, Bluey and Indy enter, still screaming. They stop to laugh and catch their breath.
+
+Indy: (enthusiastically) That was disgusting!
+
+Bluey: Yeah!
+
+Bandit and Bingo (chanting offscreen) German sausage! German sausage!
+
+--End of cut segment--
+
+Bluey and Indy join Bandit and Bingo, who are in line at the German Sausage stand.
+
+Bandit, Bingo, Bluey, and Indy: (chanting) German Sausage! German Sausage!
+
+Bluey and Indy run over to the condiments table.
+
+Bluey: Okay, I want a German sausage, and the squirty sauce, but only on one end, so you can have the other end.
+
+Indy: But I'm not allowed that.
+
+Bluey: Why not?
+
+Indy: Mum says it's got added ingredients...?
+
+Bluey: Can you have barbecue sauce?
+
+Indy: I'm not allowed that one either.
+
+Bluey: Mustard?
+
+Indy: I'm definitely not allowed mustard.
+
+Bluey: Well, what are we gonna get then?
+
+Poffertje Dog: (offscreen) Poffertjes! Poffertjes!
+
+Bluey: Indy!
+
+Cut to the poffertje stand. The owner is holding a plate of poffertjes and as the girls run up, he offers it to them.
+
+Poffertje Dog: Poffertjes?
+
+Indy and Bluey smell the poffertjes.
+
+Indy: Have these got any wheat, sugar, gluten, or dairy in them?
+
+Poffertje Dog: That's all they've got in them.
+
+Bluey and Indy: Ohhh.
+
+Bluey: My friend can't eat them.
+
+Bluey and Indy walk away sadly.
+
+Poffertje Dog: Bye, girls. Poffertjes!
+
+Bluey: I just don't know what to get.
+
+Winton's Dad enters with a single toffee apple on a tray.
+
+Winton's Dad: Anyone want the last toffee apple? I've got one toffee apple left.
+
+Bluey looks anxiously at the toffee apple.
+
+Bluey: Oh, oh. I will!
+
+Winton's Dad: Lovely jubbly.
+
+Bluey pays him, and takes the apple. As Winton's Dad walks off, Indy points at the apple.
+
+Indy: I'm pretty sure that has sugar in it.
+
+Cut to an outdoor seating area. He's got his guitar case open in front of him for tips. There are several tables where people are eating food, including Bandit and Bingo. Busker is on a little stage on the left side, playing an acoustic guitar. Bingo is messily eating her German sausage. Bandit is going to take a bite of his, but stops as Bluey and Indy approach.
+
+Bandit: Ah, toffee apple. Old school.
+
+Bluey: I'm not sure I like this toffee apple. Plus, Indy can't have any.
+
+Bandit: Oh, that's no good.
+
+Cut to Busker's stage. A clearly nervous Buddy approaches the case and gingerly puts five bucks in.
+
+Busker: (shouting) Ah, thanks buddy!
+
+Buddy runs away screaming.
+
+Buddy: Aaaaaaah!
+
+Busker: That deserves a song.
+
+Cut back to Bluey contemplating her toffee apple.
+
+Bluey: Dad, I'm not sure I made the right choice. I think I want to put my five bucks in that case and get a song.
+
+Bandit: Oh, right.
+
+Bluey: Can I get my five bucks back?
+
+Bandit: That's not really how it works, kiddo. Once you've spent money, it's... well, gone.
+
+Bluey: Oh. Okay.
+
+Indy: Don't worry, Bluey. My mum always says to me, "What goes around, comes around."
+
+Bluey: (on the verge of crying) What does that mean?
+
+Indy: I dunno.
+
+Cut to the toffee apple stand. Winton's Dad takes out five bucks and hands it to Winton.
+
+Winton's Dad: Sweetheart, can you go get your dad a German sausage please?
+
+Winton: Okay, dad.
+
+In a close up, we can see the sticker indicating this is Bluey's Tooth Fairy money. Cut back to Busker, beginning a new song.
+
+Busker: Here we go!
+
+Cut to Indy's Mom's stand. She begins to dance.
+
+Indy's Mum: Now that's a tune.
+
+At Gruber's Dad's German sausage stand, Winton spends the Tooth Fairy money on a sausage.
+
+Winton: One sausage, please!
+
+Gruber's Dad: Thanks. There you go.
+
+Winton: Thanks!
+
+Gruber's Dad gives Gruber the Tooth Fairy money.
+
+Gruber's Dad: Gruber, go get me a carrot juice.
+
+Gruber: Sure thing, Dad.
+
+At Juniper's Mum's juice stand, Gruber spends the Tooth Fairy money on carrot juice.
+
+Gruber: Carrot juice, please.
+
+Juniper's Mum: Oh, we're out of carrots. Will you get me a bag of carrots please, Juniper?
+
+Juniper's Mum gives Juniper the Tooth Fairy money.
+
+Juniper: Yes, mum.
+
+At a produce stand, Juniper buys a bag of carrots with the Tooth Fairy money.
+
+Juniper: I'd like these carrots, please.
+
+Honey's Mum buys a bag of mushrooms, and receives the Tooth Fairy money as change.
+
+Honey's Mum: Just these, please.
+
+Honey's Mum walks by Indy's Mum's stand. Indy's Mum is dancing enthusiastically. Honey's Mum buys a slice of cake with the Tooth Fairy money.
+
+Honey's Mum: I'll have that one, thank you!
+
+Indy's Mum: Indy?
+
+Indy and Bluey run over.
+
+Indy: Yes, mum?
+
+Indy's Mum: Be a sweetie. Go and pop this in the guitar case for me.
+
+Indy: Okay. Look, Bluey!
+
+Bluey: (gasps)
+
+We get a close up of Bluey looking at the sticker. At Busker's stage, Bluey puts the money in the guitar case.
+
+Busker: Whoa! Five bucks? Thanks matey! That deserves another song! Who likes to dance? Two, three, four!
+
+Busker starts another song. Bluey and Indy begin flossing. Bingo, Bandit, and Buddy join in. Cut to Bandit, Bingo, and Bluey walking home through the meadow. Bingo is riding piggyback on Bandit. Bluey is carrying her toffee apple.
+
+Bandit: ...and this little piggy went, "Wee, wee, wee, wee, wee, wee, wee, wee" all the way home!
+
+Bluey takes a bit of her apple. She loses a tooth, which sticks in the apple.
+
+Bluey: Dad! I've lost another tooth!
+
+Bandit: Ah, great.
+
+[End credits]
+
+Busker's song continues into the end credits. Bluey is replaced with Indy's Mum dancing.
+
+Mini Bluey/Script
+< Mini Bluey
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Script.jpg
+(The episode starts outside the house with Bluey being heard, singing. Bandit is making toast, and Bingo is reading.)
+
+Bluey (singing): Oh! Where is my toast?!
+
+Bandit: Bluey! Can you be as quiet as Bingo for a bit?
+
+Bluey (singing): No I can't!
+
+Chilli: (Walks in) Bluey, I can't find your library books and they're due back. Have you seen Shmurdle The Dirty Turtle?
+
+Bluey (singing): No, I have not seen Shmurdle The Dirty Turtle!
+
+Chilli: You have to keep better track of your things.
+
+Bluey (singing): What about Bingo?!
+
+Chilli (offscreen): Bingo puts hers in a neat pile when she's read them.
+
+Bingo: Finished.
+
+Bandit: Ding, orders up!
+
+Bluey: Ooh! Cheese and jam! (chomping)
+
+Bingo: Dad, I don't like cheese and jam.
+
+Bandit: What? I thought you did!
+
+Bingo: No, Bluey does. I like banana and peanut butter.
+
+Bluey: Bleh!
+
+Bandit: How can you two come from the same parents, be raised in the same house, but be completely different?
+
+Bluey and Bingo: Don't know.
+
+Bandit: Well, I'll tell you this for free-- my life would be a lot easier if you both were the same.
+
+Chilli: Tell me about it.
+
+Bluey: Bingo, I've got an idea!
+
+Bingo: Okay!
+
+(both run off, giggling)
+
+Bandit: Wait what? Hang on-- (groans)
+
+Chilli: Why do you keep setting them up?
+
+Mount Mumandad
+3
+VIEW SOURCE
+EpisodeGalleryScript
+
+Mount Mumandad
+
+Broadcast Information
+Airdate
+March 18, 2019
+November 30, 2019 (US)
+February 20, 2020 (UK)
+July 27, 2021 (CBeebies UK)
+August 30, 2021 (CBeebies Asia)
+Credits
+Episode Guide
+Previous
+Camping
+Next
+Kids
+Mount Mumandad is the forty-fourth episode of the first season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+Synopsis
+Bluey and Bingo have to work as a them when they race to the summit of Mount Mumandad.
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Trivia
+This is the first time we see the Heeler family on the overhead view of the neighbourhood.
+CrazyWorld is a parody of AussieWorld, a popular theme park in Queensland
+
+<!-- Mount Mumandad/Script
+< Mount Mumandad
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+
+EpisodeGalleryScript
+
+Script.jpg
+It begins from a distant view of the Heeler home at night, with the Heeler family entering their home.
+
+Bluey: "HOOOME!"
+
+Bingo: "Home!"
+
+Bandit: "Ugh.."
+
+Chilli: "What a day!"
+
+Chilli yawning, on her way to the couch.
+
+Chilli: "Cut us down kids."
+
+
+Bluey and Bingo: "Yeah! Chop! Chop! Chop!"
+
+Bandit: "Timber!"
+
+Both Chilli and Bandit lie on the couch, Chilli is laying on the floor with her feet on the couch, adjacent to her is Bandit, who is on the couch with his head most likely not even touching the couch. The kids giggle.
+
+Chilli, exhausted: "5 minutes until bed kids."
+
+Bandit, also exhausted: "And, 5 years until the next trip to CrazyWorld."
+
+Bluey: "Can we play a game?"
+
+Bandit: "As long as it's 1 that you don't have to move any part of my body or say anything with my mouth.
+
+Bluey: "Ok!" She runs up to Bingo -->
+
+Movies/Script
+< Movies
+1
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Script.jpg
+
+(Bingo giggles)
+
+Bandit: Bingo, calm it down a bit, mate.
+
+Bingo: Ooh, banana.
+
+(Bingo squeals)
+
+Bluey: Dad, is there going to be thunder in the movie?
+
+Bandit: Hm, maybe.
+
+Bluey: Ohhh...
+
+Bandit: Are you sure you're ready for movies, Bluey?
+
+Bandit: You're a bit of a sensitive kid.
+
+Bluey: Mackenzie's seen it!
+
+Bandit: Yeah, but you're not Mackenzie.
+
+Bluey: I know, but... I'm ready.
+
+Bandit: Just checking. Come on, let's go get some tickets.
+
+Bandit: Hey, where's Bingo?
+
+Bingo: Banana!
+
+(Bingo giggles)
+
+(Bingo breaks banana on the Chunky Chimp stand)
+
+Bandit: Bingo!
+
+Bingo: Sorry.
+
+(Bingo squeaks)
+
+Bluey: This episode of Bluey is called, Movies.
+
+(Bingo laughs)
+
+Bandit: One adult and two kids to Chunky Chimp, thanks.
+
+Bingo: And a giant popcorn!
+
+Bandit: And a small popcorn.
+
+Bingo: Ohhhh.
+
+Unnamed employee: Uh, $54, please.
+
+Bandit: Chunky Chimp!
+
+Bandit: Do I have to pay for the four-year-old?
+
+Bandit: She's not really gonna watch it.
+
+Unnamed employee: Uh, yeah, you still have to pay.
+
+Bluey: Can you ask him if there's any scary bits?
+
+Bandit: Oh, yeah.
+
+Bandit: Hey, are there any scary bits in this?
+
+Unnamed employee: Um, there's a big thunderstorm bit at the end.
+
+Unnamed employee: That might be scary for some kids.
+
+Bluey: Oh, I think I might be "some kids."
+
+Bandit: Look, we can leave whenever you want - just say the word.
+
+Bluey: Thanks, Dad.
+
+Bandit: OK, three tickets and a popcorn.
+
+(Bingo laughs)
+
+Bandit: And another popcorn.
+
+(Bingo squeals)
+
+Bandit: Bingo! Stay with me, mate.
+
+Bluey: Ow!
+
+Bandit: Open your eyes, Bluey.
+
+Bluey: Is the thunderstorm bit on yet?
+
+Bandit: The movie hasn't started yet.
+
+Bluey: Oh.
+
+Bandit: These are trailers for other movies.
+
+Voiceover: This summer, prepare to
+
+BEE out of your comfort zone.
+
+Bandit: You sit here, Bingo.
+
+Bingo: Ooh, swingy chair.
+
+Bingo: Whoops. Heh-heh.
+
+Bandit: Maybe just sit forward a bit.
+
+Bingo: OK.
+
+Bluey: Tell me when the trailers are over.
+
+Bandit: Bluey...
+
+Bandit: Whoa, Bingo!
+
+Bluey: Oh, it's finished.
+
+Voiceover: Experience pure sound.
+
+Bluey: Ah!
+
+Bingo: Loud!
+
+Bingo: Dark!
+
+Bandit: OK, now the movie's starting.
+
+Bingo: This is boring.
+
+Bandit: Bingo, shh.
+
+Bluey: Is this the storm bit?
+
+Bandit: Nah, it's just some monkeys in a tree.
+
+Chunky: Hey, Chubbles, look what I invented.
+
+Chunky: We can use it to explore the Groundlands.
+
+Chubbles: Oh, Chunky. You and your inventions.
+
+(Bingo laughs)
+
+Bandit: Bingo, sit still.
+
+Chubbles: Why can't you just be like the rest of us?
+
+Chubbles: Why do you have to be SO different?
+
+Chunky: I don't know.
+
+(Chunky sings) “I wish I wasn't different...”
+
+Bandit: Oh, man, there's songs.
+
+(Chunky continues singing) “I wish I were the same...”
+
+Bingo: Ow, my popcorn.
+
+Bandit: One popcorn, please.
+
+Unnamed employee: Sure.
+
+Bandit: Bingo, don't touch that.
+
+Bluey: Dad, am I different, like Chunky is?
+
+Bandit: Huh?
+
+Bandit: Uh, yeah, well, uh, no.
+
+Bandit: Bingo, no, mate.
+
+Bluey: I think I am different.
+
+Bluey: I'm the only one of my friends who doesn't watch movies.
+
+Bluey: I wish I wasn't different.
+
+Bandit: Look, mate, I'm pretty sure that by the end of the movie, everyone will like that the monkey was different.
+
+Bandit: Ow!
+
+(Bluey and Bingo laugh)
+
+Bandit: Don't spill 'em, Bingo. Don't spill 'em.
+
+Bluey: Well, I am not gonna be different anymore.
+
+Bluey: I’m ready for movies.
+
+Bluey: Just like everyone else.
+
+Chubbles: The Groundlands aren't for chimps.
+
+Chubbles: Tree World is where we belong.
+
+Chunky: But my heart belongs to the Groundlands. I don't care, you need to stay here...
+
+Bingo: Can I sit over there?
+
+Bandit: No, mate, we're sitting here.
+
+Bingo: But I want to go down there.
+
+Chunky: But I want to go down there.
+
+Bandit: No, you have to stay here with me.
+
+Chubbles: No, you have to stay here with me.
+
+Bingo: But I want to explore!
+
+Chunky: But I want to explore!
+
+Bluey: Dad, look, I'm watching!
+
+Bandit: Well done, Bluey.
+
+Bandit: Huh?
+
+Bingo: Hi.
+
+Bandit: Hey!
+
+(Bingo laughs)
+
+Bandit: What? Bingo!
+
+Bandit: Where's that kid?
+
+Bingo: Hi.
+
+(Bingo laughs)
+
+Chew B’Deube: You can find the magic pinecone, Chunky.
+
+Bandit Get back here!
+
+Chew B’Deube: You just have to be yourself.
+
+Chunky: Be myself?
+
+Chew B’Deube: Yeah, be yourself.
+
+Chew B’Deube: (Sings) “Oh, be yourself…”
+
+(Bingo laughs)
+
+Chew B’Deube: (Sings) “Oh, be yourself...”
+
+Bandit: Got ya!
+
+Bingo: I need the toilet.
+
+Bandit: Oh, man.
+
+Bandit: Oh, nah, mate, don't touch the dunny brush.
+
+(Bingo giggles)
+
+Bluey: Dad?
+
+Bluey Why does Chewbadewba tell Chunky to be yourself?
+
+Bandit: Uh, well, uh, you know.
+
+Bingo: Finished!
+
+Bandit: Bingo, you gotta flush. Come on!
+
+(Toilet flushes)
+
+Bluey: Am I just being yourself?
+
+Bandit: Look, it’s just monkeys singing songs, mate. Don’t think too hard about it.
+
+(Bingo laughs)
+
+Bandit: Oh, Bingo.
+
+Bluey: Well, I understand what just be yourself means because I’m ready for movies.
+
+Chunky: Oh, no! It's a thunderstorm.
+
+Bluey: Eek!
+
+Bluey: Dad, I want to go now.
+
+Bandit: OK, no worries.
+
+Bandit: Bingo, we've gotta go.
+
+Bandit: Huh? Bingo?
+
+Bandit: Where have you gone?
+
+Chunky: I found the magic pine cone.
+
+Bingo: Hi.
+
+Bandit: Bingo!
+
+(Bingo laughs)
+
+Bandit: Bluey, help me with your sister.
+
+Bandit: You block her off.
+
+Bluey: But I can't see. Ow.
+
+Bandit: Bingo! No!
+
+Bandit: Come back here, you little pickle!
+
+(Bingo laughs)
+
+Bandit: Sorry, sorry.
+
+Bandit: Sorry, everyone.
+
+Bandit: Stop running away.
+
+Bandit: Ooh, ooh, ooh, ooh. (falling down stairs)
+
+(Bingo laughs)
+
+Bandit: Bluey, open your eyes.
+
+Bluey: But the scary bit’s on.
+
+Bandit: It’s just a monkey in the rain.
+
+(Bingo laughs)
+
+Bandit: Ooh! (falls)
+
+Bandit: Bluey, open your eyes and help me.
+
+Bluey: I can't do it. I'm not ready.
+
+Chunky: I can't do it. I'm not ready.
+
+Chunky: I should have just stayed in the trees like everyone else.
+
+Magic pinecone: But you didn’t.
+
+Chunky: Huh?
+
+Magic pinecone: You rode off to save the village, because there is nobody else quite like you.
+
+Magic pinecone: Now, fly, Chunky.
+
+Chunky: Whoa!
+
+(Bluey gasps)
+
+Chunky: Yeah! Woo!
+
+Bluey: He made it!
+
+(Bingo giggles)
+
+Bluey: Gotcha.
+
+Bandit: Nice one, Bluey.
+
+All: Hooray! Whoo-hoo!
+
+Bandit: Ok, let’s get you out of here.
+
+Bluey: Dad, look, the storm is over.
+
+Bandit: Oh, yeah. Nice one.
+
+Bluey: Can we stay?
+
+Bandit: What? Really?
+
+Bluey: Um, yeah.
+
+Bandit: OK, we're staying.
+
+Bingo: Oh, I don’t want to stay.
+
+Bandit: I know, mate, but it’s important for Bluey.
+
+Bingo: So what do I do?
+
+Bandit: You know what, Bingo?
+
+Bandit: Just be yourself.
+
+Chunky: “Now it all worked out. Everything’s fine. Living in the trees and the ground sometimes. All because… You learned to be yourself. Be yourself” (song continues into outro)
+
+Mum School/Script
+< Mum School
+VIEW SOURCE
+EpisodeGalleryScript
+
+Script.jpg
+(Episode starts with Chilli blowing a pale blue balloon)
+
+Chilli: That’s gonna have to do for this one.
+
+Bluey: Thanks Mum!
+
+(Bingo runs into the room with a pink towel, giggling while escaping Bandit)
+
+Bandit: While chasing Bingo; Hey! Come here!
+
+Chilli: Aw Bingo, good girl for having your bath.
+
+Bandit: Yeah but she hasn’t cleaned her teeth!
+
+(Bingo squeals and runs out of the scene with Bandit chasing after her)
+
+Bandit: Come here!
+
+Chilli: It’s your bath time too Bluey. I can smell you from here!
+
+Bluey: Aw, but I wanted to play Mum School with you.
+
+Chilli: What’s Mum School?
+
+Bluey: It’s a school where you learn to be a mum. (Bluey points to her balloon children)
+
+Bluey: This is Kiwi (red), Windgust (purple), Lightning Bolt (yellow), Dronigan (pink) and that’s Pearl! (pale blue) They’re my children! I gave birth to them all.
+
+Chilli: (reasonably concerned) Oh my goodness…
+
+Chilli: (looks up at the ceiling, pointing to a green, helium balloon) What about that one?
+
+Bluey: (grabs claw toy, stands on the couch and pulls the green ballon by it’s string) Oh Greeny, you’re such a pickle!
+
+Chilli: Okay, I’m running the bath.
+
+Bluey: No:, not yet! (grabs clipboard) You’re the lady who gives me a score for being a good mum.
+
+Chilli: Oh, you don’t need someone keeping score of your mothering!
+
+(Greeny floats back up to the ceiling)
+
+Bluey: Ah, not again! I’ll get you down.
+
+(Bluey grabs a cushion and throws it close to Greeny, though it falls back down on the other children balloons, which make them disperse)
+
+Bluey: Ooh! Sorry kids!
+
+Chilli: On second thoughts…
+
+(Title Card Plays): This episode of Bluey is called Mum School
+
+(Bluey pushes the couch with the balloon kids sitting on it)
+
+Bluey: Argh! Okay children! Movie time now! Everyone sit up straight. And not on top of each other. Lightning Bolt, please get off Windgust. Okay good.
+
+(Bluey picks up Lightning Bolt, but Greeny floats up, although she catches his string)
+
+Bluey: Agh! Uh Greeny, maybe you should hold Mummy’s hand.
+
+Chilli: Oh, very good. Two points. (writes on clipboard)
+
+Bluey: Okay, movie time! (grabs remote) Which button is it? (Greeny covers Bluey’s view of the remote buttons) Oh! Greeny I’m trying to concentration honey. Hmmm (Greeny repeats his previous action) Oh! Hop over there!
+
+(Bluey pushes Greeny away, which makes him hit the other resting balloons)
+
+Bluey (as Windgust): Wah! Mummy, Greeny pushed me!
+
+Bluey (normal): Greeny, what has gotten into you? (places him on the couch with a cushion over his head so he doesn’t fly off) Now keep your hands to yourself please young man.
+
+Bluey (as Windgust again): Na Na! Greeny’s a cushion head!
+
+Bluey: Windgust! We do not call people cushion head in this house!
+
+Chilli: Hm! Good mothering.
+
+(Bluey pushes Greeny to Windgust)
+
+Bluey (as Windgust): Wah mama! Greeny hit me!
+
+Bluey: Well, you kinda had that coming.
+
+Chilli: I’m not sure about that.
+
+(Bluey grabs the cushion and throws it on her balloon children, which makes them disperse again)
+
+Bluey: Yah! (giggles, but spots Greeny floating again) Greeny honey, come down from there!
+
+Chilli: I think these kids need some exercise. How about everyone goes for a nice swim in the indoor pool?
+
+Bluey: Yeah! Come on you lot! (Runs and kicks the balloons to Chilli)
+
+(Meanwhile, it cuts to Bingo still running away from Bandit in the hallway)
+
+Bandit: Come back here and clean your teeth young lady!
+
+Bluey: (while kicking the balloons casually) Come on, come on! This way to the pool! Argh! Walk straight! Ugh, it’s so difficult when they just ignore me!
+
+Chilli: Yes it is.
+
+Bluey: Why can’t you kids just walk in a straight line?
+
+Chilli: They don’t know how. You have to show them.
+
+Bluey: (grabs a wrapping paper tube) I’m just gonna show you something kids! (Whacks balloon kids to the bathroom with the tube. Chilli is concerned, but Bluey giggles)
+
+Chilli: I don’t think that’s a good idea.
+
+Bluey: Well I don’t have any other ideas! (whacks Kiwi and Pearl to the bathroom and giggles) Come on Greeny, you’re old enough to walk by yourself.
+
+Chilli: Greeny finds walking a little tricky.
+
+Bluey: Oh nonsense, he’s got two legs. (whacks Greeny with the tube, though Greeny still tries to fly up) This way! No no, stay down. (giggles) I don’t understand why you keep running off!
+
+Chilli: I don’t think he can help it.
+
+(Scene cuts to the bathroom, with all the balloons in the tub except for Greeny, who’s under the laundry basket)
+
+Bluey: Okay! That’s everyone in the pool! Enjoy your swim sweeties! Now Greeny, if I let you out of there, are you going to behave yourself or are you just gonna float up to the roof?
+
+Chilli: I think you know the answer.
+
+Bluey: No problem! I’ll just get old Boonty out. (grabs wrapping paper tube)
+
+Chilli: No more Boonty in Mum School.
+
+Bluey: Well then what am I meant to do?
+
+Bandit (offscreen): Gotcha!
+
+Chilli: Ooh! One moment, I just have to mark this other student. He’s in Dad School! (sits in the shower with Bluey)
+
+Bandit (enters the scene carrying Bingo, who’s giggling ): Aw man! This sack of potatoes sure is heavy!
+
+Bingo: Put me down!
+
+Bandit: You got it! (puts her down but she runs off) Hey! (catches Bingo before she escapes, who’s squealing) Gee, she’s quick!
+
+Chilli: Oooh, making it fun. Two points!
+
+Bandit: Now clean.
+
+(Bingo grabs her toothbrush and brushes her teeth, while Bandit pulls out his phone. However, Bingo notices this and runs away again)
+
+Bingo: Yeah!
+
+Bandit: Hey!
+
+Chilli: Ooh, he’s let himself down there!
+
+(Bingo giggles, but Bandit catches her)
+
+Bandit: Argh!
+
+Bingo: No! (grabs onto towel)
+
+Bandit: (trying to get Bingo off the towel) Bingo! Let go!
+
+Bingo: Unhand me!
+
+Bandit: Time to bring out the big guns! (tickles Bingo) Tickle, tickle, tickle, tickle, tickle, tickle, tickle, tickle!
+
+Chilli: Ooh, good move!
+
+Bandit: (finally pulls Bingo off the towel) Nrghh! Gotcha!
+
+Bingo: I don’t want to clean my teeth!
+
+Bandit: Argh, Bingo. There must be a reason why you’re being such a pickle tonight. Hmm. I think you’re still hungry. Come on, you need more food. I’ll race you to the kitchen! Go!
+
+Bingo: ARGHH!
+
+(Bandit and Bingo race offscreen to the kitchen)
+
+Chilli: Whack-a-doo! Top marks!
+
+Bluey: Oooh!
+
+Chilli: Now, do you wanna have another go with Greeny?
+
+(Bluey looks at Greeny, walks out of the shower and removes him from the basket)
+
+Bluey: Hi sweetheart. I think there’s a reason you keep floating off, isn’t there? Hmmm, what could it be? Maybe you just like exploring! Aww, that’s nice Greeny! Well, you’re not old enough to go exploring too far yet. So, this is a special present for you. (grabs a plastic magnet and ties it to Greeny’s string) Because I love you so much. One day you can float up as high as you want. But for now, this will help you stay down here with us.
+
+(Bluey hugs Greeny. Chilli smiles)
+
+Bluey: (climbs into the tub with Greeny) Now, everyone in the pool! (squeals and giggles while splashing water everywhere)
+
+Chilli: Nice work Mum.
+
+Bluey: Sit children! Pearl, get off Dronigan! (giggles)
+
+(After the bath, Chilli and Bluey are in the bedroom, drying off the balloons with hairdryers and towels)
+
+Bluey: drying Greeny with a towel) There you go darling, all dry.
+
+Chilli: Excellent drying! You’ve almost passed Mum School.
+
+Bluey: Oooh! Did you hear that kids?
+
+(Chilli stops the hairdryer)
+
+Bluey: Excuse me, can I have a go at the hairdryer?
+
+Chilli: (lends hairdryer to Bluey) Okay. Just be careful.
+
+Bluey: Woooh! (turns on the dryer and makes it spin in all directions. The balloons disperse off again, however Greeny is floating towards the balcony. Bluey giggles as well) Oh sorry children!
+
+(Bluey notices Greeny flying out the balcony)
+
+Bluey: Oh! Greeny! (Bluey and Chilli run after him, but he’s too far now) Greeny no! Can you get him back?
+
+Chilli: No honey, he’s off.
+
+Bluey: Will he be okay?
+
+Chilli: Yeah, I think he’ll do just fine.
+
+Bluey: How do you know?
+
+Chilli: Because he’s got a good mum.
+
+Bluey: Does this mean I failed Mum School?
+
+Chilli: Well, yeah.
+
+Bluey: Aw, I’m such a cushion head.
+
+Chilli: But that’s okay. We all fail Mum School sometimes.
+
+Bluey: Oh! Okay.
+
+Chilli: We can just start again tomorrow. (walks back into the house with Bluey)
+
+Bluey: Thanks Mum.
+
+Credits
+
+<!-- Mums and Dads/Script
+< Mums and Dads
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+
+EpisodeGalleryScript
+
+Script.jpg
+Coming-soon.png -->
+
+<!-- Musical Statues/Script
+< Musical Statues
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+
+EpisodeGalleryScript
+
+Intro.
+
+Bingo runs inside.
+
+Bingo: Dad, We're back!
+
+Bluey groans
+
+Chilli: Come on bluey, I have to get dinner started.
+
+Chilli moves bluey away from the door and then she shuts it
+
+Bingo: Dad!!
+
+Bandit: Oof!
+
+Bandit: Hey bingo! -->
+
+<!-- Neighbours/Script
+< Neighbours
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+
+EpisodeGalleryScript
+
+Script.jpg
+Coming-soon.png -->
+
+Obstacle Course/Script
+< Obstacle Course
+1
+VIEW SOURCE
+EpisodeGalleryScript
+
+Script.jpg
+Dad: Snap! Ha-ha! Yeah!
+
+Bluey: Oh, you win every time!
+
+Dad: 'Cause you're too slow.
+
+Bingo: You need to let Bluey win sometimes.
+
+Dad: Why would I do THAT?
+
+Mum: Because she's a child.
+
+Dad: You don't want me to let you win, Bluey. Trust me.
+
+Bluey: Why not?
+
+Dad: Because you'll give up trying to get better.
+
+Mum: And what does losing EVERY TIME do?
+
+Dad: Nothing much.
+
+Mum: Oh, really? Care for a game of memory snap?
+
+Dad: No way! I hate memory snap.
+
+Mum: And why is that?
+
+Dad: Because I lose every time. Snap! Ha-ha!
+
+Bluey: Ohh!
+
+Dad: I'm like a mongoose.
+
+BLUEY AND BINGO GIGGLE
+
+Mum: You're a goose, alright.
+
+TITLE CARD
+
+Bluey: This episode of Bluey is called Obstacle Course.
+
+END TITLE CARD
+
+AT BACKYARD
+
+Mum:Go, Bingo!
+
+Bingo: Op!
+
+Bluey: Whoo-whoo-whoo-whoo!
+
+Mum: Whoo! Go, Bluey!
+
+BLUEY KEEP RUNNING ON OBSTACLE COURSE
+
+Mum: Go! Go! Go! Up the rope! Up the rope!
+
+Bluey: And touch!
+
+Dad: Hey, have you kids seen my green...ball?
+
+Bluey: Look, Dad! We set up an obstacle course!
+
+Bingo: Do you want to have a go?
+
+Dad: Righto, I'll race you. Where's the finish line?
+
+Mum: No-one's racing anyone. This is just for having fun!
+
+Bingo: Yeah!
+
+Dad: Oh, I see. (START MAKING CHICKEN SOUND) Bawk! Buk-buk-buk-buk-buk-buk. Bawk!
+
+Bluey: What are you doing?
+
+'Dad: I'm doing chicken. (KEEP MAKING CHICKEN SOUND) Buk-buk-buk-buk-buk-buk. Bawk!
+
+Bluey: Why is Dad acting like a chicken?
+
+Mum: He's saying you're scared.
+
+Bingo: Of chickens?
+
+Dad: No, of racing me. Don't you kids know what 'chicken' means?
+
+Mum: No. And they don't need everything turned into a competition.
+
+Dad: That's loser talk. Come on. The hose is the finish line. Ready? Set.
+
+Mum: No! They're not racing.
+
+Bingo: Yeah, we're happy just having fun.
+
+Dad: Winner gets sherbet.
+
+BLUEY AND BINGO EXCITED
+
+Bluey and Bingo: Sherbet!
+
+Bluey: Ready, set, go!
+
+Bingo: Yah!
+
+Mum: Wait!
+
+DAD KEEP RUNNING
+
+Dad: Ha-ha! I'm gonna flog ya!
+
+Bluey: Huh-huh-huh-huh!
+
+BINGO SLIDING CALMLY
+
+Bingo: Whee!
+
+Dad: Yar! Yes! Dad wins!
+
+Mum: OK. Well done.
+
+Dad: Thanks. Now I might go and get my sherbet.
+
+Bluey and Bingo: Ohh!
+
+Mum: Yeah, you do that. I think we've had enough Dad for one morning. OK, let's go back to having fun.
+
+Bluey:That WAS fun!
+
+Bingo: Yeah!
+
+Mum: What?!
+
+Bluey: I want another race! Can you help me beat Dad?
+
+Bingo: Yeah, I want sherbet.
+
+Mum: OK. He won't let you win, though.
+
+Bluey: That's true.
+
+Mum: There's only one thing you can do.
+
+Bluey: Cheat!
+
+Bingo: Yeah!
+
+Bluey:Yeah... What? No. I meant practise!
+
+Dad:You kids sure are keen to get whooped again.
+
+Bingo: Oh, yes. We are.
+
+Bluey: All we can do is try harder this time.
+
+Dad: That's the way. See, Mum? Losing doesn't stop THESE kids.
+
+Mum: It sure doesn't.
+
+Bingo: Ready, set, go!
+
+Dad: Hey! That was a good start, but there's no way you're gonna beat me!
+
+DAD STUCK UNDER OBSTACLE
+
+Dad: Hey, what? This wasn't this low before.
+
+Bluey: Ha-ha! See ya!
+
+Bingo: Come on, Bluey!
+
+Bluey: I won!
+
+Bingo: Sherbet!
+
+Mum: Give it up, big guy! It's over!
+
+Dad: Grr.
+
+Bingo: Oh, I love you, sherbet.
+
+Dad: Well done, Bluey! You won!
+
+Mum: What's up, Bluey? Not enjoying your sherbet?
+
+Bluey: No.
+
+Mum: Tastes a bit sour, right?
+
+Bluey: Yeah!
+
+Bingo: Sherbet's MEANT to taste sour.
+
+Bluey: I think I want to beat Dad fair and square.
+
+Mum: Yeah, I think you do too. Come on.
+
+MUM TAKE BACK SHERBET
+
+Bingo: What?! No! But we won that!
+
+Mum: It will taste so much sweeter when you win fair and square.
+
+Bingo: But sherbet's not meant to be sweet.
+
+YOGA BALL OBSTACLE
+
+Mum: OK, the key to this one - use the ball to speed you up. Hup! You try.
+
+Bingo: Ready, set, go!
+
+Bluey: Huh!
+
+Bingo: Stop!
+
+Mum: We'll work on that.
+
+SLIDE OBSTACLE
+
+Mum: Don't waste time getting on to your bum. Just go down on your belly!
+
+Bluey: Agh!
+
+LADDER OBSTACLE
+
+Mum: That's it! That's it!
+
+Bingo: That's it! That's it!
+
+Mum: Now, why are you CLIMBING down?
+
+Dad: What do you mean?
+
+Mum: Will your dad spend all that time climbing down?
+
+Bluey: No, he would just jump.
+
+Mum: Well, then YOU'VE got to jump.
+
+Bluey: But it's too high!
+
+Mum: No, it's not.
+
+Bingo: Come on, Bluey! Hurry!
+
+Bluey: Isn't there an easier way to be Dad?
+
+Mum: I wish there was, kid. Believe me. But, unfortunately, your dad's right these obstacles aren't going to get out of the way by themselves.
+
+Bluey: OK. Huh!
+
+Mum: Yeah!
+
+Bingo: Stop! Zero.
+
+Mum: Zero! Oh, no, you pushed the wrong button, sweetie. It's this one.
+
+Bingo: Oh.
+
+Bluey: Again!
+
+BLUEY KEEP PRACTICING
+
+Mum: How fast can you run?
+
+Bluey: As fast as a greyhound!
+
+Mum: How fast ARE you gonna run?!
+
+Bluey: As fast as a greyhound!
+
+Bingo: Zero.
+
+REMATCH
+
+Dad: Alright, winds are favourable. I've inspected the track this time. No little surprises.
+
+Mum: How fast can you run?
+
+Bluey: As fast as a greyhound.
+
+Mum: How fast are you GONNA run?
+
+Bluey: As fast as a greyhound!
+
+Dad: A bit more greyhound talk than last time, but that's fine.
+
+Bluey: Father, I apologise for cheating in our last race.
+
+Dad: Oh, well, yeah, good. Cheaters never prosper.
+
+Bluey: Indeed. I wish you good luck.
+
+Dad: Uh... You too.
+
+Bingo: Ready? Set. Go!
+
+Bluey: Huh!
+
+Dad: What?! How'd you learn to do that?!
+
+Bingo: Whoo!
+
+Mum: That's it, Bluey. That's it.
+
+Bingo: Come on, Bluey!
+
+Dad: What the...
+
+Bingo: Come on!
+
+Bluey: Huh! Huh! Huh!
+
+Dad: Come on, mongoose! (GRUNTS)
+
+Bluey: I'm gonna win!
+
+DAD PULL BLUEY
+
+Mum and Bingo: Hey!
+
+Mum: What...was that?!
+
+Dad: Uh... Yeah... I can't be sure.
+
+Bingo: You cheated!
+
+Dad: Well... Did I?
+
+Mum and Bingo: Yes!
+
+Dad: Ah, who can say for sure? When the mongoose is moving at full speed, you know, it's all a bit of a blur.
+
+Mum: I think the mongoose couldn't handle losing to a child.
+
+Bingo: You get zero.
+
+Dad: Alright. Alright. Rematch? Rematch? Rematch?
+
+Mum: Bluey?
+
+Bluey: Let's settle it with a game of...memory snap.
+
+Dad: Oh, biscuits.
+
+INDOOR
+
+Dad: Uh... Giraffe. Uh... Oh, where was that other giraffe? Oh, monkey?!
+
+Bluey: Giraffe, giraffe. Monkey, monkey. Eagle, eagle.
+
+Dad: How do you do that?
+
+Mum: You might as well start now, Bingo.
+
+Bingo: Hooray!
+
+Bluey: Greyhound, greyhound. I win!
+
+Dad: Argh!
+
+Omelette/Script
+< Omelette
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+The episode opens with a first-person shot from Bandit's perspective as he opens his eyes. He sees Chilli, Bluey, and Bingo right in front of him. He awakes with a jerk.
+
+Bandit: (snorts) Aaah!
+
+The shot cuts to a third person view. Bandit is lying in bed, with Chilli standing beside him and Bluey and Bingo sitting on the bed.
+
+Chilli, Bluey, and Bingo: Happy Birthday!
+
+Bandit: Oh, wow. Thanks, girls!
+
+Bluey: Uh-uh! Down, down. Stay.
+
+Bingo: We're going to make you breakfast in bed.
+
+The girls climb down off the bed.
+
+Bandit: Oh, great! Uh... Just a friendly question...
+
+Chilli: Don't worry, it won't take long.
+
+Bandit: Oh, thanks.
+
+Chilli: Because we know how you get when you're hungry.
+
+Chilli exits.
+
+Bluey: Cranky.
+
+Bluey exits.
+
+Bingo: Stay.
+
+Cut to the kitchen. Bluey and Chilli enter, followed by Bingo.
+
+Chilli: Alright, here's the plan: I'll make Dad an omelette, Bluey, you set the brekkie tray, and Bingo, you make the birthday card. Quickly! We don't want Dad getting hungry.
+
+Bluey and Bingo: Okay!
+
+Bluey and Bingo run off. Chilli puts on an apron.
+
+Chilli: Okay, super-quick omelette.
+
+Chilli waggles her fingers.
+
+Chilli: My specialty. Oh!
+
+Chilli takes a step back, Bingo has appeared right in front of her.
+
+Chilli: Hi, Bingo.
+
+Bingo: Hi.
+
+Chilli: Are... you going to get started on the birthday card?
+
+Bingo holds up a card.
+
+Bingo: I already made one at kindy.
+
+Cut to a close up of Bingo holding up the card. It shows Bandit driving the car.
+
+Chilli: Oh! That's lovely!
+
+Cut back to the wider shot.
+
+Bingo: I want to help you make the omelette.
+
+Chilli: (dismayed) Oh. That's...lovely.
+
+TITLE CARD - Omelette
+
+The title card shows a burnt omelette with bits of shell in it.
+
+Bingo: [voiceover] This episode of Bluey is called Omelette.
+
+Cut back to the kitchen. Chilli and Bingo are standing at the counter; Bingo is standing on the step stool.
+
+Bingo: What do we do first?
+
+Chilli: Well, first we need some eggs.
+
+Bingo: Ooh, no, I can get them!
+
+Chilli: Oh, okay.
+
+Bingo starts shoving the wooden step stool across the floor. It makes a loud scraping sound. Chilli covers her ears.
+
+Chilli: Oh, Bingo! That's awfully loud, honey!
+
+Bingo pushes the stool all the way up against the freezer, walks up the steps, and opens the refrigerator.
+
+Bingo: Come here, eggies!
+
+Bingo removes a topless carton of eggs from the fridge. She knocks a stalk of celery onto the floor.
+
+Bingo: Not you, celery!
+
+Chilli: I'll get that.
+
+Chilli picks the celery up and puts it back in the fridge. She closes the door
+
+Bingo climbs down from the stool. She's holding the carton of eggs by the very end, and it bends dangerously.
+
+Chilli: Oh. Uh. Do you want me to carry those for you?
+
+The carton bends further.
+
+Bingo No! It's okay. I'm almost there!
+
+Two of the six eggs fall out of the carton and break on the floor.
+
+Bingo: Oops!
+
+Chilli: It's okay! I'll clean it up.
+
+Chilli gets a roll of paper towels.
+
+Bingo: No, I can do it!
+
+Chilli: Okay. Here's the paper towels.
+
+She hands the paper towels to Bingo.
+
+Bingo: (giggles) and... hup!
+
+Bingo throws the roll of paper towels out the window, unrolling a streamer of towels behind it. She reels in a dozen or so paper towels.
+
+Chilli: I'll make a start on the omelette, honey. I'll just crack the eggs.
+
+Bingo has arranged the towels into a pile on top of the eggs.
+
+Bingo: Can I help crack the eggies?
+
+Chilli: Um... Sure, honey. How about I sort this out and you get started on the eggs?
+
+Chilli takes over the pile of paper towels.
+
+Chilli : Grab a silver bowl from the cupboard.
+
+Bingo: Okay.
+
+Bingo runs off, and Chilli starts to clean up the eggs. A moment later, a loud crash sounds from offscreen.
+
+Chilli: (yelps)
+
+A bowl rolls into the shot and spins around on its rim.
+
+Cut to a wider shot showing Bingo surrounded by pots and pans. She's holding up a silver mixing bowl.
+
+Bingo: Is this one okay?
+
+Chilli smiles.
+
+Cut to Bandit in bed. He's rapidly flipping through a surfing magazine. He winces.
+
+Bandit: Oh, man. I'm getting hungry.
+
+Cut to the dining room. Bluey hums as she puts salt and pepper shakers on the breakfast tray.
+
+Cut to the kitchen. Bingo climbs the step stool and puts the silver bowl on the counter.
+
+Bingo: How many eggs are in an omelette?
+
+Chilli is stacking bowls back in the cupboard.
+
+Chilli: Um... Three or four.
+
+Bandit: (yelling from offscreen) I'm hungry!
+
+Chilli: Better make it four.
+
+Bingo counts out the eggs, laying each one on the counter, where they slowly roll away.
+
+Bingo: One. Two. Three.
+
+Chilli: Come on Bingo, bit quicker.
+
+Bingo: Four--
+
+Bingo notices her eggs are about to roll off the counter.
+
+Bingo: Oh, no!
+
+Bingo grabs the silver bowl and climbs down the steps. She runs to the end of the counter, and uses the bowl to catch the eggs.'
+
+Bingo: Agh! One!
+
+She leaps to the right to catch the second egg.
+
+Bingo: Ee! Two!
+
+And back to the left for the third egg.
+
+Bingo: Agh! Three!
+
+She looks around.
+
+Bingo: Hey, where's four?
+
+Chilli closes the cabinet and gets up.'
+
+Chilli: Done. How are the eggs doing, Bingo?
+
+The fourth egg rolls off the side of the counter instead of the end, cracking at Chilli's feet.
+
+Chilli: Ooh!
+
+Bingo: There's four!
+
+Cut to the bedroom.
+
+Bandit: Hello?! Is brekkie almost ready?!
+
+Cut back to the kitchen. Chilli is wiping up the egg.
+
+Chilli: It's coming!
+
+Chilli stands up and claps her hands together.
+
+Chilli: Okay, birthday boy's getting cranky. Let's get cracking, Bingo. Ha! Get it? "Cracking"!
+
+Bingo giggles, then smacks her egg down on the side of the silver bowl. The egg doesn't break, but the force of the blow launches the bowl off the table. The shot pulls back to show Bluey walking across the kitchen with a carton of orange juice. The bowl hits the orange juice, knocking Bluey over and spilling orange juice on the floor in front of the fridge.
+
+Bluey: (yelps)
+
+Chilli Ohmygoodness!
+
+Bingo: Sorry, Bluey!
+
+Bluey sits up.
+
+Bluey: It's okay, I'll clean it up.
+
+The shot cuts back to show just Chilli and Bingo at the counter.
+
+Chilli: Thanks, Bluey.
+
+Chilli holds the bowl in place for Bingo.
+
+Chilli: Okay, try again, honey.
+
+Bluey: (offscreen) Agh!
+
+A roll of paper towels soars over Chilli's head, bouncing off the wall.
+
+Chilli: I'll just hold it for you.
+
+Bingo repeatedly taps the egg on the edge of the bowl.
+
+Chilli: A bit harder, honey.
+
+Bingo taps the egg slightly harder.
+
+Chilli: Give it a good whack.
+
+Bingo: Rrrah!
+
+Bingo winds up and smashes the egg on the edge of the silver bowl. Yolk and albumen splatter the bowl, countertop, Chilli, and Bingo.
+
+Bingo: (giggles)
+
+Chilli: That's too hard.
+
+Bingo drops the eggshells into the bowl.
+
+Chilli: Oh, uh... No, honey, the shells don't go in.
+
+Chilli removes the eggshells. She hands Bingo a new egg.
+
+Chilli: Let's try again.
+
+Bingo: Okay.
+
+Bingo resumes tapping the egg lightly.
+
+Chilli's phone rings. Caller ID shows it's Bandit. Chilli taps the button with her pinky.
+
+Chilli: Hello?
+
+Cut to the bedroom.
+
+Bandit: Hi. Uh... Will breakfast be in my mouth soon?
+
+Cut to the kitchen. Bingo is still tapping the egg.
+
+Chilli: It's on its way!
+
+Chilli holds the phone close to her mouth and turns away.
+
+Chilli: (quietly) I'm just letting Bingo help me.
+
+Bingo winds up for a big hit.
+
+Cut to the bedroom.
+
+Bandit: I don't want to complain, but--
+
+A wet squelch is heard over the phone.
+
+Chilli: (over the phone) Agh!
+
+Bingo: (over the phone) Sorry!
+
+Bandit: Was that my breakfast?!
+
+Cut back to the kitchen. Fresh egg drips from Bingo and Chilli's faces.
+
+Bingo: That was a big one.
+
+Chilli: I've got to go.
+
+Chilli hangs up the phone.
+
+Chilli: Bingo, I might handle the omelette, honey.
+
+Bingo: Oh, you don't want my help?
+
+Chilli: Um... I do, but it might be quicker if I do it.
+
+Bingo: Oh. Okay.
+
+Chilli: Why don't you help Bluey set the breakfast tray?
+
+Bluey: I don't need help. I'm finished!
+
+Bingo: Ohh.
+
+Chilli: Well, um... Oh, look, Bingo - you could play with the salt and pepper soldiers. You love them.
+
+Bingo: Okay, Mama.
+
+Bingo sadly climbs down the step stool. Chilli watches sadly. The phone rings, Chilli picks it up.
+
+Chilli: (annoyed) It's coming!
+
+Cut to inside the fridge. Chilli opens the door, grabs the celery, and hands it to Bluey.
+
+Chilli: Bluey, run this celery up to Dad.
+
+Bluey: Yes, Mum!
+
+As Bluey runs out, Chilli cracks her knuckles.
+
+Chilli: Okay. Extra-super-quick omelette. Also my specialty.
+
+In a montage, Chilli cooks an omelette. She cracks eggs into a bowl and whisks them. She melts butter in a frying pan, and pours the eggs on top. She wipes up some spilled egg with a tea towel.
+
+Cut to the bedroom. Bandit devours the celery while Bluey backs away slowly.
+
+Cut back to the kitchen. Chilli turns a perfect omelette out onto a plate.
+
+Chilli: Alright, omelette: done.
+
+Bingo: (offscreen) (as pepper soldier) Where are you going?
+
+Cut to show Bingo playing with the salt and pepper soldiers in the dining room.
+
+Bingo: (as salt soldier) I'm off to guard the queen. That's my job.
+
+Bingo: (as pepper soldier) Ooh. I'll come too.
+
+Bingo: (as salt soldier) No, you can't guard the queen.
+
+Bingo: (as pepper soldier) Why not?
+
+Bingo: (as salt soldier) You're not good at it.
+
+Bingo: (as pepper soldier) I am. Really, I am.
+
+Bingo: (as salt soldier) No. You better stay at home.
+
+Bingo: (as pepper soldier) But I'm a guard just like you.
+
+Bingo: (as salt soldier) Yes, but you're not a proper guard like me.
+
+Bingo: (as pepper soldier) Oh. OK then.
+
+Bingo: (as salt soldier) Bye!
+
+Bingo: (as pepper soldier) Bye!
+
+Bingo walks the salt soldier over to the breakfast tray.
+
+Bingo: Doo, doo-doo, doo.
+
+Bingo: (as salt soldier) (addressing the orange juice) Hello, Queen.
+
+Bingo: (as Queen Orange Juice) Oh, hello.
+
+Cut back to Chilli in the kitchen, who has been watching this whole exchange. Her phone rings. She answers.
+
+Chilli: (imitating error message) The number you have dialed has been disconnected.
+
+Bandit: (on phone) Hey, what?!
+
+Chilli: Bingo, come here.
+
+Bingo walks over and climbs up to the counter.
+
+Chilli: I made an omelette for Dad, but... I didn't make it the right way.
+
+Bingo: Really?
+
+Chilli: Yeah. I need your help making another one.
+
+Bingo perks up and wags her tail.
+
+Bingo: Okay!
+
+Bandit walks in, wearing a blanket as a cape. Bluey is laying on the cape in a futile attempt to slow him down.
+
+Bandit: (hoarsely) Is that an omelette I can smell?
+
+Bingo and Chilli: Get back upstairs!
+
+Bandit: (hoarsely) It is! Can I just...
+
+Chilli threatens him with the whisk.
+
+Chilli: No! This isn't for you.
+
+Bingo: (giggles)
+
+Bandit: (hoarsely) Wha-? Well, who's it for?
+
+Bluey starts to shove Bandit out of the room.
+
+Bluey: You go, I'll take care of Dad.
+
+Bandit: Please!
+
+Bingo: (giggles)
+
+Bandit: I need food!
+
+Cut to the back yard. Chilli is holding Bingo in one arm, and accepting a carton of half a dozen eggs from Pat across the back fence.
+
+Cut to the kitchen. Bingo cracks an egg, getting half of it down the outside of the bowl. She throws in the shell. Bingo facepalms.
+
+Cut to Bingo mixing the eggs with great speed and enthusiasm. She gets so worked up she overturns the whole bowl.
+
+Cut to the bedroom. Bandit is sitting in the bed again . Bluey is standing with a pillow held menacingly. She glares at Bandit.
+
+Cut to the kitchen. Bingo cracks and egg and throws away the shell.
+
+Cut to Bingo mixing eggs - this time, she only slops a little out of the bowl.
+
+Cut to the stove - Chilli is holding out the frying pan, and Bingo tries to pour the bowl of eggs into it. She misses. Chilli lunges with the pan but only catches a few drops.
+
+Cut to the side yard. Chilli and Bingo borrow another half-dozen eggs from Wendy and Judo.
+
+Cut to the bedroom. Bluey is marching back and forth with her pillow. Bandit tries to get out of bed, and she runs up and threatens him with the pillow. Bandit grins sheepishly.
+
+Cut to the kitchen. Bingo cracks and egg and gets the whole contents in the bowl.
+
+Bingo mixes the eggs smoothly, and doesn't slop any out of the bowl.
+
+She pours the eggs into the pan, and this time, they all go in.
+
+Cut to the stove. Chilli is holding the pan while Bingo attempts to flip the omelette with a spatula. She accidentally turns it out onto the burner. They both gasp. Chilli grabs it bare handed and tosses it back into the pan. She gives Bingo a thumbs-up and they both smile.
+
+Chilli turns the omelette out onto a plate. It's burnt and has eggshells in it. They both look at it proudly.
+
+Cut to the bedroom. Bandit is grasping weakly for the potted plant on the nightstand.
+
+Bandit: Maybe...I could eat this...plant.
+
+Bingo, Chilli, and Bluey enter. Bingo is carrying the breakfast tray.
+
+Bingo, Chilli, and Bluey: Happy birthday!
+
+Bandit spins around on the bed.
+
+Bandit: Is that food?!
+
+Chilli: Sure is!
+
+Chilli raises up the tray while Bingo is still holding it.
+
+Bingo: I made you an omelette.
+
+Bandit: Give it here!
+
+Bandit snatches the tray. Bluey and Bingo flinch back.
+
+Bingo, Chilli, and Bluey: (yelp)
+
+Bandit picks up the omelette bare handed and starts to gobble.
+
+Bandit: (munching loudly) NOM HOM! AHM MNAM MNAM!
+
+Chilli: Stand back, Bingo! You might lose a finger!
+
+Bluey: Whoa!
+
+Bingo hides the hand closest to Bandit.
+
+Bandit: (munching loudly) AHM MNAM MN MN! OHM MNAM ONG! NYANG NYANG!
+
+He finishes the last of the omelette and chugs the glass of orange juice.
+
+Bandit: (chugging) Glug glug glug!
+
+Bandit: (sighs) A-a-a-a-a-a-hh!
+
+The girls relax.
+
+Bingo: Did you like it?
+
+Bandit: Bingo, I'm gonna be completely honest: That was the best omelette I've ever had in my life.
+
+Bingo, Chilli, and Bluey: Hooray!
+
+Bandit: Can I have another one?
+
+Bingo: Yes!
+
+Chilli reaches for the breakfast tray.
+
+Chilli: Let me clean this away for you, birthday boy.
+
+Bingo stops her.
+
+Bingo: No, Mum, I can do it.
+
+Chilli: Oh! Okay. Thanks, Bingo.
+
+Bluey: I'll help you!
+
+Bingo: Thank you.
+
+They each take one side of the tray and carry it out of the room.
+
+Bandit picks something out of his teeth.
+
+Bandit: I think there were a few eggshells in that omelette.
+
+Chilli: Well, you can't make an omelette without breaking a few--
+
+A loud thump and clatter sounds from offscreen. Bandit and Chilli wince.
+
+Bluey and Bingo: (offscreen) We'll clean it up!
+
+Chilli: --eggs.
+
+[End credits]
+
+The episode music continues through the credits. Instead of Bluey dancing, the screen is blank for a few seconds, then an egg falls from the top of the screen and breaks.
+
+Onesies/Script
+< Onesies
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Script.jpg
+Brandy (inhales and sighs) It’s all good, Brandy.
+
+Chilli: So, then your hips go around like this. Yeah, that’s great!
+
+Bluey & Bingo: Giggle
+
+Chilli: Me and my sister Brandy made this dance up for our mum’s birthday when we were kids. I can’t remember all the moves though.
+
+The doorbell rings
+
+Bluey & Bingo: (gasps) That’s her!
+
+Bluey and Bingo open the door
+
+Brandy: Hi, girls!
+
+Bluey & Bingo: Hi!
+
+Chilli: Hey, Brandy!
+
+Brandy: Hi, Chilli.
+
+Bluey & Bingo: (giggle as Chilli wags her tail in front of them)
+
+Chilli: It’s good to see you!
+
+Brandy: Yeah, you too.
+
+Chilli: Kids, this is your Auntie Brandy.
+
+Brandy: Oh, you’ve grown so much! Bluey, you look just like your father.
+
+Bluey: (disappointed) Oh, what?
+
+Bingo: Who do I look like?
+
+Brandy: You look.. just like..
+
+Chilli: You.
+
+Brandy: I brought you some presents!
+
+Bluey & Bingo: Really!
+
+Chilli: Oh,Brandy, you shouldn’t have!
+
+Bluey & Bingo: Onesies!
+
+Chilli: Oh, you really shouldn’t have!
+
+Brandy: Do they not like onesies?
+
+Chilli: They do, it’s just..Bingo has this thing. Um, don’t worry, I’m sure she’s grown out of it.
+
+Brandy: I hope they fit, I wasn’t sure how much they’ve grown in..um..
+
+Chilli: Four years.
+
+Bluey: Hey, mine’s too small!
+
+Bingo: And mine’s too big!
+
+Chilli: Well, then swap them around.
+
+Bluey: Can you make my cheetah onesie fit me?
+
+Chilli: Sorry, Bluey. If it doesn’t fit, it doesn’t fit.
+
+Bluey: Aww, but I want the cheetah!
+
+Chilli: It’s not meant to be, kid.
+
+Bluey: (sadly) Okay.
+
+Brandy: They’re beautiful.
+
+Chilli: It’s been too long.
+
+Brandy: I know… Look, Chilli.
+
+Chilli: Yeah?
+
+Bluey: Uh, Mom!
+
+Bingo: (growling)
+
+Bluey: It’s happening again!
+
+Chilli: Oh, no!
+
+Brandy: What’s going on?
+
+Bandit: Hey, Brandy. How you-(screams)
+
+Bluey: Run!
+
+Title Card
+
+Brandy: This episode of Bluey is called “Onesies”.
+
+Brandy: I don’t understand what’s happening!
+
+Chilli: No time to explain, we have to get to safety!
+
+Brandy: But what about Bandit?
+
+Chilli: Forget him, he’s done!
+
+Bingo: (Roars)
+
+Bluey, Chili, & Brandy: (Scream)
+
+Chili: What do we do?
+
+Bluey: The car!
+
+Brandy: Why had Bingo gone feral?
+
+Bingo: Reow!
+
+Bluey: Onesies make Bingo crazy.
+
+Chili: She sort-of becomes one with the onesie.
+
+Brandy: What?
+
+Bluey: Where’d she go?
+
+Chili: I don’t know!
+
+(Bandit presses his hand on the car window scaring the girls)
+
+Brandy, Chili, & Bluey: (scream)
+
+Bandit: Did you.. get her.. the onesie?!
+
+Brandy: I didn’t know, I’m sorry!
+
+(Bingo attacks Bandit)
+
+Bandit: (screams)
+
+Bluey: Don’t worry, we can live in the car!
+
+Chili: Yeah, there’s plenty of food under the seats!
+
+Brandy: Yeah, and we’ve got music!
+
+Bluey: Oh, yeah!
+
+Chili: Brandy, what was it that you wanted to say earlier?
+
+Brandy: Uhh…Um..
+
+Bingo: (growls)
+
+Brandy, Chili, & Bluey: (scream)
+
+Chili & Brandy: Get out!
+
+They all scream and run away from Bingo
+
+Bluey: Let’s hide behind the shed!
+
+Brandy: I think we lost her!
+
+Chili: (sighs with relief)
+
+Bluey: Auntie Brandy, was there a medium size onesie at the shop?
+
+Brandy: Um, I’m not sure Bluey.
+
+Bluey: Can you ring them and ask?
+
+Chili: Bluey!
+
+Bluey: What?
+
+Brandy: Sorry, Bluey, the last time I saw you zebras were your favorite animal.
+
+Bluey: They used to be, but I changed to cheetahs.
+
+Chili: Four years ago.
+
+Brandy: Look, I have to go, this was a mistake.
+
+Chili: No, Brandy, I’m sorry, don’t go!
+
+Brandy: Say goodbye to Bi…Ahhh!
+
+Bingo attacks Brandy.
+
+Chili & Bluey: Brandy!
+
+Brandy: Run! Save yourselves! (Laughs)
+
+Chili and Bluey run inside to hide in the bathroom tub.
+
+Chili: I think we’re just going to have a no onesie policy from now on.
+
+Bluey: Mum, why did Auntie Brandy want to leave? Is she sad? And why have we only seen her once in our lives?
+
+Chili: (Sighs) You know how you really want Bingo’s cheetah onesie?
+
+Bluey: Yeah, more than anything!
+
+Chili: But it doesn’t fit you, so you can’t have it, and there’s not really anything anyone can do to make it fit.
+
+Bluey: (Sadly) Yeah.
+
+Chili: Well…
+
+Cuts to the backyard where Bingo’s attacking Brandy while she’s laughing.
+
+Chili: (continues)…there’s something Auntie Brandy wants more than anything as well, but she can’t have it, and there’s not really anything anyone can do about it.
+
+Bingo runs away growling, while Brandy looks sad.
+
+Bluey: Why can’t she just have the thing she wants?
+
+Chili: Because it’s not meant to be.
+
+Chili and Bluey check on Brandy in the backyard.
+
+Bluey: (whispering)There’s Brandy! Let’s see if she’s okay.
+
+Chili: Yeah, she finally comes to visit and we let her get eaten by a cheetah!
+
+Bluey: So rude!
+
+Bingo peaks from behind the tree unknowingly to Bluey and Chili.
+
+Bingo: (growls)
+
+Brandy:(Whispering) No! Go back! Go back!
+
+Chili: Huh?
+
+Bluey: Is she shooing a fly?
+
+Brandy: (Whispering)Run?
+
+Bluey: Brandy, are you shooing a fly?
+
+Brandy: Run, it’s a trap!
+
+Chili & Bluey: Huh?
+
+Bingo shows up and attacks Chili.
+
+Bingo: (growls)
+
+Brandy, Chili, & Bluey: (scream)
+
+Chili: (laughs) Run, Bluey!
+
+Bluey: Ahh!
+
+Bingo chases after Bluey:
+
+Bingo: (growling)
+
+Chili & Brandy: (sigh)
+
+Brandy: I tried to warn you.
+
+Chili: We had to see if you were okay.
+
+Brandy: Thanks, appreciate it!
+
+Chili: Are you okay?
+
+Brandy: Yeah, I will be.
+
+Bingo is growling and chasing Bluey up and down a slide in the background while Chili and Brandy lay on the ground and talk.
+
+Brandy: I’m sorry, Chili.
+
+Chili: Oh, you couldn’t have known Bingo was bananas.
+
+Brandy: No, I mean… I’m sorry it’s been so long.
+
+Chili: Oh.
+
+Brandy: It’s just hard seeing you all. You know?
+
+Chili: I know.
+
+Chili holds Brandy’s hand and they both smile while looking at some clouds.
+
+Brandy: I tell you what, next time I come over, I’m not bringing any onesies.
+
+They both smile at each other.
+
+Bluey: Ahh, help!
+
+Chili: We have to help Bluey!
+
+Brandy: Let’s do the dance!
+
+Chili: The one we did as kids?
+
+Brandy: Yeah! Do you still remember the moves?
+
+Chili: Well, with your help I can.
+
+Bluey is running away from Bingo who is riding a bike.
+
+Bluey: Ahh!
+
+Bingo: (growls)
+
+Bluey: Cheetahs can’t ride bikes!
+
+Bingo crashes into the mailbox while Bluey runs towards Bandit who’s laying down next to the car on his phone.
+
+Bluey: Dad, help!
+
+Bandit: I can’t, I’ve been eaten. Rules are rules.
+
+Bluey: But Bingo’s gonna eat me!
+
+Bandit: Well, zebras are pretty good dodgers.
+
+Bluey: Oh, yeah, they are!
+
+Bandit: You have to become one with your onesie.
+
+Bluey pretends to be a zebra while dodging Bingo’s attacks.
+
+Bluey: (makes zebras noises)
+
+Bingo: (growls while trying to attack her but misses) Reow?
+
+Bluey continues to dodge until Bingo grabs her zebra tail and tries to escape.
+
+Chili: Hey, Bingo!
+
+Bingo: Reow?
+
+Chili: (to Brandy) Ready? 1, 2, 3.
+
+Chili and Brandy do the dance they used to do for their mum while laughing. Bluey and Bingo look at each other then smile and walk towards Chili and Brandy.
+
+Chili: Yup, then this.
+
+Bluey and Bingo laugh then join in on the dance,
+
+Chili: (laughs) No, no, no, hips first.
+
+Bluey: (laughs)
+
+Bingo: (laughs)
+
+Brandy: (laughs) Chili!
+
+Chili: (laughs)
+
+All four of them laugh while dancing.
+
+Ending credits
+
+Coming-soon.png
+
+<!-- Pass the Parcel/Script
+< Pass the Parcel
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+
+EpisodeGalleryScript
+
+Script.jpg
+Sheila: Ya ready for pass the parcel, kids?
+
+Kids: YEAH!
+
+Bingo: I love pass the parcel!
+
+Lila: Me too!
+
+Lila's little sister breaks the pinata with the kids laughing
+
+Shelia: Oh, no! Pat, would you mind doing the music?
+
+Pat: Yeah, too easy, Shelia!
+
+Pat: Ready, kids? I'll just close my eyes.
+
+Shelia: Uh, Pat, No. You have to stop on each kid once.
+
+Pat: What? Why?
+
+Chilli: So everyone gets a prize.
+
+Pat: But how can everyone get a prize? There's just one in the middle.
+
+Chilli: No, there's a prize in each layer.
+
+Pat: What??!
+
+Chilli: So no one misses out!
+
+Pat: Hey, Bandit, ya hearing this?
+
+Bandit: Yeah, where you been, mate?
+
+Chucky: Start the music, dad!
+
+Pat: Look, when I was a kid there were only-
+
+Kids: START THE MUSIC!
+
+Pat: Okay, okay, I'll start!
+
+WIP -->

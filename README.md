@@ -110,8 +110,20 @@ Once the API is fully built, screenshots will be added below.
 - [ ] Episode Names
 - [ ] Episode Descriptions
 - [ ] Episode Lengths
-- [ ] Episode Characters
-- [ ] Quotes
+- [ ] Character Names
+- [ ] Character Descriptions
+- [ ] Character Images
+- [ ] Locations
+- [ ] Location Images
+- [ ] Episode Images
+- [ ] Quotes - done through scripts, do last because ugh
+- [ ] Filter by Australian Content
+- [ ] Books
+- [ ] Toys
+- [ ] Garden gnomes
+- [ ] Long Dog
+- [ ] Songs
+- [ ] Trivia- asking Trivia Bros for collab
 
 See the [open issues](https://github.com/404pandas/blue-dog-api/issues) for a full list of proposed features (and known issues).
 

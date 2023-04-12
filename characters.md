@@ -3055,6 +3055,119 @@ Adventurous next door neighbour. Can’t stop moving.
 Mackenzie
 Mackenzie
 Quick, sociable and from New Zealand.
+Mackenzie Border Collie
+40
+VIEW SOURCE
+Mackenzie Border Collie
+
+Characteristics
+Breed
+Border Collie
+Gender
+Male ♂
+Traits
+Eyes
+Black
+Fur
+Black and White
+Personal Status
+Relative(s)
+Mackenzie’s Dad
+Mackenzie’s Mum
+
+Friend(s)
+Bluey
+Captain
+Honey
+Coco
+Chloe
+Bingo
+Bandit
+Rusty
+Hercules
+Jack
+Media
+First Appearance
+Fruitbat (cameo)
+Spy Game
+Mackenzie Border Collie is a secondary character that has appeared in multiple episodes of Bluey.
+
+Contents
+1 Bluey.tv Description
+2 Appearance
+3 Personality
+4 Appearances
+5 Trivia
+6 Gallery
+
+AD
+Bluey.tv Description
+"Quick, sociable and from New Zealand."
+
+Appearance
+Mackenzie is a Border Collie with white and black fur. He has a black left foot, a black right leg, black arms, torso, tail, head and ears, and a white right foot, a white left leg, white hands, muzzle, face and inner ears. He also has a black nose.
+
+Personality
+Mackenzie is an enthusiastic and friendly character in general. He is impatient, as shown in the episode Shops, and prefers to get to the point. He can be a bit rude and upset at times but he is easy to cheer up as seen in Barky Boats.
+
+Appearances
+S1E08 - Fruitbat (cameo/no lines)
+S1E11 - Bike (cameo/no lines)
+S1E13 - Spy Game
+S1E23 - Shops
+S1E29 - The Creek
+S1E32 - Bumpy and the Wise Old Wolfhound
+S1E41 - Mums and Dads
+S2E08 - Daddy Dropoff
+S2E16 - Army (cameo)
+S2E25 - Helicopter
+S2E31 - Barky Boats
+S2E33 - Circus
+S2E45 - Handstand
+S3E09 - Curry Quest
+S3E14 - Pass The Parcel
+S3E15 - Explorers (cameo)
+S3E28 - Stories
+S3E34 - Space
+S3E37 - The Decider
+Trivia
+Mackenzie's appearance was inspired by "Dog" from the New Zealand comic Footrot Flats.[1]
+He is one of very few kids that have a known voice actor along with Chloe, Judo, and Snickers.
+He is from New Zealand.
+He can be seen in the pilot episode in the theme song, but with a different design, as his left leg and foot are the same as his right leg and foot, instead of having a white left leg and black left foot.
+Mackenzie with Bluey appear to show some friendly rivalry.
+Mackenzie and Bluey do have disagreements when playing games, as prominent in Shops.
+In Barky Boats, both Mackenzie and Bluey blew raspberries at each other.
+He calls Bandit "Bluey's Dad" (The Creek).
+He is 6 years old as revealed in Barky Boats.
+Like Bluey and Bingo, many fans at first thought that he was the opposite gender because of the name "Mackenzie" usually being a girl name. This has even led to some international dubs of the show incorrectly portraying Mackenzie as a girl.
+In the first season of the Latin American dub, he is incorrectly portrayed as female, this is fixed in the following of said dub.
+MacKenzie's family name was revealed in Curry Quest.
+In Space, it's revealed that Mackenzie used to have an abandonment issue stemming from a time when he was little where he found himself separated from his mother. At the end of the episode, he is able to find closure and move on.
+In Polish dub, his name is "Kołnierzyk" which means "Collar".
+In "Curry Quest", when Bandit is saying goodbye to Mackenzie and his parents, he refers to them as the "Border Collies" or perhaps a variation such as "Border-Collies". This would imply that that is their family surname.
+Gallery
+092FE628-D00B-4E76-950E-77B0A9B8DF0E
+Mackenzie's prototype design as seen in the intro for the 2017 pitch pilot.
+The image when makenzie and rusty come
+HD Mackenzie
+Spy game-screen
+Spy Game
+Yeah, do I -Mackenzie Quote- - Shops
+Shops
+Bandit - The Creek Episode
+The Creek
+Helicopter-preview
+Alongside Bluey in Helicopter
+Barky Boats-1
+Barky Boats
+Space - Mackenzie Worried
+Space
+Space - Mackenzie Steps Away Back from Aliens
+Screenshot 2023-04-07 5.59.45 PM
+Space
+Mackenzie Toy.Set.Barky.Boat
+https://blueypod.podbean.com/e/joe-brumm-aka-the-interview/ starting at 11:00
 
 Indy
 Indy
@@ -3836,6 +3949,71 @@ Muffin’s baby sister is just starting to talk.
 Missy
 Missy
 Super brave when she’s ready.
+Missy
+11
+VIEW SOURCE
+Missy
+
+Characteristics
+Breed
+Aussie Terrier
+Gender
+Female ♀
+Age
+5 (as of Pass the Parcel)
+Traits
+Eyes
+Black
+Fur
+Black, brown, dark brown and light brown.
+Personal Status
+Relative(s)
+Unnamed mother
+Friend(s)
+Bluey
+Bingo
+
+Media
+First Appearance
+Bob Bilby
+Missy is a secondary character that has appeared in multiple episodes of Bluey.
+
+Contents
+1 Bluey.tv Description
+2 Appearance
+3 Biography
+4 Appearances
+5 Trivia
+6 Gallery
+
+AD
+Bluey.tv Description
+"Super brave when she’s ready."
+
+Appearance
+Missy is an Aussie Terrier[1] with black, brown, dark brown and light brown fur. She has black legs, arms, torso and tail top, brown feet, hands, chest, head, ears and bottom tail, light brown eyebrows and a dark brown muzzle. She also has a black nose, and wears dark blue, pink and turquoise beads around her ears.
+
+Biography
+Missy is friends with most of the people in Calypso’s class.
+
+Appearances
+S1E12 - Bob Bilby
+S1E27 - Pirates
+S1E29 - The Creek
+S1E45 - Mums and Dads
+S1E50 - Shaun
+S2E08 - Daddy Dropoff
+S2E45 - Handstand
+S3E14 - Pass the Parcel
+
+Trivia
+She is normally quite shy but can be super brave if she’s ready.
+Her birthday is the 18th of an unknown month.
+In Pass the Parcel, it reveals she has a mother, but she has no known dad yet.
+Despite common misconception, it's confirmed she's based off a Season 1 Production Lead's Aussie Terrier.
+Gallery
+Coming-soon
+https://web.archive.org/web/20230201035927/https://twitter.com/CosmicGl0w/status/1612024669921775621
 
 Buddy
 Buddy
@@ -7619,3 +7797,1009 @@ Her name was revealed in Explorers.
 Lulu is actually male in the Dutch dub.
 Gallery
 Coming-soon
+
+Mackenzie's Dad
+3
+VIEW SOURCE
+Mackenzie's Dad
+
+Characteristics
+Breed
+Border Collie
+Gender
+Male ♂
+Traits
+Eyes
+Black
+Fur
+Black, grey and white
+Personal Status
+Relative(s)
+Mackenzie (Son)
+Mackenzie’s Mum (Wife)
+Friend(s)
+Bandit
+Chilli
+Daisy
+Marcus
+Chloe’s Mum
+Frank
+Media
+First Appearance
+Fruitbat
+(Production Appearance: Wagon Ride)
+Voice Actor
+Rich Jeffery
+Mackenzies's Dad is a secondary character that has appeared in multiple episodes of Bluey.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearances
+4 Trivia
+5 Gallery
+
+AD
+Appearance
+Mackenzie's Dad is a Border Collie with white, grey and black fur. He has white feet, hands, tail tip, chest, muzzle, inner ears and eyebrows, black legs, arms, tail stem, torso, head and outer ears, and grey muzzle spots. He also has a black nose.
+
+Biography
+He is friends with Marcus, Daisy, Bandit, Chilli, Chloe’s Mum and Frank. He is the husband of Mackenzie’s Mum and the father of Mackenzie.
+
+Appearances
+S1E8 - Fruitbat (dream sequence)
+S1E12 -Bob Bilby (cameo)
+S1E13 - Spy Game
+S1E24 - Wagon Ride
+S2E08 - Daddy Dropoff
+S2E16 - Army
+S2E33 - Circus
+S3E09 - Curry Quest
+S03E37 - The Decider
+Trivia
+He is voiced by series director Richard Jeffery.
+In Spy Game, Bandit slaps his leg saying "mozzie!" when Bluey and Mackenzie pull a hair off him. Some fans have misheard him as saying "Fozzie", believing that it's the name of Mackenzie's Dad in a similar fashion to fans mishearing Gruber's name as Rupert due to the I-view subtitles. "Mozzie" is Australian slang for Mosquito as Bandit believed he was bitten by one. His name however has yet to be revealed.
+In "Curry Quest", when Bandit is saying goodbye to Mackenzie and his parents, he refers to them as the "Border Collies" or perhaps a variation such as "Border-Collies". This would imply that that is their family surname.
+Gallery
+Mackenzie's Dad - Curry Quest
+Mackenzie's Dad & Bandit Heeler cooking sausage - Spy Game
+Mackenzie's Dad holding pack - Curry Quest
+Mackenzie's Dad holding pack2 - Curry Quest
+
+Mackenzie's Mum
+6
+VIEW SOURCE
+Mackenzie's Mum
+Season 3 (2021-Present)
+Season 1-2 (2018-2021)
+Season 3 (2021-Present)
+Characteristics
+Breed
+Border Collie (Red Merle)
+Gender
+Female ♀
+Traits
+Eyes
+Black
+Fur
+Brown, white and grey
+Personal Status
+Relative(s)
+Mackenzie (Son)
+Mackenzie’s Dad (Husband)
+
+Friend(s)
+Marcus
+Daisy
+Bandit
+Chilli
+Frank
+Chloe’s Mum
+Bingo
+Media
+First Appearance
+Spy Game
+Voice Actor
+Loren Taylor
+Mackenzie’s Mum is a secondary character that has appeared in multiple episodes of Bluey.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearances
+4 Trivia
+5 Gallery
+
+AD
+Appearance
+Mackenzie’s Mum is a Red Merle Border Collie with white, brown and grey fur. She has white legs, hands, tail tip, top chest, muzzle, and eyebrows, brown feet, arms, tail stem, torso, right head, right outer ear, left head, and left outer ear and grey muzzle spots and inner ears. She also has a black nose.
+
+Biography
+Mackenzie’s Mum is friends with Marcus, Daisy, Chilli, Bandit, Chloe’s Mum and Chloe’s Dad. She is the wife of Mackenzie’s Dad, and the mother of Mackenzie.
+
+Appearances
+S1E13 - Spy Game
+S2E01 - Dance Mode
+S2E33 - Circus (cameo)
+S3E09 - Curry Quest
+S3E34 - Space
+S3E37 - The Decider
+Trivia
+She is the second character to have a redesign between episodes, the first being Radley Heeler.
+In "Curry Quest", when Bandit is saying goodbye to Mackenzie and his parents, he refers to them as the "Border Collies" or perhaps a variation such as "Border-Collies". This would imply that that is their family surname.
+Gallery
+Macks mum new
+Bingo Heeler & Mackenzie's Mum - Curry Quest
+Mackenzie's Mum is doing face painting on Bingo Heeler - Curry Quest
+Mackenzie's Mum, Buddy & Indy - Curry Quest
+
+Magic
+5
+VIEW SOURCE
+EpisodeGalleryScript
+
+Magic
+
+Broadcast Information
+Airdate
+November 30, 2021[1]
+November 14, 2022 (US)
+Credits
+Episode Guide
+Previous
+Curry Quest
+Next
+Chest
+
+Magic is the Tenth episode of Season 3 of Bluey (TV series).
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+3.2 Objects
+4 Trivia
+5 References
+Synopsis
+Bluey teaches Bingo how to use magic so she can make Mum play with her, but she forgets to explain the most important rule: never use magic for cheekiness.
+
+Episode Recap
+Warning Spoilers!
+
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Pat
+Radley (pictured)
+Uncle Stripe (pictured)
+Objects
+Floppy (cameo)
+Trivia
+When Bluey makes Pat and Bandit dance, they do the lift from the movie Dirty Dancing
+Bluey is seen playing with a Pop-It fidget toy, this may be a reference to modern kids playing with fidgets.
+This is one of the few times a character has magic.
+References
+https://www.foxtel.com.au/tv-guide/channel/ABC-KidsABC-TV-Plus/A2N/2021/11/30
+
+Marcus
+3
+VIEW SOURCE
+Marcus
+
+Characteristics
+Breed
+Beagle
+Gender
+Male ♂
+Traits
+Eyes
+Black
+Fur
+White, honey, dark honey and brown
+Personal Status
+Relative(s)
+Daisy (Wife)
+Honey (Daughter)
+
+Friend(s)
+Chilli
+Bandit
+Chloe’s Mum
+Frank
+Mackenzie’s Mum
+Mackenzie’s Dad
+Media
+First Appearance
+Spy Game
+Voice Actor
+Charlie Aspinwall
+Marcus is a secondary character that has appeared in multiple episodes of Bluey.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearances
+4 Trivia
+5 Gallery
+
+Appearance
+Marcus is a Beagle with white, honey, dark honey and brown fur. He has white feet, hands, tail tip, chest and muzzle, honey legs and head, brown torso, arms, tail stem, nose and eyebrows and dark honey ears. He also has a black nose, and wears a yellow bow tie and black glasses.
+
+Biography
+Marcus is friends with Bluey, Chloe and Mackenzie’s parents. He is the husband of Daisy, and the father of Honey.
+
+Appearances
+Spy Game
+Circus
+Tea Party with Bluey
+Archaeology
+Trivia
+He is voiced by Ludo’s co-founder and director Charlie Aspinwall.
+He speaks with an English accent.
+Gallery
+Coming-soon
+
+Maynard
+5
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+Maynard
+
+Characteristics
+Breed
+Irish Wolfhound
+Gender
+Male ♂
+Traits
+Eyes
+Black
+Fur
+Brown and cream
+Personal Status
+Friend(s)
+Chilli
+Mort
+Bluey
+Bingo
+Media
+First Appearance
+Grandad
+Voice Actor
+Sean Choolburra
+Maynard is a secondary character that has appeared in Bluey.
+
+Contents
+1 Appearance
+2 Appearances
+3 Personality
+4 Biography
+5 Trivia
+6 Gallery
+
+AD
+Appearance
+Maynard is a Irish Wolfhound[1] with patches of brownish grey, dark brown, light brown and cream fur. He also has bushy eyebrows, a black nose, and grey-white beard whiskers.
+
+Appearances
+S2E27 - Grandad
+S3E15 - Explorers
+Personality
+Maynard is often seen as a carefree dog who spends his days living his own life. He also is very helpful and would often lend out trust to those around him.
+
+Biography
+Maynard is often seen near his dock house trying to fish for various types of sea animals with his fishing rod. Along with always seeming to have a mug with him to sip his morning coffee. This indicates that he is a fisher, and his cabin is just near the forest and a bit far from Mort's house.
+
+Trivia
+He owns a canoe, as seen in Grandad.
+Character designed by @faysaysnay {Twitter}.
+He does not own a phone because he does not like receiving calls repetitively.
+He likes fishing Barramundis (though he abbreviates them as Barras), as mentioned in Grandad.
+He enjoys collecting pumpkin seeds, as seen in Explorers.
+Gallery
+Coming-soon
+https://web.archive.org/web/20201204145338/https://twitter.com/faysaysnay/status/1334867143343579137
+
+Maynard
+5
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+Maynard
+
+Characteristics
+Breed
+Irish Wolfhound
+Gender
+Male ♂
+Traits
+Eyes
+Black
+Fur
+Brown and cream
+Personal Status
+Friend(s)
+Chilli
+Mort
+Bluey
+Bingo
+Media
+First Appearance
+Grandad
+Voice Actor
+Sean Choolburra
+Maynard is a secondary character that has appeared in Bluey.
+
+Contents
+1 Appearance
+2 Appearances
+3 Personality
+4 Biography
+5 Trivia
+6 Gallery
+
+AD
+Appearance
+Maynard is a Irish Wolfhound[1] with patches of brownish grey, dark brown, light brown and cream fur. He also has bushy eyebrows, a black nose, and grey-white beard whiskers.
+
+Appearances
+S2E27 - Grandad
+S3E15 - Explorers
+Personality
+Maynard is often seen as a carefree dog who spends his days living his own life. He also is very helpful and would often lend out trust to those around him.
+
+Biography
+Maynard is often seen near his dock house trying to fish for various types of sea animals with his fishing rod. Along with always seeming to have a mug with him to sip his morning coffee. This indicates that he is a fisher, and his cabin is just near the forest and a bit far from Mort's house.
+
+Trivia
+He owns a canoe, as seen in Grandad.
+Character designed by @faysaysnay {Twitter}.
+He does not own a phone because he does not like receiving calls repetitively.
+He likes fishing Barramundis (though he abbreviates them as Barras), as mentioned in Grandad.
+He enjoys collecting pumpkin seeds, as seen in Explorers.
+Gallery
+Coming-soon
+https://web.archive.org/web/20201204145338/https://twitter.com/faysaysnay/status/1334867143343579137
+
+Mort
+11
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+Mort
+
+Characteristics
+Breed
+Red Heeler
+Gender
+Male ♂
+Traits
+Eyes
+Black
+Fur
+Light orange, Brown, Light yellow, (Maroon (Mask))In Grandad
+Personal Status
+Relative(s)
+Mrs. Cattle (wife)
+Chilli (daughter)
+Brandy (daughter)
+Bandit (son-in-law)
+Bluey (granddaughter)
+Bingo (granddaughter)
+Mary Cattle (possible sister or sister in-law)
+Friend(s)
+Maynard
+Ziggy
+Media
+First Appearance
+Grandad
+Voice Actor
+Laurie Newman
+Mort, also known as Grandad is a secondary character who first appeared in the episode of the same name.
+
+Contents
+1 Appearance
+2 Biography
+3 Trivia
+4 Appearances
+5 Gallery
+
+AD
+Appearance
+Mort has an appearance similar to Chilli with what appears to be white spots on the back, arms, and tail with even more white spots in the stomach, legs, and nose.
+
+Biography
+Mort is Chilli's father, Bandit's father-in-law and Bluey and Bingo's maternal grandfather. He served in the army when he was younger, and had a heart operation some time before the events of “Grandad”.
+
+Trivia
+In Bedroom, it is revealed that he forgot about Bingo's birth, and didn't give her a Christmas present as a result.
+He and Stripe are the only charcters that refer to Chilli as "Chilli Dog."
+His first name was revealed in Phones.
+A younger version of Mort can be seen in Grandad and pictured in Obstacle Course and Promises.
+Mort's last name might be Cattle, although this depends on whether or not his daughter, Brandy, is married. Brandy's last name was confirmed by Nick Rees on Twitter (@N1ckBee5) who made a poster for the Onesies episode and credited her last name as "Cattle”.
+Appearances
+The Weekend (pictured)
+Sticky Gecko (pictured and discussed)
+Grandad
+Seesaw (mentioned)
+Bedroom (mentioned)
+Promises (pictured)
+Obstacle Course (pictured)
+Curry Quest (pictured)
+Phones
+Gallery
+Grandad-Hiding
+Grandad-Preview
+Young Chilli and Grandad
+
+Movies/Script
+< Movies
+1
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Script.jpg
+
+(Bingo giggles)
+
+Bandit: Bingo, calm it down a bit, mate.
+
+Bingo: Ooh, banana.
+
+(Bingo squeals)
+
+Bluey: Dad, is there going to be thunder in the movie?
+
+Bandit: Hm, maybe.
+
+Bluey: Ohhh...
+
+Bandit: Are you sure you're ready for movies, Bluey?
+
+Bandit: You're a bit of a sensitive kid.
+
+Bluey: Mackenzie's seen it!
+
+Bandit: Yeah, but you're not Mackenzie.
+
+Bluey: I know, but... I'm ready.
+
+Bandit: Just checking. Come on, let's go get some tickets.
+
+Bandit: Hey, where's Bingo?
+
+Bingo: Banana!
+
+(Bingo giggles)
+
+(Bingo breaks banana on the Chunky Chimp stand)
+
+Bandit: Bingo!
+
+Bingo: Sorry.
+
+(Bingo squeaks)
+
+Bluey: This episode of Bluey is called, Movies.
+
+(Bingo laughs)
+
+Bandit: One adult and two kids to Chunky Chimp, thanks.
+
+Bingo: And a giant popcorn!
+
+Bandit: And a small popcorn.
+
+Bingo: Ohhhh.
+
+Unnamed employee: Uh, $54, please.
+
+Bandit: Chunky Chimp!
+
+Bandit: Do I have to pay for the four-year-old?
+
+Bandit: She's not really gonna watch it.
+
+Unnamed employee: Uh, yeah, you still have to pay.
+
+Bluey: Can you ask him if there's any scary bits?
+
+Bandit: Oh, yeah.
+
+Bandit: Hey, are there any scary bits in this?
+
+Unnamed employee: Um, there's a big thunderstorm bit at the end.
+
+Unnamed employee: That might be scary for some kids.
+
+Bluey: Oh, I think I might be "some kids."
+
+Bandit: Look, we can leave whenever you want - just say the word.
+
+Bluey: Thanks, Dad.
+
+Bandit: OK, three tickets and a popcorn.
+
+(Bingo laughs)
+
+Bandit: And another popcorn.
+
+(Bingo squeals)
+
+Bandit: Bingo! Stay with me, mate.
+
+Bluey: Ow!
+
+Bandit: Open your eyes, Bluey.
+
+Bluey: Is the thunderstorm bit on yet?
+
+Bandit: The movie hasn't started yet.
+
+Bluey: Oh.
+
+Bandit: These are trailers for other movies.
+
+Voiceover: This summer, prepare to
+
+BEE out of your comfort zone.
+
+Bandit: You sit here, Bingo.
+
+Bingo: Ooh, swingy chair.
+
+Bingo: Whoops. Heh-heh.
+
+Bandit: Maybe just sit forward a bit.
+
+Bingo: OK.
+
+Bluey: Tell me when the trailers are over.
+
+Bandit: Bluey...
+
+Bandit: Whoa, Bingo!
+
+Bluey: Oh, it's finished.
+
+Voiceover: Experience pure sound.
+
+Bluey: Ah!
+
+Bingo: Loud!
+
+Bingo: Dark!
+
+Bandit: OK, now the movie's starting.
+
+Bingo: This is boring.
+
+Bandit: Bingo, shh.
+
+Bluey: Is this the storm bit?
+
+Bandit: Nah, it's just some monkeys in a tree.
+
+Chunky: Hey, Chubbles, look what I invented.
+
+Chunky: We can use it to explore the Groundlands.
+
+Chubbles: Oh, Chunky. You and your inventions.
+
+(Bingo laughs)
+
+Bandit: Bingo, sit still.
+
+Chubbles: Why can't you just be like the rest of us?
+
+Chubbles: Why do you have to be SO different?
+
+Chunky: I don't know.
+
+(Chunky sings) “I wish I wasn't different...”
+
+Bandit: Oh, man, there's songs.
+
+(Chunky continues singing) “I wish I were the same...”
+
+Bingo: Ow, my popcorn.
+
+Bandit: One popcorn, please.
+
+Unnamed employee: Sure.
+
+Bandit: Bingo, don't touch that.
+
+Bluey: Dad, am I different, like Chunky is?
+
+Bandit: Huh?
+
+Bandit: Uh, yeah, well, uh, no.
+
+Bandit: Bingo, no, mate.
+
+Bluey: I think I am different.
+
+Bluey: I'm the only one of my friends who doesn't watch movies.
+
+Bluey: I wish I wasn't different.
+
+Bandit: Look, mate, I'm pretty sure that by the end of the movie, everyone will like that the monkey was different.
+
+Bandit: Ow!
+
+(Bluey and Bingo laugh)
+
+Bandit: Don't spill 'em, Bingo. Don't spill 'em.
+
+Bluey: Well, I am not gonna be different anymore.
+
+Bluey: I’m ready for movies.
+
+Bluey: Just like everyone else.
+
+Chubbles: The Groundlands aren't for chimps.
+
+Chubbles: Tree World is where we belong.
+
+Chunky: But my heart belongs to the Groundlands. I don't care, you need to stay here...
+
+Bingo: Can I sit over there?
+
+Bandit: No, mate, we're sitting here.
+
+Bingo: But I want to go down there.
+
+Chunky: But I want to go down there.
+
+Bandit: No, you have to stay here with me.
+
+Chubbles: No, you have to stay here with me.
+
+Bingo: But I want to explore!
+
+Chunky: But I want to explore!
+
+Bluey: Dad, look, I'm watching!
+
+Bandit: Well done, Bluey.
+
+Bandit: Huh?
+
+Bingo: Hi.
+
+Bandit: Hey!
+
+(Bingo laughs)
+
+Bandit: What? Bingo!
+
+Bandit: Where's that kid?
+
+Bingo: Hi.
+
+(Bingo laughs)
+
+Chew B’Deube: You can find the magic pinecone, Chunky.
+
+Bandit Get back here!
+
+Chew B’Deube: You just have to be yourself.
+
+Chunky: Be myself?
+
+Chew B’Deube: Yeah, be yourself.
+
+Chew B’Deube: (Sings) “Oh, be yourself…”
+
+(Bingo laughs)
+
+Chew B’Deube: (Sings) “Oh, be yourself...”
+
+Bandit: Got ya!
+
+Bingo: I need the toilet.
+
+Bandit: Oh, man.
+
+Bandit: Oh, nah, mate, don't touch the dunny brush.
+
+(Bingo giggles)
+
+Bluey: Dad?
+
+Bluey Why does Chewbadewba tell Chunky to be yourself?
+
+Bandit: Uh, well, uh, you know.
+
+Bingo: Finished!
+
+Bandit: Bingo, you gotta flush. Come on!
+
+(Toilet flushes)
+
+Bluey: Am I just being yourself?
+
+Bandit: Look, it’s just monkeys singing songs, mate. Don’t think too hard about it.
+
+(Bingo laughs)
+
+Bandit: Oh, Bingo.
+
+Bluey: Well, I understand what just be yourself means because I’m ready for movies.
+
+Chunky: Oh, no! It's a thunderstorm.
+
+Bluey: Eek!
+
+Bluey: Dad, I want to go now.
+
+Bandit: OK, no worries.
+
+Bandit: Bingo, we've gotta go.
+
+Bandit: Huh? Bingo?
+
+Bandit: Where have you gone?
+
+Chunky: I found the magic pine cone.
+
+Bingo: Hi.
+
+Bandit: Bingo!
+
+(Bingo laughs)
+
+Bandit: Bluey, help me with your sister.
+
+Bandit: You block her off.
+
+Bluey: But I can't see. Ow.
+
+Bandit: Bingo! No!
+
+Bandit: Come back here, you little pickle!
+
+(Bingo laughs)
+
+Bandit: Sorry, sorry.
+
+Bandit: Sorry, everyone.
+
+Bandit: Stop running away.
+
+Bandit: Ooh, ooh, ooh, ooh. (falling down stairs)
+
+(Bingo laughs)
+
+Bandit: Bluey, open your eyes.
+
+Bluey: But the scary bit’s on.
+
+Bandit: It’s just a monkey in the rain.
+
+(Bingo laughs)
+
+Bandit: Ooh! (falls)
+
+Bandit: Bluey, open your eyes and help me.
+
+Bluey: I can't do it. I'm not ready.
+
+Chunky: I can't do it. I'm not ready.
+
+Chunky: I should have just stayed in the trees like everyone else.
+
+Magic pinecone: But you didn’t.
+
+Chunky: Huh?
+
+Magic pinecone: You rode off to save the village, because there is nobody else quite like you.
+
+Magic pinecone: Now, fly, Chunky.
+
+Chunky: Whoa!
+
+(Bluey gasps)
+
+Chunky: Yeah! Woo!
+
+Bluey: He made it!
+
+(Bingo giggles)
+
+Bluey: Gotcha.
+
+Bandit: Nice one, Bluey.
+
+All: Hooray! Whoo-hoo!
+
+Bandit: Ok, let’s get you out of here.
+
+Bluey: Dad, look, the storm is over.
+
+Bandit: Oh, yeah. Nice one.
+
+Bluey: Can we stay?
+
+Bandit: What? Really?
+
+Bluey: Um, yeah.
+
+Bandit: OK, we're staying.
+
+Bingo: Oh, I don’t want to stay.
+
+Bandit: I know, mate, but it’s important for Bluey.
+
+Bingo: So what do I do?
+
+Bandit: You know what, Bingo?
+
+Bandit: Just be yourself.
+
+Chunky: “Now it all worked out. Everything’s fine. Living in the trees and the ground sometimes. All because… You learned to be yourself. Be yourself” (song continues into outro)
+
+rk
+7.2 Screenshots
+
+AD
+Bluey.tv Description
+"Bluey’s non-stop cousin. Always speaks her mind."
+
+Appearance
+Muffin is a Blue Heeler with white, blueish-white, grey, black, and light grey fur. She has white feet, hands, and muzzle, bluish-white legs, arms, tail stem, torso and head, grey spots on her legs, arms, and top right head, light pink inner ears and a black tail tip, ears, black spots on torso, and a big spot located on the head. She also has a black nose.
+
+Biography
+Muffin is Bluey‘s non-stop cousin who always speaks her mind. She is the daughter of Stripe and Trixie, the sister of Socks, the cousin of Bluey and Bingo, the niece of Chilli and Bandit, and the granddaughter of Bob and Nana.
+
+Personality
+Muffin can be very loud and energetic no matter what mood she is in. Due to her young age, she often has trouble understanding things like how to play charades the proper way. Muffin can also be a bit stubborn, especially when she doesn’t get her way. She sometimes can be selfish and bratty, like when she refused to give Socks a turn drawing on the faceytalk. Despite it all, she loves her family and loves playing with her sister and cousins.
+
+Appearances
+S01E07 - BBQ (debut)
+S01E09 - Horsey Ride
+S01E11 - Bike
+S01E28 - Grannies (pictured)
+S01E32 - Bumpy and the Wise Old Wolfhound
+S01E36 - Backpackers
+S01E39 - The Sleepover
+S01E43 - Camping
+S01E52 - Verandah Santa
+S02E06 - Stumpfest
+S02E11 - Charades
+S02E21 - Escape (pictured)
+S02E30 - Library
+S02E37 - The Quiet Game (mentioned)
+S02E43 - Muffin Cone
+S02E45 - Handstand (deleted scene)
+S02E47 - Ice Cream
+S02E51 - Christmas Swim
+Short6 - Humpty Dumpty
+Short17 - Honk
+S03E01 - Perfect (drawing cameo)
+S03E14 - Pass the Parcel
+S03E19 - Pizza Girls
+S03E24 - Faceytalk
+S03E33 - Granny Mobile
+Trivia
+Her favourite colour of capsicum (bell pepper in the Disney distributed version) is red.
+She sometimes likes to keep things to herself.
+She is frequently referred to by Stripe and Trixie as Muffy or Muffles.
+She gets crazy very easily when she misses her day sleep.
+Her nickname in some games is “Sheila." However, it is unknown why this is her nickname.
+The name "Sheila" refers to these:
+An Aussie word meaning "woman".
+A name of Irish/Latin origin.
+Her future self can be heard at the very end of Camping.
+Muffin is shown to have temper tantrums, as most notably in Bike, Charades, and Faceytalk when things don’t go her way or when she wants something. This is also acknowledged in The Quiet Game.
+In Library, Muffin thought she was the most special kid in the whole world, as her father said.
+The cone that she wore in Muffin Cone was similar to a medical cone that animals wear to avoid touching their plugs, in the case of Muffin, to make her stop sucking her thumb.
+She is male in the Arabic and Dutch dub of Bluey.
+Her birthday is on the 12th of an unknown month, as confirmed in Pass the Parcel.
+Muffin has made the most appearances out of the secondary cast, appearing in at least approximately 20+ episodes.
+Her middle name was revealed to be “Cupcake” in Faceytalk.
+Muffin is the second character to have their middle name revealed, the first one being Bluey.
+Her tail is notably bigger than her sister's.
+Due to her young age, she would pronounce her R’s with W’s (ex: “Sowwy Dad” or “Is my car scwatched?”)
+Muffin is the first character to get sent to timeout.
+Muffin is the second character to have their middle name revealed. After Bluey Heeler
+Gallery
+Artwork
+Muffin-Socks
+Muffin hugging her little sister
+Stripe-Trixie-Muffin-Socks
+Muffin's family
+Muffin
+Screenshots
+Muffin-Bumpy1
+Muffin being a chef
+Muffin-Bluey-Bingo-Veranda
+The Heeler girls playing Verandah Santa
+Stumpfest2
+Bandit, Stripe, and Pat preparing for Stumpfest while the girls watch
+Muffin-Charades
+Muffin as a ballerina
+Library-Muffin Heeler Smile
+Muffin preparing for a photo
+Libraryimage
+Muffin playing Library with Bluey and Bingo
+The Heelers opening their presents
+Muffin and the other Heelers on Christmas
+The-Sleepover-screen
+Muffin after she skipped her nap
+Coconut
+"Coconuts have water in them."
+4AB1DD79-7E13-4BFF-B132-09292DE9A04D
+Muffin laughing as she sucks her thumb
+1BD8BA7E-FC1F-47E9-B53C-BEE6931869F4
+Muffin putting on lipstick
+15376293-6DA9-42C1-A288-6B0991951464
+"It’s not fair!"
+358EE350-96FD-467B-8532-762DCFC70E91
+Muffin struggling to stay awake in a cop car
+
+Nurse
+2
+VIEW SOURCE
+Nurse
+
+Characteristics
+Breed
+Greyhound
+Gender
+Female
+Traits
+Eyes
+Black
+Fur
+White, bluish grey, dark grey and pink.
+Media
+First Appearance
+Bumpy and the Wise Old Wolfhound
+Voice Actor
+Charlotte Nicdao
+Nurse is a secondary character that has appeared in multiple episodes of Bluey,
+
+Contents
+1 Appearance
+2 Biography
+3 Trivia
+4 Gallery
+5 References
+
+AD
+Appearance
+Nurse is a Greyhound[1] with white, bluish grey, dark grey and pink fur. She has white feet, hands, tail tip, muzzle and eyebrows, bluish grey legs, arms, tail stem, torso, head and ear tip, dark grey ears and pink inner ears. She also has a black nose and wears a bluish green nurses outfit with a red and green name tag.
+
+Biography
+Nurse works at the hospital. She has no known family members or friends as of yet.
+
+Trivia
+She is voiced by Australian Actress Charlotte Nicdao.
+Gallery
+Coming-soon
+References
+https://web.archive.org/web/20230206033145/https://twitter.com/goodsniff_/status/1601144278499328000

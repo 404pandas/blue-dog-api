@@ -5436,3 +5436,759 @@ On cable guides, the episode is titled "The Kids".
 Despite being in the title card, the chocolate milk was never placed in Bandit's kid cart.
 Bluey plays as the Mum, while Bandit and Bingo play as the kids.
 The music of the card that Bingo opens plays “Oh! Susanna,” a popular American song from 1848. It would later be used again in the season 2 episode Dance Mode.
+
+Markets
+4
+VIEW SOURCE
+EpisodeGalleryScript
+
+Markets
+
+Broadcast Information
+Airdate
+October 20, 2018
+September 16, 2019 (US)
+November 5, 2019 (UK)
+June 4, 2021 (CBeebies UK)
+July 27, 2021 (CBeebies Asia)
+Credits
+Episode Guide
+Previous
+The Claw
+Next
+Blue Mountains
+Markets is the twentieth episode of the first season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+5 Errors
+Synopsis
+When Bluey visits the markets with five dollars from the tooth fairy, the options for her are endless. But as she and Indy scour the market stalls for the perfect purchase, spending it proves hard.
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Indy
+Indy's Mum (debut)
+Daisy
+Surfer (debut)
+Rocko
+Mrs. Retriever
+Pat
+Buddy
+Winton (debut)
+Winton’s Dad (debut)
+Gruber (debut)
+Gruber's Dad (debut)
+Juniper
+Juniper’s Mum
+Customer 2 (debut)
+Busker (debut)
+Pony Lady (debut)
+Poffertje Dog (debut)
+Postie
+Honey (Mentioned)
+Trivia
+Bluey is replaced by Indy's Mum dancing in the credits of this episode.
+This is the second Season 1 episode to have regional differences, the first being BBQ, the third being Chickenrat, the fourth being Daddy Putdown and the fifth being Taxi. In the Disney distributed versions of the episode, they removed Buttercup taking a poop then Bluey and Indy running away.
+This was likely to avoid the use of disgusting content on Disney.
+This is the first appearance of Indy's Mum, Surfer, Winton, Winton's Dad, Gruber, Gruber's Dad, Customer 2, Busker, Pony Lady, and Poffertje Dog.
+The portrait of the Queen on the five-dollar note depicts her as a Welsh Corgi. In real life, the Queen's fondness for Corgis is well known, having owned more than 30 dogs of the breed or the Corgi/Dachsund hybrid "Dorgis" in her life.
+The portrait on the ten-dollar note depicts Australian bush poet Andrew "Banjo" Paterson in canine form, most likely as a dingo. Paterson's work often depicts and celebrates life in the Outback, the most famous being the folk song "Waltzing Matilda."
+Long Dog: This version of the long dog is purple with a lighter purple spot on it's back. It can be found camouflaged on the purple bean bag visible when Bluey first spots the ponies.
+Errors
+Bluey is missing a tooth throughout the episode. However, Bluey's character model only shows a missing tooth after she loses a second tooth in the final scene.
+
+Mini Bluey
+11
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Mini Bluey
+
+Broadcast Information
+Airdate
+November 27, 2021[1]
+November 10, 2022 (US)
+Credits
+Episode Guide
+Previous
+Born Yesterday
+Next
+Unicorse
+
+Mini Bluey is the Seventh episode of Season 3 of Bluey (TV series).
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+5 Censorship
+6 References
+Synopsis
+When Dad complains about how dissimilar Bluey and Bingo are, Bluey hatches a plan to make them more alike and happily introduces Mini-Bluey!
+
+Episode Recap
+Warning Spoilers!
+
+Appearances
+Characters
+Bluey
+Mini Bluey (only episode)
+Bingo
+Big Bingo (only episode)
+Bandit
+Chilli
+Trivia
+This is the first episode to have Bluey's name in the title.
+This is the third episode to have a name in the title, with the first being Calypso and the second being Bingo (Episode).
+When Bluey shows Bingo how she likes to dance, she does a move she uses in the theme song.
+This episode explores more of Bluey and Bingo's personalities.
+Bluey also asks questions but never listens to the answer in full and would whine (or whinge) about doing housework or chores.
+Bingo is the slight opposite to Bluey as she likes doing housework or chores, makes the job more fun and actually helps Dad and Mum.
+Bluey and Bingo (as Mini Bluey) saying “Borp” repeatedly is a possible reference to Finding Nemo where the seagulls chant “Mine” repeatedly
+This is also featured in the end credits as Bluey and Bingo (as Mini Bluey) saying “Borp” repeatedly which Bluey doesn’t do her dance in the end credits
+This episode could be a reference to the SpongeBob SquarePants episode "Big Pink Loser" Where in that episode, Patrick acts like SpongeBob.
+Censorship
+Disney+ and Disney Junior airings removes the shot of Bluey giggling at Bingo with the fake teeth in her mouth and saying "You look crazy!" and then Bingo telling her to follow her.
+However, it isn't removed on said scene video on Disney Junior's YouTube channel.
+References
+https://www.foxtel.com.au/tv-guide/channel/ABC-KidsABC-TV-Plus/A2N/2021/11/27
+
+Movies
+16
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Movies
+
+Broadcast Information
+Airdate
+October 27, 2020
+February 5, 2021 (US)
+October 10, 2022 (CBeebies Uk)
+Credits
+Episode Guide
+Previous
+Seesaw
+Next
+Library
+
+Movies is the Twenty-Ninth episode of Season two, of Bluey (TV series).
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Clip
+5 Trivia
+Synopsis
+It is Bluey's first trip to the cinema, but she's worried that the movie will be too scary. When Bingo starts running amok in the theatre, she must conquer her fear and help Dad out.
+
+Episode Recap
+Warning Spoilers!
+
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Winton's Dad (cameo)
+Mackenzie (mentioned)
+Chunky Chimp (debut)
+Chunky's brother (debut)
+Chew B'Deube (debut)
+Cinema counter dog
+Clip
+Movies\_-_Bluey  
+Trivia
+This episode takes place before April 2020, due to the fact that the bee-related movie trailer stated that it was coming "April 2020".
+The said movie is also a reference to the 2007 DreamWorks Animation film, Bee Movie.
+The movie Chunky Chimp is based off of classic Disney movies, with songs and everything.
+Disney Junior, which is owned by Disney, airs the show.
+Also, Cinderella, which is a classic Disney movie, was read as a bedtime story.
+A parody of the THX (formerly Lucasfilm THX) 1983-2012 logo is seen in the opening of the movie. Bluey also is startled by the logo, referencing the fact that many people used to be scared of the THX logo when they were kids to the point where the logo even has a page on the Scary Logos Wiki and the Audiovisual Identity Database site (formerly the CLG Wiki).
+Instead of reading THX, it’s BRM (which stands for Brumm).
+Bluey is revealed to have had astraphobia, fear of thunderstorms, but since the end of the episode, she has outgrown it.
+The episode also reveals that due to her astraphobia, Bluey was the last one in her friend group to go to the movies due to fearing that the movies would depict thunder.
+Bandit is revealed to dislike musical movies, as when the first song played, he said, "Ugh! Songs!".
+Long Dog: This long dog is black with white horizontal chevrons on it's sides pointing backwards. It appears next to the wall when Bluey runs into the cinema screen during the Thunderstorm scene of the movie.
+There is a movie based off of Winton's Dad in the background.
+Bluey episode list
+
+Mum School
+4
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Mum School
+
+Broadcast Information
+Airdate
+March 30, 2020
+September 4, 2020 (US)
+August 18, 2022 (CBeebies UK)
+Credits
+Episode Guide
+Previous
+Dad Baby
+Next
+Trains
+Mum School is the fourteenth episode of the second season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+Synopsis
+Bluey plays mum to a brood of bouncy balloons, including an irrepressible floater named Greeny. But she soon discovers that mothering is much harder than she imagined.
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Trivia
+Bluey's "children" are named Kiwi, Windgust, Lightning Bolt, Dronigan, Pearl and Greeny.
+Long Dog: This version of the long dog is yellow with a brown nose and antennae. It may or may not have a spot on it's back but this part of it is obscured. It can be seen under a stool on the balcony after Greeny floats off.
+This is also the first time the long dog has been seen in toy form outside of the playroom. It is also the first time it has been seen in the Heeler home in a form other than it's original design.
+
+Mums and Dads
+2
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Mums and Dads
+
+Broadcast Information
+Airdate
+April 15, 2019
+December 23, 2019 (US)
+February 14, 2020 (UK)
+July 22, 2021 (CBeebies UK)
+August 25, 2021 (CBeebies Asia)
+Credits
+Episode Guide
+Previous
+Early Baby
+Next
+Hide and Seek
+Mums and Dads is the forty-first episode of the first season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+5 Goofs and Errors
+Synopsis
+When Indy and Rusty play Mums and Dads, they can't agree on who should go to work, so they part company. Indy has a hard time finding a babysitter, while Bluey makes Rusty her baby.
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey
+Rusty
+Calypso
+Indy
+Mackenzie
+Snickers
+Winton
+The Terriers
+Coco
+Pretzel
+Chloe
+Honey
+Gruber
+Juniper
+Missy (cameo)
+Zara (cameo)
+Trivia
+This episode might be a continuation to Early Baby because of the beginning of this episode, and at the ending of Early Baby.
+Arranged pieces of J.S. Bach's "Cantata BMV N°208 - Sheep May Safely Graze" can be heard trough out the episode.
+This is the first episode where on the title card, a child, other than Bluey or Bingo, says "This episode of Bluey is called [episode title]". In this episode's case, Rusty says the episode's title.
+This marks the first episode where it focuses on Bluey’s friends, in this case Indy and Rusty.
+It's probable that Indy's family dynamic is different than the usual family dynamic. This is somewhat reinforced by the hippy-like lifestyle that Indy's Mum radiates in Markets
+The Wilhelm Scream is heard two times during the pretend battle.
+Long Dog: This version of the toy is tan with a dark brown spot. It can be seen buried in the sandpit during the scene where Indy and Rusty are hiding in one of Mackenzie's holes.
+Goofs and Errors
+Polly's pajamas and bonnet have changed colour from purple to green, assuming that this is a sequel to "Early Baby".
+Three of Bingo's kindy classmates, Zara, Missy, and Juniper, make cameos at the Glasshouse Primary School, despite the fact that they attend a different school.
+
+ason 3, A to Z
+Musical Statues
+5
+VIEW SOURCE
+Stop.png
+Spoiler Alert!
+
+This article/section may reveal details on recent or upcoming episodes.
+
+If you would like to avoid spoilers, exit the page, or proceed with caution.
+
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+Australia.png
+Australia-Exclusive Content
+
+This article is about content exclusive to Australian audiences.
+If this content gets released elsewhere, this template will be removed.
+
+EpisodeGalleryScript
+
+Musical Statues
+
+Broadcast Information
+Airdate
+June 13, 2022 [1]
+Credits
+Episode Guide
+Previous
+Fairytale
+Next
+Stories
+
+Musical Statues is the 27th episode of Season 3 of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+5 References
+Synopsis
+At the end of a long day, Bluey and her family are out of sync and out of sorts, so Mum gets everyone to play musical statues.
+
+Episode Recap
+Warning Spoilers!
+
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+-Coming soon-
+
+Trivia
+This is the third episode where Chilli reads the title card.
+Chilli's monologue at the end of the episode is inspired by English writer Alan Watts, who is listed in the credits under "With Thanks To The Words Of"
+Chilli comment on Bluey’s reluctance saying “Wonder where she got it from” hints that Bluey, not only looks similarly to Bandit, but also behaves somewhat similar to him.
+This marks the first instance that Bluey and Bandit’s behaviour is noted.
+References
+https://www.foxtel.com.au/tv-guide/channel/ABC-KidsABC-TV-Plus/A2N/2022/06/13
+
+Neighbours
+4
+VIEW SOURCE
+EpisodeGalleryScript
+
+Neighbours
+
+Broadcast Information
+Airdate
+April 21, 2019
+November 1, 2019 (UK)
+November 18, 2019 (US)
+July 30, 2021 (CBeebies UK)
+September 2, 2021 (CBeebies Asia)
+Credits
+Episode Guide
+Previous
+Chickenrat
+Next
+Teasing
+Neighbours is the forty-seventh episode of the first season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+Synopsis
+Bluey needs her Mum's advice on dealing with a troublesome neighbor, when the serenity of her couch cushion playhouse is threatened by Bingo's own growing stable of animals.
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Trivia
+The book that Chilli talks about could be a reference to The Very Hungry Caterpillar.
+The episode's title surprisingly wasn't changed to "Neighbors" for American audiences
+Bluey gives their street the name 'Mulberry'. This is a reference to the first book by Dr. Seuss called And to Think That I Saw It on Mulberry Street. The book tells the story of the wild antics on an imaginary Mulberry Street a boy comes across.
+When Chilli is setting up her house, she is humming the intro theme.
+She also hums the transition jingle while watering her plants.
+The toy on the bookshelf in Bluey's "house" resembles the Pokémon Oshawott
+Long Dog: This long dog is metallic or has a metallic appearance. It can just barely be seen on the logo of the book that is revealed, when Bluey removes one from the shelf.
+
+Obstacle Course
+8
+VIEW SOURCE
+Stop.png
+Spoiler Alert!
+
+This article/section may reveal details on recent or upcoming episodes.
+
+If you would like to avoid spoilers, exit the page, or proceed with caution.
+
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Obstacle Course
+
+Broadcast Information
+Airdate
+November 23, 2021[1]
+November 8, 2022 (US)
+Credits
+Episode Guide
+Previous
+Bedroom
+Next
+Promises
+
+Obstacle Course is the 3rd episode of Bluey from Season 3.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+4 Trivia
+5 References
+Synopsis
+Mum sets up a backyard obstacle course just for fun, but Dad wants to race! Now the kids are determined to win by any means necessary.
+
+Episode Recap
+Warning Spoilers!
+
+Appearances
+Bluey
+Bingo
+Bandit
+Chilli
+Grandad (pictured)
+Chilli's Mum (pictured)
+Brandy (pictured)
+
+Trivia
+This is the first episode to feature Chilli's mother and her sister (Brandy), albeit only in a picture.
+The cards used for playing snap are all London themed cards including: A King's Guard soldier (though upon initial release, these would have been Queen's Guards), Big Ben/Queen Elizabeth clock tower, a teapot, a red phonebox, a black taxi/Hackney carriage and the Union Flag (which also features on the box of the cards.
+Hanging on the same wall as Chilli’s family pictures is what appears to be a Victoria Cross, the highest service honor in the Australian military.
+The dialogue shared between Bluey and Chilli when preparing for the second race with Bandit is a reference to the 1981 Australian war film Gallipoli.
+This episode is currently listed as the 2nd episode of Season 3 on Disney+ and the Bluey Website, as while Perfect aired before the rest of the season, it is shown in 14th place instead.
+This episode is a clear reference to the hit TV show, WIPEOUT.
+Running gag: Bingo never turns the timer on correctly, making it count as 0 seconds.
+References
+https://www.foxtel.com.au/tv-guide/channel/ABC-KidsABC-TV-Plus/A2N/2021/11/23
+
+Omelette
+10
+VIEW SOURCE
+Stop.png
+Spoiler Alert!
+
+This article/section may reveal details on recent or upcoming episodes.
+
+If you would like to avoid spoilers, exit the page, or proceed with caution.
+
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Omelette
+
+Broadcast Information
+Airdate
+November 25, 2021[1]
+November 18, 2022 (USA)
+Credits
+Episode Guide
+Previous
+Promises
+Next
+Born Yesterday
+
+Omelette is the Fifth episode of Season 3 of Bluey (TV series).
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+5 References
+Synopsis
+Mum and Bingo make a Omelette for Dad, but things start to get out of hand.
+
+Episode Recap
+Warning Spoilers!
+
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Pat (cameo)
+Wendy (cameo)
+Judo (cameo)
+Trivia
+This is the first episode where an adult's birthday is celebrated.
+Bluey's drawing from Perfect appears on the fridge.
+It’s revealed that Bandit gets cranky if he hasn’t eaten for a long time.
+A total of 18 eggs were used in this episode.
+References
+https://www.foxtel.com.au/tv-guide/channel/ABC-KidsABC-TV-Plus/A2N/2021/11/25
+
+Onesies
+14
+VIEW SOURCE
+Stop.png
+Spoiler Alert!
+
+This article/section may reveal details on recent or upcoming episodes.
+
+If you would like to avoid spoilers, exit the page, or proceed with caution.
+
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+Australia.png
+Australia-Exclusive Content
+
+This article is about content exclusive to Australian audiences.
+If this content gets released elsewhere, this template will be removed.
+
+EpisodeGalleryScript
+
+Onesies
+
+Broadcast Information
+Airdate
+June 17, 2022 [1]
+Credits
+Episode Guide
+Previous
+Turtleboy
+Next
+Tradies
+
+Onesies is the 31st episode the third season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+5 References
+Synopsis
+When Mum's sister Brandy comes over for a visit, she brings the kids onesies as a present, which has an unexpected effect on Bingo.
+
+Episode Recap
+Warning Spoilers!
+
+Chilli's estranged older sister, Brandy, comes to visit them after four years. Brandy brings her nieces onesies as a gift. Bluey receives a zebra onesie, and Bingo a cheetah. Bluey is disappointed that she can't have Bingo's onesie, as it is too small for her. Once Bingo puts on her cheetah onesie, she becomes "one with the onesie", and starts acting like a feral cheetah.
+
+She proceeds to "eat" Bandit. The following scene is Bluey, Brandy and Chilli running away from Bingo and hiding in the car. Later, while they're hiding behind the tool shed, Brandy starts feeling uncomfortable, and proceeds to announce that she's leaving. Right as she starts walking away, Bingo leaps onto her and attacks her. She tells Bluey and Chilli to leave her there.
+
+They both run into the bathroom. Bluey then asks why Brandy was feeling sad. Chilli explains that just how she wanted that cheetah onesie "more than anything in the world," but can't have it, Brandy also wants something "more than anything in the world," but she can't have it either. Cut to the scene where Brandy is playing with Bingo (still acting like a feral cheetah), Bingo gets down and runs away, followed by a scene where Brandy reaches her arms out, but Bingo escapes from her grasp. She then turns over with a sad expression, which is followed by a more natural expression. This implies that what Brandy truly wants but can't have is a child (suggesting that she may be infertile).
+
+A few moments later, Bingo is chasing Bluey in the background, while Chilli and Brandy are laying in the grass. Brandy then mentions that she feels sad seeing Chilli and her family. The following scene is Bingo chasing Bluey, and while Bingo was pulling bluey in, Chilli exclaimed, "Look over here!" and Chilli and Brandy begun the dance that they did for their mother's birthday. They laugh and have a good time, and the credits roll.
+
+Recap by Risith Jayasekara (Reddit: u/JoeyintheBunch)
+
+Appearances
+Characters
+Bluey
+Bingo
+Chilli
+Bandit
+Brandy Cattle (physical debut)
+Bluey's Unnamed Maternal Grandmother (Mentioned)
+
+Trivia
+Brandy makes her first physical appearance.
+Brandy is voiced by Rose Byrne, who is best known for portraying Bea and voicing Jemima Puddle-Duck in the Peter Rabbit live-action film series.
+Chilli states that it has been four years since Brandy has visited. This would approximately make Bluey and Bingo roughly around the ages of three and one years old respectively during the time she’d last visited them.
+Due to them likely being too young to recall her last visit, Bluey and Bingo do not remember meeting Brandy.
+It is implied that Brandy is incapable of having children of her own (is infertile).
+It is revealed that Bingo has a habit of behaving like whatever her onesie is.
+This episode reveals that zebras were previously Bluey's favorite animal from the time Brandy had last visited her four years ago, but it had since then changed to cheetahs.
+The scene where Brandy reaches her arms out to Bingo as she runs farther away from her (implying her wanting, but unable to have children of her own) may be a callback to Baby Race, where Bluey reaches out her arms as she takes her first steps towards Chilli, with the explanation provided by Bingo in voiceover being that she “saw something that she wanted”.
+References
+https://www.foxtel.com.au/tv-guide/channel/ABC-KidsABC-TV-Plus/A2N/2022/06/17
+
+Pass the Parcel
+19
+VIEW SOURCE
+Stop.png
+Spoiler Alert!
+
+This article/section may reveal details on recent or upcoming episodes.
+
+If you would like to avoid spoilers, exit the page, or proceed with caution.
+
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Pass the Parcel
+
+Broadcast Information
+Airdate
+December 4, 2021
+November 22, 2022 (US)
+Credits
+Episode Guide
+Previous
+Housework
+Next
+Explorers
+
+Pass the Parcel is the fourteenth episode of the third season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+5 Censorship
+6 Errors
+7 References
+Synopsis
+Lucky's Dad is outraged that modern Pass the Parcel has a present in every layer and changes the rules back to only having one prize in the middle, but Bingo is forever losing.
+
+Episode Recap
+Warning Spoilers!
+
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Pat
+Janelle (debut)
+Lucky
+Chucky (debut)
+Lila
+Lila's Brother (debut)
+Sheila
+Missy
+Missy's Mum
+Buddy
+Buddy's Mum
+Pom Pom
+Pom Pom's Mum
+Jasper G.
+Jasper's Mum
+Gruber (cameo)
+Juniper (cameo)
+Juniper’s Mum (cameo)
+Pony Lady (cameo)
+Buttermilk (cameo)
+Uncle Stripe
+Aunt Trixie
+Muffin
+Socks
+Chloe
+Honey
+Mackenzie
+Chunky Chimp (cameo on sticker)
+Trivia
+When Bingo is seen running to Chilli after not getting anything at Chucky's birthday party, a tear can be seen in Lila's eye.
+Lila's Mum's name is revealed to be Sheila.
+Lila and Lucky are revealed to both have a little brother.
+Janelle (Lucky's mum) makes her physical debut.
+Bluey is revealed to have a middle name that starts with "C".
+Her middle name is Christine, as seen in Family Meeting.
+She is also seven years old as of this episode.
+This is the first episode to use CGI animation (the bubbles).
+In the credits, Bluey dancing is replaced with Bingo's birdy kite.
+This is the joint longest episode of the show, alongside Tradies, running for eight minutes instead of the usual seven.
+This is Pom Pom and her mother's second appearance since their first appearance was Seesaw.
+This is Lila and her mother's second appearance since their first appearance was Daddy Dropoff.
+When the party invitations are shown on screen, references to numerous episodes are made:
+On Buddy's fridge, a magnet for 'The Big Peanut' from the episode Road Trip is visible. There is also a Chunky Chimp magnet.
+On Bluey's invite, photos from the episodes The Creek and The Beach are used. On the fridge is the drawing that Bluey drew for Bandit for fathers day in the episode Perfect.
+The magnets on the fridge can be made to spell blue.
+At Muffin's party, the ponies, and Pony Lady, from Markets are shown.
+This is the first time we see Muffin’s friends.
+Driving home from Buddy’s party, Bandit is eating a triangle of fairy bread, a classic Australian party treat.
+Censorship
+In the Disney version of this episode, at Muffin’s birthday party, the pile of horse poo behind Buttermilk the pony has been removed.
+Errors
+When Lila takes one of Chucky's presents while Pat is giving it to her, a chunk of her arm is missing. Her arm goes back to normal when her pupils move to look at Chucky while he screams for Pat to stop giving away his presents.
+In this episode, the subtitles on some providers read as "Birdie Car!" instead of what Bingo is actually says which is "Birdie Kite!" before the end credits rolls
+Jasper G's party is on the 14th December, though Buddy's party, which is after Jaspers, is listed as being on the 12th November.
