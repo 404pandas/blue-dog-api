@@ -1,0 +1,66 @@
+/* ============================================================ *\
+*      Mary Elenius Blue Dog App Colors Stylesheet       *
+*                         03/24/2023                             *
+\* -----------------------------------------------------------  */
+
+/*                     Table of Contents:                       *\
+
+* COLOR VARIABLES
+
+* BACKGROUND COLORS
+
+* TEXT COLORS
+
+
+/* ----------------      Color Variables       ---------------- */
+:root {
+  --light-blue: #72bfed;
+  --dark-blue: #30598a;
+  --off-white: #e4dcbd;
+  --light-orange: #f1b873;
+  --dark-orange: #e27a37;
+}
+
+/* ---------------      Background Colors       --------------- */
+
+.light-green-bg {
+  background-color: var(--light-green) !important;
+}
+
+.dark-green-bg {
+  background-color: var(--dark-green) !important;
+}
+
+.off-white-bg {
+  background-color: var(--off-white) !important;
+}
+
+.light-orange-bg {
+  background-color: var(--light-orange) !important;
+}
+
+.dark-orange-bg {
+  background-color: var(--dark-orange) !important;
+}
+
+/* -----------------      Text Colors       ------------------ */
+
+.light-green-fg {
+  color: var(--light-green) !important;
+}
+
+.dark-green-fg {
+  color: var(--dark-green) !important;
+}
+
+.off-white-fg {
+  color: var(--off-white) !important;
+}
+
+.light-orange-fg {
+  color: var(--light-orange) !important;
+}
+
+.dark-orange-fg {
+  color: var(--dark-orange) !important;
+}
