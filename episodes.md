@@ -9334,3 +9334,389 @@ When Bingo is sorting out Lucky's problem, The last word Bingo said is muffled. 
 Long Dog: This version of the long dog looks like the original but is wearing sunnies (sunglasses.) It is visible on the left of the screen when Bluey's secretary desk is facing the camera straight on.
 Floppy makes its first appearance, when it was thrown.
 Bluey episode list
+
+Zoo
+VIEW SOURCE
+EpisodeGalleryScript
+
+Zoo
+
+Broadcast Information
+Airdate
+April 9, 2019
+October 28, 2019 (US)
+October 30, 2019 (UK)
+August 17, 2021 (Cbeebies Asia)
+14th March 2023 (CBeebies (UK))
+Credits
+Episode Guide
+Previous
+The Dump
+Next
+Backpackers
+Zoo is the thirty-fifth episode of the first season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+5 Errors
+Synopsis
+Bluey's backyard zoo is home to wonderful animals, especially the big blue Daddy gorilla. But when he grabs visitor Bingo and escapes, Zookeeper Bluey must recapture the wild beast.
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Trivia
+The trampoline from the episode of the same name can be seen in the background when Bluey shows Bingo (Snowdrop) and Chilli (Lady Gaberdeen), the blue baboon (Bandit).
+Bingo trying to get Bandit to talk is similar to how apes took care of Tarzan in the movie of the same name.
+Long Dog: The original toy is visible under the table in the playroom when the blue baboon (Bandit) first spots the banana trap.
+Errors
+The 'b' at the foot of Bingos bed turns into a 'B' when she goes to the see the Blue Baboon at the end of the episode.
+
+Yoga Ball
+3
+VIEW SOURCE
+EpisodeGalleryScript
+
+Yoga Ball
+
+Broadcast Information
+Airdate
+October 16, 2018 (AUS)
+September 13, 2019 (US)
+October 31, 2019 (UK)
+May 6, 2021 (CBeebies UK)
+May 31, 2021 (Disney Junior India)
+July 21, 2021 (CBeebies Asia)
+Credits
+Episode Guide
+Previous
+Butterflies
+Next
+Calypso
+Yoga Ball is the sixteenth episode of the first season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+Synopsis
+For Bingo, she loves horsing around with her Dad, but sometimes he forgets that Bingo is smaller than her sister. Mum teaches Bingo how to use her big girl bark to keep their fun within her limits.
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Trivia
+The "Raiders" game where Bluey and Bingo run away from the yoga ball takes its name from and is a reference to the first Indiana Jones film Raiders of the Lost Ark.
+Bingo failing to run away from the yoga ball is a reference to the levels where Crash Bandicoot has to try not to be crushed by a rock in the game, if the player doesn't make it.
+Multiple picture frames of Chilli and Bandit can be seen throughout the episode.
+This is the first Bluey (TV series) episode to be produced.
+
+Work
+8
+VIEW SOURCE
+EpisodeGalleryScript
+
+Work
+
+Broadcast Information
+Airdate
+April 5, 2019
+October 21, 2019 (US)
+November 1, 2019 (UK)
+June 14, 2021 (CBeebies UK)
+August 11, 2021 (CBeebies Asia)
+Credits
+Episode Guide
+Previous
+Fairies
+Next
+Bumpy and the Wise Old Wolfhound
+
+Work is the 31st episode of the first season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+Synopsis
+In a game of 'Work', Dad hires Bluey and Bingo at his drainpipe factory. But when Bluey gets to take charge, Dad finds his new boss pretty tough, especially her no dancing rule.
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey
+Bingo (does not talk)
+Bandit
+Chilli
+Wendy
+Trivia
+In the episode, one of the quotes that Bluey says is "So relaxing.". This is the same quotation that Bingo says in the episode, BBQ.
+The music during Bandit's dance scene may have been influenced by the music of Electric Light Orchestra, particularly their song Mr. Blue Sky.
+Chilli hums the show's theme song before Bingo asks her for help.
+Bandit has a photo of him singing while wearing a headband while he is trying to sell drain pipes on the sidewalk after being fired, by Bluey. The photo is a reference to David Liam McCormack being the the vocalist for the long time Brisbane based band, Custard.
+Chilli’s hat is likely a faux fur papakha, though they are simply called fur hats in Australia.
+Long Dog: While not exactly a long dog, there is a long shadowed object occupying a spot on top of the bookshelf. This spot is typically occupied by a long dog, so it is likely that it is one. Given the nature of this easter egg, it's unknown what it actually looks like. Although it would probably be the original, as the long dog tends to be that particular one in the playroom.
+
+Whale Watching
+1
+VIEW SOURCE
+Stop.png
+Spoiler Alert!
+
+This article/section may reveal details on recent or upcoming episodes.
+
+If you would like to avoid spoilers, exit the page, or proceed with caution.
+
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Whale Watching
+
+Broadcast Information
+Airdate
+December 12, 2021
+December 5, 2022 (US)
+Credits
+Episode Guide
+Previous
+Tina
+Next
+Family Meeting
+
+Whale Watching is the 22nd episode of the third season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+5 References
+Synopsis
+Bluey promises her customer, Bingo, the best tour ever in a game of Whale Watching, but they need Mum and Dad to join in, and they are too tired to play after a late night.
+
+Episode Recap
+Warning Spoilers!
+
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Muffin (Mentioned)
+Uncle Stripe (Mentioned)
+Trivia
+The whale doco is narrated by American actress Natalie Portman, who is best known for portraying Padmé Amidala in the Star Wars prequel trilogy and Jane Foster in the Marvel Cinematic Universe.
+This episode is the second to feature a voice with an American accent after Movies.
+The tune that plays throughout the episode is called "The Sailor's Hornpipe." Hornpipes are a type of dance from the British Isles whose movements imitate the actions of a sailor as they perform their duties around the ship.
+
+Whale Watching/Script
+< Whale Watching
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Script.jpg
+Coming-soon.png
+
+Unicorse
+11
+VIEW SOURCE
+Stop.png
+Spoiler Alert!
+
+This article/section may reveal details on recent or upcoming episodes.
+
+If you would like to avoid spoilers, exit the page, or proceed with caution.
+
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Unicorse
+
+Broadcast Information
+Airdate
+November 28, 2021[1]
+November 16, 2022 (US)
+Credits
+Episode Guide
+Previous
+Mini Bluey
+Next
+Curry Quest
+
+Unicorse is the Eighth episode of Season 3 of Bluey (TV series).
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+5 References
+Synopsis
+Bluey can't get to sleep, so Mum reads her one last story. But they are interrupted by Unicorse, the most annoying hand puppet in the world, whom Bluey tries to reform.
+
+Episode Recap
+Warning Spoilers!
+
+Appearances
+Characters
+Bluey
+Bingo (mentioned)
+Bandit
+Chilli
+Unicorse (debut)
+Unicorse's lawyer (debut)
+Trivia
+This is the first episode where Chilli reads the title card.
+This is also the first episode when the title card dialogue tells something else than "this episode of Bluey is called (episode name)". Instead, she says "this episode of Bluey UNFORTUNATELY is called Unicorse"
+The music Unicorse dances to is a disco remix of the final section of the overture to Italian composer Gioachino Rossini's opera William Tell. Because its quick pace and cadence have been compared to the sound of galloping horses, it is sometimes known as "The Lone Ranger theme."
+This is the second episode in the series to only take place in one location.
+The first episode to only take place in one location was Dunny
+When Bluey touches Unicorse and he exclaims “Ow! My back! My neck! My back and my neck!” Ludo has confirmed it is intended as a reference to My Neck, My Back by The Vandals[2].
+As opposed to previous fan theories that it was referencing the movie Friday or the the song My Neck, My Back (Lick It) by Khia.
+The picture book Chilli reads appears to be a pastiche of The Purrfect Carpet, by David Passes and Norman Johnson.
+This episode like, Shaun, references the muppets.
+During the credits, Bluey is replaced with Unicorse dancing.
+References
+https://www.foxtel.com.au/tv-guide/channel/ABC-KidsABC-TV-Plus/A2N/2021/11/28
+https://web.archive.org/web/20230116100155/old.reddit.com/r/bluey/comments/10daewc/ive_got_the_answer_to_my_neck_and_my_back/
+
+Verandah Santa
+16
+VIEW SOURCE
+EpisodeGalleryScript
+
+Verandah Santa
+
+Broadcast Information
+Airdate
+December 12, 2019 (AUS)
+November 30, 2019 (US)
+December 9, 2019 (UK)
+December 4, 2021 (CBeebies UK)
+December 24, 2021 (CBeebies Asia)
+Credits
+Episode Guide
+Previous
+Daddy Putdown
+Next
+Dance Mode
+
+Verandah Santa is the 52nd and final episode of the first season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+Synopsis
+It's Christmas Eve and Dad and the kids are taking turns pretending to be Santa! But when Socks nips Bluey, and she refuses to leave her a present, they must all learn the true meaning of being good for Christmas.
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Uncle Stripe
+Aunt Trixie
+Muffin
+Socks
+Trivia
+Socks is revealed to be only one year old.
+Much of the music in this episode is based on well-known Christmas carols (such as "Deck the Halls" and "Silent Night") and Tchaikovsky's ballet The Nutcracker, which is often performed around Christmastime.
+This is the last episode of season 1.
+Also, this is the last episode to air in 2019, meaning the final episode to air in the 2010s decade.
+This is the first time Bandit does the please face.
+This is one of four episodes not airing in active rotation on the Disney Junior Channel. The others are Dad Baby, Easter, and Christmas Swim.
+The reason it doesn't air in the current rotation is because it is a Christmas episode, and is meant to be aired only around the Christmas season.
+Stripe, Muffin, Chilli, Trixie & Socks are the only ones who were not Verandah Santa but when it was Bingo's turn to be Verandah Santa Socks was her little helper.
+In the subtitles Muffin is referred to as Mittens
+When Bluey screams "HEY!" when Bingo snatches the pencil case from her, the audio was taken from "Asparagus".
+
+Wagon Ride
+1
+VIEW SOURCE
+EpisodeGalleryScript
+
+Wagon Ride
+
+Broadcast Information
+Airdate
+October 24, 2018
+September 30, 2019 (US)
+November 2, 2019 (UK)
+June 10, 2021 (CBeebies UK)
+August 2, 2021 (CBeebies Asia)
+Credits
+Episode Guide
+Previous
+Shops
+Next
+Taxi
+Wagon Ride is the twenty-fourth episode of the first season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+Synopsis
+Bluey can't wait to get to the monkey bars as Dad takes her and Bingo on a wagon ride to the park. But her patience will be tested when Dad keeps stopping to chat with other grown-ups.
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli (1 speaking cameo)
+Rocko
+Chloe’s Mum
+Mackenzie’s Dad
+Trivia
+Bluey references the events of Fruitbat when she discusses how she's going to hang upside down from the monkey bars like one.
+Rocko's workout playlist appears to the same dog-based Dark Side of the Moon parody that Chilli uses in The Weekend.
+When the scene of Bandit washing his face if you look on the fridge it will say "Tru Blu" which with e's on the end of it it is the name of a Australian song which Pat was singing in Dad Baby

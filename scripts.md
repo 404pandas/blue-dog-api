@@ -27397,3 +27397,938 @@ Bluey: (offscreen) Oh, just be patient!
 The credits music is the episode theme. The children scream and laugh over the music.
 
 Bluey episode scripts
+
+<!-- Zoo/Script
+< Zoo
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+
+EpisodeGalleryScript
+
+Script.jpg
+Coming-soon.png -->
+
+Yoga Ball/Script
+< Yoga Ball
+1
+VIEW SOURCE
+EpisodeGalleryScript
+
+Script.jpg
+The episode cuts to the Heeler Family household, where Bandit is scrubbing the countertops. Bluey and Bingo enter, giggling.
+
+Bingo: "Can you play games with us?"
+
+Bandit: "No time for games, squirt! I'm working from home today. One sec, I've just gotta pop downstairs."
+
+Bandit presses a pretend button and descends, much to the joy of Bluey and Bingo. Shortly thereafter, Bandit emerges back up.
+
+Bandit: "Okay, I'm back. Is this yours?"
+
+Bandit holds up a sandal picked up from the floor. Bingo takes it and laughs.
+
+Bluey: "Yeah! Play the elevator game!"
+
+Bandit: "I told you, kid. No time for elevator game. It's a work day today!"
+
+Bandit descends once again, getting a joyful reaction from the Heeler sisters. Bandit returns, now with another sandal.
+
+Bandit: "I found another one!"
+
+Bluey & Bingo: "Again!"
+
+Bandit: "Sorry kids, I've got loads of work on! I just can't play the elevator game..."
+
+Bandit descends back down as he's talking.
+
+Bluey & Bingo: "You are playing it!"
+
+TITLE CARD: Yoga Ball
+
+Bingo: "This episode of Bluey is called Yoga Ball."
+
+The shot cuts to Bandit's computer room, where he sits on a yoga ball whilst typing away on his computer. He prints something off, not noticing Bluey and Bingo.
+
+Bluey: "Now, Bingo!"
+
+Both the sisters run in and roll the yoga ball away while laughing. Once Bandit retrieves the printed paper he goes to sit back down, only to fall down.
+
+Bandit: "Hey!"
+
+The shot cuts to the living room, with Bingo's squealing and Bandit chasing after them.
+
+Bandit: "Don't even think about it! Hey! Hey!"
+
+Bluey: "Push!"
+
+The ball rolls down the stairs and out of the living room.
+
+Bandit: "You little rats!"
+
+Bandit tickles Bluey and Bingo, and the shot then cuts to Bluey running to grab the yoga ball.
+
+Bluey: "Why do you sit on a giant green ball?"
+
+Bandit: "Cause I wrecked my back changing your nappies!"
+
+Bandit picks up Bluey and bounces her while she is clinging to the ball.
+
+Bingo: "I want a turn doing that!"
+
+Bluey gets off the yoga ball as Bandit picks up Bingo, as he goes to bounce her, almost a little too roughly.
+
+Bandit: "Okay, now beat it, I've gotta get to work."
+
+Bluey seems disappointed by this. Bingo is dizzy.
+
+Bingo: "Oooohh..."
+
+Bluey: "No, not yet!"
+
+Bluey & Bingo run off again, rolling the ball with them.
+
+Bandit: "Bluey!"
+
+The shot transitions to the sisters' bedroom, where the yoga ball is tucked in bed wearing a purple hat and Bluey is reading a book to it. Bingo is looking at a pack of stickers.
+
+Bluey: "So, then Mixed Up Murphy said "would smoothie banana you like?" Oh Bally, you need to sleep! You must be so tired. That big daddy's been sitting on you all day."
+
+Bingo: "Uh, Bally? Which tattoo should I get? Do you like the unicorn, or...or the rainbows?"
+
+Bluey [as Bally]: "Well, Bingo..."
+
+Bingo: "My name is Larn."
+
+Bluey [as Bally]: "Well, Larn, I really think you should get--"
+
+Suddenly, Bandit.
+
+Bandit: "There he is!"
+
+Bluey and Bingo squeal, playtime now over. The shot goes back to Bandit's room. Bluey laughs and runs in, sitting in Bandit's office chair and spinning in circles.
+
+Bandit: "Out..."
+
+Bluey: "Can we play delivery chair?"
+
+Bandit: "No."
+
+Bluey: "Aw, pleaaase?!"
+
+Bluey does a pitiful please face, with stars in her eyes as she looks up at Bandit.
+
+Bandit: "Oh, don't use your please face! Alright..."
+
+Bluey: "Yeah, Bingo! Delivery chair!"
+
+Bingo squeals and goes to sit beside Bluey on the office chair.
+
+Bandit: "That please face gets me every time."
+
+The shot cuts to the hallway, where Bandit, Bluey and Bingo walk through. Bandit is pushing the chair while focused on a clipboard.
+
+Bandit: "Now I need to get these two packages delivered. But first I need to stamp them! Stamp! Stamp!"
+
+Bandit lightly pokes Bluey and Bingo, but for Bingo it was almost a little too rough.
+
+Bingo: "Oooh..."
+
+Bingo frowns and puts her paws to her stomach. The shot then cuts to Bandit and Chilli's bedroom. Bandit stops moving the chair once at the arrived destination; the bed.
+
+Bandit: "Okay, now I need to deliver these to, hm, let's see...Ah, Mogadishu! I better be careful, then!"
+
+Bandit throws Bluey onto the bed, much to her joy. Bingo happily scoots to the front of the chair, ready to be picked up.
+
+Bandit: "Here's the second package!"
+
+Bandit throws Bingo...a little too rough. She lands nose-first on the bed.
+
+Bandit: "Okay, delivery over. Now I've gotta get back to work!"
+
+Bluey chases after Bandit, while leaving Bingo on the bed.
+
+Bluey: "Aw, come on! One more!"
+
+Bandit: "No!"
+
+Bingo: "Awww..."
+
+The shot cuts back to the living room, where Bandit is heading up the stairs, with Bluey and Bingo chasing after him.
+
+Bluey: "Can we just quickly play that game where we run down the hall, and you say na-na-na-na! And you roll the ball down the hall, and we jump out of the way!"
+
+Bandit: "Oh, you mean Raiders!"
+
+Bingo: "Yeah, Raiders!"
+
+Bluey: "Yeah, Raiders."
+
+Bandit: "Alright. Maybe a QUICK game!"
+
+Bluey: "Hooray!"
+
+Bingo: "Not too quick though. I want you to play for...this long!"
+
+Bandit: "Okay, fair enough.
+
+Bluey & Bingo: "Hooray!"
+
+The shot cuts to a ladybug landing on a plant on the windowsill. Then the shot goes back to the trio, the sisters giggling in anticipation for the game to start.
+
+Bandit: "You ready?"
+
+Bluey & Bingo: "Yes!"
+
+Bandit: "Okay....GO!"
+
+Bandit rolls the ball down the hallway. It catches up to the sisters as they squeal and continue running away from it. They dive into an open room as they successfully escape from the yoga ball. The two hop out shortly thereafter.
+
+Bluey: "Again!"
+
+The shot transitions to the start of the hallway, with Bandit readying up another round. Once more in the pursuit, the two dive into the same open room, with the music beginning to swell.
+
+Bluey: "Again!"
+
+Bandit rolls the ball, but Bluey prematurely takes off before Bingo, giving Bluey a head-start as she dives into the room. Unfortunately this leaves Bingo running alone. The ball catches up to her in no time. As she continues to run she ends up getting ran over by the ball, being sent to the ground.
+
+Bandit: "Okay, game over. I have to do some work!"
+
+Bandit picks Bingo up, who is beginning to look worn out and saddened.
+
+Bandit: "Walk it off, sport!"
+
+Bingo looks to the camera, a drained look in her eyes. She sighs, and the shot transitions to her walking down the stairs slowly in sadness. Now outside, the red heeler pup goes to cower underneath the tree bench, tears welling up in her eyes. Just then, a ball rolls past. Chilli enters!"
+
+Chilli: "Hey Bingo!"
+
+Bingo's tail wags, as she comes out from underneath the bench.
+
+Chilli: "Oh, what's the matter?"
+
+Bingo: "Daddy's playing too rough with me."
+
+Chilli kneels down to comfort Bingo.
+
+Chilli: "Yeah, he does play too rough sometimes, doesn't he?"
+
+Bingo: "Yes.."
+
+Chilli: "Did you use your big girl bark?"
+
+Bingo: "No. Because I don't have a very good big girl bark."
+
+Chilli: "Really? Show me!"
+
+Bingo does a small bark.
+
+Chilli: "Oh, that's alright! Just do it bigger!"
+
+Bingo does another bark, this time louder.
+
+Chilli: "Bigger!"
+
+Bingo does a third bark, this time much louder than the previous attempts.
+
+Chilli: "Whoa! There it is! Come on, let's go talk to your dad."
+
+As the two exit, Bingo does her perfected big girl bark once more. The shot transitions to Bandit working in his room.
+
+Bandit: "Go awaaaayy!"
+
+Bluey, Bingo and Chilli enter. Bluey grins while Bingo has a saddened look to her.
+
+Bandit: "What's up?"
+
+Bluey: "You're in trouble!"
+
+Chilli: "No one's in trouble. Bingo just has something she'd like to tell dad. That's all!"
+
+Bingo walks up to Bandit.
+
+Bingo: "Sometimes you play a bit too rough with me."
+
+Bandit kneels down to comfort Bingo.
+
+Bandit: "Oh, Bingo, really?"
+
+Bingo nods.
+
+Bandit: "Oh, sorry buster, I didn't realize! I think I just forget that you're a bit younger than your sister."
+
+Bingo: "I'm only four."
+
+Bluey: "Yeah, not six like me!"
+
+Chilli: "But Dad, we don't want you to stop playing with us."
+
+Bandit: "Oh, okay!"
+
+Bingo: "I just need to get better at using my big girl bark."
+
+Bandit: "Okay, well let's practice!"
+
+Bingo: "Okay!"
+
+Bandit picks Bingo up, walking over to the yoga ball.
+
+Bandit: "So tell me, is this rough okay? Boing!"
+
+Bingo: "Yes, that's okay!"
+
+Bandit: "Okay, how about this rough? Boing!"
+
+Bingo: "Yes, that's okay!"
+
+Bandit: "Okay, what about THIS! BOING!"
+
+Bingo does her big girl bark.
+
+Bandit: "Okay, too rough! Now I know! Alright, now clear out, you lot! I've got to- hey, where's my ball?"
+
+Bluey [as Bally]: "I'll just be a second!"
+
+The shot cuts to the bathroom, where Bandit opens the door, and the trio are surely surprised.
+
+Bluey [as Bally]: "Oh, how rude! Can't you see that I'm on the toilet?"
+
+Bluey laughs.
+
+END CREDITS
+
+The credits music is a somber and climatic rendition of the episode's main soundtrack.
+
+Bluey episode scripts
+
+<!-- Work/Script
+< Work
+1
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+
+EpisodeGalleryScript
+
+Script.jpg
+Coming-soon.png -->
+
+Unicorse/Script
+< Unicorse
+1
+VIEW SOURCE
+EpisodeGalleryScript
+
+Script.jpg
+
+The episode opens with a night view of the Heeler house, then cuts to the living room where Chilli finally puts Bluey to sleep in her bedroom
+
+Chilli: OK, she's asleep.
+
+Bandit: What do you wanna watch tonight, babe?
+
+Bluey wakes up
+
+Bluey: Do you watch TV after we go to sleep ?
+
+Chilli: (exhausted) Bluey! Not again, C'mon. Back to bed!
+
+Bluey: I don't wanna go to bed.
+
+Bandit: Too bad, kid.
+
+Bluey: But why do we have to sleep? Why can't we just stay awake all night?
+
+Bandit: 'Cause that’s the way the world is.
+
+Bluey: Well, I'm going to make it so that's not how the world is.
+
+Bandit: That might be tricky. People like to sleep.
+
+Bluey: Well, I'll take everyone's bed to the dump!
+
+Bandit: Eh…They'll probably just sleep on the couch.
+
+Bluey: Well, I'll take the couches to the dump, too!
+
+Bandit: Woah.. Sounds like a big job. You’ll need a full-night sleep for that.
+
+Bluey: Yeah, I will. Night!
+
+Bluey: Hey, wait, no!
+
+Chilli: [groans] Come on. I'll read you a story.
+
+Bandit: You know she can't help it.
+
+From exhaustion, Chilli rubs her eyes
+
+Chilli: I know... Can you help me?
+
+Bandit: Oh, yeah, I've got an idea!
+
+Chilli: Wait, is it a bad idea?
+
+Bluey arrives at the couch
+
+Bluey: Mum? Are you grumpy with me?
+
+Chilli: No, honey, I'm OK. C'mon.
+
+Chili starts reading the story
+
+Chilli: "Once upon a time, there was a village."
+
+Bluey interrupting: Are you sure you're not grumpy?
+
+Chilli: No. I just want you to go to sleep.
+
+Chilli: "And in the village-"
+
+Interrupted again, Bandit puppeteering Unicorse arrives
+
+Unicorse: Hey, hey!
+
+Bluey: Unicorse!
+
+Chilli: Oh, no.. Not Unicorse...
+
+TITLE CARD: UNICORSE
+
+Chilli: This episode of Bluey unfortunately is called, " Unicorse"!
+
+END TITLE CARD
+
+Unicorse: Budge up, Budge up! Watch the horn! What are we reading?
+
+Chilli: Well, it's a story-
+
+Unicorse interrupting Chilli: YAWN! Here, read this! It's got a unicorn in it.
+
+Chilli: I'm not reading that.
+
+Unicorse: Fine. I'll read it. "Onc up on a tim.." Ah, I wish I could read!
+
+Bluey giggles
+
+Chilli: Unicorse, Bluey is finding it a little hard to get to sleep, so we're actually trying to calm things down a bit.
+
+Unicorse: Well, it's gonna be hard with me around!
+
+Unicorse starts spinning around screaming while Bluey giggles again
+
+Chilli: Shhh! Bingo's Asleep!
+
+Unicorse: I don’t care!
+
+Chilli: Well I do, so how about you and your little mate, jog on?
+
+Unicorse: I ain't goin' Nowhere, toots!
+
+Bluey giggles again while Chilli starts to be angry
+
+Chilli: My Name is Chilli!
+
+Unicorse: Ahaahh, I'm sorry, Silly!
+
+Chilli: Chilli!
+
+Unicorse: Billy, Yeah, that's what I said!
+
+Chilli: OUT!
+
+Bluey: Oh, Mum, please, can Unicorse stay ?
+
+Chilli: Bluey, he's the most annoying unicorn in the world.
+
+Unicorse apprearing behind the couch: Guilty!
+
+Bluey: But I can turn him into a nice unicorse. I promise I can. Right, Unicorse?
+
+Unicorse: Nah!
+
+Bluey: Don't listen to him. Please, can he stay?
+
+Chilli: Fine... But we're reading this book, not yours.
+
+Unicorse whispering in frustration:You will live to regret that!
+
+Chilli: (clears throat) "Once upon a time, there was a village. And in the village, everyone walked around barefoot."
+
+Unicorse appeares in front of Chilli and Bluey
+
+Unicorse: Hey, yay!
+
+Bluey: Unicorse! I can't see the page!
+
+Unicorse: AAAAAAND Why should I care?
+
+Bluey giggles
+
+Chilli: groans I forgot about the catchphrase...
+
+Bluey: If you block the words, Mum can't read the story.
+
+Unicorse: AAAAAAND Why should I care ?
+
+Bluey: Because stories are nice!
+
+Unicorse: My story was nice, it had a unicorn in it. This one has ZERO unicorns!
+
+Unicorse: And the ending is boring, she just makes sho-
+
+Chilli immediately stops him from spoiling the story
+
+Chilli: Ah- Ah-. DON'T spoil the ending!
+
+Unicorse with whining sound: Why not ?
+
+Chilli: 'cause Bluey hasn't heard it !
+
+Unicorse: AAAAAAND Why should I care ?
+
+Bluey: Unicorse, I'm trying to make you a nice unicorse.
+
+Unicorse: OK, OK, OK. Please, continue, Millie. I won't spoil the ending.
+
+Chilli: A-
+
+Unicorse interrupting again: Where she makes shoes.
+
+Both Bluey and Chilli: UNICORSE!!
+
+Unicorse starts spinning around laughing out loud
+
+Chilli: "One day, the Queen decided to get off her litter and have a walk around."
+
+Unicorse playing with the page while imitating the Queen: Changed my mind! Oh, wait, changed it again! Actually, I will! Nope, not today!
+
+Unicorse : Up! Down! Up, down! Up, down! Up down, up, down-
+
+Bluey: Unicorse! That is Bad behaviour!
+
+Unicorse starts imitating Bluey with meh meh noises
+
+Unicorse: Meh meh meh ! Meh meh Meh meh meh meh !
+
+Bluey OH, so is that!
+
+Unicorse: MEEP, Meep meep Meep !
+
+Chilli: Shall we continue ?
+
+Bluey: [groans] Yes...
+
+Unicorse: sigh Meeep...
+
+Chillie: "So the Queen walked a few steps, and stood on a prickle." "Ouch !"
+
+Unicorse Laughing out VERY Loud
+
+Bluey: Unicorse, that's mean! How would you feel if you stood on a prickle?
+
+Unicorse: I'd feel good. I'd feel so good, I'd dance!
+
+Unicorse starts dancing with "William Tell Overture" albeit in a disco remix playing in the background
+
+Bluey: You wouldn't dance! You'd be crying like the Queen!
+
+Unicorse: Well, maybe she should wear some shooes !
+
+Chilli: Unicorse!
+
+Chilli finally stops the music
+
+Unicorse starts laughing again
+
+Chilli: Anyway.[Continues reading] "The Queen discovered that her whole kingdom was covered in prickles."
+
+Chilli: “What was she to do?”
+
+Unicorse appeares in front of Chilli and Bluey, Again
+
+Unicorse: MAKE. SHOOOES!
+
+Chillie: [groans] Bluey?
+
+Bluey: Oh, I know! Unicorse, what's your favourite food?
+
+Unicorse gets very close to Bluey's face
+
+Unicorse whispering: Children....
+
+Bluey: Oh...?
+
+Unicorse: JUST kidding. I like chicken bucket.
+
+Bluey: Oh, great! Look, here's some Chicken bucket.
+
+Unicorse: Ah, thank you, mighty kind!
+
+Bluey: OK, we're good to go!
+
+Chilli: "So the Queen had an idea. She will cover the WHOLE kingdom in LEATHER."
+
+Chilli: "That way, No one will ever stand on the prickles a-"
+
+Unicorse starts making munching noise
+
+Chilli: "-gain. so she got to work-"
+
+Unicorse: (Munch)
+
+Chilli: "-All day and night, the Queen worked, covering her Whole kingdom in leather."
+
+'While reading the story, Unicorse continues munching until Chilli had her last bit of Patience
+
+Chilli: Grrr! Can you PLEASE chew with your mouth shut?!
+
+Unicorse: I can chew with my mouth shut. Of course I can!
+
+Chilli: Thank you! [Reads] " The Queen just-"
+
+Unicorse: But I'm not gonna! starts munching again
+
+Chilli annoyed: THAT'S IT, I'M OUT!
+
+Unicorse: Catch you on the flip side, Willie!
+
+Unicorse starts the music again
+
+Bluey: Wait, no!
+
+Chilli: I'm done, Bluey.
+
+Bluey: I can handle this, Mum!
+
+Bluey: Unicorse !
+
+Unicorse: OW! My back, my neck! My back and my neck!
+
+Bluey: [giggles] I just tapped you on the shoulder!
+
+Unicorse: Whiplash! Whiplash! Call my lawyer! Awwhh!
+
+Chilli: Look, Bluey. Good on you for trying, but you can't change Unicorse.
+
+Bluey: [sigh] I think you're right..
+
+Chilli: I'm not sure you can't change anyone very much…
+
+Meanwhile Unicorse screaming in pain in the background
+
+Bluey: Well, What can we change?
+
+Chilli: Well, We can stop letting Unicorse annoy us.
+
+Bluey: Really? How?
+
+Chilli: Maybe we ignore him?
+
+Bluey: He is pretty hard to ignore…
+
+Chilli: Let's give it a go!
+
+Chilli: "The Queen just couldn't do any more. She was too tired."
+
+Unicorse, badly hurt, arrives with his Lawyer
+
+Chilli: Oh, here he comes. Remember, just ignore him.
+
+Lawyer: (clears throat) Are you Willie Heeler?
+
+Chilli annoyed again: I'M CHILLI HEELER !
+
+Bluey: Mum?
+
+Chilli: Oh, yes, sorry.. " But then the Jester said to the Queen: "
+
+Jester: "Your Majesty, instead of covering the Whole kingdom in leather, Why not just cover your feet?"
+
+Lawyer: Stop that reading, this is a Very serious matter! One of you Karate-chopped my client!
+
+Bluey confused: Karate-Chopped?!
+
+Chilli: Bluey?
+
+Bluey: Oh, yeah, Sorry.
+
+Chilli: "So the Queen cut two little bits of leather, and made them into shoes !"
+
+Lawyer: Hey! I'm talking to you!
+
+Unicorse: Yeah, Listen to him!
+
+Chilli: "So the people could walk anywhere they wanted and the prickles couldn't hurt them."
+
+Unicorse: STOP READING!
+
+Lawyer: Unicorse, let me handle this.
+
+Unicorse: Hey! Watch it, mate, or you'll have to get a little pokey!
+
+Lawyer: OK, as your Lawyer, I-
+
+Unicorse: Here I COME !
+
+Both Unicorse and Lawyer fight each other while Chilli ends the story ignoring them
+
+Chilli: "And they all lived Happily ever after."
+
+Chilli: Shall we leave them to it?
+
+Bluey yawning: Yeah, I'm tired..
+
+Unicorse: You're gonna get it now, mate!
+
+ROLL CREDITS
+
+<!-- Verandah Santa/Script
+< Verandah Santa
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+
+
+EpisodeGalleryScript
+
+Script.jpg
+
+Aunt Trixie: No, no, I love my custard cold.
+
+Chilli: Really? It's like goop!
+
+Bandit: Ah-ah-ah! No peeking at those presents.
+
+Bluey: Why not?
+
+Bandit: Because Santa doesn't give presents to naughty kids.
+
+Muffin: How does Santa get in? There's no chimney.
+
+Bluey: Maybe he uses the verandah?
+
+Muffin: Oh, yeah.
+
+Bandit, Bluey and Muffin: Rah!
+
+Bingo: Let's play Verandah Santa!
+
+Bluey, Bingo and Muffin: Yeah!
+
+Bluey: Come on, Dad.
+
+Uncle Stripe: Ooh! (GROANS)
+
+Bingo: Muffin, quick, you have to say sorry.
+
+Bluey: Santa´s watching. He knows if you've been naughty or nice.
+
+Bingo: You won't get any presents.
+
+Muffin: (SCREAMS) I'm sorry. I'm sorry.
+
+Uncle Stripe: No worries, Muffin. I accept your sorry.
+
+Bluey: Phew. Come on!
+
+Chilli: Ooh! Bluey!
+
+Bluey: Ah! Sorry!
+
+TITLE CARD.
+
+This episode of Bluey is called Verandah Santa.
+
+Bluey: Ok Dad. You be Verandah Santa first.
+
+Bandit: Ok. Time for bed, kids. It's Christmas in the morning.
+
+Bluey, Bingo & Muffin: Hurray! Christmas!
+
+Bandit: That means Verandah Santa is coming tonight!
+
+Bluey, Bingo & Muffin: Hurray!
+
+Bandit: Now. He only gives presents to nice kids who are fast asleep.
+
+Bluey, Bingo & Muffin: Good night Dad!
+
+Bandit: So no peeking, or no presents. (SHUTS DOOR)
+
+Verandah Santa: Ho ho ho!
+
+(Bingo Giggles)
+
+(While Verandah Santa is going to put a pencil case under Bluey's pillow. Bluey peeks.)
+
+Verandah Santa: Ho? Was that a peek?!
+
+Bluey: No no! I'm still asleep! It wasn't a peek!
+
+Verandah Santa: It better not have be!
+
+(Verandah Santa puts a pencil case under Bluey's pillow, shaving cream under Bingo's, And a snow globe under Muffin's while saying: Ho ho and ho.)
+
+(DOOR OPENS)
+
+Bandit: (In a excited voice) Wake up kids! It's Christmas!
+
+Bluey, Bingo & Muffin: Hurray!
+
+Bandit: See if Verandah Santa left you anything!
+
+Muffin: I got a snow globe!
+
+Bingo: I got shaving cream!
+
+Bluey: I got a pencil case!
+
+Bingo: Hey! That's my pencil case!
+
+(Bluey screams)
+
+Bluey: Dad!
+
+Bandit: Bingo! No snatching thanks.
+
+Bingo: But it's mine!
+
+Bandit: It's just Bluey's for the game. She'll give it back after.
+
+Bingo: (In a sad voice) Okay. I'm sorry Bluey.
+
+Bandit: Well done Bingo.
+
+Bluey; I don't want it.
+
+Bingo: Dad! I said sorry but she isn't taking the pencil case!
+
+Bandit: Are you gonna accept her sorry Bluey?
+
+Bluey: No! Why should i?
+
+Bingo: Because Santa won't bring you any present!
+
+(Muffin nods)
+
+Muffin: Santa likes children who accepts sorries.
+
+Bluey: Okay fine.
+
+Bandit: Huh? That was easy. Okay, someone else's turn to be Verandah Santa!
+
+(Bandit jumps in the bed)
+
+Bluey, Bingo & Muffin: Ah! Get off!
+
+Bandit: (In a relaxed voice) Oh yeah.
+
+Bluey, Bingo & Muffin: Get off!
+
+W.I.P
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bandit: Whats under your pillow Socks?
+
+Socks: Ha!....... Hmmm
+
+Bluey: Oh, I guess Verandah Santa doesn't give presents to kids who bite people.
+
+Bandit: Bluey!
+
+Bluey: SHE BIT ME!!!
+
+Socks whines and runs off.
+
+Bingo: Whee!
+
+Bandit: Bluey, I think you should say sorry to Socks.
+
+Bluey: I didn't do anything wrong! I was teaching her that Santa doesn't give you presents if you're not nice.
+
+Bandit: Bluey, don't worry about whether Santa's gonna bring you presents or not, OK?
+
+Bluey: Why?
+
+Chilli: 'Cause it's not the reason to be nice to people.
+
+Bluey: Well, then, what's the reason?
+
+Chilli: Come with us.
+
+They go outside and see Socks sitting next to the lit up reindeer, who sniffs.
+
+Bluey: Oh.
+
+Chilli: That's the reason.
+
+Bandit: Imagine if Socks did to you what you did to her.
+
+Bluey walks over to Socks.
+
+Bluey: Hi, Socks. I'm sorry I didn't give you any presents. I was mad at you 'cause you bit me and you didn't say sorry.
+
+Socks walks over to Bluey and licks where she bit Bluey's arm. Bluey hugs Socks, who accepts the hug. Later, everyone is playing Verandah Santa with Bandit playing Verandah Santa.
+
+Bandit: OK. Night, kids. That's enough sinister plotting.
+
+All: Night-night.
+
+Bandit: Ho, ho... Whoa, no!
+
+All: Get him!
+
+Bandit gets hit by several pillows.
+
+Bandit: Verandah Santa's just trying to do his job. You naughty kids! -->
+
+<!--
+Wagon Ride/Script
+< Wagon Ride
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+
+EpisodeGalleryScript
+
+Script.jpg
+Coming-soon.png -->

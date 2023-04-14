@@ -186,3 +186,53 @@ Bandit: Someone must have left him behind.
 Bingo: In the middle of the rollercoaster?
 
 wip -->
+
+Wild Girls
+1
+VIEW SOURCE
+Stop.png
+Spoiler Alert!
+
+This article/section may reveal details on recent or upcoming episodes.
+
+If you would like to avoid spoilers, exit the page, or proceed with caution.
+
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Wild Girls
+Airdate
+14th May 2023 (ABC Kids)
+Episode Guide
+Previous
+Show & Tell
+Following
+TV Shop
+Wild Girls is an upcoming episode of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+4 References
+Synopsis
+Coco wants to play Wild Girls with Indy, but Chloe wants her to play another game.[1]
+
+Episode Recap
+Warning Spoilers!
+
+Appearances
+Coco
+Indy
+Chloe
+Bluey (unconfirmed)
+Winton (unconfirmed)
+References
+https://www.bluey.tv/blog/updated-brand-new-bluey-more-series-3-episodes-are-coming-to-abc-kids-and-iview/
+
+ <!-- Wild Girls script -->

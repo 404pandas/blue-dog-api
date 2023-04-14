@@ -10526,3 +10526,692 @@ In the French dub, one of them is called Joe.
 Despite being called terriers, they are very clearly Schnauzers.
 Gallery
 Terriers
+
+Yellow Kid
+1
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+Yellow Kid
+
+Characteristics
+Breed
+Thai Ridgeback
+Age
+6-9
+Traits
+Eyes
+Black
+Fur
+Yellow, darker yellow, cream
+Personal Status
+Relative(s)
+Their Dad
+Their possible other Dad
+Their possible Sibling
+
+Media
+First Appearance
+The Quiet Game
+
+Yellow Kid is a background character only appearing in a few episodes.
+
+Contents
+1 Appearence
+2 Appearences
+3 Trivia
+4 Gallery
+
+AD
+Appearence
+Yellow Kid is has a yellow body with a darker muzzle and inner ears. They have lighter hands, eyebrows, and feet. Yellow Kid also can be seen with a pink bucket hat with a teal charm.
+
+Appearences
+S02E37 - The Quiet Game (debut)
+S02E47 - Ice Cream
+Trivia
+Yellow Kid has the exact same patterns as Grey Kid, this could mean they are possible siblings, as their parents are both the same breed.
+Gallery
+Yellow Kid
+In The Quiet Game
+Yellow Kid Hat
+In Ice Cream
+
+Yellow Dad
+VIEW SOURCE
+Yellow Dad
+
+Characteristics
+Breed
+Thai Ridgeback
+Gender
+Male
+Age
+20s-40s
+Traits
+Eyes
+Black
+Fur
+Yellow, darker yellow, cream
+Personal Status
+Relative(s)
+Their Child
+Their possible Husband
+Their possible other Child
+
+Media
+First Appearance
+Dance Mode
+
+Yellow Dad is a background character only appearing in a few episodes.
+
+Contents
+1 Appearance
+2 Appearances
+3 Trivia
+4 Gallery
+
+AD
+Appearance
+Yellow Dad is very similar to Grey Dad, the only difference being their coloring and muzzle pattern. That said, Yellow Dad has a yellow body with darker muzzle. He has lighter eyebrows, hands, stomach, and feet. His inner ears are an orange-red.
+
+Appearances
+S02E01 - Dance Mode (Debut)
+S02E29 - Movies
+Trivia
+In the episode Movies, it might’ve been a mistake to put him with Grey Kid. As the next scene we see Grey Kid with Grey Dad instead of Yellow Dad. This might’ve just been an accident during animation, though.
+In the epidose Dance Mode, we see Yellow Dad driving a bus. This might be their job.
+Gallery
+Yellow Dad
+In Dance Mode
+Yellow Dad and Grey Kid
+With their possible son in Movies
+
+Winton's Dad's Girlfriend
+VIEW SOURCE
+Winton’s Dad’s Girlfreind
+
+Characteristics
+Breed
+Cocker Spaniel
+Gender
+Female
+Age
+30s-40s
+Traits
+Eyes
+Black
+Fur
+Blue-grey, grey, white.
+Personal Status
+Relative(s)
+Winton's Dad (boyfriend)
+Media
+First Appearance
+Dance Mode
+
+Winton's Dad's Girlfriend is a background character in Bluey, who only appears in a few episodes.
+
+Contents
+1 Appearance
+2 Appearances
+3 Trivia
+4 Gallery
+
+AD
+Appearance
+Winton's Dad's Girlfriend is a white cocker spaniel with a blue-grey mask with lighter eyebrows and freckles on her muzzle.
+
+Appearances
+S02E01 - Dance Mode (debut)
+S02E33 - Circus
+S02E37 - The Quiet Game
+S02E47 - Ice Cream
+S03E04 - Promises
+Trivia
+She and Winton's Dad are the first mixed-breed couple depicted in the show, but were shortly followed by Radley Heeler and Frisky, and then the Grey Nomads.
+In the episode Dance Mode, she appears to be flirting with another dog. This could be her ex-boyfriend, or a casual acquaintance she met before Winton's Dad.
+Gallery
+Pedestrian 1
+In Ice Cream
+Wintons Dad and his Girlfriend
+With Wintons Dad
+Wintons Dads Girlfirend Dance Mode
+With another guy in Dance Mode
+Others like you also viewed
+Winton
+Winton's Dad
+
+Winton's Dad
+4
+VIEW SOURCE
+Winton's Dad
+
+Characteristics
+Breed
+English Bulldog
+Gender
+Male ♂
+Traits
+Eyes
+Black
+Fur
+White, brown, dark brown and light brown
+Personal Status
+Relative(s)
+Winton (Son)
+Unnamed divorced wife
+Unnamed Girlfriend
+
+Media
+First Appearance
+Markets
+Voice Actor
+Jake Bresanello
+Winton's Dad is a secondary character that has appeared in multiple episodes of Bluey.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearances
+4 Trivia
+5 Gallery
+
+AD
+Appearance
+Winton's Dad is an English Bulldog with white, brown, dark brown and light brown fur. He has white feet, left leg, hands, chest and muzzle, brown right leg, tail, torso, arms and right head, dark brown eyebrows and ears and light brown left head. He also wears a green belly bag when he sells toffee apples at the market.
+
+Biography
+Winton's Dad has a son named Winton; he and Winton’s Mum are apparently divorced.
+
+Appearances
+Markets
+Dance Mode
+Hammerbarn
+Helicopter (mentioned)
+Movies
+Baby Race
+Circus (cameo)
+Cafe
+The Quiet Game
+Mr. Monkeyjocks
+Baby Race (cameo)
+Perfect (Cameo)
+Trivia
+Winton's Dad sells toffee apples at the market.
+He is voiced by the show’s designer Jake Bresanello.
+In Helicopter, Winton mentions that his dad doesn't live with his mum. It can be inferred that Winton's Dad is most likely divorced.
+In Movies, a picture with him as an actor in a detective film was seen.
+Since Hammerbarn, Winton’s Dad is seen in various cameos with a sausage on a bread on one hand.
+In The Quiet Game, Winton's Dad seems to be dating someone. This is the first depiction of a mixed-breed couple in Bluey.
+Gallery
+WintonsDadToffeApples
+Wintons Dad and his Girlfriend
+
+Winton
+7
+VIEW SOURCE
+Winton
+
+Characteristics
+Breed
+English Bulldog
+Gender
+Male ♂
+Traits
+Eyes
+Black
+Fur
+White, brown and dark brown
+Personal Status
+Relative(s)
+Winton’s Dad (father)
+Unnamed mother (Helicopter)
+Winton’s Dad’s Girlfriend
+Friend(s)
+Bluey Heeler
+Bingo Heeler
+Indy
+Rusty
+Snickers
+The Terriers
+Hercules
+Mackenzie
+Coco
+Honey
+Media
+First Appearance
+Markets
+
+Winton is a secondary character that has appeared in multiple episodes of Bluey.
+
+Contents
+1 Bluey.tv Description
+2 Appearance
+3 Biography
+4 Appearances
+5 Trivia
+6 Gallery
+
+AD
+Bluey.tv Description
+"A very obedient breed."
+
+Appearance
+Winton is an English Bulldog with white, brown and dark brown fur. He has white feet, hands, belly and muzzle, brown tail, legs, arms, torso and head and dark brown ears and eyebrows.
+
+Biography
+Winton is one of Bluey‘s friends and also goes to her school. He has a dad and mum who are divorced.
+
+Appearances
+S01E20 - Markets (debut)
+S01E29 - The Creek
+S01E41 - Mums and Dads
+S01E50 - Shaun
+S02E02 - Hammerbarn (cameo)
+S02E08 - Daddy Dropoff
+S02E16 - Army (cameo)
+S02E25 - Helicopter
+S02E31 - Barky Boats
+S02E33 - Circus
+S02E45 - Handstand
+S02E47 - Ice Cream (cameo)
+S02E49 - Typewriter
+S03E28 - Stories
+S03E34 - Space (cameo)
+Trivia
+Winton is a very obedient breed.
+He helps his dad sell toffee apples at the market.
+In Helicopter, he mentions that his parents don't live together, which means they may be divorced.
+The only Nickname he used was Fluffy the clown which was used in Circus.
+Gallery
+Winton
+Circus Sneakpeak
+Winton alongside (from left to right) Coco, Bluey, Hercules, Mackenzie and Honey.
+
+Winnie
+4
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+Winnie
+
+Characteristics
+Breed
+Chocolate Labrador
+Gender
+Female ♀
+Age
+6 (formerly)
+7 (Currently)
+Traits
+Eyes
+Black
+Fur
+Brown
+Personal Status
+Relative(s)
+Fido (father)
+Unnamed sister
+
+Friend(s)
+Bluey
+Bingo
+Bandit
+Media
+First Appearance
+Cafe
+Winnie is a secondary character that has appeared in Bluey.
+
+Contents
+1 Appearance
+2 Personality
+3 Biography
+4 Appearances
+5 Trivia
+6 Gallery
+7 References
+
+AD
+Appearance
+Winnie is a Chocolate Labrador[1] with brown fur. She has dark brown ears, freckles, and nose. She also has a light brown triangle on her chest.
+
+Personality
+
+- Coming Soon -
+
+Biography
+Winnie is the daughter of Fido, has an unnamed sister and no known mother yet.
+
+Appearances
+S2E35 - Cafe
+S3E09 - Curry Quest (end credits cameo)
+Trivia
+She likes budgies.
+Just like Indy, they mention their siblings though they don't appear in the series.
+She shares her name with the studio dog, according to the credits of her debut episode, Cafe.
+She has seen an echidna once.
+Gallery
+Winnie-facepaint
+Neapolitan ice cream facepaint
+References
+https://web.archive.org/web/20201205234016/https://twitter.com/terngirl/status/1334806574842355715
+
+White Mum
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+White Mum
+
+Characteristics
+Breed
+Grey Labrador or Weimaraner
+Gender
+Female
+Age
+20s-40s
+Traits
+Eyes
+Black
+Fur
+Pale grey, purple-grey, purple, and grey
+Personal Status
+Relative(s)
+Her child
+Media
+First Appearance
+Dance Mode
+
+White Mum is a background character only appearing in a few episodes.
+
+Contents
+1 Appearemce
+2 Appearences
+3 Trivia
+4 Gallery
+
+AD
+Appearemce
+She is either a labrador retriver, weimaraner, or mutt considering her coloring and body build. Her body is a light grey, almost white, with darker ears and freckles on her muzzle. She has purple eyebrows and can sometimes be seen with purple-ish glasses.
+
+Appearences
+S02E01 - Dance Mode (debut)
+S02E22 - Movies
+Trivia
+In the begining of Dance Mode, another character with the exact design as hers but yellow can be seen in one of the cars.
+White Mums nose shine is unique, the only other character with a circular shine being Calypso.
+Gallery
+White Mum
+In Dance Mode
+White Mum and Kid Movies
+In Movies, with her kid.
+
+White Kid
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+White Kid
+
+Characteristics
+Breed
+Grey Labrador or Weimaraner
+Age
+3-5 years old
+Traits
+Eyes
+Black
+Fur
+Light grey, light purple, grey, purple
+Personal Status
+Relative(s)
+Their Mum
+Media
+First Appearance
+Dance Mode
+
+White Kid is a background character only appearing in a few episodes.
+
+AD
+Appearence
+They are either a labrador retriver or weimaraner considering their fur color and build. Their fur is light grey, almost white, whith darker ears and purple eyebrows. They have freckles on their nose similar to their Mum's. In Dance Mode, they can be seen with a pink baseball cap and a white and pink backpack.
+
+Appearences
+S02E01 - Dance Mode (debut)
+S02E22 - Movies
+Gallery
+White Kid
+In Dance Mode
+White Mum and Kid Movies
+In Movies with their Mum
+
+<!-- Whale Watching/Script
+< Whale Watching
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+
+EpisodeGalleryScript
+
+Script.jpg
+Coming-soon.png -->
+
+Unicorse and Shaun
+7
+VIEW SOURCE
+"AAAAAAND Why should I care ?" ― Unicorse's catchphrase[source]
+
+Unicorse and Shaun are characters that have appeared in Bluey.
+Unicorse and Shaun
+
+On the left, Unicorse, and on the right, Shaun.
+Characteristics
+Breed
+Unicorn (Unicorse)
+Emu (Shaun)
+Gender
+Male
+Age
+Unknown
+Traits
+Eyes
+Black (Unicorse)
+Fur
+Ivory & Blue (Unicorse)
+Personal status
+Friends
+Bandit Heeler
+Bluey Heeler
+Bingo Heeler
+Unicorse's lawyer
+Media
+First Appearance
+Shaun (Shaun)
+Unicorse (Unicorse)
+Voice Actor
+David McCormack (Bandit's VA)
+
+Contents
+1 Description
+2 Appearences
+3 Trivia
+3.1 Unicorse
+3.2 Shaun
+
+AD
+Description
+Unicorse is a puppet who annoys Chilli, he is puppeteered by Bandit and has a gold horn on his head. He always tries to interrupt Chilli while she reads a storybook to Bluey to make her go to sleep. But he can't stop talking, and nearly wakes up Bingo. Unicorse keeps on stuffing up Chilli's Name calling her Willy, Billy, Silly, etc. Unicorse has a lawyer, who tries to sue Bluey for "karate chopping" him and giving him whiplash.
+
+Shaun is an Emu that has a taste for trouble. Despite not having appeared in previous episodes, people's reaction to seeing Shaun implies that Bandit brought him frequently in the past, and that his chaotic nature was well known through the neighborhood. This is evidenced by Pat's immediate recognition of Shaun after noticing his erratic behaviors, and Chilli's general distaste for the creature.
+
+Appearences
+S01E15 - Shaun (As Shaun)
+S03E08 - Unicorse (As Unicorse)
+S03E29 - Puppets (As Unicorse)
+Trivia
+Unicorse
+Unicorse's favorite food is Children. Just kidding, it's chicken bucket.
+Unicorse was not aware he was a puppet until the episode Puppets.
+Unicorse does not know how to read.
+This is most likely because he is a puppet and he is controlled by Bandit.
+Shaun
+
+Vet Corgi
+1
+VIEW SOURCE
+Vet Corgi
+
+Characteristics
+Breed
+Pembroke Welsh Corgi
+Gender
+Female ♀
+Traits
+Eyes
+Black
+Fur
+Cream, tan and pink
+Media
+First Appearance
+Copycat
+Voice Actor
+Stephanie Bendixsen
+Vet Corgi is a secondary character that has appeared in multiple episodes of Bluey.
+
+Contents
+1 Appearance
+2 Appearances
+3 Biography
+4 Trivia
+5 Gallery
+5.1 Screenshots
+
+AD
+Appearance
+Vet Corgi is a Pembroke Welsh Corgi with tan, cream and pink fur. She has cream feet, hands, tail tip, chest, muzzle and eyebrows, tan legs, arms, tail stem, torso, head and ears, and pink inner ears. She also wears a grey vet shirt with blue outlines and a white and green name tag.
+
+Appearances
+S1EP38 - Copycat
+S3EP04 - Promises (cameo)
+Biography
+Vet Corgi works at the vet as a full-tule veterinarian. She has no known friends or relatives yet.
+
+Trivia
+Vet Corgi is voiced by Stephanie Bendixsen, famously known by her gamer tag "Hex" on the shows Good Game and Good Game Spawn Point.
+She made a cameo at the Library in the episode Promises, but without her vet uniform.
+Gallery
+Screenshots
+Copycat-screen
+Vet Corgi at the counter of the vets office.
+Promise corgi
+Vet Corgi at the library picking out a book to read.
+
+Wendy
+14
+VIEW SOURCE
+"Morning Wendy!" ― The Heelers meeting with Wendy
+
+Wendy
+
+Characteristics
+Breed
+Chow Chow
+Gender
+Female ♀
+Age
+40-50
+Traits
+Eyes
+Black
+Fur
+Beige
+Personal Status
+Relative(s)
+Judo (daughter)
+Friend(s)
+Bluey
+Bingo
+Bandit
+Chilli
+Pat
+Media
+First Appearance
+Fairies
+(Production Appearance: Work)
+(Speaking Appearance: Dad Baby)
+Voice Actor
+Beth Durack (formerly)
+Emily Taheny (currently)
+
+Wendy is a secondary character that has appeared in multiple episodes of Bluey.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearances
+4 Trivia
+5 Gallery
+Appearance
+Wendy is a Chow Chow with curly beige fur. She wears a blue and gold brooch, usually on the right side of her chest. She’s also notably one of the only female characters to have eyelashes, alongside Coco.
+
+Biography
+Wendy is Judo’s mother and Bluey and Bingo’s next door neighbour.
+
+She is occasionally witness to and disturbed by the antics of her neighbours (most notably Bandit's) as a recurring joke in the series.
+
+Appearances
+S01E30 - Fairies
+S01E31 - Work
+S01E38 - Copycat
+S02E01 - Dance Mode
+S02E03 - Featherwand (not seen)
+S02E12 - Sticky Gecko (mentioned)
+S02E13 - Dad Baby
+S02E33 - Circus (cameo)
+S02E36 - Postman
+S02E50 - Baby Race
+S03E05 - Omelette (cameo)
+S03E12 - Sheep Dog
+S03E21 - Tina
+S03E25 - Ragdoll
+S03E36 - Dirt
+Trivia
+She was initially voiced by Beth Durack, an animator of the TV show. Emily Tehany voices her now as of in Sheep Dog.
+She speaks with an upper class English accent (despite both her voice actors' natural accents being Australian) as she originated from the UK. Her daughter, however, does not.
+Her car is featured in Dance Mode. It is blue and has a custom number plate that reads “W3ND73”.
+In Dad Baby, she sings "I Do Like to Be Beside the Seaside", a popular British music hall song, written in 1907 by John H. Glover-Kind and made famous by music hall singer Mark Sheridan who first recorded it in 1909.[1]
+She made five lasagnas for the Heeler Family when Bluey was born, as revealed in Sticky Gecko.
+She possesses great strength as shown in Ragdoll when she lifts Bandit into his car.
+She is also revealed to be a talented singer in the same episode when she sings Down by the Banks of the Hanky Panky with Bluey and Bingo as she drives them to the shops.
+In Dirt, Wendy is shown to have a dislike for her long hair, finding uncomfortable how much work it required to get cleaned and how it would get in the way during some of her chores. After noticing how Judo wouldn't have fun with her friends because of her own long hair, Wendy gets the courage to finally cut it, inspiring her daughter to do the same.
+Unlike actual Chow Chows, which have blue tongues, both Wendy and Judo's tongues are red.
+Despite Bluey and Bingo calling other characters' parents '_ mum' '_ dad', the two call her by her name.
+Gallery
+Wendy-fairies
+Wendy's first appearance in Fairies
+Work-wendy
+Wendy's second appearance in Work
+Copycat-wendy
+Wendy as she appears in Copycat
+Bald Wendy
+Wendy after shaving off her long fur in Dirt
+https://en.wikipedia.org/wiki/I_Do_Like_to_Be_Beside_the_Seaside
