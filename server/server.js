@@ -2,8 +2,12 @@
 const express = require("express");
 // CORS
 const cors = require("cors");
+// Colors
+const colors = require("colors");
 // Dotenv for environmental variables
 const dotenv = require("dotenv").config();
+// Database
+const connectDB = require("./config/db");
 
 // Routes
 const charRouter = require("./routes/characterRoutes");
@@ -13,6 +17,9 @@ const { errorHandler } = require("./middleware/errorMiddleware");
 
 // Port
 const port = process.env.PORT || 5200;
+
+// Function to connect to Mongo DB
+connectDB();
 
 // Initialize express
 const app = express();

@@ -1,5 +1,5 @@
 {
-  "name": "Bluey Christine Heeler",
+  "characterName": "Bluey Christine Heeler",
   "description1": "Bluey is a seven-year-old Blue Heeler pup who loves to play. Her parents and teacher give her lots of time to practice, which means she’s become very good at inventing games, helping everyone choose their roles and deciding on the rules. Her favourite games are ones that involve lots of other kids and grown-ups (especially her dad) and she likes to pretend she’s a grown-up doing grownup things herself.",
   "decription2": "Bluey Christine Heeler is the titular protagonist, daughter of Bandit and Chilli, the older sister of Bingo, and niece of Uncle Stripe and Aunt Trixie.",
   "catchphrase": "For real life?!",
@@ -70,7 +70,7 @@
       "Missy"
     ]
   },
-  "first appearance": "The Magic Xylophone",
+  "firstAppearance": "The Magic Xylophone",
   "trivia": [
     "Being the main protagonist, Bluey has never made an absence on any episode, except Turtleboy",
     "She has only been absent in four shorts, namely Pea Pod Sausages, Green Bottles, Mower and Honk.",

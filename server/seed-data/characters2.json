@@ -1,5 +1,5 @@
 {
-  "name": "Bingo Heeler",
+  "characterName": "Bingo Heeler",
   "description1": "Bingo is Bluey's younger sister. She’s 4 years old, and a red heeler like her mum. Bingo also likes to play but she is a bit quieter than Bluey, so is more likely to be the customer than the shop owner. Sometimes though, when Bluey asks her to be the doctor, rather than the patient, she really enjoys it. When she’s not playing you can find her in the yard talking to tiny bugs or off lost in her own beautiful world.",
   "decription2": "Bingo Heeler is one of the main characters of Bluey. Serving the role as a deuteragonist, she is the younger daughter of Bandit and Chilli, the younger sister of Bluey, and niece of Stripe, Trixie, Rad, and Brandy.",
   "catchphrase": "This is confusing.",
@@ -66,7 +66,7 @@
       "Winton"
     ]
   },
-  "first appearance": "The Magic Xylophone",
+  "firstAppearance": "The Magic Xylophone",
   "trivia": [
     "It is currently shown that Bingo can only count to fourteen as seen in Hide and Seek.",
     "Bingo and Socks, Bluey and Muffin's little sisters, have so far not had their middle names revealed.",

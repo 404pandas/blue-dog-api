@@ -2,7 +2,7 @@
   "bsonType": "object",
   "title": "Character",
   "required": [
-    "name",
+    "characterName",
     "description1",
     "appearance",
     "personality",
@@ -13,7 +13,7 @@
     "absences"
   ],
   "properties": {
-    "name": { "bsonType": "String" },
+    "characterName": { "bsonType": "String" },
     "description1": { "bsonType": "String" },
     "decription2": { "bsonType": "String" },
     "catchphrase": { "bsonType": "String" },
@@ -23,7 +23,7 @@
     "characteristics": "Object",
     "traits": "Object",
     "personal_status": "Object",
-    "first appearance": { "bsonType": "String" },
+    "firstAppearance": { "bsonType": "String" },
     "trivia": "Array",
     "appearances": "Array",
     "absences": "Array",
