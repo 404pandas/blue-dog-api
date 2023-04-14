@@ -1,0 +1,34 @@
+{
+  "bsonType": "object",
+  "title": "Character",
+  "required": [
+    "name",
+    "description1",
+    "appearance",
+    "personality",
+    "characteristics",
+    "traits",
+    "first appearance",
+    "appearances",
+    "absences"
+  ],
+  "properties": {
+    "name": { "bsonType": "String" },
+    "description1": { "bsonType": "String" },
+    "decription2": { "bsonType": "String" },
+    "catchphrase": { "bsonType": "String" },
+    "appearance": { "bsonType": "String" },
+    "personality": { "bsonType": "String" },
+    "nicknames": "Array",
+    "characteristics": "Object",
+    "traits": "Object",
+    "personal_status": "Object",
+    "first appearance": { "bsonType": "String" },
+    "trivia": "Array",
+    "appearances": "Array",
+    "absences": "Array",
+    "gallery": "Array",
+    "animated": "Array",
+    "references": "Array"
+  }
+}

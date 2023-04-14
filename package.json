@@ -1,23 +1,23 @@
 {
-  "name": "blue-dog-api",
+  "name": "server",
   "version": "1.0.0",
-  "description": "An API for use in developing apps themed around the Bluey TV show. BLUEY™ and character logo™ and © Ludo Studio. Licensed by BBC Studios Distribution Ltd.",
-  "main": "index.js",
+  "description": "relearning mern stack",
+  "main": "server.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js",
+    "server": "nodemon server/server.js"
   },
-  "type": "module",
-  "keywords": [
-    "api",
-    "open-source",
-    "bluey",
-    "database"
-  ],
   "author": "Mary Elenius",
   "license": "MIT",
   "dependencies": {
+    "colors": "^1.4.0",
     "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
     "express": "^4.18.2",
+    "mongoose": "^7.0.3"
+  },
+  "devDependencies": {
     "nodemon": "^2.0.22"
   }
 }
