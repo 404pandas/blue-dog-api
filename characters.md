@@ -10270,3 +10270,259 @@ Uncle Rad, Stripe & Bandit Heeler Riding - Fairytale
 Stripe and his brothers as kids
 2D79D3AE-F456-41DB-8D54B8CB84BFAA58
 As a teenager, but covered up by Muffin
+
+Sparky
+1
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+Sparky
+
+Characteristics
+Breed
+Mastiff
+Gender
+Male
+Traits
+Eyes
+Black
+Fur
+Brown
+Personal status
+Friend(s)
+Chippy
+Media
+First Appearance
+Tradies
+Voice Actor
+Mick Molloy
+Sparky is a secondary character that has appeared in Bluey.
+
+Contents
+1 Appearance
+2 Biography
+3 Trivia
+4 Gallery
+
+AD
+Appearance
+Sparky is a Mastiff with brown fur, dark brown eyebrows and ears, and a grey nose. He wears multiple tools around his tool belt and his work clothes include a yellow shirt and dark yellow shorts.
+
+Biography
+Sparky works as a Tradie (tradesman) and is the boss of Chippy. The two are friends, but sometimes Sparky may get annoyed at Chippy when he is distracted from his work. Sparky is one of the few characters in the Blueyverse to wear clothes, however, they are work clothes, so he likely does not wear them casually.
+
+Trivia
+Sparky is initially given the name Big Belt by Bluey and Bingo in the episode Tradies.
+"Sparky" is also a Australian slang term for an electrician.
+In the episode, Sparky reveals that he has a wife named Jules.
+Gallery
+Coming-soon
+
+Takeaway Lady
+3
+VIEW SOURCE
+Takeaway Lady
+
+Characteristics
+Breed
+Siberian Husky
+Gender
+Female ♀
+Traits
+Eyes
+Blue
+Fur
+White and Grey
+Media
+First Appearance
+Takeaway
+Voice Actor
+Jasmine Moody
+Takeaway Lady is a secondary character that has appeared in multiple episodes of Bluey.
+
+Contents
+1 Appearance
+2 Biography
+3 Trivia
+4 Gallery
+
+AD
+Appearance
+Takeaway Lady is an Siberian Husky with grey fur on her head and tail, a white body, and a dark brown nose. Her eyes are blue.
+
+Biography
+She works at the Golden Crown Takeaway.
+
+Trivia
+Takeaway Lady, Joel, and Sadie, a classmate of Bingo from Bob Bilby, are the only ones to have visible irises.
+She might be Sadie's mother.
+Gallery
+Coming-soon
+
+Trixie Heeler
+10
+VIEW SOURCE
+Trixie Heeler
+
+Characteristics
+Breed
+Blue Heeler
+Gender
+Female ♀
+Traits
+Eyes
+Black
+Fur
+Mainly bluish white with white, grey and black spots covering over her body
+Personal Status
+Relative(s)
+Stripe (husband)
+Muffin (daughter)
+Socks (daughter)
+Bandit (brother-in-law)
+Chilli (sister-in-law)
+Bluey (niece)
+Bingo (niece)
+Rad Heeler (brother in-law)
+Frisky (sister-in-law)
+Bob (father-in-law)
+Nana (mother-in-law)
+Media
+First Appearance
+BBQ
+(Production Appearance: Horsey Ride)
+Voice Actor
+Myf Warhurst
+
+Trixie Heeler (also known as Aunt Trixie to Bluey and Bingo) is a secondary character that has appeared in multiple episodes of Bluey.
+
+Contents
+1 Bluey.tv Description
+2 Appearance
+3 Appearances
+4 Trivia
+5 Gallery
+5.1 Artwork
+
+AD
+Bluey.tv Description
+"Bluey & Bingo’s Aunt and Chilli’s hockey teammate."
+
+Appearance
+Trixie Heeler is a Blue Heeler with white, black, grey and bluish-white fur. Her feet are white, her legs are bluish white, her tail tip is black, her tail stem in bluish white, her hands are white, her arms are bluish white, her stomach is bluish white with 2 white spots and 1 grey spot, her mouth is white with freckles, her nose is blue, her left ear is bluish white with a grey inner, her right ear is black with a grey inner, she has a black spot on her back and two black patches down the side of her face. She also has a slight bit of weight around her hips.
+
+Trixie is the wife of Uncle Stripe; the mother of Muffin and Socks; the aunt of Bluey and Bingo; the sister-in-law of Chilli, and the sister-in-law of Radley, and Bandit.
+
+Appearances
+S01E07 - BBQ
+S01E09 - Horsey Ride
+S01E12 - Bob Bilby (cameo)
+S01E32 - Bumpy and the Wise Old Wolfhound
+S01E43 - Camping (cameo)
+S02E06 - Stumpfest
+S02E30 - Library(mentioned)
+S02E43 - Muffin Cone
+S02E45 - Handstand
+S02E52 - Christmas Swim
+S03E14 - Pass the Parcel
+S03E19 - Pizza Girls
+S03E24 - Faceytalk
+S03E37 - The Decider
+Trivia
+She likes to play hockey with her sister-in-law.
+She is voiced by Australian radio announcer and TV personality Myf Warhurst, who also voices Indy's Mum.
+She’s the only one in the Heeler family to call Nana by her name Chris.
+She’s trying to eat healthy, as shown in the episode Muffin Cone (but is having clear issues when Chilli brings out a bowl of chips).
+Gallery
+Artwork
+Stripe-Trixie-Muffin-Socks
+Aunt Trixie and Family.
+Christmas Swim - Nana & Trixie Heeler
+BBQ-screen
+Stumpfest-Trixie
+Trixie with her nails painted in stumpfest
+Trixe-Bumpy-and-the-wise-old-wolfhound
+Trixie as the wise old wolfhound
+Trixe-Horsey-ride
+Trixie in Horsey ride
+
+The Terriers
+23
+VIEW SOURCE
+The Terriers
+
+Characteristics
+Breed
+Schnauzer
+Gender
+Male ♂ (all)
+Age
+6 (formerly)
+7 (Currently)
+Traits
+Eyes
+Black
+Fur
+Black, dark grey, grey and white
+Personal Status
+Relative(s)
+Each other (brothers)
+Doctor (possible father)
+Mrs. Terrier (possible mother)
+Friend(s)
+Bluey
+Indy
+Honey
+Chloe
+Coco
+Rusty
+Snickers
+Winton
+Media
+First Appearance
+Calypso
+
+The Terriers are secondary characters that have appeared in multiple episodes of Bluey.
+
+Contents
+1 Bluey.tv Description
+2 Appearance
+3 Biography
+4 Appearances
+5 Trivia
+6 Gallery
+
+AD
+Bluey.tv Description
+"Unstoppable forces of nature. They’re little terriers."
+
+Appearance
+The Terriers are triplet brothers with black, dark grey, grey and white fur, each one having white feet, hands, chest, muzzle and eyebrows, and either black, dark grey or grey legs, arms, torso, head and ears.
+
+Biography
+The Terriers are unstoppable forces of nature. the terriers' mum was mentioned in Bob Bilby, saying she went on a vacation to Scotland.
+
+Appearances
+S01E17 - Calypso
+S01E29 - The Creek
+S01E37 - The Adventure
+S01E41 - Mums and Dads
+S02E16 - Army
+S02E25 - Helicopter
+S02E31 - Barky Boats
+S02E49 - Typewriter
+S03E28 - Stories
+S03E34 - Space (cameo)
+Trivia
+They love to play Romans (protectors or invaders).
+They love to do arm farts.
+They have New Zealandic accents.
+In Typewriter, The Terriers tend to bicker to each other when one of them does something when the one of the other complains why.
+In the French dub, one of them is called Joe.
+Despite being called terriers, they are very clearly Schnauzers.
+Gallery
+Terriers

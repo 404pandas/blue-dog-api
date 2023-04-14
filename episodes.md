@@ -8024,3 +8024,1313 @@ The barbecue location is based on the real world public barbecues in [Farm Park]
 Errors
 As Bluey and Mackenzie leave to gain some more hairs for the potion, Honey and Chloe are seen in a smilling position before immediately cutting to a lookout position with no transition.
 When the kids try to make Chilli dance, Bandit is at the barbecue when he should still be at the bathroom with Bingo.
+
+Takeaway
+6
+VIEW SOURCE
+EpisodeGalleryScript
+
+Takeaway
+
+Airdate
+14th October, 2018 (ABC Kids)
+12th September 2019 (Disney Channel(US))
+8th November 2019 (Disney Channel(UK))
+27th May 2021 (Disney Junior India)
+8th June 2021 (CBeebies (UK))
+19th July 2021 (CBeebies (Asia))
+Created and Written by
+Joe Brumm
+Cast
+Dave McCormack (Bandit
+Melanie Zanetti (Chilli)
+Jasmine Moody (Takeaway Lady)
+Credits
+Producers
+Michael Carrington (Executive-ABC)
+Henrietta Hurford-Jones(Executive-BBC Worldwide)
+Nathan Waddington (Associate-BBC)
+Charlie Aspinwall (Executive)
+Daley Pearson (Executive)
+Sam Moor (Line Producer)
+Music & Sound
+Ack Kinmonth (Music)
+Joff Bush (Music)
+Dan Brumm (Sound Design)
+Samuel Pankhurst (Dialogue Sound Editor)
+Production
+Laura Dimaio (Development Production Manager)
+Meg O'Connell (Development Manager)
+Andi Spark (Production Manager)
+Lauren Brown (Production Coordinator)
+Andy Blazewell (Technical Advisor)
+Simon Lipowicz (Technical Advisor)
+Designers
+Catriona Drummond (Art Director)
+Costa Kassab (Art Director)
+Aivy Nguyen(Art Director)
+Mike Chavez (Storyboard)
+Jake Bresanello
+Trudi Monteath
+Background Artists
+Josh Hall
+Animation
+Richard Jeffery (Director)
+Claire Renton(Lead)
+Kathleen Hirst
+Loko Lui
+Naomi Scutts
+Dan Smith
+Nani Thomann
+Liana Wright (Layout)
+VFX
+Jacob McCann
+Francis Stanton
+Editors/Post-Production
+Sam Carroll (Script Editor)
+Michael Griffin (Editor)
+Grant Sundin (Online Post Production)
+Episode Guide
+Previous
+Spy Game
+Following
+Butterflies
+Takeaway (also known as Take Away) is the fourteenth episode of the first season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+4 Trivia
+5 Errors
+Synopsis
+When Dad insists on waiting five more minutes for some takeaway food, Bluey and Bingo become restless, and test the very limits of Dad’s patience.[1]
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+The Heeler Family
+Bluey
+Bandit
+Bingo
+Chilli (voice only)
+Takeaway Lady (debut)
+Trivia
+This episode marks the first "bush wee" in the series.
+The takeaway shop The Golden Crown, is based on a former restaurant in the suburbs of Brisbane.
+The phone number listed on the canopy of the takeaway is unused.
+The voice actor for Takeaway Lady, Jasmine Moody, works as a storyboard designer for Bluey.
+The Chinese characters on the takeaway read "Golden Crown” in English.
+
+Errors
+As Bandit enters the takeaway for the first time, Bingo blinks, but even when her eyes are closed, her pupil can still be seen.
+The tan colour on Bandit's belly disappears before he enters the Golden Crown for the first time.
+When the Takeaway Lady is seen from outside, she appears to be all white fur, but when she comes outside, she has greyish fur on her face and head.
+When Bluey is taking Bingo's order and Bandit passes by, for a few frames Bluey's nose glitches out.
+The Chinese food gets knocked over in front of the table, later it's moved back under the table.
+
+Bluey episode list
+https://www.bluey.tv/watch/season-1/take-away/
+
+Taxi
+5
+VIEW SOURCE
+EpisodeGalleryScript
+
+Taxi
+
+Broadcast Information
+Airdate
+October 25, 2018
+September 30, 2019 (US)
+October 29, 2019 (UK)
+June 11, 2021 (CBeebies UK)
+August 3, 2021 (CBeebies Asia)
+Credits
+Episode Guide
+Previous
+Wagon Ride
+Next
+The Beach
+Taxi is the twenty-fifth episode of the first season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+Synopsis
+Bluey is running a taxi service. Her first passenger is Dad taking the role of the Businessman, who is in a rush to get to the airport. But with unexpected delays, Dad's in danger of missing his own flight.
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Trivia
+This is the fifth season 1 episode to have regional differences, the first being BBQ, the second being Markets, the third being Chickenrat and the fourth being Daddy Putdown. In the US version the episode ends with Bandit saying "Oh, biscuits." before the screen fades out. In the AU version the ending continues with Bingo as Millicent pretending to barf on Bandit.
+Long Dog: The original long dog. It appears under the table in the playroom. It is most visible when the camera pans to Chilli pretending to be satnav.
+Bandit does not Smile throughout This Whole Episode.
+
+Teasing
+17
+VIEW SOURCE
+Dad Baby-In Labour.png
+"But I love my dog teeth!"
+
+This episode has been edited/cut in specific regions, compared to the original Australian version,
+so be wary of differences & spoilers.
+
+Use this template when there are differences between the Australian Original & other viewed versions (such as words changing, scenes being cut etc.).
+
+EpisodeGalleryScript
+
+Teasing
+
+Broadcast Information
+Airdate
+April 22, 2019
+December 2, 2019 (US)
+February 21, 2020 (UK)
+August 2, 2021 (CBeebies UK)
+September 3, 2021 (CBeebies Asia)
+Credits
+Episode Guide
+Previous
+Neighbours
+Next
+Asparagus
+Teasing is the forty-eight episode of the first season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+Synopsis
+Bluey, Bingo and Mum get into a debate with Dad about the definition of teasing. As they recall all the times where he's been a big teaser, Dad argues that he was only just playing.
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Pat (pictured on Bandit's newspaper)
+Trivia
+This episode aired on April 1, 2019, on ABC iView.
+This episode may have been temporarily removed from iView due to a complaint by a viewer stating that the episode included a term with racial connotations and a problematic history for Indigenous Australians. The episode was, however, available on iVeiw in late 2022/early 2023. The episode has been edited for the Disney distributed version.
+The Disney distribution has the insult removed with the word "Shooby-Doowah", but the captions still read the insult that was originally in place.
+However, the episode re-airs with the original word on Disney Junior.
+This episode is skipped on Disney+, however it continues to air on Disney Channel and Disney Junior.
+This episode is currently listed as the 37th episode of Season 1 on the Bluey Website.
+
+The Adventure
+5
+VIEW SOURCE
+EpisodeGalleryScript
+
+The Adventure
+
+Broadcast Information
+Airdate
+April 11, 2019
+November 4, 2019 (US)
+June 1, 2020 (UK)
+July 19, 2021 (CBeebies UK)
+August 19, 2021 (CBeebies Asia)
+Credits
+Episode Guide
+Previous
+Backpackers
+Next
+Copycat
+
+The Adventure is the 37th episode of the first season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+Synopsis
+Princesses, horses and magic wands. Bluey and Chloe can play any role they want, when they embark on an adventure to save their playground kingdom from the Greedy Queen.
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey
+Chloe
+The Terriers
+Calypso
+Bentley
+Chloe’s Dad
+Zara
+Trivia
+This episode was formatted in a cinematic aspect ratio as opposed to the typical 16:9 aspect ratio.
+
+The Beach
+5
+VIEW SOURCE
+EpisodeGalleryScript
+
+The Beach
+
+Broadcast Information
+Airdate
+October 26, 2018
+September 30, 2019 (US)
+October 30, 2019 (UK)
+July 28, 2021 (CBeebies UK)
+August 4, 2021 (CBeebies Asia)
+Credits
+Episode Guide
+Previous
+Taxi
+Next
+Pirates
+The Beach is the twenty-sixth episode of the first season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+5 References
+Synopsis
+As her Mum goes for a walk along the beach, Bluey runs to catch up with her. Along the way, she has a series of encounters that will both excite and test her in her first solo adventure.
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Surfer
+Trivia
+Pipi's feed by taking in water and feeding on the Phytoplankton, then they squirt out the water so they can take in more. This squirt is what Bluey thinks is a "weewee".
+Bluey plays the "Mermaid who got her legs, but only for a day!" This is a reference to the fairytale The Little Mermaid written by Hans Christian Anderson in 1837. Most well known from the Disney movie of the same name.
+The surfer that Bluey meets is voiced be surfing legend Layne Beachley, who won the World Championship seven times and is also the chair of Surfing Australia.
+The surfer even references the plot of said Disney movie.
+The facepaint Bluey and Bingo wear in this episode is zinc oxide - a heavy-duty sunscreen. In Australia, it comes in brightly-coloured applicator sticks.
+The shot of Chilli sunbathing is a reference to Max Dupain's famous photograph Sunbaker[1].
+References
+https://instyleaustralia.com.au/chilli-bluey-cover-story
+
+Turtleboy
+5
+VIEW SOURCE
+Stop.png
+Spoiler Alert!
+
+This article/section may reveal details on recent or upcoming episodes.
+
+If you would like to avoid spoilers, exit the page, or proceed with caution.
+
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+Australia.png
+Australia-Exclusive Content
+
+This article is about content exclusive to Australian audiences.
+If this content gets released elsewhere, this template will be removed.
+
+EpisodeGalleryScript
+
+Turtleboy
+
+Broadcast Information
+Airdate
+June 16, 2022 [1]
+Credits
+Episode Guide
+Previous
+Puppets
+Next
+Onesies
+
+Turtleboy is the 30th episode of Season 3 of Bluey (TV series).
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+5 References
+Synopsis
+Bingo finds a toy turtle at the playground and wants to take him home, but Dad says it's not the done thing.
+
+Episode Recap
+Bingo is watching Cat Squad on the TV in the living room when Bandit enters the room, and blocks Bingo's view of the show. Bandit, who has by now forgotten why he had entered the living room in the first place, teases Bingo by standing and dancing infront of the television, much to Bingo's annoyance. Once Bandit has moved out of the way of the television for Bingo to watch, he reminices as to why he entered the living room, after which he turns off the TV, and takes Bingo to the park.
+
+Once at the park, Bingo notices a toy turtle (which she names Turtleboy) which is left on the bird-nest swing. Bandit then explains that someone must have left the turtle there and someone placed them on the swing so they could be found easily by their original owner. With Bandit's permission, Bingo then plays roller-coaster with Turtleboy on the swing, which she greatly enjoys.
+
+Later on, Bandit tells Bingo that it is time to go home, to which Bingo brings Turtleboy with her. Bandit stops her, however, saying that "It's not the done thing", as Turtleboys owner might be looking for him. Bingo agrees and leaves Turtleboy on the swing, stating she will return the next day. The two heelers then leave for home.
+
+Immediately as they have departed, Dougie and his mum arrive at the playground. Dougie's mum also explains how the turtle was probably left by the original owner, and allows her child to play with the turtle. Dougie then spends the time at the playground with the turtle, and as they leave is also told that the owner might return to find the turtle.
+
+The following day, Bandit is in the living room and is doing push-ups when Bingo enters and asks to watch TV. Bandit agrees, and even watches the TV with her. This is a dad-joke by Bandit though, as while Bingo wants to watch a programme on the TV, Bandit is just staring at the television itself. Bingo then points this out to her father, to which he responds 'No chance, we're going to the park.'
+
+Once at the park, Bingo is reunited with Turtleboy and does a lap around the swing set, taking 23 seconds, to which she puts this down to the turtle. Later on, Bandit looks at the clouds and says that it will probably rain soon, with Bingo protesting about leaving Turtleboy on the swings as they'll probably get wet, and as a solution places Turtleboy underneath an outdoor table, and the two Heelers depart.
+
+Dougie then arrives with his mother and quickly finds the turtle and plays with him on the swings and by the basketball court. As the wind picks up and the sky grows darker, it is time for Dougie to go, and after placing the turtle back underneath the table, he asks his mother if he can take the turtle home with him. His mother gently says no, stating to Dougie "It's not the done thing".
+
+That night it rains, but thanks to being underneath the table, the turtle is completely dry when Bingo finds him. Bingo plays with Turtleboy with her father on the swings, and enjoys herself (though Bandit does become unwell from being on the swings too much). As they're time at the park comes to an end, Bingo asks if she can take Turtleboy home, as she thinks that they're owner might have forgotten them. Bandit decides that if Turtleboy is still at the park the folowing day then it might be possible, though he is not sure as to wether this is the right thing to do. Bingo returns to underneath the table to place turtleboy, but puts a newspaper over the top of him and behind a group of logs, so that it would be harder to find the turtle. The two dogs then race out of the park just as Dougie and his mother arrive.
+
+Dougie, however, cannot find the turtle, and is saddened when his mother says that the original owners might have come back for him. Dougie is further sadened by this, but his mother tries to cheer him up by pointing out that this was a good thing. The two then play hide-and-seek, with Dougie hiding first. As he hides behind the table however, he notices the turtle underneath the newspaper and is overwealmed with joy, not even noticing that he has been found by his mother. Dougie then plays with the turtle, including on the swings and on the spinner. As the time comes to leave, Dougie asks if he can take the turtle home, to which his mother says no, and to put the turtle back where he was found. Dougie does this at first, but decides to instead put the turtle behind a tree, and promptly leaves afterwards.
+
+The following morning, Bingo returns with Bandit, though as Turtleboy is not in the same location as he was left in, Bingo is unable to locate him. Bandit says to his daughter that the original owner probably found him, but Bingo says this didn't happen. She then confesses to her father that she didn't want the owners to find Turtleboy, and hid him under the newspaper. Bandit then reminds Bingo that this is not what is supposed to be done, but accepts her apology. As they embrace, Bandit then finds Turtleboy hidden behind a tree, to which a very pleased Bingo apologises to for hiding him underneath the newspaper, stating she'll never do so again.
+
+The three then play in the park, including the basketball court and on the spinner, though the time comes that the Heelers must go. Bingo asks her father if she can take Turtleboy home, and her father responds "Well, I did say you could, but, do you still want to?" Bingo then reflects for a moment, and decides to leave Turtleboy on the swing set as she and her father leave. Bingo mentions to her father that she hopes that Turtleboys owner comes back soon, as she doesn't want him to be lonely. As they leave, Dougie and his mother arrive, and Dougie is very happy to find the turtle again.
+
+Appearances
+Characters
+Bingo
+Bandit
+Dougie (debut)
+Dougie's Mum (debut)
+Chilli (mentioned, pictured)
+Bluey (mentioned, pictured)
+Trivia
+This is the first, and so far only, episode where Bluey is not shown on screen (excluding some shorts).
+Bluey is present on a family photo in the living room, however, as is Chilli.
+This is the second episode that Bluey has not spoken in however, the first being Army in which she appears as a background character briefly.
+This is the first episode to contain a variation of a sign language, in this case Auslan.
+This is because Dougie is deaf and communicates through Auslan and lip-reading.
+On ABC iview, it is possible to watch this episode with Auslan dubbing alongside, the only Bluey episode to have such.
+References
+https://www.foxtel.com.au/tv-guide/channel/ABC-KidsABC-TV-Plus/A2N/2022/06/16
+
+Trampoline
+1
+VIEW SOURCE
+EpisodeGalleryScript
+
+Trampoline
+
+Broadcast Information
+Airdate
+April 7, 2019
+October 28, 2019 (US)
+October 30, 2019 (UK)
+July 14, 2021 (CBeebies UK)
+August 13, 2021 (CBeebies Asia)
+Credits
+Episode Guide
+Previous
+Bumpy and the Wise Old Wolfhound
+Next
+The Dump
+Trampoline is the thirty-third episode of the first season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+Synopsis
+When Dad has to stop having fun with the girls and go to work, Bluey and Bingo scramble to keep him playing games with them on the trampoline at the same time.
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Mr. Crow
+Trivia
+In the scene where Chili is pulling weeds, her brown spot on her face is shown on the wrong side.
+
+Trains
+6
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Trains
+
+Broadcast Information
+Airdate
+March 31, 2020
+August 28, 2020 (US)
+August 19, 2022 (CBeebies UK)
+Credits
+Episode Guide
+Previous
+Mum School
+Next
+Army
+Trains is the Fifteenth episode of Season two of Bluey (TV series).
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+5 Errors
+Synopsis
+All aboard the Dad Train! Bingo goes from home to daycare to her job at the vet every morning, but there's trouble on the line as a mischievous Bluey throws everyone off schedule.
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Trivia
+This is the first Season 2 episode to have regional differences. In this episode, the line “It’s a piece of poo!” was changed to “That’s a slug!” for the Disney distributed version. Bandit's line "I licked poo!" was removed and the mouth movements were reanimated to accommodate him spitting instead.
+Long Dog: This episode contains two different versions of the long dog.
+The first one is yellow with a brown spot and brown nose, and is wearing a cone.
+It is almost indistinguishable from a banana with a sticker, with the exception of the cone it is wearing.
+The second one is seen once again as a fridge magnet right after the first. It is visible during scenes involving the vet's office.
+Errors
+When Bluey brings Mr. Cottonsocks to Bingo and Bingo fixes him, she incorrectly says "There, she's all better."
+
+Tradies
+3
+VIEW SOURCE
+Stop.png
+Spoiler Alert!
+
+This article/section may reveal details on recent or upcoming episodes.
+
+If you would like to avoid spoilers, exit the page, or proceed with caution.
+
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+Australia.png
+Australia-Exclusive Content
+
+This article is about content exclusive to Australian audiences.
+If this content gets released elsewhere, this template will be removed.
+
+EpisodeGalleryScript
+
+Tradies
+
+Broadcast Information
+Airdate
+June 18, 2022 [1]
+Credits
+Episode Guide
+Previous
+Onesies
+Next
+Granny Mobile
+
+Tradies is the 32nd episode of Season 3 of Bluey (TV series). It is the 136th episode overall.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+5 References
+Synopsis
+Bluey and Bingo hide under the house and spy on two mysterious tradies in the backyard.
+
+Episode Recap
+Warning Spoilers!
+
+Appearances
+Characters
+Bluey
+Bingo
+Chilli
+Chippy (debut)
+Sparky (debut)
+Ice Cream Lady
+Cherry (debut; does not speak)
+Jules (mentioned)
+Trivia
+This episode is based on when Chilli said she wanted a pond from the episode Stumpfest.
+It was implied in this episode that Chilli has been known to unintentionally swear when annoyed, however, this was done offscreen.
+When Chilli was using the computer in the Study, the wallpaper on the screen may be a reference to the Windows XP one.
+This reveals that Chilli doesn’t like the Ice Cream Lady, the first was Bandit.
+This episode is tied with "Pass the Parcel" as the longest episode, as both of them are 8-minutes long, instead of the usual duration of 7 minutes.
+Mick Molloy, an Australian comedian and media personality, features in this episode as Sparky.
+Sparky fixes the crooked letterbox after eating his ice cream and talking to the girls, after Bingo crashes into the letterbox on her bike in Onesies.
+References
+https://www.foxtel.com.au/tv-guide/channel/ABC-KidsABC-TV-Plus/A2N/2022/06/18
+
+son 3, A to Z
+Tina
+3
+VIEW SOURCE
+Stop.png
+Spoiler Alert!
+
+This article/section may reveal details on recent or upcoming episodes.
+
+If you would like to avoid spoilers, exit the page, or proceed with caution.
+
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Tina
+
+Broadcast Information
+Airdate
+December 11, 2021
+December 2, 2022 (US)
+Credits
+Episode Guide
+Previous
+Driving
+Next
+Whale Watching
+Tina is the Twenty-First episode of Season 3 of Bluey (TV series).
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+5 References
+Synopsis
+Tired of being told what to do, Bluey and Bingo enlist their giant invisible friend Tina to show Mum and Dad who's boss. Now they can do anything they want, until Mum and Dad rebel.
+
+Episode Recap
+Warning Spoilers!
+
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Wendy
+Trivia
+The movie Bluey and Bingo are watching while before their parents' revolution against Tina appears to be the same Chunky Chimp movie from the episode Movies.
+The Sunglasses on the title card is a reference to the classic (and fellow invisible) character The Invisible Man, he is very likely the inspiration for most if not all current invisible characters today.
+
+Tickle Crabs
+6
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Tickle Crabs
+
+Broadcast Information
+Airdate
+April 5, 2020
+August 21, 2020 (US)
+September 29, 2022 (CBeebies UK)
+Credits
+Episode Guide
+Previous
+The Show
+Next
+Escape
+Tickle Crabs is the Twentieth episode of Season two of Bluey (TV series).
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Clip
+5 Trivia
+6 Goofs and Errors
+Synopsis
+When Dad brings a pair of tenacious tickle crabs home from the beach, nowhere in the house is safe! His only hope of escaping their tickles is with help from his true love.
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Clip
+Let's*Play_Ticklecrabs*-_Season_2_-\_Bluey  
+Trivia
+This episode's title card appears twice. It is shown briefly the first time, before cutting back to the plot abruptly, and is shown again before the game begins.
+Bluey doesn't do her dance from the opening sequence in the credits. Instead, she dances like a crab.
+There is a brief animation error on a window towards the end of the episode. The window switches from transparent to opaque.
+The episode title isn't spaced like on most guides.
+At on demand services, the intro is muted while the Heeler family is dancing, and there's no text.
+While in the car, Bandit sings a personal rendition of the American folk ballad, "Oh My Darling, Clementine"
+The music in this episode is "Hora Staccato" by Grigoraș Dinicu.
+According to the creator, during several interviews, the game was originally called “Pinchy” where kids would act as crabs. This is changed to tickle crabs to make the game less torturous for parents
+Additionally, this is to avoid “on-screen pinching”. As pinching is considered unsuitable
+Long Dog: There are two long dogs in this episode:
+The first is green and appears behind one of the hedges when the tickle crabs are washed back in.
+The second is the recurring oblong shadow.
+Goofs and Errors
+After Bandit flees from Bluey & Bingo towards the kitchen, and as he's throwing fruits, the second orange mysteriously disappears a bit after his hand phases through some grapes as an animation error
+
+The Weekend
+10
+VIEW SOURCE
+EpisodeGalleryScript
+
+The Weekend
+
+Airdate
+6th October 2018 (ABC)
+10th September 2019 (Disney Channel (US))
+31st October 2019 (Disney Channel (UK))
+23rd April 2021 (CBeebies UK)
+17th May 2021 (Disney Junior India)
+21st June 2021 (CBeebies Asia)
+Created and Written by
+Joe Brumm (Series Director)
+Cast
+Dave McCormack (Bandit)
+Melanie Zanetti (Chilli)
+Credits
+Producers
+Michael Carrington (Executive-ABC)
+Henrietta Hurford-Jones(Executive-BBC Worldwide)
+Nathan Waddington (Associate-BBC)
+Charlie Aspinwall (Executive)
+Daley Pearson (Executive)
+Sam Moor (Line Producer)
+Music & Sound
+Joff Bush (Music)
+David Barber (Music)
+Dan Brumm (Sound Design)
+Julian Wessels (Recording Engineer)
+Production
+Laura Dimaio (Development Production Manager)
+Meg O'Connell (Development Manager)
+Andi Spark (Production Manager)
+Lauren Brown (Production Coordinator)
+Andy Blazewell (Technical Advisor)
+Simon Lipowicz (Technical Advisor)
+Designers
+Catriona Drummond (Art Director)
+Costa Kassab (Art Director)
+Owain Emmanuel (Lead)
+Jasmine Moody (Storyboard)
+Jake Bresanello
+Trudi Monteath
+Background Artists
+Faith Chen
+Daniela Hammer
+Josh Hall
+Connor M. Johnston
+Animation
+Richard Jeffery (Director)
+Mark Nute (Lead)
+Chris Bennett
+Beth Durack
+Mark Paterson
+Liam Stewart
+Charmay-Adele Yule
+Liana Wright (Layout)
+VFX
+Jacob McCann
+Francis Stanton
+Editors/Post-Production
+Sam Carroll (Script Editor)
+Michael Griffin (Editor)
+Grant Sundin (Online Post Production)
+Other Staff
+Daniel Schultz (Production Accountant)
+Jenny Lalor (Production Lawyer)
+Episode Guide
+Previous
+Shadowlands
+Following
+BBQ
+The Weekend is the sixth episode of the first season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+4 Trivia
+5 Errors
+6 References
+Synopsis
+At the weekend, Bluey and Bingo are playing in the garden with Dad. But Bingo gets upset, when she discovers a walking leaf insect and Dad is too caught up in the game to notice.[1]
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+The Heeler Family
+Bingo
+Bandit
+Bluey
+Chilli
+Trivia
+This is the first episode to have something other than Bluey dancing on the credits scene, in this case the walking leaf.
+The walking leaf is either a Katydid or Planthopper
+This episode was an edited version of the 2017 pilot episode.
+The edit includes several differences to the original pilot, such as the character designs being modified.
+Bluey tells Bandit that his "Statue" will cost "400 Dollarydoos". This may be a reference to "The Simpsons" episode Bart vs. Australia, which has gained mixed reviews for it's portrayal of Australia.
+LBW (short for "leg before wicket") is one of the ways a batter can be "out" in the game of cricket. If the batter doesn't hit the ball and the umpires judge that the ball would have gone on to hit the stumps if the batters legs didn't block the ball from doing so, this is called LBW and the batter is out.
+The album art for Chilli's workout music is a parody of The Dark Side of the Moon by Pink Floyd where the triangular prism has been replaced by a dog bone.
+This is the final episode to be aired on Disney Junior Germany before it's closedown at September 30th, 2021.[citation needed]
+Long Dog: This version of the long dog is green with a purple nose and an angry expression, perhaps as a reference to The Incredible Hulk. It is seen briefly behind a bush as Bingo runs to the backyard after the girls "ding-dong-dash" Bandit.
+
+Errors
+As this is an edit of The 2017 Pilot, there are moments where characters are entirely still while others are talking, the reason being the pilot had bits where characters would talk in quick succession to each other.
+Chilli's design is flipped at numerous points of the episode.
+While Bandit is on the toilet, he is looking on his phone. When he tells Bluey she could wait outside, he takes one of his hands off the phone, causing it to flip horizontally.
+An animation error from the original pitch was corrected for this episode: Chilli at one point lacked her brown fur in a shot, but gains it back in the fixed scene.
+Near the end of the episode, Bingo's bed in one scene changes from "b" to "B", with "B" being the bed for Bluey.
+References
+https://www.bluey.tv/watch/season-1/the-weekend/
+
+The Sleepover
+14
+VIEW SOURCE
+EpisodeGalleryScript
+
+The Sleepover
+
+Broadcast Information
+Airdate
+April 13, 2019
+November 3, 2019 (UK)
+November 11, 2019 (US)
+July 21, 2021 (CBeebies UK)
+August 23, 2021 (CBeebies Asia)
+Credits
+Episode Guide
+Previous
+Copycat
+Next
+Early Baby
+
+The Sleepover is the 39th episode of the first season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+Synopsis
+A sleepover with their cousin means Bluey and Bingo get to stay up late! But when Muffin shows up exhausted after missing her nap, the girls get more fun than they bargained for.
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Muffin
+Uncle Stripe
+Trivia
+In the scene where Bingo, Bluey and Muffin dine at a restaurant, a dog plushie that clearly resembles Sans from the video game Undertale can be seen for a few moments.
+Background music from "The Claw" is reused for this episode.
+In this episode, the subtitles read "idigamadama" instead of what Muffin actually says which is "Eating a banana" during the intro sequence.
+This may be the reason why "Eating a banana" doesn't get translated in other languages.
+This is the second episode in which Muffin appears without her sister, the first being Bike.
+Muffin's groaning voice clip during her meltdown in Bike is also reused before she says "I hate plants."
+The music heard when the girls play "Restaurant" is based upon the third movement of Luigi Boccherini's String Quintet in E Major, Op. 11, No. 5, often referred to as "The Celebrated Minuet."
+In IView, the title has been misspelled as "Sleepover."
+In the CBeebies airings, the scene where Muffin bites the inflatable guitar causing it to pop is cut.
+When this was airing on CBeebies in the UK the parts where Bingo said “babe” were taken out making it sound odd since the emphasis was out on that word.
+This episode reveals that Muffin still takes a nap in the afternoon, and that she's in the process of giving it up but on the days where she skips her nap, the lack of sleep can cause her to be a bit erratic from fatigue in the evenings.
+Long Dog: This long dog looks like the original but uses darker tones. It is visible briefly between Bingo and Chilli on the top of a shelf as the girls first approach the restaurant.
+
+The Show
+7
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+The Show
+
+Broadcast Information
+Airdate
+April 4, 2020
+August 21, 2020 (US)
+Credits
+Episode Guide
+Previous
+Piggyback
+Next
+Tickle Crabs
+
+The Show is the nineteenth episode of the second season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+Synopsis
+When Bingo drops Mum's breakfast-in-bed on the floor, she's convinced she's ruined her big day. But Bluey helps make amends by putting on a play of how Mum and Dad first met.
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Jean-Luc (drawing)
+Trivia
+When Bingo is crying in the playroom, the drawing of Bluey and Jean-Luc from Bingo can be seen on the wall.
+The backpack Bingo uses is the one she used for Mount Mumandad
+It is possible that the pack of balloons that Bluey uses is the same ones from Keepy Uppy, placing the setting of this episode back before said episode.
+The “dispute” Chilli refers to about her meeting Bandit in London comes back in Fairytale, when Bandit gets to tell his version
+Long Dog: This is the same long dog from Bingo.
+Given that it is the same color, in the same spot, and reading a newspaper, it is probable that this long dog is part of the background. It is likely that the production crew re-used this background, and either forgot to remove this long dog or simply decided to reuse it.
+
+The Pool
+5
+VIEW SOURCE
+EpisodeGalleryScript
+
+The Pool
+
+Broadcast Information
+Airdate
+October 22, 2018
+September 23, 2019 (US)
+October 29, 2019 (UK)
+July 12, 2021 (CBeebies UK)
+July 29, 2021 (CBeebies Asia)
+Credits
+Episode Guide
+Previous
+Blue Mountains
+Next
+Shops
+The Pool is the twenty-second episode of the first season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+3.2 Locations
+4 Trivia
+Synopsis
+While packing for the pool, Bluey and her Dad tease Mum about being so fussy with what to take, But when they arrive under prepared, they realize that a little planning goes a long way.
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Uncle Stripe (mentioned)
+Locations
+Stripe's Family's House
+Trivia
+The leaflet that Chilli fans herself with to the beginning of the episode is that of the Chinese Restaurant in Takeaway.
+The sea horse in the title card appears in the episode as one of Bluey's sinking toys.
+Bluey sees her parents kissing while collecting the rings underwater.
+During CBeebies broadcasts in the UK, a section of the scene as the three Heelers arrive to the pool is cut.; this is the moment when Bandit asks Bluey if she has brought her thongs. The mosty likely reasons for the cut is due to thongs meaning different items of clothing in the UK (thongs refer to female underwear in British English, unlike how they refer to sandles in Australian English, as the episode intended).
+The Bluey ditty heard in this episode is played by an electric guitar to give an “Tropical” style.
+
+The Magic Xylophone
+6
+VIEW SOURCE
+EpisodeGalleryScript
+
+The Magic Xylophone
+
+Airdate
+1st October 2018 (ABC)
+9th September 2019 (Disney Channel (US))
+28th October 2019 (Disney Channel (UK))
+20th April 2020 (Disney Channel Latin America)
+19th April 2021 (CBeebies UK)
+10th May 2021 (Disney Junior India)
+14th June 2021 (CBeebies Asia)
+Created and Written by
+Joe Brumm (Series Director)
+Cast
+Dave McCormack (Bandit)
+Melanie Zanetti (Chilli)
+Credits
+Producers
+Michael Carrington (Executive-ABC)
+Henrietta Hurford-Jones(Executive-BBC Worldwide)
+Nathan Waddington (Associate-BBC)
+Charlie Aspinwall (Executive)
+Daley Pearson (Executive)
+Sam Moor (Line Producer)
+Music & Sound
+Joff Bush (Music)
+Dan Brumm (Sound Design)
+Samuel Pankhurst (Dialogue Sound Editor)
+Production
+Laura Dimaio (Development Production Manager)
+Meg O'Connell (Development Manager)
+Andi Spark (Production Manager)
+Lauren Brown (Production Advisor)
+Andy Blazewell (Technical Advisor)
+Simon Lipowicz (Technical Advisor)
+Designers
+Catriona Drummond (Art Director)
+Costa Kassab (Art Director)
+Aivy Nguyen (Art Director)
+Chris Voigt (Storyboard)
+Owain Emmanuel
+Tim Delaney
+Background Artists
+Faith Chen
+Daniella Hammer
+Jane Osborne
+Animation
+Richard Jeffery (Director)
+Beth Harvey (Lead)
+Gerard Bishop
+Lisa Hack
+Eric H. Lin
+Juné Du Plessis
+VFX
+Francis Stanton
+Editors/Post-Production
+Sam Carroll (Script Editor)
+Michael Griffin
+Grant Sundin (Online Post Production)
+Other Staff
+Daniel Schultz (Production Accountant)
+Jenny Lalor (Production Lawyer)
+Episode Guide
+Previous
+The Weekend (Pilot Cut)
+Following
+Hospital
+The Magic Xylophone (also known as Magic Xylophone) is the first episode of the first season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+5 See Also
+Synopsis
+As Bluey and Bingo squabble over their magic xylophone (that has the power to freeze Dad in space and time), Dad seizes control and freezes Bluey, leaving Bingo as her only hope.[1]
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+The Heeler Family
+Bandit (debut)
+Bluey (debut)
+Bingo (debut)
+Chilli (debut)
+Chloe’s Mum (cameo) (debut)
+Trivia
+The song that plays throughout the episode is a version of Rondo ‘Alla Turca’ by Wolfgang Amadeus Mozart.
+This is one of the five Season 1 episodes to have sneak peaks in 2018, the others being Keepy Uppy, Daddy Robot, Fruitbat and Shadowlands.[citation needed]
+This was the 2nd episode to air in the US.[citation needed]
+When Bandit gets unfrozen in the front yard, clothes and accessories fly everywhere. But when they return to the front yard, the clothes/accessories aren't seen.
+Perhaps being an early episode, the name of the episode as Bluey calls it in the title card ('The' Magic Xylophone) is slightly different to the actual name.
+The episode is one of a few title cards to use more than one line, while later title cards can fit episode names with more than one word in a line.
+The "magic xylophone" in the episode is technically a glockenspiel, as its pitch bars are made of metal, not of wood.
+Long Dog: This marks the first appearance of many reoccurring long dogs, it is seen under the table whilst Bandit is playing Bluey.
+On the ABC IVIEW, the subtitles inaccurately say (From Bingo referencing Bluey) "Dad, he's had this many turns", inaccurately describing Bluey as a male.
+
+The Claw
+7
+VIEW SOURCE
+EpisodeGalleryScript
+
+The Claw
+
+Broadcast Information
+Airdate
+October 19, 2018 (AUS)
+September 16, 2019 (US)
+November 1, 2019 (UK)
+June 3, 2021 (CBeebies UK)
+July 26, 2021 (CBeebies Asia)
+Credits
+Episode Guide
+Previous
+The Doctor
+Next
+Markets
+
+The Claw is the nineteenth episode of the first season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+Synopsis
+When Bluey and Bingo are unable to grab some chocolate doodads on a Magic Claw machine, they both return to their house. Mum and Dad create their own version at home. But for Dad, he isn't about to make winning easy.
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey
+Bingo
+Chilli
+Bandit
+Trivia
+The claw machine Bluey and Bingo play in real life resembles the experience of most actual claw machines: you don’t get anything.
+The purple plush cat seen in the mummy and daddy claw machines resembles the design of Cheshire Cat from Disney's Alice in Wonderland (1951 and 2010).
+Bandit is revealed to be left-handed.
+The logo in the chocolate doodads looks like the logo for the ABC (Australian Broadcasting Corporation).
+This episode makes Graydancer's first appearance.
+The music in this episode is based upon the famous Canon in D by German Baroque composer Johann Pachelbel.
+Long Dog: Only it's tail-end is visible but it resembles the original long dog. It can be found under the table on the right side of the screen when Chilli first awards the girls 20 cents.
+
+The Creek
+5
+VIEW SOURCE
+EpisodeGalleryScript
+
+The Creek
+
+Broadcast Information
+Airdate
+April 3, 2019
+October 7, 2019 (US)
+November 8, 2019 (UK)
+June 17, 2021 (CBeebies UK)
+August 9, 2021 (CBeebies Asia)
+Credits
+Episode Guide
+Previous
+Grannies
+Next
+Fairies
+The Creek is the twenty-ninth episode of the first season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+5 Goofs and Errors
+6 References
+Synopsis
+Bored of the local playground, Dad and the kids go out on a journey to their local creek. Cast out of her comfort zone, Bluey's eyes are opened to the beauty of the natural world.
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Mackenzie
+Lucky (Cameo)
+The Terriers (Cameo)
+Juniper (Cameo)
+Missy (Cameo)
+Winton (Cameo)
+Buddy (Cameo)
+Bentley (Cameo)
+Unnamed Joey
+Trivia
+A form of fourth wall break can be seen when Bluey refused to jump and Mackenzie mentions being a herding dog saying that it's like "jumping from one sheep to another".
+This is one of three season 1 episodes to have sneak peaks in 2019, the other two being Grannies and Asparagus.
+Dropbears are a fictitious creature that are said to be a carnivorous and highly dangerous relative of the koala, hunting their prey by dropping on them from the treetops in a surprise attack. Foreign tourists and the highly gullible are often told to watch out for dropbears as a joke, much like how Bandit warned the kids in the episode. Gazontapedes, however, don't exist in Australian folklore.
+The wallaby is likely a pademelon, a small scrub-dwelling marsupial native to coastal Queensland. Pademelons are also mentioned in Zoo.
+In the spa scene, there are orange leaves on all the rocks. This is art made by the kids, after Andy Goldsworthy[1].
+
+Goofs and Errors
+
+Mackenzie's Leg Error
+
+Bluey fell in the water when she slipped on the moss covered rock, but when she gets up, she's completely dry with no water dripping on her.
+Tadpoles were tickling the kids toes, but in the very next scene, they're nowhere to be seen.
+In the last scene, when they come back to the playground, both of Mackenzie's legs are white, instead of the normal, one black, one white.
+References
+https://web.archive.org/web/20211020203002/https://twitter.com/goodsniff_/status/1140409496012857344
+
+The Decider
+12
+VIEW SOURCE
+Stop.png
+Spoiler Alert!
+
+This article/section may reveal details on recent or upcoming episodes.
+
+If you would like to avoid spoilers, exit the page, or proceed with caution.
+
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+Australia.png
+Australia-Exclusive Content
+
+This article is about content exclusive to Australian audiences.
+If this content gets released elsewhere, this template will be removed.
+
+EpisodeGalleryScript
+
+The Decider
+
+Broadcast Information
+Airdate
+June 23, 2022 [1]
+Credits
+Episode Guide
+Previous
+Dirt
+Next
+Cubby
+
+The Decider is the 37th episode of the third season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+5 References
+Synopsis
+The Heelers get together with Lucky's family to watch the big game.
+
+Episode Recap
+Warning Spoilers!
+
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Lucky
+Pat
+Chucky
+Janelle
+Frisky
+Aunt Trixie
+Mackenzie
+Mackenzie’s Dad
+Mackenzie’s Mum
+Trivia
+The episode aired during the 2022 State of Origin Series, a set of three rugby league matches played between the Queensland Maroons and the New South Wales Blues. These are often considered to be the pinnacle of Australian Rugby League, arguably more important than international competition.[2]
+Because Janelle barracks for the Blues, it is assumed to be that she is from New South Wales.
+This is the only episode where Trixie appears without Stripe, Muffin, and Socks and Frisky appears without Radley.
+The end of the episode shows an international rugby union test match between the Wallabies of Australia (in green and gold) and the All Blacks of New Zealand. Matches between the Wallabies and All Blacks are usually played in an annual series to win the Bledisloe Cup. As of 2022, the All Blacks have won the Cup 50 times, including the recent 2022 match, while the Wallabies have won the Cup 12 times, with their last win in 2002.
+Although New Zealand are the All Blacks, Mackenzie's Dad said "Go the Kiwis!" In real life, the Kiwis play rugby league as opposed to rugby union.
+Despite this, the Australian jerseys are mostly gold, just like the Wallabies, as opposed to the Kangaroos having mostly green jerseys, so this would have to be a rugby union game.
+The episode features the guest voices of legendary NRL commentator Ray Warren, former halfback for Queensland and the North Queensland Cowboys (NRL), Johnathan Thurston, and longtime Australian rugby union commentator Gordon Bray.
+The phrase “We’re gonna flog ya” is a common Australian phrase for people watching the football/rugby games when one or more people supporting their favourite team just to say that to the other people supporting the other team.
+This episode is one of two mid-season finales of Season 3 (the other being Fairytale), with this episode being grouped in batch 3B.
+Until Cubby is released, this episode is currently the most recent episode available to the public.
+References
+https://www.foxtel.com.au/tv-guide/channel/ABC-KidsABC-TV-Plus/A2N/2022/06/23
+State of Origin in league of its own | Stuff.co.nz, Aug 21 2009 -http://www.stuff.co.nz/southland-times/columns/commentary-box/2601445/State-of-Origin-in-league-of-its-own
+Bluey episode list
+
+The Doctor
+3
+VIEW SOURCE
+EpisodeGalleryScript
+
+The Doctor
+
+Broadcast Information
+Airdate
+October 18, 2018 (AUS)
+September 16, 2019 (US)
+November 2, 2019 (UK)
+June 2, 2021 (CBeebies UK)
+June 2, 2021 (Disney Junior India)
+July 23, 2021 (CBeebies Asia)
+Credits
+Episode Guide
+Previous
+Calypso
+Next
+The Claw
+
+The Doctor is the eighteenth episode of the first season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+Synopsis
+Honey is stuck waiting for Dr Bingo's appointment as all the other, more exciting injuries get seen before hers. Receptionist Bluey tells her to be patient, as some of these cases are a real pickle.
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey
+Bingo
+Chilli
+Coco
+Indy
+Lucky
+Rusty
+Honey
+Bandit
+Snickers
+Trivia
+When Snickers played as the patient, he says “Help, I’ve cuddled a cactus!” But the ABC Iview captions read “I’m caught in the cactus!”
+The iTunes captions read “I totalled a cactus”
+When Bingo is sorting out Lucky's problem, The last word Bingo said is muffled. But the iview captions read 'I'm just throwing out all the toys' when she is saying something other than the word toys.
+Long Dog: This version of the long dog looks like the original but is wearing sunnies (sunglasses.) It is visible on the left of the screen when Bluey's secretary desk is facing the camera straight on.
+Floppy makes its first appearance, when it was thrown.
+Bluey episode list
