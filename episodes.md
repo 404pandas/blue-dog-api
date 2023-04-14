@@ -6996,3 +6996,601 @@ The episode's plot is partly inspired by the 1998 American epic World War II fil
 Long Dog: Likely the original dog but shadowed. It can be seen on top of the playroom bookshelf after Bandit has been rescued.
 Bluey episode list
 Brumm, Joe (April 2, 2021). "BONUS EP (aka Joe Brumm in 2021!)". Gotta Be Done! (Podcast, Interview). Interviewed by McMahon, Kate & Bolling, Mary. Event occurs at 09:48. Retrieved 15 June 2022.
+
+Seesaw
+8
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Seesaw
+
+Broadcast Information
+Airdate
+October 26, 2020
+February 5, 2021 (US)
+October 7, 2022 (CBeebies UK)
+Credits
+Episode Guide
+Previous
+Grandad
+Next
+Movies
+
+Seesaw is the Twenty-Eighth episode of Season two, of Bluey (TV series).
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+Synopsis
+Dad has rudely plonked himself on one end of the seesaw. So Bluey and Bingo round up the entire playground to help flip him off, but they still need to find one more friend.
+
+Episode Recap
+Warning Spoilers!
+
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Pom Pom (debut)
+Pom Pom's Mum (debut)
+Chloe
+Coco
+Snickers
+Judo
+Grandad (mentioned)
+Trivia
+The soundtrack in this episode is based on Handel: Concerto a due cori No.2, HWV 333 - 5. Allegro ma non troppo - Adagio [1]
+This is the first appearance of Pom Pom and Pom Pom's Mum.
+Chili and PomPom's mum are discussing the Netflix original series Stranger Things, following its cliff-hanger third season ending. Chilli references the From Russia with love... teaser, which means the events of this episode takes place after February 14, 2020.
+Bandit references Thai style massage when Bluey attempts to pull him off the swing. Rather than kneading the recipient's muscles like in most massage techniques, Thai massage focuses on stretching and rocking motions, assisted by the masseuse's body weight.
+Long Dog: This long dog is seemingly made of concrete. It can be found under the picnic park bench after the seesaw full of kids calls to Pom Pom.
+Bandit is revealed to weigh about as much as Bluey, Bingo, Chloe, and Coco combined (since he needed to weigh the seesaw down more when the four of them were on the other side).
+Bluey episode list
+
+Shadowlands
+1
+VIEW SOURCE
+EpisodeGalleryScript
+
+Shadowlands
+
+Airdate
+5th October 2018 (ABC)
+9th September 2019 (Disney Channel (US))
+4th November 2019 (Disney Channel (UK))
+22nd April 2021 (CBeebies UK)
+14th May 2021 (Disney Junior India)
+18th June 2021 (CBeebies Asia)
+Created and Written by
+Joe Brumm (Series Director)
+Cast
+Melanie Zanetti (Chilli)
+Hsiao Ling Tang (Bella)
+Credits
+Producers
+Michael Carrington (Executive-ABC)
+Henrietta Hurford-Jones(Executive-BBC Worldwide)
+Nathan Waddington (Associate-BBC)
+Charlie Aspinwall (Executive)
+Daley Pearson (Executive)
+Sam Moor (Line Producer)
+Music & Sound
+Joff Bush (Music)
+Amy Bastow (Music)
+Dan Brumm (Sound Design)
+Julian Wessels (Recording Engineer)
+Production
+Laura Dimaio (Development Production Manager)
+Meg O'Connell (Development Manager)
+Andi Spark (Production Manager)
+Lauren Brown (Production Coordinator)
+Andy Blazewell (Technical Advisor)
+Simon Lipowicz (Technical Advisor)
+Designers
+Catriona Drummond (Art Director)
+Costa Kassab (Art Director)
+Owain Emmanuel (Lead)
+Jasmine Moody (Storyboard)
+Tim Delaney
+Jim Nolan
+Background Artists
+Daniela Hammer
+Connor M. Johnston
+Jane Osborne
+Animation
+Richard Jeffery (Director)
+Mark Nute (Lead)
+Chris Bennett
+Beth Durack
+Mark paterson
+Liam Stewart
+Charmay-Adele Yule
+Liana Wright (Layout)
+VFX
+Loko Lei
+Amy Mack
+Jacob McCann
+Francis Stanton
+Editors/Post-Production
+Sam Carroll (Script Editor)
+Michael Griffin (Editor)
+Grant Sundin (Online Post Production)
+Other Staff
+Daniel Schultz (Production Accountant)
+Jenny Lalor (Production Lawyer)
+Episode Guide
+Previous
+Daddy Robot
+Following
+The Weekend
+Shadowlands is the fifth episode of the first season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+4 Trivia
+Synopsis
+Coco plays Shadowlands with Bluey and Snickers but she keeps trying to make the game easier until Bluey helps her understand that sometimes it’s more fun if you follow the rules.[1]
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Bluey
+Snickers (debut)
+Coco (debut)
+Chilli
+Bella (debut)
+Snickers’ Mum (debut) (does not speak)
+Trivia
+This is the first episode to:
+Show Snickers, his mum, Coco, or her mum.
+To be the first episode to be based outside The Heeler Family's House.
+To not show either Bingo or Bandit.
+To show characters howling.
+The game Shadowlands is similar to the game "The Floor is Lava".
+This was the third episode to air in the US.[citation needed]
+This is one of five season 1 episodes to have sneak peaks in 2018, the others being The Magic Xylophone, Keepy Uppy, Daddy Robot and Fruitbat.[citation needed]
+Bluey’s line “Run your little sausage dog legs!” is reused in Typewriter.
+Bluey episode list
+https://www.bluey.tv/watch/season-1/shadowlands/
+
+Shaun
+5
+VIEW SOURCE
+EpisodeGalleryScript
+
+Shaun
+
+Broadcast Information
+Airdate
+April 24, 2019 (AUS)
+November 2, 2019 (UK)
+December 2, 2019 (US)
+August 4, 2021 (CBeebies UK)
+September 7, 2021 (CBeebies Asia)
+Credits
+Episode Guide
+Previous
+Asparagus
+Next
+Daddy Putdown
+
+Shaun is the fiftieth episode of the first season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+Synopsis
+Bluey and Bingo want a pet. To show them how much work they'd be in for, Dad gets to transform his hand into their old friend Shaun, a chaotic, undisciplined Emu with a taste for trouble.
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Shaun (debut)
+Pat
+Missy
+Winton
+Bentley
+Juniper
+Buddy
+Sadie
+Janelle (mentioned)
+Trivia
+This episode aired April 1, 2019 on ABC iView
+Pat mentions his wife, Janelle.
+The bird Shaun chases during walkies is an Australian white ibis, a 65-75 cm (26-30 in) long wading bird native to Australia. As human settlements have encroached more and more into its wetland habitat, the ibis has adapted by learning to scavenge food from refuse bins and rubbish tips. This behaviour has earned them the nickname "bin chickens."
+Long dog: This version is a magnet on the fridge. This is the second time it has appeared where it was not an actual toy. It is also the first time it has appeared in the Heeler house in a room other than the playroom.
+Long Dog: Like the previous episode it once again appears as a magnet on the fridge.
+
+Sheep Dog
+7
+VIEW SOURCE
+Stop.png
+Spoiler Alert!
+
+This article/section may reveal details on recent or upcoming episodes.
+
+If you would like to avoid spoilers, exit the page, or proceed with caution.
+
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Sheep Dog
+
+Broadcast Information
+Airdate
+December 2, 2021[1]
+Credits
+Episode Guide
+Previous
+Chest
+Next
+Housework
+
+Sheep Dog is the twelfth episode of the third season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+5 References
+Synopsis
+Dad agrees to play Sheepdog with Bluey and Bingo to stop them from disturbing Mum who is taking a well-earned rest, but looking after a sheep is harder work than they expected.
+
+Episode Recap
+Warning Spoilers!
+
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Alt Energy Dog
+Wendy
+Judo (Silent)
+Pat
+Trivia
+This marks the first time Bluey and Wendy communicated to each other.
+Baby Bluey from Baby Race can be seen in a picture frame.
+Bluey dancing at the credits is replaced by Bandit eating clothing.
+References
+https://www.foxtel.com.au/tv-guide/channel/ABC-KidsABC-TV-Plus/A2N/2021/12/02
+
+Shops
+5
+VIEW SOURCE
+EpisodeGalleryScript
+
+Shops
+
+Broadcast Information
+Airdate
+October 23, 2018
+September 23, 2019 (US)
+February 17, 2020 (UK)
+June 9, 2021 (CBeebies UK)
+July 30, 2021 (CBeebies Asia)
+Credits
+Episode Guide
+Previous
+The Pool
+Next
+Wagon Ride
+
+Shops is the 23rd episode of the first season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+Synopsis
+Playing "Shops" is the best game ever for Bluey and her friends... if only they can ever get started. With Bluey questioning the rules and changing who's who, they might be here all day.
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey
+Chloe
+Honey
+Mackenzie
+Rusty
+Trivia
+This is the only episode to have no cast in the credits since it featured all kids and no adults. There is a mistake because Chloe and Mackenzie have known voice actors.
+Jacques Offenbach's Infernal Gallop (Can-Can) is used during this episode.
+Bluey episode list
+Others like you also viewed
+The Pool
+Bluey Heeler
+Bluey Wiki
+Mackenzie Border Collie
+Fruitbat
+Radley Heeler
+Markets
+The Magic Xylophone
+The Weekend
+Grannies
+Spy Game
+Fairies
+Blue Mountains
+Bandit Heeler
+Takeaway
+
+Categories
+Community content is available under CC-BY-SA unless otherwise noted.
+
+Show & Tell
+1
+VIEW SOURCE
+Stop.png
+Spoiler Alert!
+
+This article/section may reveal details on recent or upcoming episodes.
+
+If you would like to avoid spoilers, exit the page, or proceed with caution.
+
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Show & Tell
+Airdate
+7th May 2023 (ABC Kids)
+Episode Guide
+Previous
+Stickbird
+Following
+Wild Girls
+Show & Tell is an upcoming episode destined to be the 42nd Bluey Season 3 Episode.
+Description
+Bluey wants to know why Bandit's always bossing her around![1]
+
+Appearances
+Bingo Heeler
+Mrs. Retriever
+Lila
+Juniper
+Buddy
+Bentley
+Missy
+Jasper G.
+
+https://www.bluey.tv/blog/updated-brand-new-bluey-more-series-3-episodes-are-coming-to-abc-kids-and-iview/
+
+Sleepytime
+34
+VIEW SOURCE
+EpisodeGalleryScript
+
+Sleepytime
+
+Broadcast Information
+Airdate
+April 11, 2020
+July 24, 2020 (US)
+October 6, 2022 (CBeebies UK)
+Credits
+Episode Guide
+Previous
+Helicopter
+Next
+Grandad
+
+Sleepytime is the 26th episode of the second season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Behind the Scenes
+5 Music
+6 Trivia
+Synopsis
+Inside Bingo's dream, Bingo and Floppy have an intergalactic adventure, while the rest of her sleep-deprived family try to navigate Bingo's non-stop night-time bedhopping.
+
+Episode Recap
+Warning Spoilers!
+
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Floppy
+Behind the Scenes
+Behind*The_Scenes_of_Bluey!*-_Sleepytime_-\_Bluey   
+Music
+The soundtrack played throughout this episode is based on Holst's orchestral suite The Planets.
+the three songs are Jupiter, the Bringer of Jollity, then briefly Venus, the Bringer of Peace and Saturn, the bringer of Old Age.
+their usage corresponds to Bingo actually visiting the planets in her dreams, except for the 2nd use of Jupiter which is for when the Sun arrives.
+the other planetary songs like Mars the Bringer of War, Mercury the Winged Messenger, Uranus the Magician and Neptune the Mystic are either not used, or not credited in the closed captions.
+(earlier music is sometimes just captioned as "ethereal music" or "slow relaxed music" or "jovial upbeat music").
+The song Bandit sings “99 Bottles of thing on the wall” (later re-used in Baby Race) is based on “99 bottles of beer on the wall” changed avoid alcohol reference.
+Trivia
+Sleepytime appears on IMDb's list of top user-rated TV episodes, with a weighted-average rating of 9.9/10. The episode previously had a 10/10 rating, one that was matched only by Breaking Bad's Ozymandias.[1]
+Sleepytime's IMDb rating drop from 10/10 to 9.9/10 received media attention, with reporters speculating that the drop was attributable to fans of the anime Attack on Titan, who engaged in targeted review-bombing of Sleepytime in response to the episode ranking in a higher position than highly-ranked episodes of Attack on Titan.[2] [3] [4]
+This episode features a special end credits with a black background and a couple of stars dotted around the screen.
+This episode has an unusually long runtime with 7:30 instead of 7:00, making this episode second to the longest one in the series.
+The episode was originally the longest one, but Pass the Parcel would later on become the longest one with a runtime of 8:00, and so is Tradies with the same runtime.
+Bluey bothers Bandit throughout the episode, like kicking his head, walking on his back, and asking him to sing to her.
+The celestial objects (planets, stars, moons, etc.) featured in this episode are, in order of appearance: Earth, the Moon (Luna), the Sun, Venus, Uranus, Jupiter, a moon of Jupiter (unspecified), Pluto, Saturn, a comet (unspecified), and Mercury.
+The colours of Pluto and Mercury are swapped. In the episode, Pluto is a purple-ish gray while Mercury is a shade of brown. In reality, Mercury is a blue-ish gray while Pluto is a red-ish brown.
+This is the first time where Bingo cries. She cries again in the episode Pass the Parcel and is the second character to cry overall, the first being Bentley in Bike.
+There is an ironic side of this episode. Bingo is the youngest and the opposite of "big girl", and is the ONLY ONE who wakes up in their own bed.
+This is the first episode to feature crude humour (Bingo jumping on Bandit's crotch).
+Long Dog: This long dog appears as a constellation when Bingo and Bluey are running on the planet/Bandit's back.
+
+Bluey episode list
+IMDb list featuring the top TV episodes with a minimum of 1,000 user ratings.
+Davison, Catherine (2022-08-05). "Bluey review-bombing: Tweet from exec producer sparks anime theory". 7NEWS Australia. Archived from the original on 2022-08-03. Retrieved 2022-08-15.
+James, A. (2022-08-04). "Anime trolls target Bluey to make the beloved Australian children's show plunge in the ratings". Daily Mail Australia. Archived from the original on 2022-08-15. Retrieved 2022-08-15.
+Goulis, Leah (2022-08-04). "Bluey conspiracy theory surrounding top ranking of Sleepytime episode on IMDB". Kidspot. Archived from the original on 2022-08-15. Retrieved 2022-08-15.
+
+Slide
+12
+VIEW SOURCE
+Stop.png
+Spoiler Alert!
+
+This article/section may reveal details on recent or upcoming episodes.
+
+If you would like to avoid spoilers, exit the page, or proceed with caution.
+
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Slide
+Airdate
+4th June 2023 (ABC Kids)
+Cast
+Dave McCormack (Bandit)
+Episode Guide
+Previous
+Dragon
+Following
+TBA
+Slide, also known as Water Slide, is an upcoming episode of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Characters
+4 Trivia
+5 References
+Synopsis
+Bingo and Lila are excited to play on their new waterslide.[1]
+
+Episode Recap
+Warning Spoilers!
+
+Characters
+Bingo
+Lila
+Bandit
+Trivia
+The clip is uploaded by Ludo Studio as an unfinished Animatic.[2][3]
+The clip has been set to private, so it can't be watched, but is available in the gallery via a gif.
+Originally the episode was supposed to be in series 2, however this was pushed back to season three instead.
+This episode, alongside Exercise, appeared on a promotional video for ABC regarding new & returning programmes for 2023. [4]
+References
+https://www.bluey.tv/blog/updated-brand-new-bluey-more-series-3-episodes-are-coming-to-abc-kids-and-iview/
+https://vimeo.com/613262141
+https://m.youtube.com/watch?v=O-6mKR4zIao
+https://www.youtube.com/watch?v=95vBigLxLpg
+
+Slide/Script
+< Slide
+3
+VIEW SOURCE
+EpisodeGalleryScript
+
+Script.jpg
+Coming-soon.png
+
+Smoochy Kiss
+10
+VIEW SOURCE
+Stop.png
+Spoiler Alert!
+
+This article/section may reveal details on recent or upcoming episodes.
+
+If you would like to avoid spoilers, exit the page, or proceed with caution.
+
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Smoochy Kiss
+
+Broadcast Information
+Airdate
+June 21, 2022 [1]
+October 10, 2022, US
+Credits
+Episode Guide
+Previous
+Space
+Next
+Dirt
+
+Smoochy Kiss is the 35th episode of Season 3 of Bluey (TV series).
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+5 Errors
+6 References
+Synopsis
+Bluey and Bingo want Dad all to themselves and won't let Mum have a smoochy kiss! But when they try and hide him around the house, they discover that Dad has some gross habits.
+
+Episode Recap
+Warning Spoilers!
+
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Rad (picture)
+Stripe (picture)
+-Coming soon-
+
+Trivia
+This marks another instance where Bandit fluffied (farted) albeit the scene where the Bandit is about to fart then transitions to Bingo being captured by Chilli. The scene showing outcome with Bluey’s reaction of Bandit farting and/or the fart sound is not featured.
+This episode marks the first time Bandit and Chilli kissed since series 1.
+Just after Bandit is taken by Bluey and Bingo away from Chilli, the fridge beeps, as the door has been left open. This might be a reference to the episode Bingo, in which the fridge being open was a reccuring joke.
+Chilli using a cardboard box as a means of disguising herself and sneaking up on Bingo may be a reference to the Metal Gear franchise of stealth video games and its main character Solid Snake.
+Errors
+In the laundry room, the taps on the laundry tub are first seen with the hot on the left and cold on the right. In a later scene, they are switched so that the hot is on the right and cold is on the left.
+References
+https://www.foxtel.com.au/tv-guide/channel/ABC-KidsABC-TV-Plus/A2N/2022/06/21
