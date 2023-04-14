@@ -7434,7 +7434,7 @@ Bandit
 Chilli
 Floppy
 Behind the Scenes
-Behind*The_Scenes_of_Bluey!*-_Sleepytime_-\_Bluey   
+Behind*The_Scenes_of_Bluey!*-_Sleepytime_-\_Bluey  
 Music
 The soundtrack played throughout this episode is based on Holst's orchestral suite The Planets.
 the three songs are Jupiter, the Bringer of Jollity, then briefly Venus, the Bringer of Peace and Saturn, the bringer of Old Age.
@@ -7594,3 +7594,433 @@ Errors
 In the laundry room, the taps on the laundry tub are first seen with the hot on the left and cold on the right. In a later scene, they are switched so that the hot is on the right and cold is on the left.
 References
 https://www.foxtel.com.au/tv-guide/channel/ABC-KidsABC-TV-Plus/A2N/2022/06/21
+
+Space
+7
+VIEW SOURCE
+Stop.png
+Spoiler Alert!
+
+This article/section may reveal details on recent or upcoming episodes.
+
+If you would like to avoid spoilers, exit the page, or proceed with caution.
+
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+Australia.png
+Australia-Exclusive Content
+
+This article is about content exclusive to Australian audiences.
+If this content gets released elsewhere, this template will be removed.
+
+EpisodeGalleryScript
+
+Space
+
+Broadcast Information
+Airdate
+June 20, 2022 [1]
+Credits
+Episode Guide
+Previous
+Granny Mobile
+Next
+Smoochy Kiss
+
+Space is the 34th episode of Bluey from Season 3.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+5 References
+Synopsis
+Jack, Rusty and Mackenzie are all playing astronauts and they’re on a mission to get to Mars. But Mackenzie keeps going missing and no one has a clue why, not even Mackenzie himself. It turns out that Mackenzie suffers from PTSD caused by a childhood memory.
+
+Episode Recap
+Warning Spoilers!
+
+Appearances
+Characters
+Calypso
+Coco (cameo)
+Winton (cameo)
+Pretzel (cameo)
+The Terriers (cameo)
+Mackenzie’s Mum
+Jack
+Mackenzie
+Rusty
+Bluey (alien)
+Indy (alien)
+Chloe (alien)
+Trivia
+Jack Russell breaks the fourth wall when he mentions that what hit their spaceship was an asteroid, not a meteor, which MacKenzie incorrectly said. This is the second time a character looks straights into the audience and tells them something, the first is Bingo in Bingo.
+Bluey dancing at the end was replaced by yarn.
+It is implied that Mackenzie has PTSD.
+References
+https://www.foxtel.com.au/tv-guide/channel/ABC-KidsABC-TV-Plus/A2N/2022/06/20
+
+Stumpfest
+5
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Stumpfest
+
+Broadcast Information
+Airdate
+March 22, 2020
+August 14, 2020 (US)
+August 8, 2022 (CBeebies UK)
+Credits
+Episode Guide
+Previous
+Hairdressers
+Next
+Favourite Thing
+Stumpfest is the Sixth episode of Season two of Bluey (TV series).
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+3.2 Mentions
+4 Trivia
+Synopsis
+Dad and his mates hit the backyard, ready to rip up some tree stumps! But when Bluey and Bingo take over a stump as a nail salon, Dad finds he's got some negotiating to do.
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Chilli
+Uncle Stripe
+Aunt Trixie
+Muffin
+Pat
+Mentions
+Lucky
+Trivia
+Bluey is replaced by Bandit in the credits of this episode.
+Muffin appeared without Socks, first being Bike and second being The Sleepover.
+The fish pond Chilli refers to in this episode is installed in Tradies.
+Interestingly Uncle Stripe rolls up his "sleeves" despite not wearing any clothes.
+Even more interestingly is that this behavior goes unnoticed by everyone. It's unknown why a society of dogs who don't wear shirts would develop this action in the first place.
+Long Dog: This long dog is dark colored. It can be seen in it's usual place on top of the bookshelf, during the scene after Chilli stops Bluey's stump game.
+Bluey episode list
+
+Stories
+8
+VIEW SOURCE
+Stop.png
+Spoiler Alert!
+
+This article/section may reveal details on recent or upcoming episodes.
+
+If you would like to avoid spoilers, exit the page, or proceed with caution.
+
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+Australia.png
+Australia-Exclusive Content
+
+This article is about content exclusive to Australian audiences.
+If this content gets released elsewhere, this template will be removed.
+
+EpisodeGalleryScript
+
+Stories
+
+Broadcast Information
+Airdate
+June 14, 2022 [1]
+Credits
+Episode Guide
+Previous
+Musical Statues
+Next
+Puppets
+
+Stories is the 28th episode of the third season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+4 Trivia
+5 References
+Synopsis
+Indy thinks she's no good because her model horse looks like a cow, but Calypso encourages her not to give up, so she tries to fix it with a little help from Winton.
+
+Episode Recap
+Warning Spoilers!
+
+Appearances
+Calypso
+Indy
+Winton
+Bluey
+Honey
+Coco
+Chloe
+Rusty
+The Terriers
+Mackenzie
+Snickers (does not speak)
+Pretzel (does not speak)
+Major Tom (debut)
+
+Trivia
+The ending credits are played twice in this episode, albeit with the first time as a joke.
+The Animators section in the first set of credits contain gag names. Nearly all of the first set of gag names to appear are intended to sound like job titles in the animation industry (e.g., Annie Mata is used to sound like Animator); all of the second set are intended to sound like dog breeds (e.g., Beau Decoli is used to sound like Border Collie).
+This is the only episode, alongside Curry Quest (albeit loosely in that episode) where events are narrated.
+Winton transforms himself into a car in the episode, a reference to Transformers.
+Major Tom is voiced by Lin-Manuel Miranda.
+This is the second instance where a character is voiced without an Australian accent. The first was Yoga Instructor (Eva Mendes).
+The ABC IView captions read "I'm locking this story!" instead of "I'm liking this story!"
+Indy and Winton's voices sound slightly deeper in this episode, probably because their voice actors have grown older.
+References
+https://www.foxtel.com.au/tv-guide/channel/ABC-KidsABC-TV-Plus/A2N/2022/06/14
+
+Sticky Gecko
+8
+VIEW SOURCE
+EpisodeGalleryScript
+
+Sticky Gecko
+
+Broadcast Information
+Airdate
+March 28, 2020
+March 17, 2020 (iView app)
+August 7, 2020 (US)
+August 16, 2022 (CBeebies UK)
+Credits
+Episode Guide
+Previous
+Charades
+Next
+Dad Baby
+Sticky Gecko is the Twelfth episode of Season two of Bluey (TV series).
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 Trivia
+Synopsis
+Mum must get Bluey and Bingo out the door in time for a playdate, but they can't leave before they finish their game - waiting for a sticky rubber gecko to drop from the ceiling.
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey
+Bingo
+Chilli
+Judo (mentioned)
+Wendy (mentioned)
+Mort (pictured, mentioned)
+Trivia
+Judo and Wendy were going to appear in a park scene, but it was cut out in the end.
+Running Gag: Bluey and Bingo kept slowing down Chilli, which resulted her to snap near the end.
+This episode shows only the front of the house most of the episode.
+In the Australian version of this episode, when Chilli uses Chattermax to bring sticky gecko down, Chilli says “Dammit. Really stuck!”. This line was removed in US releases, as the word dammit is considered profane in the US. Australian releases were not affected by this, due to the word not being considered a profanity word in Australia.
+When Chill times Bingo to clean her teeth and in under a minute, Bingo takes 98 seconds to brush her teeth, while taking 193 seconds to put on her rollerskates.
+Throughout the episode, the weather outside can be seen getting worse as Chilli's patience becomes worse. Converseley, after Chili explains to Bluey as to why they must hurry the stormy weather clears and a brighter sky is visible.
+Sticky Gecko can be seen in a box with other Sticky Geckos in the toy shop in Ice Cream.
+Squash
+5
+VIEW SOURCE
+EpisodeGalleryScript
+
+Squash
+
+Broadcast Information
+Airdate
+March 20, 2020
+July 17, 2020 (US)
+August 4, 2022 (CBeebies UK)
+Credits
+Episode Guide
+Previous
+Featherwand
+Next
+Hairdressers
+
+Squash is the Fourth episode of Season two of Bluey (TV series).
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+3.1 Characters
+4 International
+5 Trivia
+6 Errors/Goofs
+Synopsis
+When dad and Uncle Stripe play a game of squash, Bluey and Bingo are in control of their every move, and Bingo proves that big siblings don't always beat little siblings.
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+Characters
+Bluey
+Bingo
+Bandit
+Uncle Stripe
+International
+💙 Rodzinna rozgrywka - Blue - Disney Junior Polska
+💙 Rodzinna rozgrywka - Blue - Disney Junior Polska
+💙 Partida de squash - Blue - Disney Junior România
+💙 Partida de squash - Blue - Disney Junior România
+Trivia
+Bluey and Bingo play a style of the first video game, pong.
+Bandit doesn’t really believe in the big brothers beating little brothers, as seen when he suddenly lost his confidence when Bluey said she would make him lose.
+Bluey’s line, “How very dare you!” is reused from Kids.
+Dogs do not sweat anywhere near as heavily as depicted in this episode and the series in general. Though dogs sweat a small amount from between their toes and their “armpits”, their primary means of cooling their bodies down is by panting with an open mouth.
+
+EpisodeGalleryScript
+
+Script.jpg
+Coming-soon.png
+
+Spy Game
+8
+VIEW SOURCE
+EpisodeGalleryScript
+
+Spy Game
+
+Airdate
+13th October, 2018 (ABC Kids)
+12th September 2019 (Disney Channel(US)
+5th November 2019 (Disney Channel(UK)
+5th May 2021 (CBeebies (UK))
+26th May 2021 (Disney Junior India)
+16th July 2021 (CBeebies (Asia))
+Created and Written by
+Joe Brumm
+Cast
+Dave McCormack (Bandit
+Melanie Zanetti (Chilli)
+Richard Jeffery (Mackenzie's Dad)
+Francis Stanton (Chloe's Dad)
+Sam Moor (Daisy)
+Charlie Aspinwall (Marcus)
+Credits
+Producers
+Michael Carrington (Executive-ABC)
+Henrietta Hurford-Jones(Executive-BBC Worldwide)
+Nathan Waddington (Associate-BBC)
+Charlie Aspinwall (Executive)
+Daley Pearson (Executive)
+Sam Moor (Line Producer)
+Music & Sound
+Joff Bush (Music)
+Russell Thornton (Music)
+Dan Brumm (Sound Design)
+Joe Hoonhout (Recording Engineer)
+Production
+Laura Dimaio (Development Production Manager)
+Meg O'Connell (Development Manager)
+Andi Spark (Production Manager)
+Lauren Brown (Production Coordinator)
+Andy Blazewell (Technical Advisor)
+Simon Lipowicz (Technical Advisor)
+Designers
+Catriona Drummond (Art Director)
+Costa Kassab (Art Director)
+Faith Chen (Art Director)
+Owain Emmanuel (Lead)
+Mike Chavez (Storyboard)
+Jake Bresanello
+Trudi Monteath
+Jim Nolan
+Background Artists
+Josh Hall
+Daniela Hammer
+Connor M. Johnston
+Animation
+Richard Jeffery (Director)
+Claire Renton(Lead)
+Kathleen Hirst
+Loko Lui
+Naomi Scutts
+Dan Smith
+Nani Thomann
+Liana Wright (Layout)
+VFX
+Jacob McCann
+Francis Stanton
+Editors/Post-Production
+Sam Carroll (Script Editor)
+Michael Griffin (Editor)
+Grant Sundin (Online Post Production)
+Episode Guide
+Previous
+Bob Bilby
+Following
+Takeaway
+Spy Game is the 13th episode of the first season of Bluey.
+
+Contents
+1 Synopsis
+2 Episode Recap
+3 Appearances
+4 Trivia
+5 Errors
+Synopsis
+When Bingo stops playing Bluey’s spy game in the park, their device to control the grownups stops working properly. Bluey now sees how important Bingo is and needs to win her back![1]
+
+Episode Recap
+Warning Spoilers! ->
+Appearances
+The Heeler Family:
+Chilli
+Bandit
+Bluey
+Bingo
+The Border Collie Family:
+Mackenzie's Mum(debut)
+Mackenzie's Dad
+Mackenzie
+The Dalmatian Family:
+Chloe’s Mum
+Frank
+Chloe
+The Beagle Family:
+Daisy
+Marcus (Debut)
+Honey (Debut
+Trivia
+This is the first appearance of Honey, Frank, Marcus, Daisy, and Mackenzie’s Mum.
+This is also the first time that Chloe's Mum is seen without her newborn.
+Most of the voice actors of the parents work in the production of Bluey: Richard Jeffery is the animation, and later series director, for the show (Mackenzie's Dad); Francis Stanton in VFX (Chloe's Dad); Sam Moor as Line Producer (Daisy) and Charlie Aspinwall is co-executive director (Marcus)
+There is a fourth wall break when Bingo sings the line "One man and his dog..." in the bathroom, implying that humans exist.
+The barbecue location is based on the real world public barbecues in [Farm Park], next to the Brisbane Powerhouse.
+Errors
+As Bluey and Mackenzie leave to gain some more hairs for the potion, Honey and Chloe are seen in a smilling position before immediately cutting to a lookout position with no transition.
+When the kids try to make Chilli dance, Bandit is at the barbecue when he should still be at the bathroom with Bingo.

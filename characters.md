@@ -9970,3 +9970,303 @@ Trivia
 Her fur colour is different from that of her son's.
 Gallery
 Coming-soon
+
+Socks Heeler
+64
+VIEW SOURCE
+Socks Heeler
+Current
+Previous
+Current
+Characteristics
+Breed
+Blue Heeler
+Gender
+Female ♀
+Male ♂ (Dutch dub)
+Age
+1 (S01)
+2 (S02-present)
+Traits
+Eyes
+Black
+Fur
+Blue, light blue, very dark blue, light tan, white, brown and dark brown.
+Personal Status
+Relative(s)
+Stripe (father)
+Trixie (mother)
+Muffin (older sister)
+Rad (uncle)
+Frisky (aunt)
+Bandit (uncle)
+Chilli (aunt)
+Bluey (cousin)
+Bingo (cousin)
+Bob (grandfather)
+Chris (grandmother)
+Friend(s)
+Frisky
+Media
+First Appearance
+BBQ
+(Production Appearance: Horsey Ride)
+
+Socks Heeler is a secondary character that has appeared in multiple episodes of Bluey and Muffin's baby sister.
+
+Contents
+1 Bluey.tv Description
+2 Appearance
+3 Biography
+4 Personality
+5 Appearances
+6 Absences
+7 Trivia
+8 Gallery
+8.1 Artwork
+8.2 Screenshots
+
+AD
+Bluey.tv Description
+"Muffin’s baby sister is just starting to talk."
+
+Appearance
+Socks is a Blue Heeler with three different shades of blue all over her fur and a bit of dark brown at the start of her tail, and light brown after it. She has a black nose and bright beige for the insides of her ears. She has dark blue on both of her ears and a splash on the left side of her head and a subtle spot connected to the start of her tail. She has bright blue for her socks, stomach, and tail and a stripe in the middle of her forehead. She also has freckles on her muzzle.
+
+Biography
+Socks is the daughter of Stripe and Trixie, the cousin of Bluey and Bingo and the younger sister of Muffin. She is the niece of Bandit and Chilli and the granddaughter of Bob and Chris.
+
+Personality
+At the beginning of Season 1, Socks acts like a regular puppy. She barks, walks on all fours, and bites toys and people. She sometimes growls and bites people including her father and Bandit. Due to her young age, she has trouble understanding what she does wrong like biting Bluey, but can also be quite sensitive too.
+
+By Season 2, Socks can walk and talk like the rest of her family, but still has a few dog-like traits.
+
+Appearances
+S01E07 - BBQ
+S01E09 - Horsey Ride
+S01E28 - Grannies (pictured)
+S01E32 - Bumpy and the Wise Old Wolfhound
+S01E36 - Backpackers
+S01E43 - Camping (cameo)
+S01E52 - Verandah Santa
+S02E11 - Charades
+S02E21 - Escape (pictured)
+S02E45 - Handstand (deleted scene)
+S02E52 - Christmas Swim
+SN/AEN/A - Humpty Dumpty
+SN/AEN/A - Honk
+S03E01 - Perfect (pictured)
+S03E14 - Pass the Parcel
+S03E19 - Pizza Girls
+S03E24 - Faceytalk
+Absences
+S01E11 - Bike
+S01E40 - The Sleepover
+S02E06 - Stumpfest
+S02E30 - Library
+S02E43 - Muffin Cone
+S02E47 - Ice Cream
+S03E33 - Granny Mobile
+Trivia
+In her first appearance, fans thought that Socks was male. Similar to Bluey and Bingo. However, this was proven wrong.
+In the Dutch dub, however, Socks is male.
+Her name likely refers to how her paws are a lighter shade of blue than the rest of her coat and have stripes above them, making her look like she's wearing socks.
+Her favourite coloured capsicum is green (bell pepper in international editions).
+She is young and is still learning to act like her family.
+In Honk and Horsey Ride, Stripe calls her Rock-Socks.
+She can say “Green Capsicum” and "Green Pepper" vaguely but pronounces it as "Gleen pepper"/"gleen capshimun", but can say “Ballerina” clearly, as seen in Charades.
+In Christmas Swim, she can say "Pizza" and "Merry Christmas."
+Socks walks on all fours throughout Season 1 and most of Season 2. However, in Baby Race, Bluey and her friends were all seen learning to walk as human babies.
+Some people theorized this was a genetic trait, but some theorized that Socks was autistic.
+Despite Bluey having a crib in Baby Race, Socks had a dog bed in Verandah Santa. This may indicate that this happens often.
+It is possible that Socks was going through a phase where she acted like a dog.
+Recent information concludes that there was an error in Baby Race where the team forgot to make the babies walk like puppies
+In Backpackers and Charades, Socks can be seen with a straight and upright body compared to her usual dog-like posture.
+In Christmas Swim, she is seen walking on two legs.
+Her, Pom Pom, Lulu and Chloe's baby brother are the youngest characters in Bluey.
+She is one of the few characters in the series to have a lying down sad pose, as seen in Verandah Santa. The other one being Bingo Heeler, in Yoga Ball.
+In the new short, Honk, it is shown that Socks is finally now able to talk and walk.
+When Socks grew into a toddler, the stripes on her paws disappeared.
+Gallery
+Artwork
+Socks
+Muffin-Socks
+Socks with her sister
+Stripe-Trixie-Muffin-Socks
+Socks and her family
+Screenshots
+BBQ-screen
+Socks having salad and hotdogs along with her family
+Horsey Ride-screen
+Socks in Sparkle's and Gallahop's wedding
+Backpackers-screen
+Socks and her 2 cousins planning on what game to play
+Veranda1
+Socks sleeping along with her aunt, uncle and family
+Veranda3
+Socks sulking after not getting anything in Bluey's game
+Charades2
+Socks and the others playing Charades with Nana
+The Heelers opening their presents
+The Heeler family opening their Christmas presents
+
+Surfer
+6
+VIEW SOURCE
+Surfer
+
+Characteristics
+Breed
+Rough Collie
+Gender
+Female ♀
+Traits
+Eyes
+Black
+Fur
+White, tan and dark brown.
+Media
+First Appearance
+Markets
+(Production Appearance: The Beach)
+Voice Actor
+Layne Beachley
+"But they only last a day, little mermaid. So enjoy them." ― The surfer talking to Bluey.
+
+Surfer is a secondary character that has appeared in multiple episodes of Bluey.
+
+Contents
+1 Appearance
+2 Biography
+3 Appearances
+4 Trivia
+5 Gallery
+5.1 Screenshots
+
+AD
+Appearance
+Surfer is a Rough Collie with white, tan and dark brown fur. She has white feet, bottom tail, hands, chest, nose streak, chest hair and bottom head hair, tan legs, top tail, arms, torso, muzzle and eyebrows, and dark brown ears and head hair. She also has a dark brown nose and a large tuft of white fur on her chest
+
+Biography
+She has no known family members as of yet.
+
+Appearances
+Markets
+The Beach
+Copycat
+Dance Mode
+Charades (cameo)
+Piggyback
+S2E37 - The Quiet Game (cameo)
+Trivia
+She has a pet goldfish.
+She sells honey products in the Market.
+When surfing, she wears a bracelet that connects to a lead on the front of her surfboard, so it doesn't float away if she wipes out.
+She is voiced by Australian former professional surfer and seven-time world surfing champion, Layne Beachley who is also the chair of Surfing Australia, the main government body for surfing in Australia.
+Gallery
+Screenshots
+Surfer2
+Surfer on the Beach.
+Copycat-screen
+Surfer with her pet goldfish at the Vet.
+
+Stripe Heeler
+12
+VIEW SOURCE
+Stripe Heeler
+
+Characteristics
+Breed
+Blue Heeler
+Gender
+Male ♂
+Traits
+Eyes
+Black
+Fur
+Blue, light blue, very dark blue, brown and dark brown
+Personal Status
+Relative(s)
+Trixie (wife)
+Muffin (daughter)
+Socks (daughter)
+Bandit (older brother)
+Rad (oldest brother)
+Chilli (sister-in-law)
+Bluey (niece)
+Bingo (niece)
+Bob (father)
+Nana (mother)
+Friend(s)
+Pat
+Frisky
+Media
+First Appearance
+BBQ
+(Production Appearance: Horsey Ride)
+Voice Actor
+Dan Brumm
+
+Stripe Heeler (also known as Uncle Stripe) is a secondary character that has appeared in multiple episodes of Bluey.
+
+Contents
+1 Bluey.tv Description
+2 Appearance
+3 Biography
+4 Appearances
+5 Trivia
+6 Gallery
+6.1 Artwork
+
+AD
+Bluey.tv Description
+"Dad’s younger brother and Bluey and Bingo's uncle."
+
+Appearance
+Stripe is a Blue Heeler with blue, light blue, very dark blue, brown and dark brown fur. He has blue legs, arms, torso and head, light blue feet, feet rings, hands, torso and back stripe and a muzzle with beard whiskers on it. His tail has a very dark blue tip, inner right head spot and outer ears, brown eyebrows, outer right head spot and middle tail, and dark brown inner ears and tail stem. He also has a black nose. His left ear is bent. And he has rice-shaped chest hairs on his chest.
+
+Biography
+Stripe is the husband of Trixie, the younger brother of Bandit and Radley, the father of Muffin and Socks, and brother-in-law of Chilli, the uncle of Bluey and Bingo and the son of Bob and Nana.
+
+Appearances
+S01E07 - BBQ
+S01E08 - Fruitbat (Bluey's dream)
+S01E09 - Horsey Ride
+S01E12 - Bob Bilby (cameo)
+S01E32 - Bumpy and the Wise Old Wolfhound
+S01E39 - The Sleepover
+S01E43 - Camping (cameo)
+S01E52 - Verandah Santa
+S02E04 - Squash
+S02E06 - Stumpfest
+S02E11 - Charades
+S02E30 - Library
+S02E43 - Muffin Cone
+S02E45 - Handstand
+S02E47 - Ice Cream
+S02E52 - Christmas Swim
+SN/AEN/A - Honk
+S03E10 - Magic (pictured)
+S03E13 - Housework (pictured)
+S03E19 - Pizza Girls
+S03E22 - Whale Watching (mentioned)
+S03E24 - Faceytalk
+S03E26 - Fairytale
+S03E35 - Smoochy Kiss (pictured)
+Trivia
+He is voiced by the show's sound designer and producer’s brother, Dan Brumm.
+He calls his sister-in-law "Chilli Dog," as revealed in Library.
+A kid version of Stripe can be seen in Fairytale
+Stripe is also revealed to be the youngest brother in Squash.
+It is revealed that he was teased by Bandit when he was younger because of his height and that he didn't like it so he also decided to refuse to say his name even when he helped him.
+
+Gallery
+Artwork
+Stripe
+Stripe-Trixie-Muffin-Socks
+Uncle Stripe and Family.
+BBQ-screen
+Uncle Rad, Stripe & Bandit Heeler Riding - Fairytale
+Stripe and his brothers as kids
+2D79D3AE-F456-41DB-8D54B8CB84BFAA58
+As a teenager, but covered up by Muffin

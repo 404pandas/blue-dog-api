@@ -22437,3 +22437,1434 @@ They finally kiss. Bluey and Bingo groan and gag, then run out of the room.
 The music during the credits is the episode music. Bluey is replaced with Chilli under the cardboard box. She slowly inches forward as the credits progress.
 
 reference- https://youtu.be/5madtiLf7DI?t=77
+
+<!-- Space/Script
+< Space
+1
+VIEW SOURCE
+EpisodeGalleryScript
+
+Script.jpg
+Coming-soon.png -->
+
+Stumpfest/Script
+< Stumpfest
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+EpisodeGalleryScript
+
+Script.jpg
+
+The episode begins with Bluey and Bingo playing Miss Mary Mack on the seat surrounding the big tree in the backyard.
+
+Bluey and Bingo: (singing) Miss Mary Mack, Mack, Mack, all dressed in bla-
+
+The two are interrupted by Bandit and Stripe, in celebration of their upcoming Stumpfest.
+
+Bandit: (yelling) Stumpfest!
+
+Stripe: Yeah, Stumpfest! Whoo!
+
+Bluey: (confused) What's going on?
+
+Muffin: (excited) Stumpfest! (stumbles) Oof!
+
+TITLE CARD: Stumpfest
+
+Bluey: This episode of Bluey is called Stumpfest.
+
+END TITLE CARD
+
+The scene cuts to Bluey, Bingo and Muffin with Bandit, Stripe and a tree stump.
+
+Bluey: (confused) What's Stumpfest?
+
+Bandit: Well, we're gonna rip up this stump, and then, that stump.
+
+Bluey, Bingo and Muffin: Ooh!
+
+Stripe: Put on some tunes, you kids'll play...
+
+Pat appears, climbing over his fence.
+
+Pat: And the ladies watch us get all sweaty! Right, ladies?!
+
+The scene cuts to Chilli and Trixie on the balcony, looking down on the event.
+
+Chilli: You got it, Lucky's dad!
+
+Chilli and Trixie cheer the boys on, to which they reply with another cheer. Bandit reveals his axe.
+
+Bandit: Now, let's kick this off!
+
+Bandit makes a mark in the stump with his axe. The girls run away screaming and laughing, finding another stump to hide behind.
+
+Bingo: What do we play?
+
+Bluey: Ooh, I know! Let's set up a nail salon on this stump.
+
+Bingo and Muffin: Yeah!
+
+Bluey: Dad! We're just gonna use this stump for our nail salon.
+
+Bandit: That's fine, Bluey, but you've got 'til we've finished with this stump, okay?
+
+Bluey: Okay!
+
+In the background, Pat and Stripe are working on removing a stump.
+
+Bandit: 'Cause then, we're gonna come and do that one.
+
+Bluey: Yep.
+
+Bandit: So, you understand that eventually, we're gonna come and rip up that stump.
+
+Bluey: Yes, I got it!
+
+Bandit: 'Cause it's Stumpfest, and that's a stump.
+
+Bluey: Got it; Stumpfest.
+
+The scene cuts to the stump that the girls plan to build a nail salon on.
+
+Bluey: Okay, let's start the nail bar.
+
+Bingo and Muffin: Hooray!
+
+The girls set up their nail salon, painting and decorating the stump in the process.
+
+Meanwhile, Pat and Stripe are playing around while Bandit works on removing a stump.
+
+The scene then cuts to Chilli getting her nails painted by Bluey at the salon stump.
+
+Chilli: Oh, great finish.
+
+Trixie: Thanks, ladies.
+
+Chilli: I told you this place was great.
+
+Chilli and Trixie leave the salon as the walk back to the balcony.
+
+Bluey: Come back soon!
+
+Bingo: We need more customers.
+
+Bluey turns to Bandit, seeing as him and the boys are the only ones around that haven't visited.
+
+Bluey: Dad! Can you be our customer?
+
+Bandit: Nah; stump.
+
+The scene cuts to Pat and Stripe, who have almost removed the first stump.
+
+Stripe: (to Pat) Oh, you've almost got it, you've almost got it!
+
+Pat successfully lifts the stump, and the boys cheer in celebration. Chilli and Trixie cheer for the removal as well,
+
+Bandit: Yes!
+
+Stripe: Take that, stump!
+
+Back at the salon stump, Bluey reconsiders her plan.
+
+Bluey: (to Muffin) We'll just do your toenails.
+
+Muffin: Okay!
+
+Bluey: (as she paints) So, been up to much?
+
+Muffin: No.
+
+Bluey: Oh, that's very interesting.
+
+Bandit, Stripe and Pat arrive, looking to remove the salon stump.
+
+Bandit: Hi.
+
+Bluey: Ooh, hello! Are you here to have your nails done?
+
+Bandit: Well, no; we're not here to have our nails done.
+
+Stripe: We're here for that stump.
+
+Bandit: As I'm sure you are aware.
+
+Bluey: (in shock) Excuse me? It's the first I've heard about all this.
+
+Bandit: You guys need to move the beauty parlour so we can rip up that stump.
+
+Bingo: It's not a beauty parlour; it's a nail salon.
+
+Muffin: And it's our nail salon!
+
+Bluey, Bingo and Muffin: Yeah!
+
+Bandit: Bluey, I was pretty clear: you could use this stump for your nail bar for as long as it took us to rip up that stump.
+
+Bluey: I don't remember agreeing to that!
+
+Bandit: Well, I do. Now, come on. Vamoose!
+
+The girls rush to protect their salon stump.
+
+Bluey, Bingo and Muffin: No!
+
+Bandit: Get outta the way!
+
+Bluey: (to Bingo and Muffin) Everyone, link arms!
+
+Bluey, Bingo and Muffin: Hmm!
+
+Bluey: Save our stump!
+
+Bluey, Bingo and Muffin: (chanting) Save our stump!
+
+Bandit: Outta the way, kids!
+
+The girls keep chanting as they block the boys' path.
+
+Bandit: (yelling) Chilli!
+
+The scene cuts to the ladies on the balcony.
+
+Chilli: (joking) Oh, leave them alone!
+
+Trixie nods to that statement.
+
+Bandit, Stripe and Pat: What?!
+
+Chilli: They're just trying to run a small business!
+
+Trixie: Go and destroy the planet somewhere else!
+
+Stripe: Destroy the planet?
+
+Pat: It's a stump!
+
+Chilli: Oh, leave that poor stump alone.
+
+Bandit: You're the one who wanted it gone!
+
+Chilli: (to Trixie) Oh, yeah, that's true; I want to put in a fish pond.
+
+Trixie: Oh!
+
+Chilli: (to the boys) Booooo!
+
+Trixie: Save our stump!
+
+Bluey, Bingo, Muffin, Chilli and Trixie: (chanting) Save our stump!
+
+Bandit: Okay, the optics on this aren't good.
+
+Stripe: We can take 'em!
+
+Bandit: Nup, nup. Back up, fellas. Back up! (to the girls) Kids, let's calm this down. Is there anything we can do to settle this?
+
+Bluey: Hmm... One second.
+
+The girls huddle to figure out a negotiation.
+
+Bluey: (whispering) What do you reckon?
+
+Bingo: (whispering) They should be our customers.
+
+Bluey: (to Bandit) Okay, we'll let you have the stump if you'll be our customers.
+
+Bandit: You mean, you'd do our nails?
+
+Bingo: Fingers and toes.
+
+Bluey: And face make-up.
+
+Bandit: Oh, man. The boys aren't gonna like this.
+
+Bluey, Bingo and Muffin: (all giggling)
+
+Stripe: Oh, man!
+
+Pat: What?! No way! I don't wanna get my nails done!
+
+Bandit: This is the best we're gonna get.
+
+Others like you also viewed
+Winton
+
+<!-- Stories/Script
+< Stories
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+
+
+EpisodeGalleryScript
+
+
+[It zooms in on the school, while Calypso narrates.]
+
+Calypso: One day Indy's class were making animals out of beeswax.
+
+[It shows everyone at the table making different animals]
+
+Calypso: The Terriers were making Piranhas.
+
+The Terriers: Rawr!!
+
+Calypso: Bluey was making a whale.
+
+[Bluey is rolling up beeswax]
+
+Calypso: And Winton was..
+
+[Winton comes up from under the table, with a beeswax booger in his hand]
+
+Winton: Achoo!
+
+Bluey: Ah!
+
+Winton: Booger!
+
+The Class: Ewww!
+
+Calypso: And well, Winton was Winton.
+
+[Calypso takes Winton to sit by Indy]
+
+Calypso: And Indy, the hero of this story, was making a horse. She worked at it very hard.
+
+[It shows Indy building the horse out of yellow beeswax]
+
+Calypso: First she built the body.
+
+[It shows how she makes it]
+
+Calypso: Then the legs.
+
+Calypso: Then the tail.
+
+Calypso: And finally, the head.
+
+Indy: Horsie! Neigh!
+
+[It shows Indy playing with the horse]
+
+Calypso: She was very happy with it.
+
+[Indy shows it to Bluey]
+
+Indy: Hey, Bluey, Look!
+
+Bluey: Ooh, wow!
+
+Calypso: But, there was a problem.
+
+Bluey: Thats a great cow, Indy!
+
+[Indy is confused]
+
+Indy: Cow?
+
+Calypso: Indy's horse looked like a cow.cow.
+
+
+Rusty: Nice cow, Indy!
+
+[Indy is upset]
+
+Indy: It's not a cow, it's a horse!
+
+Chloe: No, that's a cow.
+
+[Indy looks at her "cow", angry]
+
+Indy: Winton?
+
+[Winton is wearing beeswax glasses and a beeswax mustache]
+
+Winton: Yes?
+
+Indy: Winton..
+
+[Winton giggles]
+
+[From the other side of the table]
+
+Coco: Winton, why cant you just be good?
+
+Winton: Because im not good.
+
+[Winton grabs some red beeswax and starts punching it, while Indy walks away]
+
+Calypso: Indy was very upset.
+
+[Indy is under a mini table, sad]
+
+[Calypso comes over to her]
+
+Calypso: She was so upset, when her teacher came to see if she was alright, Indy said:
+
+Indy: I dont want to make animals out of beeswax ever again.
+
+Calypso: Ah, goodness me, tell me why, Indy.
+
+Indy: Because my horse looks like a cow!
+
+[Calypso takes the horse and looks at it then puts in on the mini table
+
+Calypso: And why do you think that is?
+
+Indy: Because..
+
+[She pauses]
+
+Calypso: And then, Indy said something very sad.
+
+Indy: Im not very good..
+
+[She shuts her eyes]
+
+Winton: PFFFTT! Plop! Hahaha!
+
+[Winton pretends to poop out a beeswax poop]
+
+[It zooms out of the room, showing the school again]
+
+Calypso: So, rather then work at it, Indy never made anything out of beeswax ever again.
+
+Indy: What? Why?
+
+Calypso: Because she told herself she wasnt very good.
+
+Indy: Oh, yeah i did. And its true, im not.
+
+Calypso: The End.
+
+[Credits roll, but not quite yet..]
+
+[Winton kicks some of the letters and dances]
+
+Indy: I dont like that story, Calypso.
+
+Calypso: me neither, but it's your story.
+
+[Winton points at himself]
+
+Winton: I liked how i was in it.
+
+WIP -->
+
+Sticky Gecko/Script
+< Sticky Gecko
+VIEW SOURCE
+EpisodeGalleryScript
+
+Script.jpg
+The episode opens with an establishing shot of the Heeler house. It is a windy day, and someone is flying a kite. The scene cuts to the entryway. A toy cable car system has been set up between the table at the front door and the staircase landing. The cableway has two baskets on it, that can be sent from one end to the other by cranking a handle.
+
+Chilli ducks under the cable to grab her keys, a bag, and a picnic blanket. She ducks it again as she opens the front door.
+
+Chilli: Come on, kids. We have to go. Quick sticks!
+
+Bluey pops her head over the stair railing.
+
+Bluey: Oh, why?
+
+Chilli: We're meeting Judo at the park. If we don't get a move on, we'll be late.
+
+Bluey: Oh, can we not go just yet?
+
+Chilli: Why not?
+
+Bluey: Just...because?
+
+Chilli: That's not a reason. Now, where's your hat?
+
+Bluey: I don't know.
+
+Bingo walks in.
+
+Chilli: Well, find it. We're leaving in one minute.
+
+Bingo stretches out her arms.
+
+Bingo: Is one minute this long?
+
+Chilli pushes Bingo's hands together; to about the width of Bingo's muzzle.
+
+Chilli: More like this long. Have you cleaned your teeth?
+
+Bingo: Yeah.
+
+Chilli: Show me.
+
+Bingo opens her mouth -- her teeth are stained green and yellow, and have vegetables stuck in them.
+
+Bingo: Aaaah!
+
+Chilli: When did you clean them?
+
+Bingo: Last night.
+
+Chilli: Okay, go and clean your teeth.
+
+Bingo: Aww!
+
+Chilli: Come on. I'll time you.
+
+Chilli gets down on one knee and pantomimes holding a stopwatch. Bingo wags her tail excitedly.
+
+Chilli: Ready, set, go!
+
+Chilli: (imitating a stopwatch) Chik-chik-chik-chik-chik!
+
+Bingo Ahhhh!
+
+Bingo runs off screaming.
+
+Bluey: Bingo, package!
+
+Bingo: Aah!
+
+Bingo skids to a stop, turns around, and runs to the door, ducking between Chilli's legs. Meanwhile, Bluey is sending something down the cableway.
+
+Chilli: Ah! Hey! Bluey, hat. Bingo, teeth.
+
+Bluey: I just need to deliver this.
+
+Chilli: Deliver what?
+
+Bingo pulls a purple gel gecko out of the cableway basket.
+
+Bingo: Sticky gecko!
+
+Chilli: Oh, no.
+
+Bingo throws the sticky gecko on the ceiling.
+
+Bluey and Bingo: Hooray!
+
+TITLE CARD - Sticky Gecko
+
+Bluey: This episode of Bluey is called Sticky Gecko.
+
+END TITLE CARD
+
+Cut to a close-up of the gecko, stuck to the ceiling. One leg comes unstuck with a squelch.
+
+Cut back to the entranceway. Bingo is waiting underneath the gecko, arms raised to catch it.
+
+Bingo: Come to mama, little Gecky.
+
+Chilli: I'm still timing you, Bingo! (imitates stopwatch) Chik-chik-chik-chik!
+
+Bluey runs down the stairs.
+
+Bingo: But I have to catch Gecky.
+
+Bluey: You brush your teeth. I'll catch Gecky.
+
+Bingo: Okay.
+
+Bingo runs offscreen.
+
+Chilli: No, you find your hat. I'll catch Gecky.
+
+Chilli shoos Bluey over to the hatrack, and puts her arms out to catch Gecky. Bingo looks over the railing.
+
+Bingo: Keep timing!
+
+Chilli: (imitates stopwatch) Chik-chik-Chik-chik!
+
+Bluey: I can't find it.
+
+Chilli: Have you looked?
+
+Bluey: Yeah, I've looked everywhere.
+
+Chilli groans and points to the hat rack.
+
+Chilli: There it is.
+
+Bluey: Oh, yeah!
+
+Bluey climbs on a bench to reach the hat rack.
+
+Chilli: Come on, Gecky.
+
+Bluey looks at the photo of Mort in uniform that hangs by the front door.
+
+Bluey: What was it that Granddad used to say when he was a soldier?
+
+Chilli: Hurry up and wait.
+
+Bingo walks in eating a banana.
+
+Bingo: Heehee! Hurry up and wait.
+
+Chilli: Bingo, teeth!
+
+Bingo: Oh, yeah!
+
+Bingo throws the banana to Chilli and runs off.
+
+Bluey knocks over the hat rack.
+
+Chilli: Whoa!
+
+Bluey: Sorry.
+
+Chilli: Are you okay?
+
+Bluey: Yeah, I'm okay.
+
+Chilli: Good. Now, help me tidy this up.
+
+Bluey: Oh, why do I have to help?
+
+Chilli gives her a death glare.
+
+Bluey: Ooh, okay.
+
+Bingo appears at the railing, mouth full of toothpaste foam. She points with an electric toothbrush.
+
+Bingo: Aah! Who's catching Gecky?
+
+Chilli drops the hats and banana to hold her arms out to Gecky.
+
+Chilli: Uh, I am!
+
+Bingo: My banana!
+
+Bluey: I'll get it! Here it comes!
+
+Bluey puts the banana in the basket and cranks it up to the landing. Bingo takes it while brushing her teeth.
+
+Bingo: (with her mouth full) Thanks, Bluey!
+
+She bites into the banana.
+
+Bingo: Blah! Toothpaste-y!
+
+She puts the banana back in the basket; gravity carries it back down. Bluey is now wearing her hat. Chilli rapidly tidies up the hats.
+
+Chilli: Okay, let's go. I need you out the door in one minute.
+
+Bluey: Can I have my hat like Granddad's, with the side bit up like that?
+
+Chilli: Oh, look, Bluey...
+
+Bluey: Please?
+
+Chilli: Okay. Go and get a badge, but hurry up!
+
+Bluey runs off. She trips over the hat rack, knocking it over again.
+
+Bluey: Aaah! Sorry!
+
+Bluey's hat falls off.
+
+Chilli: Ughhh!
+
+Chilli starts to pick up hats.
+
+Bingo: Time for rollerskates!
+
+Bingo drops a pair off rollerskates from the landing with a loud thud, startling Chilli.
+
+Chilli: Aah!
+
+Bingo: Mum, Gecky!
+
+Chilli resumes gecko-catching position.
+
+Chilli: Sorry! Come on, Gecky!
+
+Bingo shows Chilli her now-clean teeth.
+
+Chilli: (imitates stopwatch) Chik-chik Stop! Woah, one minute. Well done! Now, let's get going.
+
+Bingo: I'm just gonna put on my rollerskates.
+
+Chilli: Bingo, there's no time!
+
+Bingo: Aww!
+
+Chilli: Oh, alright, let me put them on for you.
+
+Bingo: No, you have to time me.
+
+Chilli': Okay. Ready, set, go. (imitates stopwatch) Chik-chik-chik-chik-chik!
+
+Bingo: And we can't leave before Gecky falls off.
+
+Chilli: Oh, look. I'm gonna give him a hand, alright?
+
+Bluey appears at the railing. She's holding up a gold Australia badge.
+
+Bluey: I found a badge!
+
+She places a badge in the cable basket and starts cranking it down.
+
+Chilli: Great. Bluey, can you please grab me my hockey stick? I need to get Gecky down.
+
+Bluey: Okay.
+
+Bluey stops cranking halfway and runs off. Bingo is just starting to tie her laces.
+
+Bingo: The rabbit goes round the garden...nope, nope, try again.
+
+Bluey brings in a squawking Chattermax.
+
+Bluey: Look who I found!
+
+Bingo: Chattermax!
+
+Chilli: Bluey, hockey stick!
+
+Bluey: I couldn't find it!
+
+Chilli: Did you look? Oh, never mind. Give me that. I'll use Chattermax.
+
+Chilli drags over a foot stool and stands on it. She repeatedly bashes a squawking Chattermax against the ceiling in an attempt to knock down Gecky.
+
+Chilli repeatedly hits Chattermax's head on the ceiling in an attempt to get Gecky down. Her line while she does so was changed for Disney releases.
+
+Chilli: (Australian version) Dammit! Really stuck!
+Chilli: (Disney version) This thing is really stuck!
+Bingo: Gecky doesn't like being rushed.
+
+Chattermax: Poo poo! Poo poo!
+
+Chattermax fires a barrage of chattersnax out of its bum, right in Chilli's face. Chilli falls off the stool, bounces off the cable way (knocking the badge to the floor), and lands on the floor. Chattermax dances out of the shot. Bingo finishes tying her rollerskates.
+
+Bingo: Finished!
+
+Chilli: They're on the wrong feet, darl.
+
+Bingo: Are they? I'll start again.
+
+Chilli: Oh, Bingo, there's just no--
+
+Chilli steps on the Australia badge.
+
+Chilli: OWW!
+
+Bluey: Mum, have you seen my hat?
+
+As Chilli reaches her breaking point, the camera performs a dolly zoom on her face.
+
+Chilli: Oooooooo-AH! Alright, that's it!
+
+Chilli plucks the badge out of her foot and slams the front door.
+
+Chilli:We're not going to the park!
+
+Chilli plops down in am armchair and angrily opens a magazine.
+
+Chilli: We're just staying here, then!
+
+Chilli aggressively flips through the magazine. Bluey approaches timidly.
+
+Bluey: So...we're not going anywhere?
+
+Chilli: No, we'll just stay here forever!
+
+Bluey: Oh.
+
+Bluey sits down on the floor and hugs Floppy. Chilli flips through the magazine. Her eye twitches. She throws the magazine to the floor and opens the front door.
+
+Chilli: That's it! Come on! Out, out, out!
+
+Bluey: I don't understand!
+
+Chilli: We're leaving now!
+
+Bluey: Okay, okay! I just have to find my hat.
+
+Chilli: Ughhh! The door. It is right here. All we need to do is walk out of it. It's so easy.
+
+Bluey: Why do we have to go right now?
+
+Chilli: Because I don't wanna be late.
+
+Bluey: But why?
+
+Chilli: Because it's not nice to keep people waiting. Especially Judo's mum. She can get a little funny if you're not on time.
+
+Bluey: Oh. Why?
+
+Chilli: Well, I guess she thinks it's rude. But it just takes ages getting out of the house.
+
+Bluey: Why?
+
+Chilli: (amused) Because you kids don't care about being on time.
+
+Bluey: Why?
+
+Chilli: Because you're too busy having fun. In fact, that's why we're going to the park. Judo's been asking for a playdate for ages.
+
+Bluey: Why?
+
+Chilli taps Bluey on the nose.
+
+Chilli: Because you're a lovely little kid.
+
+Bluey: Why?
+
+Chilli: Because I put a lot of work into making sure you're a lovely little kid.
+
+Bluey: Why?
+
+Chilli: Because lovely little kids turn into lovely grownups. Like Judo's mum. She really is lovely, actually.
+
+Bluey: Why?
+
+Chilli: Well, when you were born, she made us five lasagnas.
+
+Bluey: Mmm!
+
+Chilli: It meant so much to me. That's the sort of person I want you to be.
+
+Chilli ruffles Bluey's hair.
+
+Bluey: Why?
+
+Chilli: Because I want you to have a happy life.
+
+Bluey: Why?
+
+Chilli: Because I love you!
+
+Bluey: But why?
+
+Chilli: Just...because!
+
+Bluey and Bingo: That's not a reason!
+
+Chilli: Oh, okay, you win!
+
+Chilli picks up Bluey and hugs her tight.
+
+Chilli: So what's going on, Bluey? Why can't you get out the door?
+
+Bluey: I'm just nervous about seeing Judo.
+
+Chilli: I hear you. It's been a long time since you've seen her.
+
+Chilli puts Bluey's hat on her, and pins up the side with the Australia badge.
+
+Chilli: Just be brave, okay? Like your granddad. (militaristic voice) Attention!
+
+Chilli and Bluey salute each other.
+
+Chilli: Forward, march!
+
+Chilli shoos Bluey out the door.
+
+Chilli: Hup, hup, hup, hup, hup!
+
+Bingo: Stop!
+
+Chilli: Huh? Oh, oh, oh! (imitates stopwatch) Chik-chik-chick! Click! Oh!
+
+Bingo: Was that one minute?
+
+Chilli: Pretty much.
+
+Bingo pumps her fist.
+
+Bingo: Uss!
+
+Chilli: You have no idea what a minute is, do you, sweetheart?
+
+Bingo: Nope.
+
+Chilli rolls Bingo out the door.
+
+Chilli: Ahh, that must be nice.
+
+Chilli's phone goes off.
+
+Chilli: It's Judo's mum. She's running late! Oh, well, take your time, kids.
+
+Chilli twangs the cable line, launching the banana into the air. She catches it.
+
+Bingo comes back in the door.
+
+Bingo: I'm hungry.
+
+Chilli hands her the banana.
+
+Bingo: Ooh, banana!
+
+Bingo exits. Chilli picks up the hat rack, ducks under the cable, and walks out, closing the door behind her. The camera pans up -- Gecky slowly peels off the ceiling. As he hangs by a single foot, rapid footsteps approach. The door opens, and Chilli dives in, catching Gecky at the last second.
+
+Chilli: Ooh! Gotcha.
+
+[End credits]
+
+The most energetic segment of the background music plays over the end credits. Instead of Bluey dancing, Bingo throws Gecky on the ceiling again, then runs offscreen.
+
+<!-- Squash/Script
+< Squash
+VIEW SOURCE
+Chilli-uniform.png
+Hold it right there, mate.
+
+This article/section is in need of content!
+You can help Bluey Wiki by adding information.
+ -->
+
+Spy Game/Script
+< Spy Game
+VIEW SOURCE
+EpisodeGalleryScript
+
+Script.jpg
+The episode opens on a shady field on the Brisbane riverfront. Bandit is cooking sausages on a grill, while Mackenzie's Dad talks to him. Next to them, Frank is breaking up a bag of ice by dropping it on the ground. Chilli, Mackenzie's Mum, and Daisy are sitting in a circle of camp chairs, laughing. Marcus and Chloe's Mum are standing nearby, talking. All of the adults except Frank have a drink. In the background, a City Cat and a sailboat float past.
+
+Daisy holds out her empty wine glass.
+
+Daisy: [to Marcus] Marcus, can you get me a drink, please?
+
+Marcus: [to Daisy] Coming, honey.
+
+Bandit: [to Frank] Hey, can you grab us the onions?
+
+Frank: [to Bandit] Get 'em yourself.
+
+Bandit: (sarcastically) Oh, yeah, that's real friendly.
+
+The shot changes to show Frank and a cooler behind him. Mackenzie pokes his head out from behind the cooler. He reaches out, and plucks a stray hair from Frank's leg.
+
+The shot changes to Chilli, Mackenzie's Mum, and Daisy. Bluey sneaks behind them, and plucks a hair from Chilli's knee.
+
+Chilli: Oh!
+
+She slaps her knee, as though killing a mosquito.
+
+TITLE CARD - Spygame
+
+Bluey: [voiceover] This episode of Bluey is called Spy Game.
+
+The shot changes to show the whole group. Mackenzie and Bluey escape unnoticed, running to the right. They are holding up their stolen hairs.
+
+Bluey: I got my mum!
+
+Mackenzie: I got Chloe's dad!
+
+They encounter Chloe and Honey. They have stern expressions. Honey holds her hand out, gesturing "halt". Bluey and Mackenzie stop.
+
+Honey: Stop! What's the password!
+
+Bluey: Um...
+
+Chloe takes a step forward and whispers in Bluey's ear.
+
+Chloe: (whispering) Zebra.
+
+Bluey: Zebra.
+
+Chloe and Honey relax.
+
+Honey: Correct. You may enter.
+
+Bluey and Mackenzie run past them.
+
+The shot changes to the base of a large tree. Bingo is standing next to a metal tray full of grass and seeds; she tosses in another handful of grass. Bluey and Mackenzie arrive. Bluey takes the hair from Mackenzie.
+
+Bluey: Here's the samples, Bingo.
+
+Bluey hands Bingo the hairs.
+
+Bingo: My name is Sparkleshot.
+
+Bingo drops the hairs into the tray and dusts off her hands.
+
+Bluey Good one, Bingo.
+
+Bluey pats Bingo on the head.
+
+Bingo: (growls)
+
+Bluey: Now, I'm gonna go and get Dad's sample.
+
+Bluey and Mackenzie turn and walk away. Bingo follows and stops them.
+
+Bingo: Bluey, can I get Dad?
+
+Bluey: No, Mackenzie and I are the spies. Your job is to gather grass for the potion.
+
+Bingo: Awww.
+
+Mackenzie: What if we don't need a potion?
+
+Mackenzie picks up a stick.
+
+Mackenzie: What about if we use this wand instead?
+
+Bluey: I already told you. Only potion grass can control grown-ups.
+
+Mackenzie: Oh yeah, that's right.
+
+Mackenzie chucks the stick over his shoulder.
+
+Bluey: So, you go and get some more potion grass, Bingo. Yeah, yeah?
+
+Bingo: (wearily) Okay.
+
+Bluey: Let's go, Mackenzie!
+
+Bluey and Mackenzie run back to the barbecue, passing the guards. Chloe is looking around theatrically.
+
+Honey: New password is, uh...
+
+Bluey and Mackenzie run offscreen. Honey cups her hands around her mouth.
+
+Honey: (yelling) "DIPLODOCUS!"
+
+Chloe winces. The scene changes to Bandit, cooking sausages, and Mackenzie's dad, spectating. A red brick building is visible behind them - the Brisbane Powerhouse. Bluey is hiding behind a plastic tote.
+
+Bandit: Where's that sausage tray gone?
+
+Mackenzie's Dad: You don't know what you're doing. Oh, you're burning them. You're burning them!
+
+Bandit turns a few sausages. Bluey crawls out from behind the tote and slowly approaches him.
+
+Bandit: They'll be right.
+
+Bluey reaches for Bandit's tail.
+
+Bingo: Dad!
+
+Bluey freezes. Bingo runs up behind them both, hands on her stomach.
+
+Bingo: I need the toilet. I'm busting.
+
+Bandit turns around and notices Bluey, crouched down behind him.
+
+Bandit: Hey, what are you kids doing down there?
+
+Bluey: (annoyed) Bingo! You're meant to be getting potion grass.
+
+Bingo: I don't want to collect potion grass anymore. And my name is Sparkleshot.
+
+Bluey: (growls)
+
+Bluey folds her arms and turns her back on Bingo.
+
+Bluey: You're not playing spies anymore.
+
+Bingo: Good.
+
+Bandit passes the tongs to Mackenzie's Dad.
+
+Bandit: Come on, Bingo.
+
+Mackenzie's Dad gets a big grin on his face and immediately starts turning sausages.
+
+Bandit: [to Mackenzie's Dad] Don't turn those top ones yet!
+
+Bluey: Good riddance.
+
+Bluey has a realization.
+
+Bluey: Oh. Who's gonna get the potion grass?
+
+The scene changes back to the guard station. Bluey and Mackenzie run up. Honey and Chloe gesture for them to stop.
+
+Honey: (yelling shrilly) PASSWORD!
+
+Chloe winces.
+
+Bluey: Diplodocus. Bingo's not playing anymore. Honey, you have to get the potion grass now.
+
+Honey: What? But I'm a guard!
+
+Bluey: Not anymore.
+
+Honey: Aw.
+
+Honey turns to Chloe.
+
+Honey: Uh, Chloe, do you mind getting the potion grass?
+
+Chloe: Um, no thanks. I like being a guard, too.
+
+Honey: But I can shout "password" the loudest, though.
+
+Honey: (at the top of her lungs) PASSWOOOOOOOORD!
+
+A trio of startled crows fly away. Mackenzie, Bluey, and Chloe cover their ears.
+
+Mackenzie: What if we don't need potion grass? We just use...
+
+Mackenzie picks up an empty packet of chips.
+
+Mackenzie: ...this chip packet.
+
+Bluey: That won't work.
+
+Honey: It might. They're barbecue flavor.
+
+Chloe: And the parents are having a barbecue.
+
+Mackenzie: Let's try it.
+
+The scene changes to the base of the tree. The kids run up, and Mackenzie throws the chip packet into the tray. Mackenzie, Chloe, and Honey wave their hands around magically.
+
+Honey and Chloe: Whoo! Whoo!
+
+Bluey: But who's gonna stand guard?
+
+Mackenzie: You do it, Bluey. I'm off to spy.
+
+Mackenzie runs off.
+
+Bluey: Hey, what?
+
+The shot pulls back to show Mackenzie still running off.
+
+Bluey: (yelling after Mackenzie) But I'm a spy!
+
+The shot changes to a close up on Bluey.
+
+Bluey: Hmph. The password is "grumpy."
+
+The scene changes to show Bandit, leaning on the outside of a public toilet building. He looks bored.
+
+Bingo: (singing, offscreen) One man went to mow, went to mow a meadow. One man and his dog - arf! -went to mow a meadow.
+
+Bandit: How you going in there, Bingo? I can feel my sausages burning.
+
+Bingo: (offscreen) I started just doing a wee, and now it's turned into a poo.
+
+Bandit: (groans)
+
+Bingo: (singing, offscreen) Two men went to mow, went to mow a meadow.
+
+The scene changes, back to the barbecue. Mackenzie's dad is manning the barbecue, talking to Frank and Marcus. Chilli and Mackenzie's mum are talking in the foreground. The shot changes to a close-up of Marcus' tail. Mackenzie's hand appears from behind a cooler and plucks a hair.
+
+The shot changes, to a close up on Mackenzie's Dad. Mackenzie plucks a hair from his tail and runs off.
+
+The shot changes to the base of the tree. Mackenzie runs right past Bluey's guard station - Bluey does not try to stop him - to the tray, and drops the hairs in. Chloe waves her hands about
+
+Bluey: Okay, now you stand guard, Mackenzie, and I'll go get some more.
+
+Bluey starts walking away.
+
+Honey: Chloe's almost finished the spell!
+
+Bluey stops. Mackenzie grabs a pinecone.
+
+Mackenzie: Let's put this pinecone in, too.
+
+Mackenzie drops the pinecone into the tray.
+
+Chloe: Pa-choo! It's ready!
+
+Honey: Whee! Now we can control the grown-ups!
+
+Mackenzie: I'm first!
+
+Mackenzie runs around to the side of the tray. He grabs two sticks that have been stuck in the ground, using them as "control levers."
+
+Mackenzie: Okay, Bluey's mum:
+
+The shot changes to Mackenzie's point of view. In an animation error, Bandit is shown standing at the barbecue; he should still be at the toilet block. Mackenzie's Dad and Marcus are also at at the barbecue; Daisy, Frank, Mackenzie's Mum, and Chilli are sittin in the camping chairs.
+
+Mackenzie: Get up and dance around!
+
+Daisy stands up and starts dancing.
+
+Daisy: Whoo-hoo!
+
+The adults all cheer.
+
+Marcus: Go, Daisy!
+
+Chilli: Shake it!
+
+Mackenzie: No, not "Honey's mum". I said, "Bluey's mum."
+
+The shot changes back to third person.
+
+Honey: It's not working properly. Let me try!
+
+Honey tries to take the controls. Mackenzie pushes back, shoulder checking her..
+
+Honey: Yow!
+
+Mackenzie: (yelling) I'm going first!
+
+Honey: Let me try! Yow!
+
+The shot changes back to Mackenzie's point of view. Honey is grabbing at the lever with both hands, Daisy is still dancing.
+
+The shot changes back to third person. Honey and Mackenzie are shoving back and forth and arguing.
+
+Chloe: Maybe we need another pinecone.
+
+Bluey groans and walks away.
+
+The scene changes to inside the toilet block. Bandit is holding Bingo up so she can reach the soap dispenser. She has already dispensed a large amount of soap. She continues pressing the button, soap overflowing her hand onto the floor.
+
+Bingo: Little bit more. Little bit more.
+
+Bluey: Hey, Bluey. You need the toilet, too?
+
+Bandit moves a little, and Bingo flails around trying to reach the soap dispenser again.
+
+Bluey: No one's playing the game properly.
+
+Bandit adjusts his grip, getting Bingo back to the soap dispenser. She keeps going, soap pouring onto the floor.
+
+Bandit: Ah, is this the spy game?
+
+Bluey: Yeah, no one's doing their jobs.
+
+Bandit: And when did this start happening?
+
+Bluey: Hmm, it started when... Bingo stopped playing.
+
+Bingo stops dispensing soap.
+
+Bingo: Finished!
+
+The scene changes to outside the toilet block. Bluey and Bandit walk out, Bingo runs ahead.
+
+Bingo: (giggles)
+
+Bandit: Check this out.
+
+Bandit kneels down, and builds a stack of rocks.
+
+Bandit: We're dogs, kid. We all have a place in the pack. Now, look what happens when I take the bottom one out.
+
+Bandit removes the bottom rock, and the stack falls over.
+
+Bandit: Does that make sense?
+
+Bluey: No.
+
+Bandit: Okay, just do your best, kid.
+
+Bandit pats her on the head and walks off.
+
+The angle changes, showing Bingo in the background. She is demonstrating ballet positions for an imaginary audience in the New Farm Park Rotunda.
+
+Bingo: Then there's... this one...
+
+Bingo takes Second Position.
+
+Bingo: ...and this one.
+
+Bingo takes Third Position.
+
+Bingo: And this one.
+
+Bingo takes Fourth Position. Watching her, Bluey smiles.
+
+The shot changes to show Bluey next to Bingo in the rotunda. Bingo is doing a plié.
+
+Bluey: Bingo, can you come and play with us again?
+
+Bingo stops demonstrating ballet.
+
+Bingo: Bluey, I'm Sparkleshot. I've told you this before.
+
+Bluey: Sorry. Do you still want to play?
+
+Bluey reaches out her hand, and Bingo takes it.
+
+Bingo: Well, can I get to do a spy?
+
+Bluey: Well, no.
+
+Bingo drops Bluey's hand and looks away.
+
+Bingo: Aww.
+
+Bluey: But I promise, I'll think of something really fun.
+
+Bluey puts out both her hands. Bingo puts her hands in Bluey's and lifts her leg, possibly attempting a penché.
+
+The scene cuts to the base of the tree. Honey, Chloe, and Mackenzie are struggling for the controls.
+
+Chloe: Mackenzie!
+
+Mackenzie: I'm going first!
+
+Honey: No, no, I can do it!
+
+Chloe: Honey!
+
+Honey: Let me try!
+
+Chloe: My turn first!
+
+Mackenzie: Aaaah!
+
+Honey: It's not working properly.
+
+They lose their balance and all three fall away from the controls. Just then, Bluey and Bingo arrive.
+
+Bluey: Look who's back!
+
+Chloe, Honey, and Mackenzie: Bingo!
+
+Chloe, Honey, and Mackenzie run over to hug her.
+
+Bingo: (giggles)
+
+The shot changes to a close up on Bluey. She raises a finger confidently.'
+
+Bluey: Okay, here's the plan.
+
+The shot changes to Bluey's point of view. She points at Mackenzie.
+
+Bluey: Mackenzie, you and me are going to do the last spy.
+
+Bluey points at Honey and Chloe.
+
+Bluey: Honey and Chloe, stand guard.
+
+Bluey points at Bingo.
+
+Bluey: And Bingo, you get the potion grass.
+
+Chloe, Honey, Mackenzie, and Bingo: Yeah!
+
+The scene changes to the barbecue. Bandit and Mackenzie's dad are talking. Bluey and Mackenzie pop out from behind the cooler.
+
+Mackenzie's Dad: [to Bandit] He was thinking, "I'm not going," --
+
+Bluey and Mackenzie scurry behind the barbecue. Mackenzie does a ninja roll on the way.
+
+Mackenzie's Dad: --and I was like "Yes, you are."
+
+Bandit: (laughing) Hoo hoo hoo.
+
+A sound effect suggests that Bandit's hair has been plucked.
+
+Bandit: Ah, mozzie!
+
+Bandit slaps at his leg.
+
+The scene changes to the riverbank. Bingo does a little dance and then picks a handfull of grass.
+
+The scene changes to the guard station. Chloe and Honey are marching back and forth. Frank walks up. Chloe and Honey turn and confront him.
+
+Chloe and Honey: Password!
+
+Frank stops in his tracks.
+
+Frank: Sweetie, we need the sausage tray.
+
+Chloe and Honey advance a step.
+
+Chloe and Honey: Pass! Word!
+
+Frank flinches.
+
+Frank: Uh, "sausage tray?"
+
+Honey stamps her foot.
+
+Honey: Wrong! That's not the password!
+
+Frank backs away.
+
+Frank: Aw, never mind, I'll use something else.
+
+The scene changes to the sausage tray at the base of the tree. Bandit tosses in the potion grass. Mackenzie runs up and grabs the controls.
+
+Mackenzie: I'm going first.
+
+Honey runs up and grabs one of the controls.
+
+Honey: No, I'm going first!
+
+Chloe approaches and reaches for a control.
+
+Chloe: No, me!
+
+Honey pushes her back.
+
+Honey: I know how to do it.
+
+Chloe: (growls)
+
+Honey tries to pry Mackenzie off the controls.
+
+Mackenzie: I'm going fiiiirst!
+
+Chloe tries to get down underneath Honey to grab the controls. Bluey arrives, and the fighting pauses.
+
+Bluey: Noooo, Bingo's going first.
+
+Bingo: For real life?
+
+Bluey: For real life.
+
+Bingo: Oh, thanks, Bluey.
+
+Mackenzie, Honey, and Chloe have let go of the controls and start cheering for Bingo.
+
+Honey: Go, Bingo!
+
+Chloe: Yeah!
+
+Mackenzie: Yeah, Bingo!
+
+Chloe: Bingo!
+
+Bingo takes the controls.
+
+Bingo: Okay, grown-ups:
+
+The shot changes to Bingo's perspective. The adults have all gathered at the camp chairs, except Marcus who is walking back to the group from offscreen. No one is minding the sausages. Bingo thrusts both control levers forward.
+
+Bingo: Go crazy!
+
+The sausages catch fire. Bandit turns and screams. The adults jump to their feet, knocking over several chairs. Mackenzie's Dad runs up to the grill to help. Bandit tries to grab a sausage with the tongs, but he's not willing to get close enough to the fire to actually grab a sausage. Mackenzie's Dad jumps anxiously from one foot to the other, but can't do anything useful. The other adults start laughing. Frank and Chilli run up - Frank blows and waves his hand at the fire. Chilli pours a bottle of wine on the fire, dousing it. The grown-ups cheer.
+
+The scene changes back to the kids at the sausage tray. They laugh and cheer.
+
+Mackenzie: Whoa! It worked!
+
+Chloe: (giggles)
+
+Bluey puts her arm around Bingo's shoulder.
+
+Bluey: Well done Bingo -- ooh, I mean Sparkleshot.
+
+Bluey musses Bingo's hair.
+
+Bingo: (giggles)
+
+The camera pulls back to show all the characters in the same shot.
+
+Mackenzie's Dad: Nice one, Bandit.
+
+Bandit: Get him!
+
+Several Adults: Yeah!
+
+Daisy: Looks like we're gonna have pizza, kids!
+
+Frank and Bandit chase Mackenzie's Dad over to the tree. Mackenzie's Dad braces to be tackled, and Bandit hesistates - and Frank tackles Bandit from behind instead. Mackenzie's Dad jumps on top of the pile.
+
+[End credits]
+
+The music during the credits is an accordion and flute arrangement of the episode music.
+
+Bluey episode scripts
