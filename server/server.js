@@ -36,6 +36,7 @@ app.get("/", (req, res) => {
 
 // Routes
 app.use("/api/characters", charRouter);
+api.use("/api/user", userRouter);
 app.use("/greet, greet", greetRouter);
 
 app.use(errorHandler);
