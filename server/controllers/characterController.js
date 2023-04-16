@@ -1,6 +1,8 @@
 // import = asyncHandler(asyncandler
 const asyncHandler = require("express-async-handler");
 
+// Import modal?
+
 // Get all characters
 // GET /api/characters
 // Private
