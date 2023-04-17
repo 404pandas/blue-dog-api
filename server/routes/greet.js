@@ -4,6 +4,9 @@ const express = require("express");
 // import router
 const greetRouter = express.Router();
 
+// Protect middleware function
+const { protect } = require("../middleware/authMiddleware");
+
 // import controller
 const {
   getGreetings,
@@ -15,10 +18,10 @@ const {
 // Routes
 greetRouter
   .route("/")
-  .get(getGreetings)
-  .post(createGreeting)
-  .delete(deleteGreeting)
-  .put(updateGreeting);
+  .get(protect, getGreetings)
+  .post(protect, createGreeting)
+  .delete(protect, deleteGreeting)
+  .put(protect, updateGreeting);
 
 // export
 module.exports = greetRouter;

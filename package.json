@@ -6,7 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server/server.js",
-    "server": "nodemon server/server.js"
+    "server": "nodemon server/server.js",
+    "client": "nodemon client",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "author": "Mary Elenius",
   "license": "MIT",
@@ -22,6 +24,7 @@
     "mongoose": "^7.0.3"
   },
   "devDependencies": {
+    "concurrently": "^8.0.1",
     "nodemon": "^2.0.22"
   }
 }

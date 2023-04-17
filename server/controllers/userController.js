@@ -5,11 +5,35 @@ const bcrypt = require("bcryptjs");
 // Express Async Handler
 const asyncHandler = require("express-async-handler");
 
+// User Model
+const User = require("../models/userModel");
+
 // Register new user
 // POST /api/users
 // Public
 const loginUser = asyncHandler(async (req, res) => {
-  req.json({ message: "Please register user" });
+  const { email, password } = req.body;
+
+  // Check for user email
+  const user = await User.findOne({ email });
+
+  //   Compares entered and stored password
+  if (user && (await bcrypt.compare(password, user.password))) {
+    res.json({
+      _id: user.id,
+      name: user.name,
+      email: user.email,
+      token: generateJWT(user._id),
+    });
+    // 400 error catch
+  } else {
+    res.status(400);
+    throw new Error(
+      "Invalid credentials. If you need help, please ask your paren"
+    );
+  }
+  //   message for successful login
+  req.json({ message: `Logged in user: ${user.name}` });
 });
 
 // Authenticate a user
@@ -52,6 +76,7 @@ const registerUser = asyncHandler(async (req, res) => {
       _id: user.id,
       name: user.name,
       email: user.email,
+      token: generateJWT(user._id),
     });
   } else {
     res.status(400);
@@ -63,10 +88,21 @@ const registerUser = asyncHandler(async (req, res) => {
 
 // Get user data
 // GET /api/users/me
-// Public
+// Private- JWT
 const getMe = asyncHandler(async (req, res) => {
-  req.json({ message: "Please register user" });
+  res.status(200).json({
+    id: _id,
+    name,
+    email,
+  });
 });
+
+// Generate token
+const generateJWT = (id) => {
+  return jwt.sign({ id }, process.env.JWT_SECRET, {
+    expiresIn: "30d",
+  });
+};
 
 module.exports = {
   registerUser,

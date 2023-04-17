@@ -4,6 +4,9 @@ const express = require("express");
 // import router
 const charRouter = express.Router();
 
+// Protect middleware function
+const { protect } = require("../middleware/authMiddleware");
+
 // import controller
 const {
   getCharacters,
@@ -13,8 +16,14 @@ const {
 } = require("../controllers/characterController");
 
 // Routes
-charRouter.route("/").get(getCharacters).post(createCharacter);
-charRouter.route("/:id").delete(deleteCharacter).put(updateCharacter);
+charRouter
+  .route("/")
+  .get(protect, getCharacters)
+  .post(protect, createCharacter);
+charRouter
+  .route("/:id")
+  .delete(protect, deleteCharacter)
+  .put(protect, updateCharacter);
 
 // Export
 module.exports = charRouter;

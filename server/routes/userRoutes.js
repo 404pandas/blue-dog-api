@@ -1,5 +1,4 @@
 const express = require("express");
-const { registerUser } = require("../controllers/userController");
 const router = express.Router();
 const {
   registerUser,
@@ -7,8 +6,13 @@ const {
   getMe,
 } = require("../controllers/userController");
 
-router.post("/", registerUser);
-router.post("/login", loginUser);
-router.post("/me", getMe);
+// Protect middleware function
+const { protect } = require("../middleware/authMiddleware");
+
+router.route("/").get(protect, getCharacters).post(protect, createCharacter);
+router
+  .route("/:id")
+  .delete(protect, deleteCharacter)
+  .put(protect, updateCharacter);
 
 module.exports = userRouter;
