@@ -4,10 +4,10 @@
   <!-- ![Name](urlToShieldHere)(urlToGithubHere) -->
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Contributors](https://img.shields.io/github/contributors/404pandas/pooh-weather-dashboard.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/pooh-weather-dashboard/graphs/contributors)
-[![Forks](https://img.shields.io/github/forks/404pandas/pooh-weather-dashboard.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/pooh-weather-dashboard/network/members)
-[![Stargazers](https://img.shields.io/github/stars/404pandas/pooh-weather-dashboard.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/pooh-weather-dashboard/stargazers)
-[![Issues](https://img.shields.io/github/issues/404pandas/pooh-weather-dashboard.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/pooh-weather-dashboard/issues)
+[![Contributors](https://img.shields.io/github/contributors/404pandas/blue-dog-api.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/blue-dog-api/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/404pandas/blue-dog-api.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/blue-dog-api/network/members)
+[![Stargazers](https://img.shields.io/github/stars/404pandas/blue-dog-api.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/blue-dog-api/stargazers)
+[![Issues](https://img.shields.io/github/issues/404pandas/blue-dog-api.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/blue-dog-api/issues)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=appveyor&logo=linkedin&colorB=555)](https://linkedin.com/in/404pandas)
 
 </div>
@@ -15,22 +15,22 @@
 <!-- PROJECT LOGO -->
 
 <div align="center">
-  <a href="https://github.com/404pandas/pooh-weather-dashboard">
-    <img src="./assets/images/coded-logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/404pandas/blue-dog-api">
+    <img src="client/images/references/bluey.jpeg/" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Pooh Weather Dashboard</h3>
+<h3 align="center">Blue Dog API</h3>
 
   <p align="center">
 Weather Dashboard using newly open source Pooh drawings    <br />
-    <a href="https://github.com/404pandas/pooh-weather-dashboard"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/404pandas/blue-dog-api"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/404pandas/pooh-weather-dashboard">View Demo(Broken)</a>
+    <a href="https://github.com/404pandas/blue-dog-api">View Demo(Broken)</a>
     ·
-    <a href="https://github.com/404pandas/pooh-weather-dashboard/issues">Report Bug</a>
+    <a href="https://github.com/404pandas/blue-dog-api/issues">Report Bug</a>
     ·
-    <a href="https://github.com/404pandas/pooh-weather-dashboard/issues">Request Feature</a>
+    <a href="https://github.com/404pandas/blue-dog-api/issues">Request Feature</a>
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Once completely built, this application will function as a deployed app on Netli
 ### Installation
 
 1. Clone the repo
-   git clone https://github.com/404pandas/pooh-weather-dashboard.git
+   git clone https://github.com/404pandas/blue-dog-api.git
 
 <!-- USAGE EXAMPLES -->
 
@@ -109,11 +109,27 @@ Once the app is functional, screenshots will be added in this section.
 
 ## Roadmap
 
-- [ ] Pictures by weather
-- [ ] Animations by weather
-- [ ] Different themes
+- [ ] Episode Names
+- [ ] Episode Descriptions
+- [ ] Episode Lengths
+- [ ] Episode Characters
+- [ ] Quotes
+- [ ] Character Names
+- [ ] Character Descriptions
+- [ ] Character Images
+- [ ] Locations
+- [ ] Location Images
+- [ ] Episode Images
+- [ ] Quotes - done through scripts, do last because ugh
+- [ ] Filter by Australian Content
+- [ ] Books
+- [ ] Toys
+- [ ] Garden gnomes
+- [ ] Long Dog
+- [ ] Songs
+- [ ] Trivia- asking Trivia Bros for collab
 
-See the [open issues](https://github.com/404pandas/pooh-weather-dashboard/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/404pandas/blue-dog-api/issues) for a full list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
@@ -144,10 +160,29 @@ See LICENSE.txt for more information.
 
 Mary Elenius - mary.panda.jackson@gmail.com
 
-Project Link: [https://github.com/404pandas/pooh-weather-dashboard](https://github.com/404pandas/pooh-weather-dashboard)
+Project Link: [https://github.com/404pandas/blue-dog-api](https://github.com/404pandas/blue-dog-api)
 
 <!-- ACKNOWLEDGMENTS -->
 
 ## Acknowledgments
 
 I would like to give a big shoutout to my partner in crime and daughter, Yennefer! Every day she proves she is small yet mighty!
+This API was created using the guide at [this](https://rapidapi.com/guides/build-api-publish-on-rapidapi) page on RapidAPI.
+This API is listed on [RapidAPI](https://rapidapi.com/).
+This API is stored on [Github](https://github.com/).
+This API is hosted on [Netlify](https://www.netlify.com/).
+
+<!-- Resources -->
+
+## Resources Used
+
+The following is a list of resources used in the making of this API
+https://www.bluey.tv/watch/
+https://blueypedia.fandom.com/wiki/Bluey_(TV_series)
+
+<!-- Counter -->
+
+## Time Bluey Watched
+
+This portion of the Readme is devoted to keeping track how many times I've rewatched Bluey in its entirety while developing this app.
+Current count: 9
