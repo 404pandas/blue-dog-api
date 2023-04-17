@@ -2,7 +2,7 @@
 const asyncHandler = require("express-async-handler");
 
 // Import model
-const Character = require("../models/characterModels");
+const Character = require("../models/characterModel");
 const User = require("../models/userModel");
 
 // Get all characters

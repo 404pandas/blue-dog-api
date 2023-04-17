@@ -1,85 +1,110 @@
 // --------------- Imports --------------- //
+// Global
 // Path
 const path = require("path");
+
+// Third Party
 // Express
 const express = require("express");
+// Session
+const session = require("express-session");
 // CORS
 const cors = require("cors");
 // Colors
 const colors = require("colors");
 // Dotenv for environmental variables
 const dotenv = require("dotenv");
-// Database
-const connectDB = require("./server/config/db");
 // Handlebars
 const exphbs = require("express-handlebars");
 // MongoStore
 const MongoStore = require("connect-mongo");
 
+// Local
+// Database
+const connectDB = require("./server/config/db");
 // Configs
 dotenv.config({ path: "./config/config.env" });
-
 // Routes
 const charRouter = require("./server/routes/characterRoutes");
-const greetRouter = require("./server/routes/greet");
+const greetExample = require("./server/routes/greetExample");
 const userRouter = require("./server/routes/userRoutes");
-
 const { errorHandler } = require("./server/middleware/errorMiddleware");
+const { authHandler } = require("./server/middleware/authMiddleware");
+const fb = require("./server/routes/feedback");
+// Initialize express
+const app = express();
 
 // Port
-const port = process.env.PORT || 5200;
+const PORT = process.env.PORT || 5200;
 
 // Function to connect to Mongo DB
 connectDB();
 
-// Initialize express
-const app = express();
+// Handlebar Helpers
+const hbs = exphbs.create({ helpers });
 
-// Middleware
-app.use(express.json());
-app.use(express.urlencoded({ extended: false }));
-app.use(cors());
-
-// Entry
-app.get("/", (req, res) => {
-  res.json(`Welcome to the API, ${user}`);
+// Sessions
+const sess = session({
+  secret: process.env.EXPRESS_SESSION_SECRET,
+  cookie: {
+    maxAge: 60 * 60 * 1000,
+    httpOnly: true,
+    secure: false,
+    sameSite: "strict",
+  },
+  resave: false,
+  saveUninitialized: false,
+  store: MongoStore.create({ mongoUrl: process.env.MONGO_URI }),
 });
 
-// Handlebars
-app.engine(".hbs", exphbs({ defaultLayout: "main", extname: ".hbs" }));
-app.set("view engine", ".hbs");
-
-// Routes
-app.use("/api/characters", charRouter);
-api.use("/api/user", userRouter);
-app.use("/greet, greet", greetRouter);
-
-app.use(errorHandler);
+app.use(session(sess));
 
 // Handlebars Helpers
-const {} = require("./helpers/hbs");
+const {
+  readFromFile,
+  writeToFile,
+  readAndAppend,
+} = require("./server/helpers/fsUtils");
+const { getRandomValue } = require("./server/helpers/uuid");
+const {
+  format_time,
+  format_date,
+  get_random,
+} = require("./server/helpers/helpers");
 
 // Handlebars
 app.engine(
-  ".hbs",
+  "handlebars",
   exphbs({
-    helpers: {},
+    helpers: {
+      readFromFile,
+      writeToFile,
+      readAndAppend,
+      getRandomValue,
+      format_time,
+      format_date,
+      get_random,
+    },
     defaultLayout: "main",
     extname: ".hbs",
   })
 );
-app.set("view engine", ".hbs");
+app.set("view engine", "handlebars");
 
-// Sessions
-app.use(
-  session({
-    secret: "heeler family",
-    resave: false,
-    saveUninitialized: false,
-    store: MongoStore.create({ mongoUrl: process.env.MONGO_URI }),
-  })
-);
+// Folders to be served
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
+app.use(express.static(path.join(__dirname, "client")));
+app.use(cors());
 
-app.listen(port, () =>
-  console.log(`Server started on port http://localhost:${port}`)
+// Routes
+app.use("/feedback", fb);
+app.use("/characters", charRouter);
+app.use("/user", userRouter);
+app.use("/greet", greetExample);
+app.use(errorHandler);
+app.use(authHandler);
+
+app.listen(PORT, () =>
+  console.log(`Server started on port http://localhost:${PORT}`)
 );

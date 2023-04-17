@@ -1,13 +1,12 @@
 {
-  "name": "server",
+  "name": "blue-dog-api",
   "version": "1.0.0",
   "description": "relearning mern stack",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server/server.js",
-    "server": "nodemon server/server.js",
-    "client": "nodemon client",
+    "server": "nodemon server.js",
+    "client": "npm start --prefix",
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "author": "Mary Elenius",
@@ -15,10 +14,13 @@
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "colors": "^1.4.0",
+    "connect-mongo": "^5.0.0",
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "express-async-handler": "^1.2.0",
+    "express-handlebars": "^7.0.7",
+    "express-session": "^1.17.3",
     "jquery": "^3.6.4",
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^7.0.3"
