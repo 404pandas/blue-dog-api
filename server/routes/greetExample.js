@@ -17,9 +17,11 @@ const {
 
 // Routes
 greetRouter
-  .route("/")
+  .route("/greet")
   .get(protect, getGreetings)
-  .post(protect, createGreeting)
+  .post(protect, createGreeting);
+greetRouter
+  .route("/:id")
   .delete(protect, deleteGreeting)
   .put(protect, updateGreeting);
 

@@ -23,7 +23,8 @@
     "express-session": "^1.17.3",
     "jquery": "^3.6.4",
     "jsonwebtoken": "^9.0.0",
-    "mongoose": "^7.0.3"
+    "mongoose": "^7.0.3",
+    "uuid": "^9.0.0"
   },
   "devDependencies": {
     "concurrently": "^8.0.1",

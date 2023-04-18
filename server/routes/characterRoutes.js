@@ -17,7 +17,7 @@ const {
 
 // Routes
 charRouter
-  .route("/")
+  .route("/character")
   .get(protect, getCharacters)
   .post(protect, createCharacter);
 charRouter

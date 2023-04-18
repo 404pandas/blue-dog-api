@@ -4,15 +4,17 @@ const {
   registerUser,
   loginUser,
   getMe,
+  deleteUser,
 } = require("../controllers/userController");
 
 // Protect middleware function
 const { protect } = require("../middleware/authMiddleware");
 
-router.route("/").get(protect, getCharacters).post(protect, createCharacter);
 router
-  .route("/:id")
-  .delete(protect, deleteCharacter)
-  .put(protect, updateCharacter);
+  .route("/")
+  .get("/me", protect, getMe)
+  .post("/login", protect, loginUser)
+  .post("/", registerUser);
+router.route("/:id").delete(protect, deleteUser).put(protect, updateUser);
 
 module.exports = userRouter;

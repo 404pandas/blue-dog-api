@@ -8,6 +8,13 @@ const asyncHandler = require("express-async-handler");
 // User Model
 const User = require("../models/userModel");
 
+// Generate token
+const generateJWT = (id) => {
+  return jwt.sign({ id }, process.env.JWT_SECRET, {
+    expiresIn: "30d",
+  });
+};
+
 // Register new user
 // POST /api/users
 // Public
@@ -15,7 +22,9 @@ const loginUser = asyncHandler(async (req, res) => {
   const { email, password } = req.body;
 
   // Check for user email
-  const user = await User.findOne({ email });
+  const user = await User.findOne({
+    $or: [{ _id: user.id }, { email: body.email }],
+  });
 
   //   Compares entered and stored password
   if (user && (await bcrypt.compare(password, user.password))) {
@@ -89,23 +98,64 @@ const registerUser = asyncHandler(async (req, res) => {
 // Get user data
 // GET /api/users/me
 // Private- JWT
-const getMe = asyncHandler(async (req, res) => {
+const getMe = asyncHandler(async ({ user = null, params }, res) => {
+  const foundUser = await User.findOne({
+    $or: [
+      { _id: user ? user._id : params.id },
+      { name: user ? user.name : params.name },
+      { email: user ? user._id : params.email },
+      { token: user ? user._id : generateJWT(user._id) },
+    ],
+  });
+
+  if (!foundUser) {
+    return res
+      .status(400)
+      .json({ message: "Cannot find a user with this id!" });
+  }
+
+  res.json(foundUser);
+
   res.status(200).json({
-    id: _id,
-    name,
-    email,
+    id: user._id,
+    name: user.name,
+    email: user.email,
   });
 });
 
-// Generate token
-const generateJWT = (id) => {
-  return jwt.sign({ id }, process.env.JWT_SECRET, {
-    expiresIn: "30d",
-  });
-};
+// Delete character
+// DELETE /api/character/:id
+// Private
+const deleteUser = asyncHandler(async (req, res) => {
+  const user = await UserData.findByID(req.params.id);
+
+  if (!user) {
+    res.status(400);
+    throw new Error("User not found");
+  }
+
+  // Check for user existing
+  if (!req.user) {
+    res.status(401);
+    throw new Error("User not found");
+  }
+
+  //  Prevents user updating character
+  // If current user isn't equal to the user id, throws error
+  if (user.toString() !== req.user.id) {
+    res.status(401);
+    throw new Error("User not authorized");
+  }
+
+  await global.remove();
+
+  res.status(200).json({ message: `delete user ${req.params.id}` });
+});
 
 module.exports = {
   registerUser,
   loginUser,
   getMe,
+  generateJWT,
+  deleteUser,
 };

@@ -8,10 +8,7 @@ const path = require("path");
 const express = require("express");
 // Session
 const session = require("express-session");
-// CORS
-const cors = require("cors");
-// Colors
-const colors = require("colors");
+
 // Dotenv for environmental variables
 const dotenv = require("dotenv");
 // Handlebars
@@ -25,12 +22,8 @@ const connectDB = require("./server/config/db");
 // Configs
 dotenv.config({ path: "./config/config.env" });
 // Routes
-const charRouter = require("./server/routes/characterRoutes");
-const greetExample = require("./server/routes/greetExample");
-const userRouter = require("./server/routes/userRoutes");
-const { errorHandler } = require("./server/middleware/errorMiddleware");
-const { authHandler } = require("./server/middleware/authMiddleware");
-const fb = require("./server/routes/feedback");
+const api = require("./server/routes/index");
+
 // Initialize express
 const app = express();
 
@@ -94,8 +87,9 @@ app.set("view engine", "handlebars");
 // Folders to be served
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
-app.use(express.static(path.join(__dirname, "client")));
-app.use(cors());
+app.use("/api", api);
+
+app.use(express.static("public"));
 
 // Routes
 app.use("/feedback", fb);
