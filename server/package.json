@@ -1,14 +1,10 @@
 {
   "name": "blue-dog-api",
   "version": "1.0.0",
-  "description": "Open Source API for the TV show Bluey",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server/index.js",
-    "server": "node server/index.js",
-    "client": "npm start --prefix client",
-    "dev": "concurrently \"npm run client\" \"npm run server\""
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Mary Elenius",
   "license": "MIT",
@@ -21,7 +17,6 @@
     "mongoose": "^7.1.1"
   },
   "devDependencies": {
-    "concurrently": "^8.0.1",
     "dotenv": "^16.0.3",
     "nodemon": "^2.0.22"
   }
