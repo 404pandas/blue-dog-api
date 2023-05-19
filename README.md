@@ -22,7 +22,7 @@
 <h3 align="center">Blue Dog API</h3>
 
   <p align="center">
-Weather Dashboard using newly open source Pooh drawings    <br />
+Bluey API with a styled front end    <br />
     <a href="https://github.com/404pandas/blue-dog-api"><strong>Explore the docs »</strong></a>
     <br />
     <br />
