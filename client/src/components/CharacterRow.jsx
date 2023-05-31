@@ -6,8 +6,10 @@ import MuiAccordionSummary from "@mui/material/AccordionSummary";
 import MuiAccordionDetails from "@mui/material/AccordionDetails";
 import Typography from "@mui/material/Typography";
 import { useMutation } from "@apollo/client";
-import { GET_CHARACTERS } from "../queries/characterQueries";
-import { DELETE_CHARACTER } from "../mutations/characterMutations";
+import { GET_CHARACTERS } from "../utils/queries";
+import { DELETE_CHARACTER } from "../utils/mutations";
+import IconButton from "@mui/material/IconButton";
+
 import DeleteIcon from "@mui/icons-material/Delete";
 
 // Accordion
@@ -77,16 +79,23 @@ export default function CharacterRow({ character }) {
       expanded={expanded === "panel1"}
       onChange={handleChange("panel1")}
     >
-      <AccordionSummary aria-controls="panel1d-content" id="panel1d-header">
-        <Typography variant="h4" className="h4">
+      <AccordionSummary aria-controls='panel1d-content' id='panel1d-header'>
+        <Typography variant='h4' className='h4'>
           Character Name
         </Typography>
       </AccordionSummary>
       <AccordionDetails>
-        <Typography variant="body1" className="body1">
+        <Typography variant='body1' className='body1'>
           {character.characterName}
         </Typography>
-        <DeleteIcon />
+        <IconButton
+          edge='end'
+          aria-label='delete'
+          value={character._id}
+          onClick={(e) => [deleteCharacter](e.currentTarget.value)}
+        >
+          <DeleteIcon />
+        </IconButton>
       </AccordionDetails>
     </Accordion>
   );

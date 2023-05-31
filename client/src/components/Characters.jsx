@@ -1,6 +1,6 @@
 import { useQuery } from "@apollo/client";
 import CharacterRow from "./CharacterRow";
-import { GET_CHARACTERS } from "../queries/characterQueries";
+import { GET_CHARACTERS } from "../utils/queries";
 
 // MUI imports
 import * as React from "react";

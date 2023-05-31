@@ -1,28 +1,45 @@
 const express = require("express");
 const colors = require("colors");
-const cors = require("cors");
+const { ApolloServer } = require("apollo-server-express");
+const path = require("path");
+const { authMiddleware } = require("./utils/auth");
 require("dotenv").config();
-const { graphqlHTTP } = require("express-graphql");
-const schema = require("./schema/schema");
-const connectDB = require("./config/db");
-const port = process.env.PORT || 4000;
+const { typeDefs, resolvers } = require("./schemas");
+const db = require("./config/db");
+const port = process.env.PORT || 3001;
 
 const app = express();
 
-// Connect DB
-connectDB();
+const server = new ApolloServer({
+  typeDefs,
+  resolvers,
+  context: authMiddleware,
+  cache: "bounded",
+});
 
-app.use(cors());
+app.use(express.urlencoded({ extended: false }));
+app.use(express.json());
 
-app.use(
-  "/graphql",
-  graphqlHTTP({
-    schema,
-    graphiql: process.env.NODE_ENV === "development",
-  })
-);
+if (process.env.NODE_ENV === "development") {
+  app.use(express.static(path.join(__dirname, "../client")));
+}
 
-app.listen(
-  port,
-  console.log(`Server running on port http://127.0.0.1:${port}`)
-);
+const startApolloServer = async (typeDefs, resolvers) => {
+  await server.start();
+  server.applyMiddleware({ app });
+
+  app.get("/*", (req, res) => {
+    res.sendFile(path.join(__dirname, "../client/public/index.html"));
+  });
+
+  db.once("open", () => {
+    app.listen(PORT, () => {
+      console.log(`Server running on port http://127.0.0.1:${port}`);
+      console.log(
+        `Navigate to GraphQL at http://localhost:${PORT}${server.graphqlPath}`
+      );
+    });
+  });
+};
+
+startApolloServer(typeDefs, resolvers);

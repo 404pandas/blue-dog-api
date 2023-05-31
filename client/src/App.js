@@ -21,7 +21,7 @@ import NotFound from "./pages/NotFound";
 
 /// IMPORT COMPONENTS ///
 import ProtectRoute from "./components/ProtectRoute";
-import "./App.css";
+import "./index.css";
 // todo- components
 
 const httpLink = createHttpLink({
