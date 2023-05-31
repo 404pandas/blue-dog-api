@@ -14,15 +14,17 @@
   "license": "MIT",
   "dependencies": {
     "colors": "^1.4.0",
-    "cors": "^2.8.5",
+    "@emailjs/browser": "^3.10.0",
+    "apollo-server-express": "^3.1.1",
+    "dotenv": "^16.0.3",
     "express": "^4.18.2",
-    "express-graphql": "^0.12.0",
-    "graphql": "^15.8.0",
-    "mongoose": "^7.1.1"
+    "graphql": "^16.6.0",
+    "graphql-tag": "^2.12.6",
+    "hamburger-react": "^2.5.0",
+    "survey-core": "^1.9.64",
+    "survey-creator-react": "^1.9.64"
   },
   "devDependencies": {
-    "concurrently": "^8.0.1",
-    "dotenv": "^16.0.3",
-    "nodemon": "^2.0.22"
+    "concurrently": "^5.3.0"
   }
 }

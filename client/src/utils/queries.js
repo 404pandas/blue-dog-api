@@ -1,13 +1,16 @@
 import { gql } from "@apollo/client";
 
-// Get Characters query
-const GET_CHARACTERS = gql`
-  query getCharacters {
-    characters {
-      id
+export const CURRENT_USER = gql`
+  query User {
+    me {
+      _id
+      email
+      username
+      characters {
+     _id!
       characterName
       description1
-      decription2
+      description2
       catchphrase
       appearance
       personality
@@ -15,15 +18,13 @@ const GET_CHARACTERS = gql`
       characteristics
       traits
       personal_status
-      first_appearance
+      firstAppearance
       trivia
-      appearances
       absences
       gallery
       animated
       references
+      }
     }
   }
 `;
-
-export { GET_CHARACTERS };
