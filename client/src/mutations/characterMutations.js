@@ -22,6 +22,24 @@ const ADD_CHARACTER = gql`
   }
 `;
 
+const EDIT_CHARACTER = gql`
+  mutation editCharacter(
+    $characterId: ID!
+    $trackingNum: String
+    $carrier: String
+    $notes: String
+  ) {
+    editCharacter(
+      characterId: $characterId
+      trackingNum: $trackingNum
+      carrier: $carrier
+      notes: $notes
+    ) {
+      _id
+    }
+  }
+`;
+
 const DELETE_CHARACTER = gql`
   mutation deleteCharacter($id: ID!) {
     deleteCharacter(id: $id) {
@@ -34,4 +52,4 @@ const DELETE_CHARACTER = gql`
   }
 `;
 
-export { ADD_CHARACTER, DELETE_CHARACTER };
+export { ADD_CHARACTER, DELETE_CHARACTER, EDIT_CHARACTER };

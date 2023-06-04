@@ -18,6 +18,7 @@ import Dashboard from "./pages/Dashboard";
 import Logout from "./pages/Logout";
 import Profile from "./pages/Profile";
 import NotFound from "./pages/NotFound";
+import SearchBooks from "./pages/SearchBooks";
 
 /// IMPORT COMPONENTS ///
 import ProtectRoute from "./components/ProtectRoute";

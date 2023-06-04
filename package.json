@@ -8,7 +8,9 @@
     "start": "node server/index.js",
     "server": "node server/index.js",
     "client": "npm start --prefix client",
-    "dev": "concurrently \"npm run client\" \"npm run server\""
+    "develop": "concurrently \"cd server && npm run watch\" \"cd client && npm start\"",
+    "install": "cd server && npm i && cd ../client && npm i",
+    "build": "cd client && npm run build"
   },
   "author": "Mary Elenius",
   "license": "MIT",
