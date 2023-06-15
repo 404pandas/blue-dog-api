@@ -1,6 +1,8 @@
-const { Schema, model } = require("mongoose");
+const mongoose = require("mongoose");
 
-const CharacterSchema = new Schema(
+const { Schema } = mongoose;
+
+const characterSchema = new Schema(
   {
     characterName: {
       type: String,
@@ -8,7 +10,6 @@ const CharacterSchema = new Schema(
         true,
         "Please add a Character Name. If you need assistance, ask a parent!",
       ],
-      ref: "",
     },
     description1: {
       type: String,
@@ -16,15 +17,12 @@ const CharacterSchema = new Schema(
         true,
         "Please add a description. If you need assistance, ask a parent!",
       ],
-      ref: "",
     },
-    decription2: {
+    description2: {
       type: String,
-      ref: "",
     },
     catchphrase: {
       type: String,
-      ref: "",
     },
     appearance: {
       type: String,
@@ -32,64 +30,51 @@ const CharacterSchema = new Schema(
         true,
         "Please add an appearance. If you need assistance, ask a parent!",
       ],
-      ref: "",
     },
     personality: {
       type: String,
-      ref: "",
     },
     nicknames: {
-      type: Array,
-      ref: "",
+      type: String,
     },
     characteristics: {
-      type: Object,
-      ref: "",
+      type: String,
     },
     traits: {
-      type: Object,
-      ref: "",
+      type: String,
     },
     personal_status: {
-      type: Object,
-      ref: "",
+      type: String,
     },
     firstAppearance: {
       type: String,
-      ref: "",
     },
     trivia: {
-      type: Array,
-      ref: "",
+      type: String,
     },
     absences: {
-      type: Array,
+      type: String,
       required: [
         true,
         "Please add the episodes a character isn't in. If you need assistance, ask a parent!",
       ],
-      ref: "",
     },
     gallery: {
-      type: Array,
-      ref: "",
+      type: String,
     },
     animated: {
-      type: Array,
-      ref: "",
+      type: String,
     },
     references: {
-      type: Array,
-      ref: "",
+      type: String,
     },
   },
   {
     toJSON: {
       virtuals: true,
     },
-    id: false,
   }
 );
-const Character = model("Character", CharacterSchema);
+const Character = mongoose.model("Character", characterSchema);
 
 module.exports = Character;

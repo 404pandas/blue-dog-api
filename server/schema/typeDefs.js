@@ -5,8 +5,7 @@ const typeDefs = gql`
     _id: ID!
     username: String!
     email: String!
-    password: String
-    characters: [Character]!
+    password: String!
   }
 
   type Character {
@@ -17,16 +16,16 @@ const typeDefs = gql`
     catchphrase: String
     appearance: String!
     personality: String
-    nicknames: Array
-    characteristics: Object
-    traits: Object
-    personal_status: Object
+    nicknames: String
+    characteristics: String
+    traits: String
+    personal_status: String
     firstAppearance: String
-    trivia: Array
-    absences: Array!
-    gallery: Array
-    animated: Array
-    references: Array
+    trivia: String
+    absences: String!
+    gallery: String
+    animated: String
+    references: String
   }
 
   type Auth {
@@ -38,17 +37,15 @@ const typeDefs = gql`
     users: [User]
     user(userId: ID!): User
     me: User
-
-    characters(userId: ID): [Character]
+    characters: [Character]
     character(characterId: ID!): Character
   }
 
   type Mutation {
-    login(email: String!, password: String!): Auth
+    login(username: String!, email: String!, password: String!): Auth
     addUser(username: String!, email: String!, password: String!): Auth
-    editUser(username: String, email: String, password: String): User
+    editUser(username: String!, email: String!, password: String!): User
     deleteUser: User
-
     addCharacter(
       _id: ID!
       characterName: String!
@@ -57,16 +54,16 @@ const typeDefs = gql`
       catchphrase: String
       appearance: String!
       personality: String
-      nicknames: Array
-      characteristics: Object
-      traits: Object
-      personal_status: Object
+      nicknames: String
+      characteristics: String
+      traits: String
+      personal_status: String
       firstAppearance: String
-      trivia: Array
-      absences: Array!
-      gallery: Array
-      animated: Array
-      references: Array
+      trivia: String
+      absences: String!
+      gallery: String
+      animated: String
+      references: String
     ): Character
     editCharacter(
       _id: ID!
@@ -76,16 +73,16 @@ const typeDefs = gql`
       catchphrase: String
       appearance: String!
       personality: String
-      nicknames: Array
-      characteristics: Object
-      traits: Object
-      personal_status: Object
+      nicknames: String
+      characteristics: String
+      traits: String
+      personal_status: String
       firstAppearance: String
-      trivia: Array
-      absences: Array!
-      gallery: Array
-      animated: Array
-      references: Array
+      trivia: String
+      absences: String!
+      gallery: String
+      animated: String
+      references: String
     ): Character
     deleteCharacter(characterId: ID!): Character
   }

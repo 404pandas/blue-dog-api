@@ -22,9 +22,9 @@ import MenuList from "@mui/material/MenuList";
 
 import ClickAwayListener from "@mui/material/ClickAwayListener";
 
-import logo from "./assets/Bluey_Wave.webp";
+import logo from "../assets/Bluey_Wave.webp";
 const pages = ["Characters", "Episodes", "Shorts", "Locations"];
-const settings = ["Profile", "Account", "Dashboard", "Logout"];
+const settings = ["Account", "Dashboard", "Login", "Logout", "Signup"];
 
 function ResponsiveAppBar() {
   const [anchorElNav, setAnchorElNav] = React.useState(null);
@@ -121,22 +121,22 @@ function ResponsiveAppBar() {
   }));
 
   return (
-    <AppBar position="static">
-      <Container maxWidth="xl">
+    <AppBar position='static'>
+      <Container maxWidth='xl'>
         <Toolbar disableGutters>
           <Box sx={{ flexGrow: 1, display: { xs: "flex", md: "none" } }}>
             <IconButton
-              size="large"
-              aria-label="account of current user"
-              aria-controls="menu-appbar"
-              aria-haspopup="true"
+              size='large'
+              aria-label='account of current user'
+              aria-controls='menu-appbar'
+              aria-haspopup='true'
               onClick={handleOpenNavMenu}
-              color="inherit"
+              color='inherit'
             >
               <MenuIcon />
             </IconButton>
             <Menu
-              id="menu-appbar"
+              id='menu-appbar'
               anchorEl={anchorElNav}
               anchorOrigin={{
                 vertical: "bottom",
@@ -157,21 +157,21 @@ function ResponsiveAppBar() {
                 <div>
                   <Button
                     ref={anchorRef}
-                    id="composition-button"
+                    id='composition-button'
                     aria-controls={open ? "composition-menu" : undefined}
                     aria-expanded={open ? "true" : undefined}
-                    aria-haspopup="true"
+                    aria-haspopup='true'
                     onClick={handleToggle}
                   >
                     <MenuItem key={page} onClick={handleCloseNavMenu}>
-                      <Typography textAlign="center">{page}</Typography>
+                      <Typography textAlign='center'>{page}</Typography>
                     </MenuItem>
                   </Button>
                   <Popper
                     open={open}
                     anchorEl={anchorRef.current}
                     role={undefined}
-                    placement="bottom-start"
+                    placement='bottom-start'
                     transition
                     disablePortal
                   >
@@ -189,14 +189,14 @@ function ResponsiveAppBar() {
                           <ClickAwayListener onClickAway={handleClose}>
                             <MenuList
                               autoFocusItem={open}
-                              id="composition-menu"
-                              aria-labelledby="composition-button"
+                              id='composition-menu'
+                              aria-labelledby='composition-button'
                               onKeyDown={handleListKeyDown}
                             >
-                              <Link to="/characters">
+                              <Link to='/characters'>
                                 <MenuItem onClick={handleClose}>Main</MenuItem>
                               </Link>
-                              <Link to="/">
+                              <Link to='/'>
                                 <MenuItem onClick={handleClose}>
                                   Secondary
                                 </MenuItem>
@@ -211,14 +211,14 @@ function ResponsiveAppBar() {
               ))}
             </Menu>
           </Box>
-          <Link to="/">
-            <img src={logo} alt="logo" id="bluey-logo" />
+          <Link to='/'>
+            <img src={logo} alt='logo' id='bluey-logo' />
           </Link>
           <Typography
-            variant="h5"
+            variant='h5'
             noWrap
-            component="a"
-            href=""
+            component='a'
+            href=''
             sx={{
               mr: 2,
               display: { xs: "flex", md: "none" },
@@ -240,10 +240,10 @@ function ResponsiveAppBar() {
                   <Button
                     ref={anchorRef}
                     key={page}
-                    id="composition-button"
+                    id='composition-button'
                     aria-controls={open ? "composition-menu" : undefined}
                     aria-expanded={open ? "true" : undefined}
-                    aria-haspopup="true"
+                    aria-haspopup='true'
                     onClick={handleToggle}
                     sx={{ my: 2, color: "white", display: "block" }}
                   >
@@ -253,7 +253,7 @@ function ResponsiveAppBar() {
                     open={open}
                     anchorEl={anchorRef.current}
                     role={undefined}
-                    placement="bottom-end"
+                    placement='bottom-end'
                     transition
                     disablePortal
                   >
@@ -271,14 +271,14 @@ function ResponsiveAppBar() {
                           <ClickAwayListener onClickAway={handleClose}>
                             <MenuList
                               autoFocusItem={open}
-                              id="composition-menu"
-                              aria-labelledby="composition-button"
+                              id='composition-menu'
+                              aria-labelledby='composition-button'
                               onKeyDown={handleListKeyDown}
                             >
-                              <Link to="/characters">
+                              <Link to='/characters'>
                                 <MenuItem onClick={handleClose}>Test</MenuItem>{" "}
                               </Link>
-                              <Link to="/">
+                              <Link to='/'>
                                 <MenuItem onClick={handleClose}>Test2</MenuItem>
                               </Link>
                             </MenuList>
@@ -293,29 +293,29 @@ function ResponsiveAppBar() {
           </Box>
 
           <Box sx={{ flexGrow: 0 }}>
-            <div id="search-and-avatar">
-              <Search id="search">
+            <div id='search-and-avatar'>
+              <Search id='search'>
                 <SearchIconWrapper>
                   <SearchIcon />
                 </SearchIconWrapper>
                 <StyledInputBase
-                  placeholder="Search…"
+                  placeholder='Search…'
                   inputProps={{ "aria-label": "search" }}
                 />
               </Search>
-              <Tooltip title="Open settings">
+              <Tooltip title='Open settings'>
                 <IconButton
-                  id="avatar"
+                  id='avatar'
                   onClick={handleOpenUserMenu}
                   sx={{ p: 0 }}
                 >
                   {/* TODO- Build out avatar functionality */}
-                  <Avatar alt="Remy Sharp" src="/static/images/avatar/2.jpg" />
+                  <Avatar alt='Remy Sharp' src='/static/images/avatar/2.jpg' />
                 </IconButton>
               </Tooltip>
               <Menu
                 sx={{ mt: "45px" }}
-                id="menu-appbar"
+                id='menu-appbar'
                 anchorEl={anchorElUser}
                 anchorOrigin={{
                   vertical: "top",
@@ -332,7 +332,7 @@ function ResponsiveAppBar() {
                 {settings.map((setting) => (
                   <Link to={setting}>
                     <MenuItem key={setting} onClick={handleCloseUserMenu}>
-                      <Typography textAlign="center">{setting}</Typography>
+                      <Typography textAlign='center'>{setting}</Typography>
                     </MenuItem>
                   </Link>
                 ))}

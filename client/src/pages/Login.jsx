@@ -2,23 +2,17 @@ import React, { useState } from "react";
 import { Link } from "react-router-dom";
 
 import { useMutation } from "@apollo/client";
-import { LOGIN_USER } from "../utils/mutations";
+import { LOGIN_USER } from "../mutations/userMutations";
+import Header from "../components/Header";
 
 import Auth from "../utils/auth";
 
-import Avatar from "@mui/material/Avatar";
-import Button from "@mui/material/Button";
-import CssBaseline from "@mui/material/CssBaseline";
-import TextField from "@mui/material/TextField";
-import Grid from "@mui/material/Grid";
-import Box from "@mui/material/Box";
-import LockOutlinedIcon from "@mui/icons-material/LockOutlined";
-import Typography from "@mui/material/Typography";
-import Container from "@mui/material/Container";
-
 const Login = (props) => {
-  const [formState, setFormState] = useState({ email: "", password: "" });
-  const [login, { error, data }] = useMutation(LOGIN_USER);
+  const [formState, setFormState] = useState({
+    email: "",
+    password: "",
+  });
+  const [login, { error }] = useMutation(LOGIN_USER);
 
   const handleChange = (e) => {
     const { name, value } = e.target;
@@ -34,93 +28,58 @@ const Login = (props) => {
     e.preventDefault();
 
     try {
-      const { data } = await login({
-        variables: { ...formState },
+      const mutationResponse = await login({
+        variables: { email: formState.email, password: formState.password },
       });
+      const token = mutationResponse.data.login.token;
 
-      Auth.login(data.login.token, data.login.user._id);
+      Auth.login(token);
     } catch (error) {
       console.log(error);
     }
-
-    setFormState({
-      email: "",
-      password: "",
-    });
   };
 
   return (
-    <main style={{ marginTop: "160px", marginBottom: "60px" }}>
-      {data ? (
-        <p>Successfully logged in!</p>
-      ) : (
-        <Container component='main' maxWidth='xs'>
-          <CssBaseline />
-          <Box
-            sx={{
-              marginTop: 8,
-              display: "flex",
-              flexDirection: "column",
-              alignItems: "center",
-            }}
-          >
-            <Avatar sx={{ m: 1, bgcolor: "secondary.main" }}>
-              <LockOutlinedIcon />
-            </Avatar>
-            <Typography component='h1' variant='h5'>
-              Sign in
-            </Typography>
-            <Box
-              component='form'
-              onSubmit={handleSubmit}
-              noValidate
-              sx={{ mt: 1 }}
-            >
-              <TextField
-                margin='normal'
-                required
-                fullWidth
-                id='email'
-                label='Email Address'
-                name='email'
-                autoComplete='email'
-                autoFocus
-                value={formState.email}
-                onChange={handleChange}
-              />
-              <TextField
-                margin='normal'
-                required
-                fullWidth
-                name='password'
-                label='Password'
-                type='password'
-                id='password'
-                autoComplete='current-password'
-                value={formState.password}
-                onChange={handleChange}
-              />
-              <Button
-                type='submit'
-                fullWidth
-                variant='contained'
-                sx={{ mt: 3, mb: 2 }}
-              >
-                Sign In
-              </Button>
-              <Grid container justifyContent='flex-end'>
-                <Grid item>
-                  <Link to='/signup' variant='body2'>
-                    {"Don't have an account? Sign Up"}
-                  </Link>
-                </Grid>
-              </Grid>
-            </Box>
-          </Box>
-        </Container>
-      )}
-      {error && <div>{error.message}</div>}
-    </main>
+    <>
+      <Header />
+      <div className='container my-1'>
+        <Link to='/signup'>← Go to Signup</Link>
+
+        <h2>Login</h2>
+        <form onSubmit={handleSubmit}>
+          <div className='flex-row space-between my-2'>
+            <label htmlFor='email'>Email address:</label>
+            <input
+              placeholder='youremail@test.com'
+              name='email'
+              type='email'
+              id='email'
+              onChange={handleChange}
+            />
+          </div>
+          <div className='flex-row space-between my-2'>
+            <label htmlFor='pwd'>Password:</label>
+            <input
+              placeholder='******'
+              name='password'
+              type='password'
+              id='pwd'
+              onChange={handleChange}
+            />
+          </div>
+          {error ? (
+            <div>
+              <p className='error-text'>
+                The provided credentials are incorrect
+              </p>
+            </div>
+          ) : null}
+          <div className='flex-row flex-end'>
+            <button type='submit'>Submit</button>
+          </div>
+        </form>
+      </div>
+    </>
   );
 };
 

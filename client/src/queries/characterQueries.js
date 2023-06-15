@@ -1,9 +1,9 @@
 import { gql } from "@apollo/client";
 
 export const GET_CHARACTERS = gql`
-  query Character {
-    characters {
-     _id!
+  query getCharacters($characterIds: [ID]) {
+    characters(characterIds: $characterIds) {
+      _id
       characterName
       description1
       description2
@@ -20,6 +20,6 @@ export const GET_CHARACTERS = gql`
       gallery
       animated
       references
-      }
-
-  }`;
+    }
+  }
+`;

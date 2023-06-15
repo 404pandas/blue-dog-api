@@ -7,22 +7,23 @@ import {
 } from "@apollo/client";
 import { setContext } from "@apollo/client/link/context";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import { ThemeProvider, createTheme } from "@mui/material/styles";
 import Auth from "./utils/auth";
 
-/// IMPORT PAGES ///
 import Home from "./pages/Home";
 import Account from "./pages/Account";
-import CharactersPage from "./pages/CharactersPage";
+import Character from "./pages/Character";
 import Dashboard from "./pages/Dashboard";
 import Logout from "./pages/Logout";
-import Profile from "./pages/Profile";
 import NotFound from "./pages/NotFound";
-import SearchBooks from "./pages/SearchBooks";
-
-/// IMPORT COMPONENTS ///
 import ProtectRoute from "./components/ProtectRoute";
 import "./index.css";
+import Login from "./pages/Login";
+import CharacterSecondary from "./pages/CharacterSecondary";
+import Episode from "./pages/Episode";
+import Location from "./pages/Location";
+import Short from "./pages/Short";
+import Signup from "./pages/Signup";
+
 // todo- components
 
 const httpLink = createHttpLink({
@@ -46,50 +47,37 @@ const client = new ApolloClient({
   cache: new InMemoryCache(),
 });
 
-// Create a theme
-const theme = createTheme({
-  palette: {
-    primary: {
-      light: "#757ce8",
-      main: "#149be6",
-      dark: "#0d579b",
-      contrastText: "#fff",
-    },
-    secondary: {
-      light: "#ff7961",
-      main: "#f44336",
-      dark: "#ba000d",
-      contrastText: "#000",
-    },
-  },
-});
-
 function App() {
   return (
     <>
       <ApolloProvider client={client}>
         <Router>
-          <ThemeProvider theme={theme}>
-            <Routes>
-              <Route path='/' element={<Home />} />
-              <Route path='*' element={<NotFound />} />
-              <Route path='/characters' element={<CharactersPage />} />
-              <Route path='/account' element={<Account />} />
-              <Route
-                path='dashboard/:userId'
-                element={
-                  Auth.loggedIn() ? (
-                    <Dashboard style={{ zIndex: -1, position: "sticky" }} />
-                  ) : (
-                    <ProtectRoute />
-                  )
-                }
-              />{" "}
-              <Route path='/logout' element={<Logout />} />
-              <Route path='/profile' element={<Profile />} />
-            </Routes>
-            <div className='container'></div>
-          </ThemeProvider>
+          <Routes>
+            <Route path='/' element={<Home />} />
+            <Route path='*' element={<NotFound />} />
+            <Route path='/characters' element={<Character />} />
+            <Route
+              path='/characters-secondary'
+              element={<CharacterSecondary />}
+            />
+            <Route path='/account' element={<Account />} />
+            <Route path='/locations' element={<Location />} />
+            <Route path='/episodes' element={<Episode />} />
+            <Route path='/shorts' element={<Short />} />
+            <Route
+              path='dashboard/:userId'
+              element={
+                Auth.loggedIn() ? (
+                  <Dashboard style={{ zIndex: -1, position: "sticky" }} />
+                ) : (
+                  <ProtectRoute />
+                )
+              }
+            />
+            <Route path='/logout' element={<Logout />} />
+            <Route path='/login' element={<Login />} />
+            <Route path='/signup' element={<Signup />} />
+          </Routes>
         </Router>
       </ApolloProvider>
     </>

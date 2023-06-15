@@ -5,12 +5,6 @@ import MuiAccordion from "@mui/material/Accordion";
 import MuiAccordionSummary from "@mui/material/AccordionSummary";
 import MuiAccordionDetails from "@mui/material/AccordionDetails";
 import Typography from "@mui/material/Typography";
-import { useMutation } from "@apollo/client";
-import { GET_CHARACTERS } from "../utils/queries";
-import { DELETE_CHARACTER } from "../utils/mutations";
-import IconButton from "@mui/material/IconButton";
-
-import DeleteIcon from "@mui/icons-material/Delete";
 
 // Accordion
 const Accordion = styled((props) => (
@@ -58,22 +52,6 @@ export default function CharacterRow({ character }) {
     setExpanded(newExpanded ? panel : false);
   };
 
-  const [deleteCharacter] = useMutation(DELETE_CHARACTER, {
-    variables: { id: character.id },
-    refetchQueries: { query: GET_CHARACTERS },
-    update(cache, { data: { deleteCharacter } }) {
-      const { characters } = cache.readQuery({ query: GET_CHARACTERS });
-      cache.writeQuery({
-        query: GET_CHARACTERS,
-        data: {
-          characters: characters.filter(
-            (character) => character.id !== deleteCharacter.id
-          ),
-        },
-      });
-    },
-  });
-
   return (
     <Accordion
       expanded={expanded === "panel1"}
@@ -88,14 +66,6 @@ export default function CharacterRow({ character }) {
         <Typography variant='body1' className='body1'>
           {character.characterName}
         </Typography>
-        <IconButton
-          edge='end'
-          aria-label='delete'
-          value={character._id}
-          onClick={(e) => [deleteCharacter](e.currentTarget.value)}
-        >
-          <DeleteIcon />
-        </IconButton>
       </AccordionDetails>
     </Accordion>
   );

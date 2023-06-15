@@ -24,11 +24,13 @@ code {
   overflow: hidden;
   overflow-y: scroll !important;
   margin: 5%;
+  background-color: white;
+  padding: 1%;
 }
 
 @font-face {
   font-family: hello-headline;
-  src: url(../src/components/assets/FontsFree-Net-Hello-Headline-W00-Regular.ttf);
+  src: url(../src/assets/FontsFree-Net-Hello-Headline-W00-Regular.ttf);
 }
 
 .h1 {

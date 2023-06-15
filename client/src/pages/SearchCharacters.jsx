@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import Header from "../components/Header";
 
 // TODO- import MUI stuff and style
 import Card from "@mui/material/Card";
@@ -35,10 +36,22 @@ const SearchCharacters = () => {
 
       const characterData = items.map((character) => ({
         characterId: character.id,
-        authors: character.volumeInfo.authors || ["No author to display"],
-        title: character.volumeInfo.title,
-        description: character.volumeInfo.description,
-        image: character.volumeInfo.imageLinks?.thumbnail || "",
+        characterName: character.characterName,
+        description1: character.description1,
+        description2: character.description2,
+        catchphrase: character.catchphrase,
+        appearance: character.appearance,
+        personality: character.personality,
+        nicknames: character.nicknames,
+        characteristics: character.characteristics,
+        traits: character.traits,
+        personal_status: character.personal_status,
+        firstAppearance: character.firstAppearance,
+        trivia: character.trivia,
+        absences: character.absences,
+        gallery: character.gallery,
+        animated: character.animated,
+        references: character.references,
       }));
 
       setSearchedCharacters(characterData);
@@ -50,6 +63,7 @@ const SearchCharacters = () => {
 
   return (
     <>
+      <Header />
       <Container>
         <h1>Search for Characters!</h1>
         <FormGroup onSubmit={handleFormSubmit}>
@@ -77,22 +91,22 @@ const SearchCharacters = () => {
         <h2>
           {searchedCharacters.length
             ? `Viewing ${searchedCharacters.length} results:`
-            : "Search for a book to begin"}
+            : "Search for a character to begin"}
         </h2>
         <CardContent>
           {searchedCharacters.map((character) => {
             return (
-              <Card key={character.characterId} border='dark'>
-                {character.image ? (
+              <Card key={character.characterName} border='dark'>
+                {character.gallery ? (
                   <Card.Img
-                    src={character.image}
-                    alt={`The cover for ${character.title}`}
+                    src={character.gallery}
+                    alt={`T${character.characterName}`}
                     variant='top'
                   />
                 ) : null}
                 <Card.Body>
-                  <Card.Title>{character.title}</Card.Title>
-                  <Card.Text>{character.description}</Card.Text>
+                  <Card.Title>{character.characterName}</Card.Title>
+                  <Card.Text>{character.description1}</Card.Text>
                 </Card.Body>
               </Card>
             );

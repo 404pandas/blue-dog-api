@@ -7,13 +7,11 @@ const resolvers = {
   Query: {
     // GETS ALL USERS
     users: async () => {
-      return User.find().populate("characters").select("-__v -password");
+      return User.find().select("-__v -password");
     },
     /// GETS ONE USER
     user: async (parent, { userId }) => {
-      return User.findOne({ _id: userId })
-        .populate("characters")
-        .select("-__v -password");
+      return User.findOne({ _id: userId }).select("-__v -password");
     },
     // GETS CURRENT USER
     me: async (parent, args, context) => {
@@ -27,9 +25,8 @@ const resolvers = {
     },
 
     // GETS ALL CHARACTERS, IF PASS USERNAME THEN ALL CHARACTERS FOR SPECIFIC USER
-    characters: async (parent, { userId }) => {
-      const params = userId ? { userId } : {};
-      return Character.find(params).sort({ createdAt: -1 });
+    characters: async (parent) => {
+      return Character.find();
     },
     // GETS SINGLE CHARACTER BY ID
     character: async (parent, { characterId }) => {
