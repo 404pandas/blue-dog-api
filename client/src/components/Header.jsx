@@ -154,7 +154,7 @@ function ResponsiveAppBar() {
               }}
             >
               {pages.map((page) => (
-                <div>
+                <div key={page + "1"}>
                   <Button
                     ref={anchorRef}
                     id='composition-button'
@@ -163,7 +163,7 @@ function ResponsiveAppBar() {
                     aria-haspopup='true'
                     onClick={handleToggle}
                   >
-                    <MenuItem key={page} onClick={handleCloseNavMenu}>
+                    <MenuItem onClick={handleCloseNavMenu}>
                       <Typography textAlign='center'>{page}</Typography>
                     </MenuItem>
                   </Button>
@@ -235,11 +235,10 @@ function ResponsiveAppBar() {
 
           <Box sx={{ flexGrow: 1, display: { xs: "none", md: "flex" } }}>
             {pages.map((page) => (
-              <div>
+              <div key={page + "2"}>
                 <MenuItem>
                   <Button
                     ref={anchorRef}
-                    key={page}
                     id='composition-button'
                     aria-controls={open ? "composition-menu" : undefined}
                     aria-expanded={open ? "true" : undefined}
@@ -330,8 +329,8 @@ function ResponsiveAppBar() {
                 onClose={handleCloseUserMenu}
               >
                 {settings.map((setting) => (
-                  <Link to={setting}>
-                    <MenuItem key={setting} onClick={handleCloseUserMenu}>
+                  <Link key={setting} to={setting}>
+                    <MenuItem onClick={handleCloseUserMenu}>
                       <Typography textAlign='center'>{setting}</Typography>
                     </MenuItem>
                   </Link>

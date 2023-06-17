@@ -10,12 +10,14 @@ export default function Characters() {
   if (loading) return <p>Loading...</p>;
   if (error) return <p>Something Went Wrong</p>;
 
-  console.log(data);
+  console.log(data.characters);
   return (
     <>
       {!loading && !error && (
         <div>
-          <CharacterRow key={data.id} character={data} />
+          {data.characters.map((character) => (
+            <CharacterRow key={character.id} character={character} />
+          ))}
         </div>
       )}
     </>

@@ -51,7 +51,7 @@ export default function CharacterRow({ character }) {
   const handleChange = (panel) => (event, newExpanded) => {
     setExpanded(newExpanded ? panel : false);
   };
-
+  console.log(character);
   return (
     <Accordion
       expanded={expanded === "panel1"}
