@@ -37,15 +37,30 @@ const characterSchema = new Schema(
     nicknames: {
       type: String,
     },
-    characteristics: {
+    breed: {
       type: String,
     },
-    traits: {
+    gender: {
       type: String,
     },
-    personal_status: {
+    age: {
       type: String,
     },
+    eyes: {
+      type: String,
+    },
+    fur: {
+      type: String,
+    },
+
+    relatives: {
+      type: String,
+    },
+
+    friends: {
+      type: String,
+    },
+
     firstAppearance: {
       type: String,
     },
