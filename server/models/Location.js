@@ -11,16 +11,19 @@ const locationSchema = new Schema({
     type: String,
     required: [true, "Please add a description."],
   },
+  apperance: {
+    type: String,
+    required: [true, "Please add an appearance."],
+  },
   rooms: {
     type: String,
   },
   appearances: {
     type: String,
-    required: [true, "Please add a season."],
+    required: [true, "Please add episode names that include this location."],
   },
   inhabitants: {
     type: String,
-    required: [true, "Please add an location."],
   },
   inconsistencies: {
     type: String,
@@ -30,7 +33,6 @@ const locationSchema = new Schema({
   },
   gallery: {
     type: String,
-    required: [true, "Please add an location."],
   },
 });
 const Location = mongoose.model("Location", locationSchema);

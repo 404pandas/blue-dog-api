@@ -1,5 +1,5 @@
 const { AuthenticationError } = require("apollo-server-express");
-const { User, Character, Episode } = require("../models");
+const { User, Character, Episode, Location } = require("../models");
 const { signToken } = require("../utils/auth");
 const bcrypt = require("bcrypt");
 
@@ -24,7 +24,7 @@ const resolvers = {
       throw new AuthenticationError("You need to be logged in!");
     },
 
-    // GETS ALL CHARACTERS, IF PASS USERNAME THEN ALL CHARACTERS FOR SPECIFIC USER
+    // GETS ALL CHARACTERS
     characters: async (parent) => {
       return Character.find();
     },
@@ -32,13 +32,21 @@ const resolvers = {
     character: async (parent, { characterId }) => {
       return Character.findOne({ _id: characterId });
     },
-    // GETS ALL EPISODES, IF PASS USERNAME THEN ALL EPISODES FOR SPECIFIC USER
+    // GETS ALL EPISODES
     episodes: async (parent) => {
       return Episode.find();
     },
     // GETS SINGLE EPISODE BY ID
     episode: async (parent, { episodeId }) => {
       return Episode.findOne({ _id: episodeId });
+    },
+    // GETS ALL LOCATIONS
+    locations: async (parent) => {
+      return Location.find();
+    },
+    // GETS SINGLE LOCATION BY ID
+    location: async (parent, { locationId }) => {
+      return Location.findOne({ _id: locationId });
     },
   },
 

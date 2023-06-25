@@ -36,6 +36,19 @@ const typeDefs = gql`
     episode: Int!
   }
 
+  type Location {
+    _id: ID!
+    locationName: String!
+    description: String!
+    appearance: String!
+    rooms: String
+    appearances: String!
+    inhabitants: String!
+    inconsistences: String
+    trivia: String
+    gallery: String
+  }
+
   type Auth {
     token: ID!
     user: User
@@ -49,6 +62,8 @@ const typeDefs = gql`
     character(characterId: ID!): Character
     episodes: [Episode]
     episode(episodeId: ID!): Episode
+    locations: [Location]
+    location(locationId: ID!): Location
   }
 
   type Mutation {

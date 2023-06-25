@@ -1,5 +1,12 @@
 import React from "react";
+import Locations from "../components/Locations";
+import Header from "../components/Header";
 
 export default function Location() {
-  return <div>Location</div>;
+  return (
+    <>
+      <Header />
+      <Locations />
+    </>
+  );
 }

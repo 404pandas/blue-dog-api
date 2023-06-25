@@ -1,5 +1,6 @@
 [
   {
+    "id": "1",
     "locationName": "Heeler Family's Home",
     "description": "The Heeler Family’s House is an old Queenslander household situated on the end of a cul de sac. It has a poinciana tree, a front yard, a back yard and 2 levels and a view of the city. Its rooms include Bandit and Chilli Heeler's Bedroom and Bluey and Bingo Heeler's Bedroom.",
     "appearance": "The Heeler Family’s House has cream, wooden walls, white fences and accents, a red roof and brick supports.",
@@ -11,6 +12,7 @@
     "gallery": ""
   },
   {
+    "id": "2",
     "locationName": "Chloe's Family's Home",
     "description": "Chloe's house is where Chloe and her family live. It is rather spacious and seems to have a modern theme or aesthetic, with the left side of the house having a window wall. There's also a glass fish tank in the living room. They family's address number is 101.",
     "appearance": "",
@@ -22,6 +24,7 @@
     "gallery": ""
   },
   {
+    "id": "3",
     "locationName": "Crazy World",
     "description": "CrazyWorld is an Amusement Park that the heelers went to in Mt. Mumandad. It features rides, attractions, and a giant statue of a purple squirrel in the center. The squirrel seems to be its mascot. Bluey and Bingo had bought teddies, a magic wand, and a backpack with a flag back home from the gift shop.",
     "appearance": "",
@@ -33,6 +36,7 @@
     "gallery": ""
   },
   {
+    "id": "4",
     "locationName": "Glasshouse Primary School",
     "description": "Glasshouse Primary School is a school for the older kids and is operated by Calypso. As per most Steiner/Waldorf schools, the school does not have a specific age range for children.",
     "appearance": "The building is mostly made of wood. In accordance with Waldorf educational principles for early childhood, the building heavily features natural materials and rounded shapes.",
@@ -44,6 +48,7 @@
     "gallery": ""
   },
   {
+    "id": "5",
     "locationName": "Golden Crown",
     "description": "The Golden Crown is the main location in the episode Takeaway.",
     "appearance": "A metallic red and gold sign that says 'Takeaway' sits on the window and is above Chinese lettering. Below them are four displays of food. The window has a thick red outline with a skinny, patterned yellow line running throughout the sides. A picture of a brown dog wearing a red robe sits in the left corner. The roof is blue, and you can see the letters and numbers 'ph:331156' written on the side. Next to that, has the abbreviation of 'Golden Crown' (G.C) Next to a yellow crown and Chinese lettering, which is on a red banner. On the roof is a display of red, white, and purple lights with one missing. A light up sign with red lettering displays 'Golden Crown' right above the window. There is another small rectangular window next to this sign, and below is the red doorframe which has glass. Inside we can see a red soda machine. The lower half of the building has brick which is above a built in see through yellow mailbox which is where they'll put the menus. The walls are cream, and to the far left can be seen a tap with a drain under it. A red sign with white writing is seen on the right.",
@@ -55,6 +60,7 @@
     "gallery": ""
   },
   {
+    "id": "6",
     "locationName": "Trampolinium",
     "description": "In the episode Promises, Bandit tells Bluey and Bingo 'It’s time to go kids' but they say 'Oh no! Not yet! Just One more minute!'. Bandit eventually comes in after the 2 already promised 1 more minute multiple times and chases the girls around the play area after Bluey told Bingo to run, Bandit gets hurt in the process of chasing them and cuts off to the next scene of the 2 girls and Bandit in the car.",
     "appearance": "",
@@ -66,6 +72,7 @@
     "gallery": ""
   },
   {
+    "id": "7",
     "locationName": "Kindy",
     "description": "The Kindy is a kindergarten operated by Mrs. Retriever in Bluey.",
     "appearance": "The building has cream coloured walls inside and outside.",
@@ -77,6 +84,7 @@
     "gallery": ""
   },
   {
+    "id": "8",
     "locationName": "Border Collie Family's House",
     "description": "The Mackenzie's family house is a traditional single-story Queenslander. Outside, the property has a driveway and a front yard that features some bushes. The house has yellow paint on the exterior walls and is red on the roof. Near the windows, there is very pale blue paint. It also appears to have a garage.",
     "appearance": "",
@@ -88,6 +96,7 @@
     "gallery": ""
   },
   {
+    "id": "9",
     "locationName": "The Big Peanut",
     "description": "The Big Peanut is a statue of an anthropomorphic peanut wearing a cork hat. One of Australia's Big Things.",
     "appearance": "Approximately 50 feet high, this statue of an anthropomorphic peanut is brown all over, with a green cork hat. The peanut man is posed to be smiling and waving.",
@@ -99,6 +108,7 @@
     "gallery": ""
   },
   {
+    "id": "10",
     "locationName": "Stripe's Family's House",
     "description": "Stripe's Family's House first appeared in the episode, The Pool.",
     "appearance": "Contrast to the Heelers' house, this house has a modern, tropical theme with a lot of tropical plants around. On the front, there's a full fence and a car park on the left side of the house. At the backyard, there's a pool and a gazebo.",
@@ -110,6 +120,7 @@
     "gallery": ""
   },
   {
+    "id": "11",
     "locationName": "Space",
     "description": "Space is a restaurant play place in Bluey.",
     "appearance": "The restaurant first appeared in Mr. Monkeyjocks when Bluey, Bingo, Bandit, and Mr. Monkeyjocks go there. When they were there, Bluey, Bingo, and Mr. Monkeyjocks shot balls at Bandit. The restaurant also appeared in Pass the Parcel, which is the place of Jasper G.'s party.",
@@ -121,6 +132,7 @@
     "gallery": ""
   },
   {
+    "id": "12",
     "locationName": "Airport",
     "description": "The Airport shown in the show is, naturally, Brisbane Airport. The real life counterpart is one of the busiest in Australia, with two terminals, separating domestic and international passengers. The terminal which Bandit is shown flying out of in Curry Quest is directly designed off of Brisbane's International Terminal, including its arrivals hall. It should also be noted that the planes shown in the montage at the airport directly depict a QANTAS livered B737-800 aircraft, albeit with branding removed.",
     "appearance": "",
@@ -132,6 +144,7 @@
     "gallery": ""
   },
   {
+    "id": "13",
     "locationName": "Benjamina Place Park",
     "description": "In Turtleboy, Bingo and Dougie play separately at Benjamina Place Park in The Gap.[1] It's a small park, with a swingset, brick barbecue, and basketball key.",
     "appearance": "",
@@ -143,6 +156,7 @@
     "gallery": ""
   },
   {
+    "id": "14",
     "locationName": "Currimundi Beach",
     "description": "In Relax and Stickbird, The Heeler Family are on a holiday to a resort with a beach. The location of the beach is most likely that of Currimundi, which just south of Sunshine Coast and is roughly an hour north of Brisbane.",
     "appearance": "",
@@ -154,6 +168,7 @@
     "gallery": ""
   },
   {
+    "id": "15",
     "locationName": "Fitzroy Island",
     "description": "Fairytale had Bandit a story of him as a child on holiday with his parents (Bob, Chris) and brothers (Rad and Stripe) back in the 1980s. While no location is given for where the holiday is set, it is a seaside resort with wide open spaces. It is mostly considered to be The resort on Fitzroy Island, which is in the far north of Queensland and is seperate from the continental mainland (Cairns, which is is where ferries depart from for the island, is at least a days drive from Brisbane). The resort has high prices, with prices of over AU$2,000 for a week in the summer.[5",
     "appearance": "",
@@ -165,6 +180,7 @@
     "gallery": ""
   },
   {
+    "id": "16",
     "locationName": "Florence Café",
     "description": "Bluey and Bingo want ice creams, and ask Bandit to take them. He only agrees to but does Ragdoll to teach them of hard work. With Wendys' help, they make it to a café and enjoy their frozen foods. The café has a similar design to Florence Cafe, which is in Camp Hill area of South Brisbane.[6]",
     "appearance": "Ragdoll",
@@ -176,6 +192,7 @@
     "gallery": ""
   },
   {
+    "id": "17",
     "locationName": "The Gap",
     "description": "In Pass the Parcel, invites are sent to the numerous birthday parties shown in the episode, one of which is for Missys'. Her invite shows the words for The Gap, which is an upmarket suburb 10KM west of Brisbane.",
     "appearance": "",
@@ -187,6 +204,7 @@
     "gallery": ""
   },
   {
+    "id": "18",
     "locationName": "Hammerbarn",
     "description": "In the episode of the same name, The Hammerbarn Store is located to the north of Brisbane, and is a direct copy of a Bunnings Warehouse store located in Keperra, which is to the northwest of Brisbane, and the closest such store to Paddington. Bunnings itself is a hardware store, similar to B&Q in the UK or House Depot in the USA, and the logo used for Hammerbard is essentially a copy of the Bunnings hammer.",
     "appearance": "Hammerbarn",
@@ -198,6 +216,7 @@
     "gallery": ""
   },
   {
+    "id": "19",
     "locationName": "Latrobe Terrace",
     "description": "In Dance Mode, Bandit, Chilli, Bluey and Bingo are having an outing and are eating at a Café. They have a window seat, with a building seen behind them. This building, with a flower as a logo, is similar to Flowers Of The World, located in Paddington, Brisbane. The same Café (which is probably The Java Lounge) is shown in Favourite Thing, as is the botanists. However, since the family sit outside, there is a better view of the surroundings, such as a bus stop with shelter. This bus stop, due to it's location and unique design, is Trammies Corner, which has frequent services from the city centre.",
     "appearance": "",
@@ -209,6 +228,7 @@
     "gallery": ""
   },
   {
+    "id": "20",
     "locationName": "The Library",
     "description": "In Promises, The Heeler family enter a library to take out and return some books. This library is based of the Ashgrove Library, which is to the northwest of central Brisbane, and also the closest Library to Paddington. Alongside this, the attached café and adjacent playground shown in the episode also exist in real life, albeit with some equipment changed in the playground.",
     "appearance": "",
@@ -220,6 +240,7 @@
     "gallery": ""
   },
   {
+    "id": "21",
     "locationName": "Moogerah Dam",
     "description": "In Grandad, Chilli, Bluey and Bingo visit their Grandad Mort who lives a distance from their suburban home. A chase ensues, with all four stopping at a lake with a view. This location is reminisent of Lake Moogerah, which is located near Mount Edwards and is roughly an hour away from Brisbane. According to Costa Kassab (the art director for most episodes of Bluey), the episode also references photos taken at Carney's Creek Road and Creek Yarramalong, which are both roughly 10 km from Moogerah, plus Enoggera Reservoir which is just outside of Brisbane.",
     "appearance": "",
@@ -231,6 +252,7 @@
     "gallery": ""
   },
   {
+    "id": "22",
     "locationName": "The Myer Centre",
     "description": "In The Quiet Game, Bandit and his daughters need to buy a present for Muffin, and so head to a toy shop. The shop is located in a shopping centre which is accessed from street level by escalators. This is The Myer Centre which is located in Brisbane CBD with the entrance shown being that on Albert/Elizabeth Street crossroads[15]. Additionally, in the background shot on what would be Albert Street are public gardens, these being The City Botanic Gardens in Brisbane, with The Concourse entrance being portrayed.",
     "appearance": "",
@@ -242,6 +264,7 @@
     "gallery": ""
   },
   {
+    "id": "23",
     "locationName": "New Farm Park",
     "description": "In Spy Game, a gathering of Bluey and her friends take place in a riverside park. This park is based off New Farm Park located in Central Brisbane. The barbecue takes place on a public grill near the Brisbane Powerhouse(a power station that has been repurposed as a performing arts centre and community space). Bingo practises her ballet moves in the rotunda. They even have a very similar toilet block.",
     "appearance": "",
@@ -253,6 +276,7 @@
     "gallery": ""
   },
   {
+    "id": "24",
     "locationName": "Noosa",
     "description": "In Piggyback, Heelers walk down the bank of the Noosa River. The holiday house is based on Twin Quays Noosa. They pass a pelican statue based on The Big Pelican. They pass two buildings with 'Jetski Hire' signs on the side; both appear to be based on U-Drive Boat Hire[18]. Their journey ends at a river overlook at Gympie Terrace and Williams Street",
     "appearance": "",
@@ -264,6 +288,7 @@
     "gallery": ""
   },
   {
+    "id": "25",
     "locationName": "Orleigh Park",
     "description": "In Seesaw, the kids play at a park featuring storybook murals and a custom frog-tongue slide. This is Orleigh Park in West End.",
     "appearance": "",
@@ -275,6 +300,7 @@
     "gallery": ""
   },
   {
+    "id": "26",
     "locationName": "Southbank Brisbane",
     "description": "In the episode Ice Cream, the entire episode is set away from The Heeler Household, focused instead on the SouthBank area of Brisbane. There are numerous locations shown of the site in the episode, such as The Streets Beach, an urban swimming site in SouthBank, and Aquativity [21][22].The Wheel of Brisbane and Queensland Performing Arts Centre (shown together) are also potrayed, as is The Arbour [23]. To the end of the episode, a shot shows the three (Bandit with Bluey and Bingo under each arm) looking over a river for a city view. This is on Clem Jones Promenade next to The Brisbane River between The Victoria and Neville Bonner Bridges. The Heelers also watch the fireworks show in Bob Bilbyfrom somewhere in Southbank.",
     "appearance": "Ice Cream, Bob Bilby",
@@ -286,6 +312,7 @@
     "gallery": ""
   },
   {
+    "id": "27",
     "locationName": "Toowong Cemetery",
     "description": "In Show And Tell, when Bandit ignored SatNav in order to teach Bluey and Bingo a lesson about doing what they’re told, they ended up at the Toowong Cemetery instead of their destination. Bingo lovingly referred to it as “Statue World.” It is the largest cemetery in Queensland, residing on the corner of Frederick Street and Mount Coot-tha Road. It is about four and a half kilometers west of Brisbane.",
     "appearance": "",
@@ -297,6 +324,7 @@
     "gallery": ""
   },
   {
+    "id": "28",
     "locationName": "Wae Rebo",
     "description": "To the end of Curry Quest, Bandit is away from his family for six weeks, away on an archaeology trip. The village which is shown in a few brief shots is reminiscent of Wae Rebo village[25]. The village located in Indonesia (about 500 km east of Bali) is famed for its ecotourism and its circular-cone houses. Joe Brumms' older brother worked as an archaeologist in the area briefly.",
     "appearance": "Curry Quest",
@@ -308,6 +336,7 @@
     "gallery": ""
   },
   {
+    "id": "29",
     "locationName": "Wittonga Park",
     "description": "The birthday party in Cricket takes place at Wittonga Park in The Gap.[26] This may also be the park from Lila's birthday party in Pass the Parcel and the unidentified party in Perfect.",
     "appearance": "",
@@ -319,6 +348,7 @@
     "gallery": ""
   },
   {
+    "id": "30",
     "locationName": "Woolcock Park",
     "description": "The park shown in Bike and Bob Bilby (and incidentally in Baby Race) is referenced from Woolcock Park in Red Hill.[27][28].",
     "appearance": "",
@@ -330,6 +360,7 @@
     "gallery": ""
   },
   {
+    "id": "31",
     "locationName": "Wynnum Whale Park",
     "description": "In Pass the Parcel, Buddy's birthday party is set at Wynnum Whale Park in Wynnum. It's a seaside playground with a nautical theme and several water features.",
     "appearance": "",
