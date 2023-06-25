@@ -45,13 +45,13 @@ const AccordionDetails = styled(MuiAccordionDetails)(({ theme }) => ({
   borderTop: "1px solid rgba(0, 0, 0, .125)",
 }));
 
-export default function LocationRow({ location }) {
+export default function ShortRow({ short }) {
   const [expanded, setExpanded] = React.useState("panel1");
 
   const handleChange = (panel) => (event, newExpanded) => {
     setExpanded(newExpanded ? panel : false);
   };
-  console.log(location);
+  console.log(short);
   return (
     <Accordion
       expanded={expanded === "panel1"}
@@ -59,33 +59,24 @@ export default function LocationRow({ location }) {
     >
       <AccordionSummary aria-controls='panel1d-content' id='panel1d-header'>
         <Typography variant='h4' className='h4'>
-          {location.locationName}
+          {short.shortName}
         </Typography>
       </AccordionSummary>
       <AccordionDetails>
         <Typography variant='body1' className='body1'>
-          {location.description}
+          {short.plot}
         </Typography>
         <Typography variant='body1' className='body1'>
-          {location.appearance}
+          {short.characters}
         </Typography>
         <Typography variant='body1' className='body1'>
-          {location.rooms}
+          {short.trivia}
         </Typography>
         <Typography variant='body1' className='body1'>
-          {location.appearances}
+          {short.url}
         </Typography>
         <Typography variant='body1' className='body1'>
-          {location.inhabitants}
-        </Typography>
-        <Typography variant='body1' className='body1'>
-          {location.inconsistences}
-        </Typography>
-        <Typography variant='body1' className='body1'>
-          {location.trivia}
-        </Typography>
-        <Typography variant='body1' className='body1'>
-          {location.gallery}
+          {short.premiereDate}
         </Typography>
       </AccordionDetails>
     </Accordion>

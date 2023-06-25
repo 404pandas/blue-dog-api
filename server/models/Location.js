@@ -11,7 +11,7 @@ const locationSchema = new Schema({
     type: String,
     required: [true, "Please add a description."],
   },
-  apperance: {
+  appearance: {
     type: String,
     required: [true, "Please add an appearance."],
   },

@@ -1,5 +1,12 @@
 import React from "react";
+import Shorts from "../components/Shorts";
+import Header from "../components/Header";
 
 export default function Short() {
-  return <div>Short</div>;
+  return (
+    <>
+      <Header />
+      <Shorts />
+    </>
+  );
 }

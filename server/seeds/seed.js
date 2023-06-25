@@ -13,7 +13,10 @@ db.once("open", async () => {
     await Character.deleteMany({});
     console.log("Characters deleted");
     // Deletes Episodes
-    await Episodes.deleteMany({});
+    await Episode.deleteMany({});
+    console.log("Episodes deleted");
+    // Deletes Episodes
+    await Episode.deleteMany({});
     console.log("Episodes deleted");
     // Creates Users
     await User.create(userSeeds);

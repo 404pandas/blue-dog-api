@@ -18,7 +18,6 @@ import NotFound from "./pages/NotFound";
 import ProtectRoute from "./components/ProtectRoute";
 import "./index.css";
 import Login from "./pages/Login";
-import CharacterSecondary from "./pages/CharacterSecondary";
 import Episode from "./pages/Episode";
 import Location from "./pages/Location";
 import Short from "./pages/Short";
@@ -56,10 +55,7 @@ function App() {
             <Route path='/' element={<Home />} />
             <Route path='*' element={<NotFound />} />
             <Route path='/characters' element={<Character />} />
-            <Route
-              path='/characters-secondary'
-              element={<CharacterSecondary />}
-            />
+
             <Route path='/account' element={<Account />} />
             <Route path='/locations' element={<Location />} />
             <Route path='/episodes' element={<Episode />} />

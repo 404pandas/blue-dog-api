@@ -43,10 +43,20 @@ const typeDefs = gql`
     appearance: String!
     rooms: String
     appearances: String!
-    inhabitants: String!
+    inhabitants: String
     inconsistences: String
     trivia: String
     gallery: String
+  }
+
+  type Short {
+    _id: ID!
+    shortName: String!
+    plot: String!
+    characters: String
+    trivia: String
+    url: String
+    premiereDate: String
   }
 
   type Auth {
@@ -64,6 +74,8 @@ const typeDefs = gql`
     episode(episodeId: ID!): Episode
     locations: [Location]
     location(locationId: ID!): Location
+    shorts: [Short]
+    short(shortId: ID!): Short
   }
 
   type Mutation {
