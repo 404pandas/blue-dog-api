@@ -1,5 +1,5 @@
 const { AuthenticationError } = require("apollo-server-express");
-const { User, Character } = require("../models");
+const { User, Character, Episode } = require("../models");
 const { signToken } = require("../utils/auth");
 const bcrypt = require("bcrypt");
 
