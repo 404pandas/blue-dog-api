@@ -28,6 +28,14 @@ const typeDefs = gql`
     references: String
   }
 
+  type Episode {
+    _id: ID!
+    episodeName: String!
+    description: String!
+    season: Int!
+    episode: Int!
+  }
+
   type Auth {
     token: ID!
     user: User
@@ -39,6 +47,8 @@ const typeDefs = gql`
     me: User
     characters: [Character]
     character(characterId: ID!): Character
+    episodes: [Episode]
+    episode(episodeId: ID!): Episode
   }
 
   type Mutation {
@@ -46,45 +56,6 @@ const typeDefs = gql`
     addUser(username: String!, email: String!, password: String!): Auth
     editUser(username: String!, email: String!, password: String!): User
     deleteUser: User
-    addCharacter(
-      _id: ID!
-      characterName: String!
-      description1: String!
-      description2: String
-      catchphrase: String
-      appearance: String!
-      personality: String
-      nicknames: String
-      characteristics: String
-      traits: String
-      personal_status: String
-      firstAppearance: String
-      trivia: String
-      absences: String!
-      gallery: String
-      animated: String
-      references: String
-    ): Character
-    editCharacter(
-      _id: ID!
-      characterName: String!
-      description1: String!
-      description2: String
-      catchphrase: String
-      appearance: String!
-      personality: String
-      nicknames: String
-      characteristics: String
-      traits: String
-      personal_status: String
-      firstAppearance: String
-      trivia: String
-      absences: String!
-      gallery: String
-      animated: String
-      references: String
-    ): Character
-    deleteCharacter(characterId: ID!): Character
   }
 `;
 

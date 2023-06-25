@@ -32,6 +32,14 @@ const resolvers = {
     character: async (parent, { characterId }) => {
       return Character.findOne({ _id: characterId });
     },
+    // GETS ALL EPISODES, IF PASS USERNAME THEN ALL EPISODES FOR SPECIFIC USER
+    episodes: async (parent) => {
+      return Episode.find();
+    },
+    // GETS SINGLE EPISODE BY ID
+    episode: async (parent, { episodeId }) => {
+      return Episode.findOne({ _id: episodeId });
+    },
   },
 
   Mutation: {
@@ -95,47 +103,6 @@ const resolvers = {
     deleteUser: async (parent, args, context) => {
       if (context.user) {
         return User.findOneAndDelete({ _id: context.user._id });
-      }
-      throw new AuthenticationError("You need to be logged in!");
-    },
-
-    // CREATE NEW CHARACTER
-    addCharacter: async (parent, args, context) => {
-      if (context.user) {
-        const character = await Character.create({
-          ...args,
-          userId: context.user._id,
-        });
-        await User.findOneAndUpdate(
-          { _id: context.user._id },
-          { $addToSet: { characters: character._id } }
-        );
-        return character;
-      }
-      throw new AuthenticationError("You need to be logged in!");
-    },
-    // EDIT CHARACTER
-    editCharacter: async (parent, args, context) => {
-      if (context.user) {
-        return Character.findOneAndUpdate(
-          { _id: args.characterId },
-          { $set: args },
-          { new: true }
-        );
-      }
-      throw new AuthenticationError("You need to be logged in!");
-    },
-    // DELETE CHARACTER
-    deleteCharacter: async (parent, args, context) => {
-      if (context.user) {
-        const character = await Character.findOneAndDelete({
-          _id: args.characterId,
-        });
-        await User.findOneAndUpdate(
-          { _id: context.user._id },
-          { $pull: { characters: character._id } }
-        );
-        return character;
       }
       throw new AuthenticationError("You need to be logged in!");
     },
