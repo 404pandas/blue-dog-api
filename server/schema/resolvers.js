@@ -6,7 +6,7 @@ const {
   Location,
   Short,
   Book,
-  Prop,
+  Item,
 } = require("../models");
 const { signToken } = require("../utils/auth");
 const bcrypt = require("bcrypt");
@@ -31,7 +31,14 @@ const resolvers = {
       }
       throw new AuthenticationError("You need to be logged in!");
     },
-
+    // GETS ALL BOOKS
+    books: async (parent) => {
+      return Book.find();
+    },
+    // GETS SINGLE BOOK BY ID
+    book: async (parent, { bookId }) => {
+      return Book.findOne({ _id: bookId });
+    },
     // GETS ALL CHARACTERS
     characters: async (parent) => {
       return Character.find();
@@ -48,6 +55,14 @@ const resolvers = {
     episode: async (parent, { episodeId }) => {
       return Episode.findOne({ _id: episodeId });
     },
+    // GETS ALL ITEMS
+    items: async (parent) => {
+      return Item.find();
+    },
+    // GETS SINGLE ITEM BY ID
+    item: async (parent, { itemId }) => {
+      return Item.findOne({ _id: itemId });
+    },
     // GETS ALL LOCATIONS
     locations: async (parent) => {
       return Location.find();
@@ -55,22 +70,6 @@ const resolvers = {
     // GETS SINGLE LOCATION BY ID
     location: async (parent, { locationId }) => {
       return Location.findOne({ _id: locationId });
-    },
-    // GETS ALL BOOKS
-    books: async (parent) => {
-      return Book.find();
-    },
-    // GETS SINGLE BOOK BY ID
-    books: async (parent, { bookId }) => {
-      return Book.findOne({ _id: bookId });
-    },
-    // GETS ALL PROPS
-    props: async (parent) => {
-      return Prop.find();
-    },
-    // GETS SINGLE SHORT BY ID
-    prop: async (parent, { propId }) => {
-      return Prop.findOne({ _id: propId });
     },
     // GETS ALL SHORTS
     shorts: async (parent) => {

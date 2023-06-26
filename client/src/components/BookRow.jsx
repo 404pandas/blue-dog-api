@@ -61,7 +61,6 @@ export default function BookRow({ book }) {
         <Typography variant='h4' className='h4'>
           {book.bookName}
         </Typography>
-        <img src={book.img} alt='book'></img>
       </AccordionSummary>
       <AccordionDetails>
         <Typography variant='body1' className='body1'>

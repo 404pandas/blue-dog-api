@@ -79,7 +79,7 @@ export default function LocationRow({ location }) {
           {location.inhabitants}
         </Typography>
         <Typography variant='body1' className='body1'>
-          {location.inconsistences}
+          {location.inconsistencies}
         </Typography>
         <Typography variant='body1' className='body1'>
           {location.trivia}

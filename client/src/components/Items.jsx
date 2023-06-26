@@ -1,22 +1,22 @@
 import { useQuery } from "@apollo/client";
-import PropRow from "./PropRow";
-import { GET_PROPS } from "../queries/propQueries";
+import ItemRow from "./ItemRow";
+import { GET_ITEMS } from "../queries/itemQueries";
 
 // MUI imports
 import * as React from "react";
 
-export default function Props() {
-  const { loading, error, data } = useQuery(GET_PROPS);
+export default function Items() {
+  const { loading, error, data } = useQuery(GET_ITEMS);
   if (loading) return <p>Loading...</p>;
   if (error) return <p>Something Went Wrong</p>;
 
-  console.log(data.props);
+  console.log(data.items);
   return (
     <>
       {!loading && !error && (
         <div>
-          {data.props.map((prop) => (
-            <PropRow key={prop.id} prop={prop} />
+          {data.items.map((item) => (
+            <ItemRow key={item.id} item={item} />
           ))}
         </div>
       )}

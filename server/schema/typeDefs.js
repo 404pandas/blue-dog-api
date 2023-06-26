@@ -1,11 +1,17 @@
 const { gql } = require("graphql-tag");
 
 const typeDefs = gql`
-  type User {
+  type Book {
     _id: ID!
-    username: String!
-    email: String!
-    password: String!
+    bookName: String!
+    img: String
+    characters: String
+    plot: String
+    publisher: String
+    publish_date: String
+    pages: String
+    isbn: String
+    trivia: String
   }
 
   type Character {
@@ -44,9 +50,15 @@ const typeDefs = gql`
     rooms: String
     appearances: String
     inhabitants: String
-    inconsistences: String
+    inconsistencies: String
     trivia: String
     gallery: String
+  }
+
+  type Item {
+    _id: ID!
+    itemName: String!
+    img: String!
   }
 
   type Short {
@@ -59,23 +71,11 @@ const typeDefs = gql`
     premiereDate: String
   }
 
-  type Book {
+  type User {
     _id: ID!
-    bookName: String!
-    img: String!
-    characters: String
-    plot: String
-    publisher: String
-    publish_date: String
-    pages: String
-    isbn: String
-    trivia: String
-  }
-
-  type Prop {
-    _id: ID!
-    proptName: String!
-    img: String!
+    username: String!
+    email: String!
+    password: String!
   }
 
   type Auth {
@@ -87,12 +87,16 @@ const typeDefs = gql`
     users: [User]
     user(userId: ID!): User
     me: User
+    books: [Book]
+    book(bookId: ID!): Book
     characters: [Character]
     character(characterId: ID!): Character
     episodes: [Episode]
     episode(episodeId: ID!): Episode
     locations: [Location]
     location(locationId: ID!): Location
+    items: [Item]
+    item(itemId: ID!): Item
     shorts: [Short]
     short(shortId: ID!): Short
   }

@@ -5,7 +5,7 @@ const {
   Episode,
   Book,
   Location,
-  Prop,
+  Item,
   Short,
 } = require("../models");
 const userSeeds = require("./userSeeds.json");
@@ -13,7 +13,7 @@ const characterSeeds = require("./characterSeeds.json");
 const episodeSeeds = require("./episodeSeeds.json");
 const bookSeeds = require("./bookSeeds.json");
 const locationSeeds = require("./locationSeeds.json");
-const propSeeds = require("./propSeeds.json");
+const itemSeeds = require("./itemSeeds.json");
 const shortsSeeds = require("./shortsSeeds.json");
 
 db.once("open", async () => {
@@ -33,9 +33,9 @@ db.once("open", async () => {
     // Deletes Shorts
     await Short.deleteMany({});
     console.log("Shorts deleted");
-    // Deletes Props
-    await Prop.deleteMany({});
-    console.log("Props deleted");
+    // Deletes Items
+    await Item.deleteMany({});
+    console.log("Items deleted");
     // Deletes Locations
     await Location.deleteMany({});
     console.log("Locations deleted");
@@ -54,9 +54,9 @@ db.once("open", async () => {
     // Creates Shorts
     await Short.create(shortsSeeds);
     console.log("Shorts seeded!");
-    // Creates Props
-    await Prop.create(propSeeds);
-    console.log("Props seeded!");
+    // Creates Items
+    await Item.create(itemSeeds);
+    console.log("Items seeded!");
     // Creates Locations
     await Location.create(locationSeeds);
     console.log("Locations seeded!");

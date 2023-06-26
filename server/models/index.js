@@ -3,7 +3,7 @@ const Character = require("./Character");
 const Episode = require("./Episode");
 const Location = require("./Location");
 const Short = require("./Short");
-const Prop = require("./Prop");
+const Item = require("./Item");
 const Book = require("./Book");
 
-module.exports = { User, Character, Episode, Location, Short, Prop, Book };
+module.exports = { User, Character, Episode, Location, Short, Item, Book };

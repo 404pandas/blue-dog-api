@@ -45,13 +45,13 @@ const AccordionDetails = styled(MuiAccordionDetails)(({ theme }) => ({
   borderTop: "1px solid rgba(0, 0, 0, .125)",
 }));
 
-export default function PropRow({ prop }) {
+export default function ItemRow({ item }) {
   const [expanded, setExpanded] = React.useState("panel1");
 
   const handleChange = (panel) => (event, newExpanded) => {
     setExpanded(newExpanded ? panel : false);
   };
-  console.log(prop);
+  console.log(item);
   return (
     <Accordion
       expanded={expanded === "panel1"}
@@ -59,11 +59,11 @@ export default function PropRow({ prop }) {
     >
       <AccordionSummary aria-controls='panel1d-content' id='panel1d-header'>
         <Typography variant='h4' className='h4'>
-          {prop.propName}
+          {item.itemName}
         </Typography>
       </AccordionSummary>
       <AccordionDetails>
-        <img src={prop.img} alt='prop'></img>
+        {/* <img src={item.img} alt='item'></img> */}
       </AccordionDetails>
     </Accordion>
   );

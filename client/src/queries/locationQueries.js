@@ -10,7 +10,7 @@ export const GET_LOCATIONS = gql`
       rooms
       appearances
       inhabitants
-      inconsistences
+      inconsistencies
       trivia
       gallery
     }

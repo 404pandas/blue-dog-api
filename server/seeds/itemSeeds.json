@@ -1,0 +1,67 @@
+[
+  {
+    "itemName": "Bandit with Fan",
+    "img": "./src/assets/images/items/balloon-obstacle-fan.png"
+  },
+
+  {
+    "itemName": "Art Supplies",
+    "img": "./src/assets/images/items/art-supplies.png"
+  },
+
+  {
+    "itemName": "test",
+    "img": "./src/assets/images/items/balloon-obstacle-umbrella"
+  },
+
+  {
+    "itemName": "test",
+    "img": "./src/assets/images/items/balloon-popped"
+  },
+
+  {
+    "itemName": "test",
+    "img": "./src/assets/images/items/balloon-start-kitchen"
+  },
+
+  {
+    "itemName": "test",
+    "img": "./src/assets/images/items/balloon-start-playroom"
+  },
+
+  {
+    "itemName": "test",
+    "img": "./src/assets/images/items/bluey-drawing"
+  },
+
+  {
+    "itemName": "test",
+    "img": "./src/assets/images/items/drawing-app-background"
+  },
+
+  {
+    "itemName": "test",
+    "img": "./src/assets/images/items/drawing-app-fast-car-stamp"
+  },
+
+  {
+    "itemName": "test",
+    "img": "./src/assets/images/items/drawing-app-goblet-stamp"
+  },
+  {
+    "itemName": "test",
+    "img": "./src/assets/images/items/drawing-app-horse-stamp"
+  },
+  {
+    "itemName": "test",
+    "img": "./src/assets/images/items/markers-in-box"
+  },
+  {
+    "itemName": "test",
+    "img": "./src/assets/images/items/markers"
+  },
+  {
+    "itemName": "test",
+    "img": "./src/assets/images/items/markers2"
+  }
+]

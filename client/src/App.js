@@ -9,21 +9,28 @@ import { setContext } from "@apollo/client/link/context";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Auth from "./utils/auth";
 
-import Home from "./pages/Home";
+// Pages
 import Account from "./pages/Account";
+import Book from "./pages/Book";
 import Character from "./pages/Character";
 import Dashboard from "./pages/Dashboard";
+import DrawingApp from "./pages/DrawingApp";
+import Episode from "./pages/Episode";
+import Home from "./pages/Home";
+import Location from "./pages/Location";
+import Login from "./pages/Login";
 import Logout from "./pages/Logout";
 import NotFound from "./pages/NotFound";
-import ProtectRoute from "./components/ProtectRoute";
-import "./index.css";
-import Login from "./pages/Login";
-import Episode from "./pages/Episode";
-import Location from "./pages/Location";
+import Item from "./pages/Item";
+import KeepyUppy from "./pages/KeepyUppy";
 import Short from "./pages/Short";
 import Signup from "./pages/Signup";
 
-// todo- components
+// CSS
+import "./index.css";
+
+// Components
+import ProtectRoute from "./components/ProtectRoute";
 
 const httpLink = createHttpLink({
   uri: "/graphql",
@@ -52,14 +59,9 @@ function App() {
       <ApolloProvider client={client}>
         <Router>
           <Routes>
-            <Route path='/' element={<Home />} />
-            <Route path='*' element={<NotFound />} />
-            <Route path='/characters' element={<Character />} />
-
             <Route path='/account' element={<Account />} />
-            <Route path='/locations' element={<Location />} />
-            <Route path='/episodes' element={<Episode />} />
-            <Route path='/shorts' element={<Short />} />
+            <Route path='/books' element={<Book />} />
+            <Route path='/characters' element={<Character />} />
             <Route
               path='dashboard/:userId'
               element={
@@ -70,8 +72,16 @@ function App() {
                 )
               }
             />
-            <Route path='/logout' element={<Logout />} />
+            <Route path='/episodes' element={<Episode />} />
+            <Route path='/keepyuppy' element={<KeepyUppy />} />
+            <Route path='/drawingapp' element={<DrawingApp />} />
+            <Route path='/' element={<Home />} />
+            <Route path='/locations' element={<Location />} />
             <Route path='/login' element={<Login />} />
+            <Route path='/logout' element={<Logout />} />
+            <Route path='*' element={<NotFound />} />
+            <Route path='/items' element={<Item />} />
+            <Route path='/shorts' element={<Short />} />
             <Route path='/signup' element={<Signup />} />
           </Routes>
         </Router>

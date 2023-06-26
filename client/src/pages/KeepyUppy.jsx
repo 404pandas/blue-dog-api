@@ -1,12 +1,11 @@
 import React from "react";
-import Props from "../components/Props";
 import Header from "../components/Header";
 
-export default function Prop() {
+export default function KeppyUppy() {
   return (
     <>
       <Header />
-      <Props />
+      Keepy Uppy Game Here
     </>
   );
 }

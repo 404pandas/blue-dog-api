@@ -12,8 +12,17 @@ code {
     monospace;
 }
 
-#bluey-logo {
+#bluey-logo-small {
   height: 50px;
+  margin-right: 15px;
+}
+
+#keepy-uppy-balloon {
+  height: 50px;
+}
+#drawing-app-marker {
+  height: 35px;
+  margin-right: 15px;
 }
 
 #add-character-modal {
