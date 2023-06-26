@@ -14,7 +14,7 @@ const typeDefs = gql`
     description1: String!
     description2: String
     catchphrase: String
-    appearance: String!
+    appearance: String
     personality: String
     nicknames: String
     characteristics: String
@@ -22,7 +22,7 @@ const typeDefs = gql`
     personal_status: String
     firstAppearance: String
     trivia: String
-    absences: String!
+    absences: String
     gallery: String
     animated: String
     references: String
@@ -40,9 +40,9 @@ const typeDefs = gql`
     _id: ID!
     locationName: String!
     description: String!
-    appearance: String!
+    appearance: String
     rooms: String
-    appearances: String!
+    appearances: String
     inhabitants: String
     inconsistences: String
     trivia: String
@@ -57,6 +57,25 @@ const typeDefs = gql`
     trivia: String
     url: String
     premiereDate: String
+  }
+
+  type Book {
+    _id: ID!
+    bookName: String!
+    img: String!
+    characters: String
+    plot: String
+    publisher: String
+    publish_date: String
+    pages: String
+    isbn: String
+    trivia: String
+  }
+
+  type Prop {
+    _id: ID!
+    proptName: String!
+    img: String!
   }
 
   type Auth {

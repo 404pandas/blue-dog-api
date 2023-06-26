@@ -26,10 +26,6 @@ const characterSchema = new Schema(
     },
     appearance: {
       type: String,
-      required: [
-        true,
-        "Please add an appearance. If you need assistance, ask a parent!",
-      ],
     },
     personality: {
       type: String,
@@ -69,10 +65,6 @@ const characterSchema = new Schema(
     },
     absences: {
       type: String,
-      required: [
-        true,
-        "Please add the episodes a character isn't in. If you need assistance, ask a parent!",
-      ],
     },
     gallery: {
       type: String,

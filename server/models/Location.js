@@ -13,14 +13,12 @@ const locationSchema = new Schema({
   },
   appearance: {
     type: String,
-    required: [true, "Please add an appearance."],
   },
   rooms: {
     type: String,
   },
   appearances: {
     type: String,
-    required: [true, "Please add episode names that include this location."],
   },
   inhabitants: {
     type: String,

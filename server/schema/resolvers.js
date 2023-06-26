@@ -1,5 +1,13 @@
 const { AuthenticationError } = require("apollo-server-express");
-const { User, Character, Episode, Location, Short } = require("../models");
+const {
+  User,
+  Character,
+  Episode,
+  Location,
+  Short,
+  Book,
+  Prop,
+} = require("../models");
 const { signToken } = require("../utils/auth");
 const bcrypt = require("bcrypt");
 
@@ -47,6 +55,22 @@ const resolvers = {
     // GETS SINGLE LOCATION BY ID
     location: async (parent, { locationId }) => {
       return Location.findOne({ _id: locationId });
+    },
+    // GETS ALL BOOKS
+    books: async (parent) => {
+      return Book.find();
+    },
+    // GETS SINGLE BOOK BY ID
+    books: async (parent, { bookId }) => {
+      return Book.findOne({ _id: bookId });
+    },
+    // GETS ALL PROPS
+    props: async (parent) => {
+      return Prop.find();
+    },
+    // GETS SINGLE SHORT BY ID
+    prop: async (parent, { propId }) => {
+      return Prop.findOne({ _id: propId });
     },
     // GETS ALL SHORTS
     shorts: async (parent) => {
