@@ -1,6 +1,5 @@
 [
   {
-    "id": "1",
     "characterName": "Bluey Christine Heeler",
     "description1": "Bluey is a seven-year-old Blue Heeler pup who loves to play. Her parents and teacher give her lots of time to practice, which means she’s become very good at inventing games, helping everyone choose their roles and deciding on the rules. Her favourite games are ones that involve lots of other kids and grown-ups (especially her dad) and she likes to pretend she’s a grown-up doing grownup things herself",
     "description2": "Bluey Christine Heeler is the titular protagonist, daughter of Bandit and Chilli, the older sister of Bingo, and niece of Uncle Stripe and Aunt Trixie",
@@ -23,7 +22,6 @@
     "references": "en.wikipedia.org/wiki/Bluey_(dog)"
   },
   {
-    "id": "2",
     "characterName": "Bingo Heeler",
     "description1": "Bingo is Bluey's younger sister. She’s 4 years old, and a red heeler like her mum. Bingo also likes to play but she is a bit quieter than Bluey, so is more likely to be the customer than the shop owner. Sometimes though, when Bluey asks her to be the doctor, rather than the patient, she really enjoys it. When she’s not playing you can find her in the yard talking to tiny bugs or off lost in her own beautiful world.",
     "description2": "Bingo Heeler is one of the main characters of Bluey. Serving the role as a deuteragonist, she is the younger daughter of Bandit and Chilli, the younger sister of Bluey, and niece of Stripe, Trixie, Rad, and Brandy.",
@@ -46,7 +44,6 @@
     "references": "Array"
   },
   {
-    "id": "3",
     "characterName": "Bandit Heeler",
     "description1": "Dad is an archaeologist (he loves to dig up bones). As the devoted, yet tired father, he does his best to use whatever energy is left after interrupted sleep, work and household chores, to invent and play games with his two girls. He still tries to continue his own life amidst the chaos of childrearing but often struggles to juggle these two competing tasks!",
     "description2": "Bandit Heeler is a main character, the husband of Chilli, the younger brother of Rad, the older brother of Stripe, father of Bluey and Bingo, and uncle of Muffin and Socks.",
@@ -69,7 +66,6 @@
     "references": ""
   },
   {
-    "id": "4",
     "characterName": "Bella",
     "description1": "Bella is a Poodle with pink and dark pink fur. She has pink legs, feet, arms, hands, tail stem, eyebrows and face, and dark pink arm tufts, leg tufts, tail tuft, torso tuft and head tuft. She also has a black nose.",
     "description2": "Bella is Chilli and Snickers’ Mum's friend. She has nine kids including Coco and a husband.",
@@ -92,7 +88,6 @@
     "references": ""
   },
   {
-    "id": "5",
     "characterName": "Bentley",
     "description1": "Small, inventive and determined.",
     "description2": "Bentley is friends with most of the students in Mrs. Retriever’s school. She has a sister.",
@@ -115,7 +110,6 @@
     "references": "https://www.instagram.com/p/Cc2PNDJrmb6/"
   },
   {
-    "id": "6",
     "characterName": "Bentley’s Mum",
     "description1": "The mother of Bentley and Zara. Seen in Daddy Dropoff.",
     "description2": "",
@@ -138,7 +132,6 @@
     "references": ""
   },
   {
-    "id": "7",
     "characterName": "Biscuits & Buttermilk",
     "description1": "Biscuits and Buttermilk are minor characters who appear throughout Bluey.",
     "description2": "",
@@ -161,7 +154,6 @@
     "references": ""
   },
   {
-    "id": "8",
     "characterName": "Bob Heeler",
     "description1": "Bob has no known real friends yet, but he is the husband of Chris (Nana), the dad of Bandit, Stripe, and Rad, the father-in-law of Chilli and Trixie, and the grandpa of Bluey, Bingo, Muffin and Socks.",
     "description2": "Bob is a secondary character who first appeared in Grannies.",
@@ -184,7 +176,6 @@
     "references": ""
   },
   {
-    "id": "9",
     "characterName": "Chilli Heeler",
     "description1": "After having the kids, Chilli’s recently gone back to her job working at Airport Security and juggles this with raising her two little pups. Mum often has a wry comment about the kids' antics or a kind word for an overwrought child, but she’s equally at home throwing herself into a game and always able to see the funny side.",
     "description2": "Chilli is a member of the Heeler family. She's the wife of Bandit, the mother of Bluey and Bingo, the aunt of Muffin and Socks, the daughter-in-law of Bob and Nana, and the sister-in-law of Trixie, Rad, and Stripe. Her father is Mort, and her older sister is Brandy. Chilli works part-time in airport security As a child, Chilli spent a lot of time playing in the scrub near her father’s home[1]. Her family would vacation at a caravan park where Bandit would recall meeting as children; Chilli does not remember this, but admits it could be the case[2]. She recalls their first meeting being a party in London[3]. Chilli would later recall that Bandit had a finger up his nose when they first met[4].The two began dating, and eventually went on a backpacking trip to Italy. While there, Bandit proposed to Chilli, and she accepted. The pair were later married[5]. Among the guests at the wedding were Frisky, who would later become Bluey’s godmother, and Bandit's brother Rad. The venue included a pool, which Rad probably fell into[6]. Some time afterwards, Chilli became pregnant, later giving birth to Bluey[7]. Bingo, their youngest daughter, would be born a couple of years later[8].Chilli currently lives with Bandit and her daughters in the suburbs.",
@@ -207,7 +198,6 @@
     "references": ""
   },
   {
-    "id": "10",
     "characterName": "Muffin",
     "description1": "Bluey’s non-stop cousin. Always speaks her mind.",
     "description2": "",
@@ -230,7 +220,6 @@
     "references": ""
   },
   {
-    "id": "11",
     "characterName": "Jack",
     "description1": "Jack is a new student at Calypso’s School, best friends with Rusty, the son of his parents and the older brother of Lulu.",
     "description2": "Jack Russell is a lively Jack Russell terrier. His best friend is Rusty.",
@@ -253,7 +242,6 @@
     "references": ""
   },
   {
-    "id": "12",
     "characterName": "Rusty",
     "description1": "Bluey’s friend from the bush. Already rides a motorbike.",
     "description2": "",
@@ -276,7 +264,6 @@
     "references": ""
   },
   {
-    "id": "13",
     "characterName": "Lucky",
     "description1": "Adventurous next door neighbour. Can’t stop moving.",
     "description2": "",
@@ -299,7 +286,6 @@
     "references": ""
   },
   {
-    "id": "14",
     "characterName": "Mackenzie Border Collie",
     "description1": "Quick, sociable and from New Zealand.",
     "description2": "",
@@ -322,7 +308,6 @@
     "references": ""
   },
   {
-    "id": "15",
     "characterName": "Indy",
     "description1": "Super open and imaginative.",
     "description2": "Indy is friends with most of the students in Calypso’s school. She has a Mum and a sister, but no known dad as of yet.",
@@ -345,7 +330,6 @@
     "references": ""
   },
   {
-    "id": "16",
     "characterName": "Honey",
     "description1": "Assertive, thoughtful and mindful.",
     "description2": "Honey is friends with many of the children in Calypso‘s school. She has a Dad called Marcus and a Mum called Daisy.",
@@ -368,7 +352,6 @@
     "references": ""
   },
   {
-    "id": "17",
     "characterName": "Coco",
     "description1": "Enthusiastic, impatient.",
     "description2": "Coco is friends with most of the students in Calypso’s School. She has a mum, a dad and eight older siblings.",
@@ -391,7 +374,6 @@
     "references": ""
   },
   {
-    "id": "18",
     "characterName": "Customer",
     "description1": "Customer is a secondary character who appeared in Kids.",
     "description2": "Customer is friends with Bandit, but has no relatives as of yet.",
@@ -414,7 +396,6 @@
     "references": ""
   },
   {
-    "id": "19",
     "characterName": "Customer 2",
     "description1": "Customer 2 is a secondary character that has appeared in multiple episodes of Bluey.",
     "description2": "Customer 2 sells fruit and veggies at the market and has no known friends or relatives as of yet.",
@@ -437,7 +418,6 @@
     "references": ""
   },
   {
-    "id": "20",
     "characterName": "Snickers",
     "description1": "Not the most physical kid but loves machines, atoms and the stars.",
     "description2": "",
@@ -460,7 +440,6 @@
     "references": ""
   },
   {
-    "id": "21",
     "characterName": "Chloe",
     "description1": "Bluey’s Best Friend. Super kind, gentle and smart.",
     "description2": "Chloe is Bluey’s best friend but is also friends with most of the students in Calypso‘s school. She is seven years old, and has a Dad, Mum and Baby Brother.",
@@ -483,7 +462,6 @@
     "references": ""
   },
   {
-    "id": "22",
     "characterName": "Chloe's Mum",
     "description1": "Chloe’s Mum is friends with Bluey, Honey and Mackenzie’s parents. she has a daughter named Chloe, a husband and a baby son.",
     "description2": "",
@@ -506,7 +484,6 @@
     "references": ""
   },
   {
-    "id": "23",
     "characterName": "Frank",
     "description1": "Frank[1] is a secondary character that has appeared in multiple episodes of Bluey.",
     "description2": "Frank is friends with Bluey, Mackenzie and Honey‘s parents. He has a wife, a baby son and a daughter named Chloe.",
@@ -529,7 +506,6 @@
     "references": ""
   },
   {
-    "id": "24",
     "characterName": "Chloe's Mum",
     "description1": "Chloe’s Mum is friends with Bluey, Honey and Mackenzie’s parents. she has a daughter named Chloe, a husband and a baby son.",
     "description2": "",
@@ -552,7 +528,6 @@
     "references": ""
   },
   {
-    "id": "25",
     "characterName": "Judo",
     "description1": "Bluey’s other neighbour.",
     "description2": "",
@@ -575,7 +550,6 @@
     "references": ""
   },
   {
-    "id": "26",
     "characterName": "Jean Luc",
     "description1": "Bluey’s French Canadian camping buddy.",
     "description2": "Jean-Luc is a secondary character that appeared in Camping.",
@@ -598,7 +572,6 @@
     "references": ""
   },
   {
-    "id": "27",
     "characterName": "The Terriers",
     "description1": "Unstoppable forces of nature. They’re little terriers.",
     "description2": "",
@@ -621,7 +594,6 @@
     "references": ""
   },
   {
-    "id": "28",
     "characterName": "Socks",
     "description1": "Muffin’s baby sister is just starting to talk.",
     "description2": "",
@@ -644,7 +616,6 @@
     "references": ""
   },
   {
-    "id": "29",
     "characterName": "Missy",
     "description1": "Super brave when she’s ready.",
     "description2": "Missy is a secondary character that has appeared in multiple episodes of Bluey.",
@@ -667,7 +638,6 @@
     "references": ""
   },
   {
-    "id": "30",
     "characterName": "Buddy",
     "description1": "Patient for days.",
     "description2": "Buddy is a secondary character that has appeared in multiple episodes of Bluey.",
@@ -690,7 +660,6 @@
     "references": ""
   },
   {
-    "id": "31",
     "characterName": "Buddy's Mum",
     "description1": "Muffin’s baby sister is just starting to talk.",
     "description2": "Buddy's mum is friends with the parents of Buddy's friends. Aside from her son, she has no known family members.",
@@ -713,7 +682,6 @@
     "references": ""
   },
   {
-    "id": "32",
     "characterName": "Bull Terriers",
     "description1": "Muffin’s baby sister is just starting to talk.",
     "description2": "Both of the Bull Terriers seem to enjoy being sociable. With most of their cameos being with family members. However, it is unknown if the kid has a father or if the mom has a husband. They have no known friends or family relatives yet.",
@@ -736,7 +704,6 @@
     "references": ""
   },
   {
-    "id": "33",
     "characterName": "Bus Stop Dog",
     "description1": "The Bus Stop Dog is a character who is always sitting on the bench at the bus stop. She has white fur and blue glasses. She speaks once when confronted by Bandit saying she doesn’t need to worry about the Sun since it’s meant to be there. She appears in Wagon Ride and Born Yesterday",
     "description2": "",
@@ -759,7 +726,6 @@
     "references": ""
   },
   {
-    "id": "34",
     "characterName": "Calypso",
     "description1": "Calypso is the teacher at Bluey's school, Glasshouse Primary School. She has no known relatives but is friends with many of her students.",
     "description2": "Bluey's teacher for Prep. An Aussie Shepherd.",
@@ -782,7 +748,6 @@
     "references": ""
   },
   {
-    "id": "35",
     "characterName": "Winton",
     "description1": "A very obedient breed.",
     "description2": "",
@@ -805,7 +770,6 @@
     "references": ""
   },
   {
-    "id": "36",
     "characterName": "Uncle Stripe",
     "description1": "Dad’s Younger brother & Bluey & Bingo’s Uncle.",
     "description2": "",
@@ -828,7 +792,6 @@
     "references": ""
   },
   {
-    "id": "37",
     "characterName": "Aunt Trixie",
     "description1": "Bluey & Bingo’s Aunt and Chilli’s hockey teammate.",
     "description2": "",
@@ -851,7 +814,6 @@
     "references": ""
   },
   {
-    "id": "38",
     "characterName": "Bently",
     "description1": "Small, inventive and determined.",
     "description2": "",
@@ -874,7 +836,6 @@
     "references": ""
   },
   {
-    "id": "39",
     "characterName": "Nana",
     "description1": "Bandit’s Mum and Bluey & Bingo’s Nana. Retired to the Gold Coast.",
     "description2": "",
@@ -897,7 +858,6 @@
     "references": ""
   },
   {
-    "id": "40",
     "characterName": "Bob Heeler",
     "description1": "Bluey & Bingo’s Grandad.",
     "description2": "Bob has no known real friends yet, but he is the husband of Chris (Nana), the dad of Bandit, Stripe, and Rad, the father-in-law of Chilli and Trixie, and the grandpa of Bluey, Bingo, Muffin and Socks.",
@@ -920,7 +880,6 @@
     "references": ""
   },
   {
-    "id": "41",
     "characterName": "Bosco",
     "description1": "Bosco is a character mentioned in Bluey. So far, he has never made an appearance; only mentioned. Frisky was his wife or girlfriend, later he broke up with her before the events of Double Babysitter. It's never explained why they broke up, though given that Frisky, when acting as a princess for the Heeler sisters, said that Rad (who was playing the prince) would probably go looking for other princesses, this could imply that either Bosco cheated on Frisky, or Bosco dumped Frisky so that he could date another dog.",
     "description2": "",
@@ -943,7 +902,6 @@
     "references": ""
   },
   {
-    "id": "42",
     "characterName": "Brandy Cattle",
     "description1": "Brandy Cattle (also known as Aunty Brandy by Bluey and Bingo) is a secondary character, the older sister of Chilli, the sister-in-law of Bandit, and the maternal aunt of Bluey and Bingo.",
     "description2": "Brandy is Chilli's older sister. She distanced herself due to the grief of her sister being able to grow a family while she herself had fertility issues. They hadn't spoken for years, but Chilli eventually found the courage to call her, which lead to them reuniting in Onesies.",
@@ -966,7 +924,6 @@
     "references": ""
   },
   {
-    "id": "43",
     "characterName": "Socks",
     "description1": "Muffin’s baby sister is just starting to talk.",
     "description2": "",
@@ -989,7 +946,6 @@
     "references": ""
   },
   {
-    "id": "28",
     "characterName": "Socks",
     "description1": "Muffin’s baby sister is just starting to talk.",
     "description2": "",
@@ -1012,7 +968,6 @@
     "references": ""
   },
   {
-    "id": "28",
     "characterName": "Socks",
     "description1": "Muffin’s baby sister is just starting to talk.",
     "description2": "",
@@ -1035,7 +990,6 @@
     "references": ""
   },
   {
-    "id": "28",
     "characterName": "Socks",
     "description1": "Muffin’s baby sister is just starting to talk.",
     "description2": "",
@@ -1058,7 +1012,6 @@
     "references": ""
   },
   {
-    "id": "28",
     "characterName": "Socks",
     "description1": "Muffin’s baby sister is just starting to talk.",
     "description2": "",
@@ -1081,7 +1034,6 @@
     "references": ""
   },
   {
-    "id": "28",
     "characterName": "Socks",
     "description1": "Muffin’s baby sister is just starting to talk.",
     "description2": "",
@@ -1104,7 +1056,6 @@
     "references": ""
   },
   {
-    "id": "28",
     "characterName": "Socks",
     "description1": "Muffin’s baby sister is just starting to talk.",
     "description2": "",
@@ -1127,7 +1078,6 @@
     "references": ""
   },
   {
-    "id": "28",
     "characterName": "Socks",
     "description1": "Muffin’s baby sister is just starting to talk.",
     "description2": "",
@@ -1150,7 +1100,6 @@
     "references": ""
   },
   {
-    "id": "28",
     "characterName": "Socks",
     "description1": "Muffin’s baby sister is just starting to talk.",
     "description2": "",
@@ -1173,7 +1122,6 @@
     "references": ""
   },
   {
-    "id": "28",
     "characterName": "Socks",
     "description1": "Muffin’s baby sister is just starting to talk.",
     "description2": "",
@@ -1196,7 +1144,6 @@
     "references": ""
   },
   {
-    "id": "28",
     "characterName": "Socks",
     "description1": "Muffin’s baby sister is just starting to talk.",
     "description2": "",
@@ -1219,7 +1166,6 @@
     "references": ""
   },
   {
-    "id": "28",
     "characterName": "Socks",
     "description1": "Muffin’s baby sister is just starting to talk.",
     "description2": "",
@@ -1242,7 +1188,6 @@
     "references": ""
   },
   {
-    "id": "28",
     "characterName": "Socks",
     "description1": "Muffin’s baby sister is just starting to talk.",
     "description2": "",
@@ -1265,7 +1210,6 @@
     "references": ""
   },
   {
-    "id": "28",
     "characterName": "Socks",
     "description1": "Muffin’s baby sister is just starting to talk.",
     "description2": "",
@@ -1288,7 +1232,6 @@
     "references": ""
   },
   {
-    "id": "28",
     "characterName": "Socks",
     "description1": "Muffin’s baby sister is just starting to talk.",
     "description2": "",
@@ -1311,7 +1254,6 @@
     "references": ""
   },
   {
-    "id": "28",
     "characterName": "Socks",
     "description1": "Muffin’s baby sister is just starting to talk.",
     "description2": "",
