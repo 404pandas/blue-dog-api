@@ -16,7 +16,7 @@ export default function Books() {
       {!loading && !error && (
         <div>
           {data.books.map((book) => (
-            <BookRow key={book.id} book={book} />
+            <BookRow key={book._id} book={book} />
           ))}
         </div>
       )}
