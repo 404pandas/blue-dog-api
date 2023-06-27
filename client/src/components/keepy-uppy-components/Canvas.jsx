@@ -1,15 +1,12 @@
 import React, { useRef, useEffect, useState } from "react";
 
 // local imports
-import Scene from "./scene";
+import Scene from "./Scene";
 import { registerListener } from "./utils";
-
 import "./style.css";
 import "./core";
 import "./levels";
-import "./scene";
 import "./utils";
-import "./vector";
 
 export default function Canvas() {
   const sceneContainer = useRef();

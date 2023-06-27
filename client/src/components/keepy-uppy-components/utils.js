@@ -44,3 +44,12 @@ export const LEVELS = [
     blocks: getBlocks(6, 9),
   },
 ];
+
+export const toDegrees = (radians) => (radians * 180) / Math.PI;
+export const toRadians = (degrees) => (degrees * Math.PI) / 180;
+
+export const withoutElement = (array, element) =>
+  array.filter((e) => e !== element);
+
+export const updateElement = (array, oldElement, newElement) =>
+  array.map((e) => (e === oldElement ? newElement : e));
