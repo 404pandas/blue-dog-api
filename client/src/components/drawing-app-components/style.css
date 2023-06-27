@@ -1,0 +1,22 @@
+#bluey-canvas {
+  background-image: url("../../assets/images/items/drawing-app-background.png");
+  background-repeat: repeat-y;
+  background-size: 100%;
+  z-index: 10000;
+}
+
+#drawing-control-panel {
+  width: 100vw !important;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  margin: auto;
+  margin-top: 30px;
+}
+
+#color-input {
+  background-color: transparent;
+  border: 0px;
+  cursor: pointer;
+  block-size: 45px;
+}
