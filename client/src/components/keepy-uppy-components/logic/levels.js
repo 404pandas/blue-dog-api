@@ -10,26 +10,26 @@ const getBlocks = (rows, columns) =>
 export const LEVELS = [
   {
     lives: 5,
-    paddleWidth: 4,
-    speed: 1,
-    blocks: getBlocks(3, 6),
+    paddleWidth: 3.5,
+    speed: 0.3,
+    blocks: getBlocks(1, 4),
   },
   {
     lives: 4,
-    paddleWidth: 3.5,
-    speed: 1.4,
-    blocks: getBlocks(4, 7),
+    paddleWidth: 3,
+    speed: 0.5,
+    blocks: getBlocks(2, 5),
   },
   {
     lives: 3,
     paddleWidth: 3,
-    speed: 1.8,
+    speed: 1,
     blocks: getBlocks(5, 8),
   },
   {
     lives: 3,
     paddleWidth: 2,
-    speed: 2.2,
+    speed: 2,
     blocks: getBlocks(6, 9),
   },
 ];

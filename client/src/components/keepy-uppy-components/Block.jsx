@@ -3,7 +3,7 @@ import { getRange } from "./logic/utils";
 import { BLOCK_MAX_DENSITY } from "./logic/levels";
 
 const colors = getRange(BLOCK_MAX_DENSITY).map(
-  (i) => `rgba(26, 188, 156, ${1 / (BLOCK_MAX_DENSITY - i)})`
+  (i) => `rgba(255, 177, 111, ${1 / (BLOCK_MAX_DENSITY - i)})`
 );
 
 export default ({ x, y, width, height, density }) => (

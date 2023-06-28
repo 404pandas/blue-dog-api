@@ -4,6 +4,7 @@ import "./style.css";
 import { LEVELS } from "./logic/levels";
 import { MOVEMENT, getNewGameState, getGameStateFromLevel } from "./logic/core";
 import { registerListener } from "./logic/utils";
+import Typography from "@mui/material/Typography";
 
 import Level from "./Level";
 import Lives from "./Lives";
@@ -166,6 +167,7 @@ export default (containerSize) => {
   return (
     <svg width={viewWidth} height={projectDistance(height)} className='scene'>
       <Level unit={unit} level={level + 1} />
+      <Typography>Text</Typography>
       <Lives lives={lives} containerWidth={viewWidth} unit={unit} />
       {blocks.map(({ density, position, width, height }) => (
         <Block

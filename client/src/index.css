@@ -96,3 +96,8 @@ a {
 #season-episode {
   justify-content: space-around;
 }
+
+#game-info {
+  fill: black !important;
+  font-family: hello-headline !important;
+}
