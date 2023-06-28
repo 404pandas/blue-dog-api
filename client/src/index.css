@@ -105,3 +105,17 @@ a {
 .menu-text {
   color: black;
 }
+
+#header-title {
+  color: white;
+}
+
+#heading-link {
+  align-items: center;
+  display: flex;
+}
+
+.qr-codes {
+  height: 150px;
+  width: 150px;
+}

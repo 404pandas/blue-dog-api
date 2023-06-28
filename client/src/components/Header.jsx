@@ -96,24 +96,26 @@ function ResponsiveAppBar() {
             <Link to='/'>
               <img src={logo} alt='logo' id='bluey-logo-small' />
             </Link>
-            <Typography
-              id='header-title'
-              variant='h5'
-              noWrap
-              component='a'
-              href=''
-              sx={{
-                mr: 2,
-                display: { xs: "flex" },
-                fontFamily: "monospace",
-                fontWeight: 700,
-                letterSpacing: ".3rem",
-                color: "inherit",
-                textDecoration: "none",
-              }}
-            >
-              Bluey API
-            </Typography>
+            <Link id='heading-link' to='/'>
+              <Typography
+                id='header-title'
+                variant='h5'
+                noWrap
+                component='a'
+                href=''
+                sx={{
+                  mr: 2,
+                  display: { xs: "flex" },
+                  fontFamily: "monospace",
+                  fontWeight: 700,
+                  letterSpacing: ".3rem",
+                  color: "inherit",
+                  textDecoration: "none",
+                }}
+              >
+                Bluey API
+              </Typography>
+            </Link>
             <Link to='/keepyuppy'>
               <img src={balloon} alt='logo' id='keepy-uppy-balloon' />
             </Link>
