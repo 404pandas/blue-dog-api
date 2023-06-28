@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { Typography } from "@mui/material";
+import Container from "@mui/material/Container";
 
 import { useQuery } from "@apollo/client";
 import { CURRENT_USER } from "../queries/userQueries";
@@ -9,24 +10,20 @@ import Header from "../components/Header";
 
 function Account() {
   const { data } = useQuery(CURRENT_USER);
-  let user;
+  const userData = data?.me || {};
 
-  if (data) {
-    user = data.user;
-  }
-
+  console.log(userData);
   return (
     <>
       <Header />
-      <div className='container my-1'>
-        <Link to='/'>← Back to Home</Link>
-
-        {user ? (
+      <Container>
+        {" "}
+        {userData ? (
           <>
-            <Typography variant='h2'>Welcome, {user.username}</Typography>
+            <Typography variant='h3'>Welcome, {userData.username}</Typography>
           </>
         ) : null}
-      </div>
+      </Container>
     </>
   );
 }

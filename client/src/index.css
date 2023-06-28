@@ -101,3 +101,7 @@ a {
   fill: black !important;
   font-family: hello-headline !important;
 }
+
+.menu-text {
+  color: black;
+}

@@ -48,102 +48,81 @@ function ResponsiveAppBar() {
   };
 
   return (
-    <AppBar position='static'>
+    <AppBar position='static' id='header-padding'>
       <Container maxWidth='xl'>
         <Toolbar disableGutters>
-          <Typography
-            variant='h6'
-            noWrap
-            component='a'
-            href='/'
-            sx={{
-              mr: 2,
-              display: { xs: "none", md: "flex" },
-              fontFamily: "monospace",
-              fontWeight: 700,
-              letterSpacing: ".3rem",
-              color: "inherit",
-              textDecoration: "none",
-            }}
-          >
-            Bluey API
-          </Typography>
-          <Box sx={{ flexGrow: 1, display: { xs: "flex", md: "none" } }}>
-            <IconButton
-              size='large'
-              aria-label='account of current user'
-              aria-controls='menu-appbar'
-              aria-haspopup='true'
-              onClick={handleOpenNavMenu}
-              color='inherit'
-            >
-              <MenuIcon />
-            </IconButton>
-            <Menu
-              id='menu-appbar'
-              anchorEl={anchorElNav}
-              anchorOrigin={{
-                vertical: "bottom",
-                horizontal: "left",
-              }}
-              keepMounted
-              transformOrigin={{
-                vertical: "top",
-                horizontal: "left",
-              }}
-              open={Boolean(anchorElNav)}
-              onClose={handleCloseNavMenu}
-              sx={{
-                display: { xs: "block", md: "none" },
-              }}
-            >
-              {pages.map((page) => (
-                <Link to={`/${page}`}>
-                  <MenuItem key={page + "2"} onClick={handleCloseNavMenu}>
-                    <Typography textAlign='center'>{page}</Typography>
-                  </MenuItem>{" "}
-                </Link>
-              ))}
-            </Menu>
-          </Box>
-          <Link to='/'>
-            <img src={logo} alt='logo' id='bluey-logo-small' />
-          </Link>
-          <Typography
-            variant='h5'
-            noWrap
-            component='a'
-            href=''
-            sx={{
-              mr: 2,
-              display: { xs: "flex", md: "none" },
-              flexGrow: 1,
-              fontFamily: "monospace",
-              fontWeight: 700,
-              letterSpacing: ".3rem",
-              color: "inherit",
-              textDecoration: "none",
-            }}
-          >
-            Bluey API
-          </Typography>
-          <Link to='/keepyuppy'>
-            <img src={balloon} alt='logo' id='keepy-uppy-balloon' />
-          </Link>
-          <Link to='/drawingapp'>
-            <img src={markers} alt='logo' id='drawing-app-marker' />
-          </Link>
-          <Box sx={{ flexGrow: 1, display: { xs: "none", md: "flex" } }}>
-            {pages.map((page) => (
-              <Button
-                key={page + "3"}
-                onClick={handleCloseNavMenu}
-                sx={{ my: 2, color: "white", display: "block" }}
+          <>
+            <Box sx={{ flexGrow: 1, display: { xs: "flex" } }}>
+              <IconButton
+                size='large'
+                aria-label='api pages'
+                aria-controls='menu-appbar'
+                aria-haspopup='true'
+                onClick={handleOpenNavMenu}
+                color='inherit'
               >
-                {page}
-              </Button>
-            ))}
+                <MenuIcon />
+              </IconButton>
+              <Menu
+                id='menu-appbar'
+                anchorEl={anchorElNav}
+                anchorOrigin={{
+                  vertical: "bottom",
+                  horizontal: "left",
+                }}
+                keepMounted
+                transformOrigin={{
+                  vertical: "top",
+                  horizontal: "left",
+                }}
+                open={Boolean(anchorElNav)}
+                onClose={handleCloseNavMenu}
+                sx={{
+                  display: { xs: "block" },
+                }}
+              >
+                {pages.map((page) => (
+                  <Link to={`/${page}`}>
+                    <MenuItem key={page + "2"} onClick={handleCloseNavMenu}>
+                      <Typography className='menu-text' textAlign='center'>
+                        {page}
+                      </Typography>
+                    </MenuItem>{" "}
+                  </Link>
+                ))}
+              </Menu>
+            </Box>
+          </>
+          <Box sx={{ flexGrow: 1, display: { xs: "flex" } }}>
+            <Link to='/'>
+              <img src={logo} alt='logo' id='bluey-logo-small' />
+            </Link>
+            <Typography
+              id='header-title'
+              variant='h5'
+              noWrap
+              component='a'
+              href=''
+              sx={{
+                mr: 2,
+                display: { xs: "flex" },
+                fontFamily: "monospace",
+                fontWeight: 700,
+                letterSpacing: ".3rem",
+                color: "inherit",
+                textDecoration: "none",
+              }}
+            >
+              Bluey API
+            </Typography>
+            <Link to='/keepyuppy'>
+              <img src={balloon} alt='logo' id='keepy-uppy-balloon' />
+            </Link>
+            <Link to='/drawingapp'>
+              <img src={markers} alt='logo' id='drawing-app-marker' />
+            </Link>
           </Box>
+
           <Box sx={{ flexGrow: 0 }}>
             <Tooltip title='Open settings'>
               <IconButton onClick={handleOpenUserMenu} sx={{ p: 0 }}>
@@ -169,7 +148,9 @@ function ResponsiveAppBar() {
               {settings.map((setting) => (
                 <MenuItem key={setting + "1"} onClick={handleCloseUserMenu}>
                   <Link to={`/${setting}`}>
-                    <Typography textAlign='center'>{setting}</Typography>
+                    <Typography textAlign='center' className='menu-text'>
+                      {setting}
+                    </Typography>
                   </Link>
                 </MenuItem>
               ))}

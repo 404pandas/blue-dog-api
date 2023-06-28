@@ -2,7 +2,6 @@
   background-image: url("../../assets/images/items/drawing-app-background.png");
   background-repeat: repeat-y;
   background-size: 100%;
-  z-index: 10000;
 }
 
 #drawing-control-panel {

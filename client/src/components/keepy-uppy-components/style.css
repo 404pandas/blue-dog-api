@@ -47,3 +47,11 @@
   stroke-width: 1;
   fill: red;
 }
+
+#header-title {
+  align-items: center;
+}
+#header-padding {
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
