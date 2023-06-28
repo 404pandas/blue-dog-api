@@ -1,7 +1,5 @@
 import Vector from "./vector";
-import { flatten, getRandomFrom } from "./utils";
-
-import { withoutElement, updateElement } from "./utils";
+import { flatten, getRandomFrom, withoutElement, updateElement } from "./utils";
 
 //   size declarations
 const PADDLE_AREA = 1 / 3;
@@ -9,70 +7,19 @@ const BLOCK_HEIGHT = 1 / 3;
 const PADDLE_HEIGHT = BLOCK_HEIGHT;
 const BALL_RADIUS = 1 / 5;
 const DISTANCE_IN_MS = 0.005;
-const LEFT = new Vector(-1, 0);
-const RIGHT = new Vector(1, 0);
-const UP = new Vector(0, -1);
-const DOWN = new Vector(0, 1);
+
 export const MOVEMENT = {
   LEFT: "LEFT",
   RIGHT: "RIGHT",
 };
+
+const LEFT = new Vector(-1, 0);
+const RIGHT = new Vector(1, 0);
+const UP = new Vector(0, -1);
+const DOWN = new Vector(0, 1);
+
 const LEFT_UP = LEFT.add(UP).normalize();
 const RIGHT_UP = RIGHT.add(UP).normalize();
-
-// Distorts direction for added difficulty
-const getDistortedDirection = (vector, distortionLevel = 0.3) => {
-  const getComponent = () =>
-    Math.random() * distortionLevel - distortionLevel / 2;
-  const distortion = new Vector(getComponent(), getComponent());
-  return vector.add(distortion).normalize();
-};
-
-// Checks if one side of balloon is inside boundaries
-const isInBoundaries = (oneSide, otherSide, oneBoundary, otherBoundary) =>
-  (oneSide >= oneBoundary && oneSide <= otherBoundary) ||
-  (otherSide >= oneBoundary && otherSide <= otherBoundary);
-
-// Adjusts angle to avoid horizontal bounce of doom
-const getAdjustedVector = (normal, vector, minAngle = 15) => {
-  const angle = normal.angleBetween(vector);
-  const maxAngle = 90 - minAngle;
-  if (angle < 0) {
-    if (angle > -minAngle) {
-      return normal.rotate(-minAngle);
-    }
-    if (angle < -maxAngle) {
-      return normal.rotate(-maxAngle);
-    }
-  } else {
-    if (angle < minAngle) {
-      return normal.rotate(minAngle);
-    }
-    if (angle > maxAngle) {
-      return normal.rotate(maxAngle);
-    }
-  }
-  return vector;
-};
-
-// Calculates new position of paddle
-const getNewPaddle = (paddle, size, distance, movement) => {
-  if (!movement) return paddle;
-  const direction = movement === MOVEMENT.LEFT ? LEFT : RIGHT;
-
-  const { x } = paddle.position.add(direction.scaleBy(distance));
-  const withNewX = (x) => ({
-    ...paddle,
-    position: new Vector(x, paddle.position.y),
-  });
-  if (x < 0) {
-    return withNewX(0);
-  }
-  if (x + paddle.width > size.width) {
-    return withNewX(size.width - paddle.width);
-  }
-  return withNewX(x);
-};
 
 // Initialize paddle and ball
 export const getInitialPaddleAndBall = (width, height, paddleWidth) => {
@@ -127,6 +74,60 @@ export const getGameStateFromLevel = ({
     lives,
     speed,
   };
+};
+
+// Distorts direction for added difficulty
+const getDistortedDirection = (vector, distortionLevel = 0.3) => {
+  const getComponent = () =>
+    Math.random() * distortionLevel - distortionLevel / 2;
+  const distortion = new Vector(getComponent(), getComponent());
+  return vector.add(distortion).normalize();
+};
+
+// Calculates new position of paddle
+const getNewPaddle = (paddle, size, distance, movement) => {
+  if (!movement) return paddle;
+  const direction = movement === MOVEMENT.LEFT ? LEFT : RIGHT;
+
+  const { x } = paddle.position.add(direction.scaleBy(distance));
+  const withNewX = (x) => ({
+    ...paddle,
+    position: new Vector(x, paddle.position.y),
+  });
+  if (x < 0) {
+    return withNewX(0);
+  }
+  if (x + paddle.width > size.width) {
+    return withNewX(size.width - paddle.width);
+  }
+  return withNewX(x);
+};
+
+// Checks if one side of balloon is inside boundaries
+const isInBoundaries = (oneSide, otherSide, oneBoundary, otherBoundary) =>
+  (oneSide >= oneBoundary && oneSide <= otherBoundary) ||
+  (otherSide >= oneBoundary && otherSide <= otherBoundary);
+
+// Adjusts angle to avoid horizontal bounce of doom
+const getAdjustedVector = (normal, vector, minAngle = 15) => {
+  const angle = normal.angleBetween(vector);
+  const maxAngle = 90 - minAngle;
+  if (angle < 0) {
+    if (angle > -minAngle) {
+      return normal.rotate(-minAngle);
+    }
+    if (angle < -maxAngle) {
+      return normal.rotate(-maxAngle);
+    }
+  } else {
+    if (angle < minAngle) {
+      return normal.rotate(minAngle);
+    }
+    if (angle > maxAngle) {
+      return normal.rotate(maxAngle);
+    }
+  }
+  return vector;
 };
 
 // the good stuff

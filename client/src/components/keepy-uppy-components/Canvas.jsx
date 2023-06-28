@@ -2,11 +2,8 @@ import React, { useRef, useEffect, useState } from "react";
 
 // local imports
 import Scene from "./Scene";
-import { registerListener } from "./utils";
+import { registerListener } from "./logic/utils";
 import "./style.css";
-import "./core";
-import "./levels";
-import "./utils";
 
 export default function Canvas() {
   const sceneContainer = useRef();

@@ -1,8 +1,8 @@
 import React from "react";
 
-import { getRange } from "./utils";
+import { getRange } from "./logic/utils";
 
-export default function Lives({ lives, containerWidth, unit }) {
+export default ({ lives, containerWidth, unit }) => {
   const width = unit * 2;
 
   return getRange(lives).map((i) => (
@@ -16,4 +16,4 @@ export default function Lives({ lives, containerWidth, unit }) {
       key={i}
     />
   ));
-}
+};
