@@ -129,7 +129,7 @@ See the [open issues](https://github.com/404pandas/blue-dog-api/issues) for a fu
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 </br>
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-</br>
+</br></br>
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
