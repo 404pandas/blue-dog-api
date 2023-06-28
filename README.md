@@ -4,6 +4,7 @@
   <!-- ![Name](urlToShieldHere)(urlToGithubHere) -->
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/048fdbef-693a-4ef4-acec-10aadef4ffa1/deploy-status)](https://app.netlify.com/sites/bluey-api/deploys)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/404pandas/blue-dog-api/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/404pandas/blue-dog-api/tree/main)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributors](https://img.shields.io/github/contributors/404pandas/blue-dog-api.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/blue-dog-api/graphs/contributors)
 [![Forks](https://img.shields.io/github/forks/404pandas/blue-dog-api.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/blue-dog-api/network/members)
