@@ -3,6 +3,7 @@
   <!-- Add badges using the following format: -->
   <!-- ![Name](urlToShieldHere)(urlToGithubHere) -->
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/048fdbef-693a-4ef4-acec-10aadef4ffa1/deploy-status)](https://app.netlify.com/sites/bluey-api/deploys)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributors](https://img.shields.io/github/contributors/404pandas/blue-dog-api.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/blue-dog-api/graphs/contributors)
 [![Forks](https://img.shields.io/github/forks/404pandas/blue-dog-api.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/blue-dog-api/network/members)
@@ -16,7 +17,7 @@
 
 <div align="center">
   <a href="https://github.com/404pandas/blue-dog-api">
-    <img src="client/images/references/bluey.jpeg/" alt="Logo" width="80" height="80">
+    <img src="./client/src/assets/Bluey_Wave.webp" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Blue Dog API</h3>
@@ -76,15 +77,22 @@ It also makes use of packages dayjs and jquery and gsap
 
 <div align="center">
 
-[![Day.js](https://img.shields.io/badge/Package-Dayjs-ff0000?style=plastic&logo=npm&logoWidth=10)](https://day.js.org/)
-[![GSAP](https://img.shields.io/badge/Package-GSAP-ff8000?style=plastic&logo=greensock&logoWidth=10)](https://https://greensock.com/gsap/)
-[![jQuery](https://img.shields.io/badge/Framework-jQuery-ffff00?style=plastic&logo=jQuery&logoWidth=10)](hhttps://api.jquery.com/)
-[![Materialize](https://img.shields.io/badge/Framework-Materialize-80ff00?style=plastic&logo=#757575&logoWidth=10)](https://materializecss.com/)
-[![Javascript](https://img.shields.io/badge/Language-JavaScript-ff0000?style=plastic&logo=JavaScript&logoWidth=10)](https://javascript.info/)
-[![CSS](https://img.shields.io/badge/Tool-CSS-ff8000?style=plastic&logo=css3&logoWidth=10)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Node.js](https://img.shields.io/badge/Framework-Node.js-ff0000?style=plastic&logo=Node.js&logoWidth=10)](https://nodejs.org/en/)
-[![npm](https://img.shields.io/badge/Tools-npm-ff0000?style=plastic&logo=npm&logoWidth=10)](https://www.npmjs.com/)
-[![VS Code](https://img.shields.io/badge/IDE-VSCode-ff0000?style=plastic&logo=VisualStudioCode&logoWidth=10)](https://code.visualstudio.com/docs)
+[![HTML](https://img.shields.io/badge/Language-HTML-ff0000?style=plastic&logo=HTML5&logoWidth=10)](https://html.com/)
+[![Javascript](https://img.shields.io/badge/Language-JavaScript-ff8000?style=plastic&logo=JavaScript&logoWidth=10)](https://javascript.info/)
+[![CSS](https://img.shields.io/badge/Tool-CSS-ffff00?style=plastic&logo=css3&logoWidth=10)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Materialize](https://img.shields.io/badge/Framework-Materialize-80ff00?style=plastic&logo=80ff00&logoWidth=10)](https://materializecss.com/)
+[![MongoDB](https://img.shields.io/badge/Database-MongoDB-00ff00?style=plastic&logo=MongoDB&logoWidth=10)](https://www.mongodb.com/home)
+[![Express](https://img.shields.io/badge/Framework-Express-00ff80?style=plastic&logo=Express&logoWidth=10)](https://expressjs.com/)
+[![React](https://img.shields.io/badge/Framework-React.js-00ffff?style=plastic&logo=React&logoWidth=10)](https://reactjs.org/docs/getting-started.html)
+[![Node.js](https://img.shields.io/badge/Framework-Node.js-0080ff?style=plastic&logo=Node.js&logoWidth=10)](https://nodejs.org/en/)
+[![npm](https://img.shields.io/badge/Tool-npm-0000ff?style=plastic&logo=npm&logoWidth=10)](https://www.npmjs.com/)
+[![VS Code](https://img.shields.io/badge/IDE-VSCode-8000ff?style=plastic&logo=VisualStudioCode&logoWidth=10)](https://code.visualstudio.com/docs)
+[![Mongoose](https://img.shields.io/badge/ORM-Mongoose-ff00ff?style=plastic&logo=Mongoose&logoWidth=10)](https://code.visualstudio.com/docs)
+[![Concurrrently](https://img.shields.io/badge/Package-Concurrrently-ff0080?style=plastic&logo=npm&logoWidth=10)](https://www.npmjs.com/package/concurrently/)
+[![JWT](https://img.shields.io/badge/Package-JWT-ff00ff?style=plastic&logo=npm&logoWidth=10)](https://www.npmjs.com/package/jsonwebtoken)
+[![Brcypt](https://img.shields.io/badge/Package-Bcrypt-8000ff?style=plastic&logo=npm&logoWidth=10)](https://www.npmjs.com/package/bcrypt)
+[![Dotenv](https://img.shields.io/badge/Package-Dotenv-0000ff?style=plastic&logo=npm&logoWidth=10)](https://www.npmjs.com/package/dotenv)
+[![Nodemon](https://img.shields.io/badge/Package-Nodemon-0080ff?style=plastic&logo=npm&logoWidth=10)](https://www.npmjs.com/package/nodemon)
 
 </div>
 
