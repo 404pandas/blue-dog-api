@@ -24,11 +24,11 @@
 <h3 align="center">Blue Dog API</h3>
 
   <p align="center">
-Bluey API with a styled front end    <br />
+Bluey API with a styled front end and games    <br />
     <a href="https://github.com/404pandas/blue-dog-api"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/404pandas/blue-dog-api">View Demo(Broken)</a>
+    <a href="https://github.com/404pandas/blue-dog-api">View Demo(Under development)</a>
     ·
     <a href="https://github.com/404pandas/blue-dog-api/issues">Report Bug</a>
     ·
@@ -68,13 +68,13 @@ Bluey API with a styled front end    <br />
 <!-- Add screenshots using the following format: -->
 <!-- ![Screenshot alt description](directPathOfScreenshots) -->
 
-This project was built with basic Javascript, Html, and CSS.
+This project was built using the MERN stack and Apollo/GraphQL. It contains mutable data for a user integration, styled front end, and games.
 It uses Materialize for a CSS framework.
-It also makes use of packages dayjs and jquery and gsap
+It uses Mongoose as an ORM.
+It will use Netlify for deployment.
+It also makes use of packages JWT and Bcrypt
 
 ### Built With
-
-<!--  Dayjs, gsap, jquery, materialize, javascript, css, html, node.js npm vs code -->
 
 <div align="center">
 
@@ -97,46 +97,28 @@ It also makes use of packages dayjs and jquery and gsap
 
 </div>
 
-<!-- GETTING STARTED -->
-
-## Getting Started
-
-Once completely built, this application will function as a deployed app on Netlify
-
-### Installation
-
-1. Clone the repo
-   git clone https://github.com/404pandas/blue-dog-api.git
-
-<!-- USAGE EXAMPLES -->
-
-## Usage
-
-Once the app is functional, screenshots will be added in this section.
-
-<!-- ROADMAP -->
+Once completely built, this application will function as a deployed app on Netlify and a free API on RapidAPI.
 
 ## Roadmap
 
-- [ ] Episode Names
-- [ ] Episode Descriptions
+- [x] Episode Names
+- [x] Episode Descriptions
 - [ ] Episode Lengths
-- [ ] Episode Characters
+- [x] Episode Characters
 - [ ] Quotes
-- [ ] Character Names
-- [ ] Character Descriptions
+- [x] Character Names
+- [x] Character Descriptions
 - [ ] Character Images
-- [ ] Locations
+- [x] Locations
 - [ ] Location Images
 - [ ] Episode Images
-- [ ] Quotes - done through scripts, do last because ugh
 - [ ] Filter by Australian Content
-- [ ] Books
+- [x] Books
 - [ ] Toys
 - [ ] Garden gnomes
 - [ ] Long Dog
 - [ ] Songs
-- [ ] Trivia- asking Trivia Bros for collab
+- [ ] Trivia- ask Trivia Bros for collab
 
 See the [open issues](https://github.com/404pandas/blue-dog-api/issues) for a full list of proposed features (and known issues).
 
@@ -145,8 +127,9 @@ See the [open issues](https://github.com/404pandas/blue-dog-api/issues) for a fu
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
+</br>
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+</br>
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
@@ -171,14 +154,22 @@ Mary Elenius - mary.panda.jackson@gmail.com
 
 Project Link: [https://github.com/404pandas/blue-dog-api](https://github.com/404pandas/blue-dog-api)
 
+Portfolios: [Javascript]([https://404pandas.github.io]) || [React]([https://404pandas.github.io])
+
 <!-- ACKNOWLEDGMENTS -->
 
 ## Acknowledgments
 
 I would like to give a big shoutout to my partner in crime and daughter, Yennefer! Every day she proves she is small yet mighty!
+</br>
+I would also like to acknowledge my friends and family for supporting me through this journey.
+</br>
 This API was created using the guide at [this](https://rapidapi.com/guides/build-api-publish-on-rapidapi) page on RapidAPI.
+</br>
 This API is listed on [RapidAPI](https://rapidapi.com/).
+</br>
 This API is stored on [Github](https://github.com/).
+</br>
 This API is hosted on [Netlify](https://www.netlify.com/).
 
 <!-- Resources -->
@@ -186,7 +177,9 @@ This API is hosted on [Netlify](https://www.netlify.com/).
 ## Resources Used
 
 The following is a list of resources used in the making of this API
+</br>
 https://www.bluey.tv/watch/
+</br>
 https://blueypedia.fandom.com/wiki/Bluey_(TV_series)
 
 <!-- Counter -->
@@ -194,4 +187,5 @@ https://blueypedia.fandom.com/wiki/Bluey_(TV_series)
 ## Time Bluey Watched
 
 This portion of the Readme is devoted to keeping track how many times I've rewatched Bluey in its entirety while developing this app.
-Current count: 9
+</br>
+Current count: 14
