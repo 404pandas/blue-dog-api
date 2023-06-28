@@ -14,8 +14,8 @@
   },
   "author": "Mary Elenius",
   "license": "MIT",
-  "dependencies": {},
   "devDependencies": {
-    "concurrently": "^5.3.0"
+    "concurrently": "^5.3.0",
+    "netlify-cli": "^15.7.0"
   }
 }
