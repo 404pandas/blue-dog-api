@@ -5,6 +5,7 @@ import MuiAccordion from "@mui/material/Accordion";
 import MuiAccordionSummary from "@mui/material/AccordionSummary";
 import MuiAccordionDetails from "@mui/material/AccordionDetails";
 import Typography from "@mui/material/Typography";
+import { Link } from "react-router-dom";
 
 // Accordion
 const Accordion = styled((props) => (
@@ -46,26 +47,59 @@ const AccordionDetails = styled(MuiAccordionDetails)(({ theme }) => ({
 }));
 
 export default function CharacterRow({ character }) {
-  const [expanded, setExpanded] = React.useState("panel1");
-
-  const handleChange = (panel) => (event, newExpanded) => {
-    setExpanded(newExpanded ? panel : false);
-  };
   console.log(character);
   return (
-    <Accordion
-      expanded={expanded === "panel1"}
-      onChange={handleChange("panel1")}
-    >
+    <Accordion>
       <AccordionSummary aria-controls='panel1d-content' id='panel1d-header'>
-        <Typography variant='h4' className='h4'>
-          Character Name
+        <Typography variant='h5' className='h5'>
+          {character.characterName}
         </Typography>
       </AccordionSummary>
       <AccordionDetails>
-        <Typography variant='body1' className='body1'>
-          {character.characterName}
-        </Typography>
+        <Typography variant='h6'>"{character.catchphrase}"</Typography>
+        <Typography variant='body2'>{character.description1}</Typography>
+        <hr />
+        <Typography variant='body2'>{character.description2}</Typography>
+        <Typography variant='h6'>Appearance:</Typography>
+        <Typography variant='body2'>{character.appearance}</Typography>
+        <Typography variant='h6'>Personality:</Typography>{" "}
+        <Typography variant='body2'>{character.personality}</Typography>
+        <Typography variant='h6'>Nicknames:</Typography>{" "}
+        <Typography variant='body2'>{character.nicknames}</Typography>
+        <Typography variant='h6'>Breed:</Typography>{" "}
+        <Typography variant='body2'>{character.breed}</Typography>
+        <Typography variant='h6'>Gender:</Typography>{" "}
+        <Typography variant='body2'>{character.gender}</Typography>
+        <Typography variant='h6'>Age:</Typography>{" "}
+        <Typography variant='body2'>{character.age}</Typography>
+        <Typography variant='h6'>Eyes:</Typography>{" "}
+        <Typography variant='body2'>{character.eyes}</Typography>
+        <Typography variant='h6'>Fur:</Typography>{" "}
+        <Typography variant='body2'>{character.fur}</Typography>
+        <Typography variant='h6'>Relatives:</Typography>{" "}
+        <Typography variant='body2'>{character.relatives}</Typography>
+        <Typography variant='h6'>Friends:</Typography>
+        <Typography variant='body2'>{character.friends}</Typography>
+        <Typography variant='h6'>First Apperance:</Typography>{" "}
+        <Typography variant='body2'>{character.firstAppearance}</Typography>
+        <Accordion>
+          <AccordionSummary>
+            <Typography variant='h6'>Trivia:</Typography>{" "}
+          </AccordionSummary>{" "}
+          <AccordionDetails>
+            <Typography variant='body2'>{character.trivia}</Typography>
+          </AccordionDetails>{" "}
+        </Accordion>
+        <Typography variant='h6'>Absences:</Typography>{" "}
+        <Typography variant='body2'>{character.absences}</Typography>
+        <Typography variant='h6'>Gallery:</Typography>{" "}
+        <Typography variant='body2'>{character.gallery}</Typography>
+        <Typography variant='h6'>Animated:</Typography>{" "}
+        <Typography variant='body2'>{character.animated}</Typography>
+        <Typography variant='h6'>References:</Typography>{" "}
+        <Link to={"https://" + character.references}>
+          <Typography variant='body2'>{character.references}</Typography>
+        </Link>{" "}
       </AccordionDetails>
     </Accordion>
   );

@@ -5,6 +5,7 @@ import MuiAccordion from "@mui/material/Accordion";
 import MuiAccordionSummary from "@mui/material/AccordionSummary";
 import MuiAccordionDetails from "@mui/material/AccordionDetails";
 import Typography from "@mui/material/Typography";
+import { Link } from "react-router-dom";
 
 // Accordion
 const Accordion = styled((props) => (
@@ -46,38 +47,29 @@ const AccordionDetails = styled(MuiAccordionDetails)(({ theme }) => ({
 }));
 
 export default function ShortRow({ short }) {
-  const [expanded, setExpanded] = React.useState("panel1");
-
-  const handleChange = (panel) => (event, newExpanded) => {
-    setExpanded(newExpanded ? panel : false);
-  };
   console.log(short);
   return (
-    <Accordion
-      expanded={expanded === "panel1"}
-      onChange={handleChange("panel1")}
-    >
+    <Accordion>
       <AccordionSummary aria-controls='panel1d-content' id='panel1d-header'>
-        <Typography variant='h4' className='h4'>
-          {short.shortName}
-        </Typography>
+        <Typography variant='h5'>{short.shortName}</Typography>
       </AccordionSummary>
       <AccordionDetails>
-        <Typography variant='body1' className='body1'>
-          {short.plot}
-        </Typography>
-        <Typography variant='body1' className='body1'>
-          {short.characters}
-        </Typography>
-        <Typography variant='body1' className='body1'>
-          {short.trivia}
-        </Typography>
-        <Typography variant='body1' className='body1'>
-          {short.url}
-        </Typography>
-        <Typography variant='body1' className='body1'>
-          {short.premiereDate}
-        </Typography>
+        <Typography variant='body2'>{short.plot}</Typography>
+        <Typography variant='h6'>Characters:</Typography>{" "}
+        <Typography variant='body2'>{short.characters}</Typography>
+        <Typography variant='h6'>Air Date:</Typography>{" "}
+        <Typography variant='body2'>{short.premiereDate}</Typography>
+        <Link to={"https://" + short.url}>
+          <Typography variant='h6'>Watch!</Typography>
+        </Link>
+        <Accordion>
+          <AccordionSummary>
+            <Typography variant='h6'>Trivia:</Typography>{" "}
+          </AccordionSummary>{" "}
+          <AccordionDetails>
+            <Typography variant='body2'>{short.trivia}</Typography>
+          </AccordionDetails>{" "}
+        </Accordion>
       </AccordionDetails>
     </Accordion>
   );

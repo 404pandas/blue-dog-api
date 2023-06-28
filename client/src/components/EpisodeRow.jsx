@@ -46,32 +46,20 @@ const AccordionDetails = styled(MuiAccordionDetails)(({ theme }) => ({
 }));
 
 export default function EpisodeRow({ episode }) {
-  const [expanded, setExpanded] = React.useState("panel1");
-
-  const handleChange = (panel) => (event, newExpanded) => {
-    setExpanded(newExpanded ? panel : false);
-  };
   console.log(episode);
   return (
-    <Accordion
-      expanded={expanded === "panel1"}
-      onChange={handleChange("panel1")}
-    >
+    <Accordion>
       <AccordionSummary aria-controls='panel1d-content' id='panel1d-header'>
-        <Typography variant='h4' className='h4'>
+        <Typography variant='h5' className='h5'>
           {episode.episodeName}
         </Typography>
       </AccordionSummary>
       <AccordionDetails>
-        <Typography variant='body1' className='body1'>
-          {episode.description}
-        </Typography>
-        <Typography variant='body1' className='body1'>
-          {episode.season}
-        </Typography>
-        <Typography variant='body1' className='body1'>
-          {episode.episode}
-        </Typography>
+        <Typography variant='body2'>{episode.description}</Typography>
+        <div id='season-episode' className='flexbox-turn-on'>
+          <Typography variant='h6'>Season: {episode.season}</Typography>
+          <Typography variant='h6'>Episode: {episode.episode}</Typography>
+        </div>{" "}
       </AccordionDetails>
     </Accordion>
   );

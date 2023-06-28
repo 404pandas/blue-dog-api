@@ -46,44 +46,33 @@ const AccordionDetails = styled(MuiAccordionDetails)(({ theme }) => ({
 }));
 
 export default function BookRow({ book }) {
-  const [expanded, setExpanded] = React.useState("panel1");
-
-  const handleChange = (panel) => (event, newExpanded) => {
-    setExpanded(newExpanded ? panel : false);
-  };
   console.log(book);
   return (
-    <Accordion
-      expanded={expanded === "panel1"}
-      onChange={handleChange("panel1")}
-    >
+    <Accordion>
       <AccordionSummary aria-controls='panel1d-content' id='panel1d-header'>
-        <Typography variant='h4' className='h4'>
+        <Typography variant='h5' className='h5'>
           {book.bookName}
         </Typography>
       </AccordionSummary>
       <AccordionDetails>
-        <Typography variant='body1' className='body1'>
-          {book.characters}
-        </Typography>
-        <Typography variant='body1' className='body1'>
-          {book.plot}
-        </Typography>
-        <Typography variant='body1' className='body1'>
-          {book.publisher}
-        </Typography>
-        <Typography variant='body1' className='body1'>
-          {book.publish_date}
-        </Typography>
-        <Typography variant='body1' className='body1'>
-          {book.pages}
-        </Typography>
-        <Typography variant='body1' className='body1'>
-          {book.isbn}
-        </Typography>
-        <Typography variant='body1' className='body1'>
-          {book.trivia}
-        </Typography>
+        <Typography variant='body2'>{book.plot}</Typography>
+        <Typography variant='h6'>Characters:</Typography>{" "}
+        <Typography variant='body2'>{book.characters}</Typography>
+        <Typography variant='h6'>Publisher:</Typography>{" "}
+        <Typography variant='body2'>{book.publisher}</Typography>
+        <Typography variant='body2'>{book.publish_date}</Typography>
+        <Typography variant='h6'>Pages:</Typography>{" "}
+        <Typography variant='body2'>{book.pages}</Typography>
+        <Typography variant='h6'>ISBN:</Typography>{" "}
+        <Typography variant='body2'>{book.isbn}</Typography>
+        <Accordion>
+          <AccordionSummary>
+            <Typography variant='h6'>Trivia:</Typography>{" "}
+          </AccordionSummary>{" "}
+          <AccordionDetails>
+            <Typography variant='body2'>{book.trivia}</Typography>
+          </AccordionDetails>{" "}
+        </Accordion>{" "}
       </AccordionDetails>
     </Accordion>
   );

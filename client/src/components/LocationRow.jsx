@@ -46,47 +46,30 @@ const AccordionDetails = styled(MuiAccordionDetails)(({ theme }) => ({
 }));
 
 export default function LocationRow({ location }) {
-  const [expanded, setExpanded] = React.useState("panel1");
-
-  const handleChange = (panel) => (event, newExpanded) => {
-    setExpanded(newExpanded ? panel : false);
-  };
   console.log(location);
   return (
-    <Accordion
-      expanded={expanded === "panel1"}
-      onChange={handleChange("panel1")}
-    >
+    <Accordion>
       <AccordionSummary aria-controls='panel1d-content' id='panel1d-header'>
-        <Typography variant='h4' className='h4'>
+        <Typography variant='h5' className='h5'>
           {location.locationName}
         </Typography>
       </AccordionSummary>
       <AccordionDetails>
-        <Typography variant='body1' className='body1'>
-          {location.description}
-        </Typography>
-        <Typography variant='body1' className='body1'>
-          {location.appearance}
-        </Typography>
-        <Typography variant='body1' className='body1'>
-          {location.rooms}
-        </Typography>
-        <Typography variant='body1' className='body1'>
-          {location.appearances}
-        </Typography>
-        <Typography variant='body1' className='body1'>
-          {location.inhabitants}
-        </Typography>
-        <Typography variant='body1' className='body1'>
-          {location.inconsistencies}
-        </Typography>
-        <Typography variant='body1' className='body1'>
-          {location.trivia}
-        </Typography>
-        <Typography variant='body1' className='body1'>
-          {location.gallery}
-        </Typography>
+        <Typography variant='body2'>{location.description}</Typography>
+        <Typography variant='h6'>Rooms:</Typography>{" "}
+        <Typography variant='body2'>{location.rooms}</Typography>
+        <Typography variant='h6'>Episode Appearances:</Typography>{" "}
+        <Typography variant='body2'>{location.appearances}</Typography>
+        <Typography variant='h6'>Inhabitants:</Typography>{" "}
+        <Typography variant='body2'>{location.inhabitants}</Typography>
+        <Accordion>
+          <AccordionSummary>
+            <Typography variant='h6'>Trivia:</Typography>{" "}
+          </AccordionSummary>{" "}
+          <AccordionDetails>
+            <Typography variant='body2'>{location.trivia}</Typography>
+          </AccordionDetails>{" "}
+        </Accordion>
       </AccordionDetails>
     </Accordion>
   );

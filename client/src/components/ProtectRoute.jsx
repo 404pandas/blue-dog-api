@@ -34,7 +34,7 @@ const ProtectRoute = () => {
           style={{ height: "250px", width: "250px", margin: 3 }}
         />
         <Container sx={{ m: 3 }}>
-          <Typography variant='h4' align='center'>
+          <Typography variant='h5' align='center'>
             Sorry, but you must be logged in to your account to view this
             information.
           </Typography>
