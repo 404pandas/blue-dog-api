@@ -22,7 +22,7 @@
 <h3 align="center">Blue Dog API</h3>
 
   <p align="center">
-Bluey API with a styled front end and games    <br />
+Bluey API with a styled front end and games for my daughter to play    <br />
     <a href="https://github.com/404pandas/blue-dog-api"><strong>Explore the docs »</strong></a>
     <br />
     <br />
