@@ -2,7 +2,8 @@
   "name": "blue-dog-api",
   "version": "1.0.0",
   "engines": {
-    "node": "20.3.0"
+    "node": "20.3.0",
+    "npm": "9.6.7"
   },
   "description": "Open Source API for the TV show Bluey",
   "main": "index.js",
