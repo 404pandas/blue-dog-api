@@ -25,7 +25,7 @@ const pages = [
   "Locations",
   "Shorts",
 ];
-const settings = ["Account", "Dashboard", "Login", "Logout", "Signup"];
+const settings = ["Account", "Login", "Logout", "Signup"];
 
 function ResponsiveAppBar() {
   const [anchorElNav, setAnchorElNav] = React.useState(null);
@@ -45,7 +45,7 @@ function ResponsiveAppBar() {
   const handleCloseUserMenu = () => {
     setAnchorElUser(null);
   };
-
+  console.log(pages + settings);
   return (
     <AppBar position='static' id='header-padding'>
       <Container maxWidth='xl'>
@@ -81,13 +81,13 @@ function ResponsiveAppBar() {
                 }}
               >
                 {pages.map((page) => (
-                  <Link to={`/${page}`}>
-                    <MenuItem key={page + "2"} onClick={handleCloseNavMenu}>
+                  <MenuItem key={{ page } + 2} onClick={handleCloseNavMenu}>
+                    <Link to={`/${page}`}>
                       <Typography className='menu-text' textAlign='center'>
                         {page}
                       </Typography>
-                    </MenuItem>{" "}
-                  </Link>
+                    </Link>{" "}
+                  </MenuItem>
                 ))}
               </Menu>
             </Box>
@@ -147,7 +147,7 @@ function ResponsiveAppBar() {
               onClose={handleCloseUserMenu}
             >
               {settings.map((setting) => (
-                <MenuItem key={setting + "1"} onClick={handleCloseUserMenu}>
+                <MenuItem key={{ setting } + "2"} onClick={handleCloseUserMenu}>
                   <Link to={`/${setting}`}>
                     <Typography textAlign='center' className='menu-text'>
                       {setting}
