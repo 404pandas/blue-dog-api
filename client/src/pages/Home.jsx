@@ -65,20 +65,7 @@ export default function Home() {
                 />
               </Link>
             </Grid>
-            <Grid
-              item
-              xs={3}
-              className='flexbox-turn-on'
-              sx={{
-                justifyContent: "center",
-              }}
-            >
-              <img
-                className='qr-codes'
-                src={resume}
-                alt='QR code for resume pdf download'
-              />
-            </Grid>
+
             <Grid
               item
               xs={3}

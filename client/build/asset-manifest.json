@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.11cdd042.css",
+    "main.js": "/static/js/main.4f9a20f3.js",
+    "static/media/drawing-app-background.png": "/static/media/drawing-app-background.f650717db77931596b7a.png",
+    "static/media/linkedin-qr.png": "/static/media/linkedin-qr.5bfe63e807929022c982.png",
+    "static/media/resume-qr.png": "/static/media/resume-qr.7c938e953ecd3aa7191f.png",
+    "static/media/portfolios-qr.png": "/static/media/portfolios-qr.fdc57b7139a84d8b8040.png",
+    "static/media/repo-qr.png": "/static/media/repo-qr.ab9ef8f1d172f0658a2e.png",
+    "static/media/FontsFree-Net-Hello-Headline-W00-Regular.ttf": "/static/media/FontsFree-Net-Hello-Headline-W00-Regular.19753d9bf806586a2d64.ttf",
+    "static/media/balloon-start-kitchen.png": "/static/media/balloon-start-kitchen.a8536b62ffd2ccbfb086.png",
+    "static/media/markers.png": "/static/media/markers.91d4cdac4a6f60f6dc9f.png",
+    "static/media/Bluey_Wave.webp": "/static/media/Bluey_Wave.0284af2e11f045d49876.webp",
+    "static/media/bandit-pat.jpeg": "/static/media/bandit-pat.c58b2796527f62a6256e.jpeg",
+    "index.html": "/index.html",
+    "main.11cdd042.css.map": "/static/css/main.11cdd042.css.map",
+    "main.4f9a20f3.js.map": "/static/js/main.4f9a20f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11cdd042.css",
+    "static/js/main.4f9a20f3.js"
+  ]
+}
