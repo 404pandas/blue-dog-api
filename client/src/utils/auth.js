@@ -2,11 +2,11 @@
 import decode from "jwt-decode";
 
 // create a new class to instantiate for a user
-class AuthService {
+const AuthService = {
   // get user data
   getUser() {
     return decode(this.getToken());
-  }
+  },
 
   // check if user's logged in
 
@@ -15,7 +15,7 @@ class AuthService {
     const token = this.getToken();
     // handwaiving
     return !!token && !this.isTokenExpired(token);
-  }
+  },
 
   // check if token is expired
   isTokenExpired(token) {
@@ -27,25 +27,25 @@ class AuthService {
     } catch (err) {
       return false;
     }
-  }
+  },
 
   getToken() {
     // Retrieves the user token from localStorage
     return localStorage.getItem("id_token");
-  }
+  },
 
   login(idToken) {
     // Saves user token to localStorage
     localStorage.setItem("id_token", idToken);
     window.location.assign("/");
-  }
+  },
 
   logout() {
     // Clear user token and profile data from localStorage
     localStorage.removeItem("id_token");
     // this will reload the page and reset the state of the application
     window.location.assign("/");
-  }
-}
+  },
+};
 
-export default new AuthService();
+export default AuthService();

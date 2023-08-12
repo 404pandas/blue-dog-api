@@ -10,7 +10,6 @@ import Grid from "@mui/material/Grid";
 import { Link } from "react-router-dom";
 
 import linkedin from "../assets/images/presentation/linkedin-qr.png";
-import resume from "../assets/images/presentation/resume-qr.png";
 import repo from "../assets/images/presentation/repo-qr.png";
 import portfolio from "../assets/images/presentation/portfolios-qr.png";
 
