@@ -1,6 +1,4 @@
-const { gql } = require("graphql-tag");
-
-const typeDefs = gql`
+const typeDefs = `
   type Book {
     _id: ID!
     bookName: String!
@@ -109,4 +107,4 @@ const typeDefs = gql`
   }
 `;
 
-module.exports = typeDefs;
+export default typeDefs;
