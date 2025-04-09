@@ -419,7 +419,7 @@
     "season": 2,
     "episode": 1,
     "episodeName": "Dance Mode",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "After Dad eats her last chip, Bingo is given three chances to put Mum and Dad in 'Dance Mode' as payback. But the others can't resist taking Bingo's turns for her.",
     "watch-link": "https://www.bluey.tv/watch/season-2/dance-mode/"
   },
@@ -427,7 +427,7 @@
     "season": 2,
     "episode": 2,
     "episodeName": "Hammerbarn",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "On a trip to Hammerbarn, Bluey and Bingo create their own mini-homes side-by-side in the trolley. But Bluey quickly gets jealous of her neighbour Bingo.",
     "watch-link": "https://www.bluey.tv/watch/season-2/hammerbarn/"
   },
@@ -435,7 +435,7 @@
     "season": 2,
     "episode": 3,
     "episodeName": "Feather Wand",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Bluey and Mum are off to Chloe's party and Bingo isn't invited. But armed with a magic feather wand that makes things incredibly heavy, Bingo can now stop them leaving the house.",
     "watch-link": "https://www.bluey.tv/watch/season-2/feather-wand/"
   },
@@ -443,7 +443,7 @@
     "season": 2,
     "episode": 4,
     "episodeName": "Squash",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "When Dad and Uncle Stripe play a game of squash, Bluey and Bingo are in control of their every move, and Bingo proves that big siblings don't always beat little siblings.",
     "watch-link": "https://www.bluey.tv/watch/season-2/squash/"
   },
@@ -451,7 +451,7 @@
     "season": 2,
     "episode": 5,
     "episodeName": "Hairdressers",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "During a game of hairdressers, Bluey discovers that big-headed customer Bert Handsome has nits! To help treat them Bingo has to find her voice, while Bluey has to find her ears.",
     "watch-link": "https://www.bluey.tv/watch/season-2/hairdressers/"
   },
@@ -459,7 +459,7 @@
     "season": 2,
     "episode": 6,
     "episodeName": "Stumpfest",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Dad and his mates hit the backyard, ready to rip up some tree stumps! But when Bluey and Bingo take over a stump as a nail salon, Dad finds he's got some negotiating to do.",
     "watch-link": "https://www.bluey.tv/watch/season-2/stumpfest/"
   },
@@ -467,7 +467,7 @@
     "season": 2,
     "episode": 7,
     "episodeName": "Favourite Thing",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Bingo becomes upset when Bluey laughs at something she said earlier. Bluey tries to cheer her up but when that doesn’t work, they have to think of a brand new favourite thing to make her smile!",
     "watch-link": "https://www.bluey.tv/watch/season-2/favourite-thing/"
   },
@@ -475,7 +475,7 @@
     "season": 2,
     "episode": 8,
     "episodeName": "Daddy Dropoff",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "It’s Dad’s turn to get the kids ready for school and kindy, but Bluey and Bingo aren’t making things easy! Dad tries to keep everything on track, but can’t help playing along with their games.",
     "watch-link": "https://www.bluey.tv/watch/season-2/daddy-dropoff/"
   },
@@ -483,7 +483,7 @@
     "season": 2,
     "episode": 9,
     "episodeName": "Bingo",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Bingo has to play at home without her sister and she’s having trouble finding inspiration. When Dad comes home with a big question about kiwi birds, Bingo is inspired to find out the answer on her own",
     "watch-link": "https://www.bluey.tv/watch/season-2/bingo/"
   },
@@ -491,7 +491,7 @@
     "season": 2,
     "episode": 10,
     "episodeName": "Rug Island",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Dad washes up on Bluey and Bingo’s desert island and while Bingo takes pity on him and tries to help him survive, Bluey doesn’t think a grown-up can adapt. Will Dad prove his worth?",
     "watch-link": "https://www.bluey.tv/watch/season-2/rug-island/"
   },
@@ -499,7 +499,7 @@
     "season": 2,
     "episode": 11,
     "episodeName": "Charades",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Bluey and Bingo want everyone to play Charades, but Muffin and Socks are too young to understand the rules, which threatens to derail the game. But Nana has her own special rule so everyone is happy!",
     "watch-link": "https://www.bluey.tv/watch/season-2/charades/"
   },
@@ -507,7 +507,7 @@
     "season": 2,
     "episode": 12,
     "episodeName": "Sticky Gecko",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Mum's arranged a playdate for Bluey and Bingo with Judo in the park and is trying to get the kids dressed and ready to leave the house, but they won't go until they've finished their game!",
     "watch-link": "https://www.bluey.tv/watch/season-2/sticky-gecko/"
   },
@@ -515,7 +515,7 @@
     "season": 2,
     "episode": 13,
     "episodeName": "Dad Baby",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "When Bingo finds her old papoose baby-harness and Dad puts it on to show her how it works, Bingo climbs in and a new game is born: Dad Baby!",
     "watch-link": "https://www.bluey.tv/watch/season-2/dad-baby/"
   },
@@ -523,7 +523,7 @@
     "season": 2,
     "episode": 14,
     "episodeName": "Mum School",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Bluey's balloon-kids are difficult to control, and Mum agrees to help teach Bluey how to be a better Mum. But a jittery helium balloon called Greeny is a very rebellious child and just won't sit still",
     "watch-link": "https://www.bluey.tv/watch/season-2/mum-school/"
   },
@@ -531,7 +531,7 @@
     "season": 2,
     "episode": 15,
     "episodeName": "Trains",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Bingo’s a model citizen; politely taking the Dad-train to work with her daughter. Bluey, however, is troublesome on the train - but when she puts her beloved pet cat at risk, she changes her ways.",
     "watch-link": "https://www.bluey.tv/watch/season-2/trains/"
   },
@@ -539,7 +539,7 @@
     "season": 2,
     "episode": 16,
     "episodeName": "Army",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "It's Jack's first day at Bluey's school. In the past Jack has struggled to sit still and follow instruction in class, but Calypso suggests he goes outside to play with Rusty, who is playing Army!",
     "watch-link": "https://www.bluey.tv/watch/season-2/army/"
   },
@@ -547,7 +547,7 @@
     "season": 2,
     "episode": 17,
     "episodeName": "Fancy Restaurant",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Bluey and Bingo want Mum and Dad to “be romance” and to see them “smoochy kiss”, but the big date is not going to plan. So, Bluey and Bingo concoct a special meal to help their guests fall in love...",
     "watch-link": "https://www.bluey.tv/watch/season-2/fancy-restaurant/"
   },
@@ -555,7 +555,7 @@
     "season": 2,
     "episode": 18,
     "episodeName": "Piggyback",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "The Heelers are taking a late afternoon walk along the esplanade, when Bingo decides she’s too tired to walk any further and needs a piggyback.",
     "watch-link": "https://www.bluey.tv/watch/season-2/piggyback/"
   },
@@ -563,7 +563,7 @@
     "season": 2,
     "episode": 19,
     "episodeName": "The Show",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "When Bingo accidentally spills Chilli’s Mother’s Day breakfast-in-bed, Bluey decides they should put on a show to make her feel better.",
     "watch-link": "https://www.bluey.tv/watch/season-2/the-show/"
   },
@@ -571,7 +571,7 @@
     "season": 2,
     "episode": 20,
     "episodeName": "Tickle Crabs",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Bluey wants to marry Dad, but she must find her own true love. When the kids pretend to be two very tickly crabs, Dad endures the pain, and is rescued by a seagull (Mum); his true love.",
     "watch-link": "https://www.bluey.tv/watch/season-2/tickle-crabs/"
   },
@@ -579,7 +579,7 @@
     "season": 2,
     "episode": 21,
     "episodeName": "Escape",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "The kids are going to Nana’s so Mum and Dad can get alone time. They plan a blissful day, but Bluey and Bingo think of imaginative ways to ruin it - Mum and Dad will have to escape!",
     "watch-link": "https://www.bluey.tv/watch/season-2/escape/"
   },
@@ -587,7 +587,7 @@
     "season": 2,
     "episode": 22,
     "episodeName": "Bus",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "The Heelers have set up a game of 'Bus' in the front room. When the Grannies get on, to take a trip into town, they are excited to discover that Mum is secretly in love with the bus driver.<br />",
     "watch-link": "https://www.bluey.tv/watch/season-2/bus/"
   },
@@ -595,7 +595,7 @@
     "season": 2,
     "episode": 23,
     "episodeName": "Queen",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "The kids are playing Queens when Dad takes the throne. It’s not long before he’s waging war on his neighbour and Bluey reluctantly has to take the throne again.",
     "watch-link": "https://www.bluey.tv/watch/season-2/queen/"
   },
@@ -603,7 +603,7 @@
     "season": 2,
     "episode": 24,
     "episodeName": "Flatpack",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "With Mum and Dad are assembling the flatpack furniture, the kids improvise games with the discarded wrapping materials. As the flatpack swing-seat takes shape, so does Bluey and Bingo’s mini-world.",
     "watch-link": "https://www.bluey.tv/watch/season-2/flatpack/"
   },
@@ -611,7 +611,7 @@
     "season": 2,
     "episode": 25,
     "episodeName": "Helicopter",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Bluey starts a lonely game of Helicopter on a tree stump, but soon enough she attracts passengers. She completes an emergency landing, takes a trip to the great barrier reef and saves kangaroos!",
     "watch-link": "https://www.bluey.tv/watch/season-2/helicopter/"
   },
@@ -619,7 +619,7 @@
     "season": 2,
     "episode": 26,
     "episodeName": "Sleepytime",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "After her bedtime story, Bingo tells Mum that tomorrow morning she will be waking up in her own bed. But as she drifts off to sleep, Bingo has a bizarre dream that takes her on a wild adventure.",
     "watch-link": "https://www.bluey.tv/watch/season-2/sleepytime/"
   },
@@ -627,7 +627,7 @@
     "season": 2,
     "episode": 27,
     "episodeName": "See Saw",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Dad has rudely plonked himself on one end of the seesaw. So Bluey and Bingo round up the entire playground to help flip him off, but they still need to find one more friend.",
     "watch-link": "https://www.bluey.tv/watch/season-2/see-saw/"
   },
@@ -635,7 +635,7 @@
     "season": 2,
     "episode": 28,
     "episodeName": "Movies",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "It is Bluey's first trip to the cinema, but she's worried that the movie will be too scary. When Bingo starts running amok in the theatre, she must conquer her fear and help Dad out.",
     "watch-link": "https://www.bluey.tv/watch/season-2/movies/"
   },
@@ -643,7 +643,7 @@
     "season": 2,
     "episode": 29,
     "episodeName": "Library",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "When Muffin is told that she is special by her Dad, she interprets it as an excuse to do anything she wants, which means playing Bluey and Bingo's game of Library her way.",
     "watch-link": "https://www.bluey.tv/watch/season-2/library/"
   },
@@ -651,7 +651,7 @@
     "season": 2,
     "episode": 30,
     "episodeName": "Barky Boats",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Bluey and Mackenzie are excited to spend time with their two buddies Mia and Captain. When the older kids run off to play together without them, Calypso explains that growing up can be hard.",
     "watch-link": "https://www.bluey.tv/watch/season-2/barky-boats/"
   },
@@ -659,7 +659,7 @@
     "season": 2,
     "episode": 31,
     "episodeName": "Burger Shop",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "It's time for Bluey and Bingo to get out of the bath, but Dad has decided not to tell them what to do and gets roped into a game of Burger Shop.",
     "watch-link": "https://www.bluey.tv/watch/season-2/burger-shop/"
   },
@@ -667,7 +667,7 @@
     "season": 2,
     "episode": 32,
     "episodeName": "Circus",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Bluey is the ringmaster in a game of circus with her friends, but Hercules wants to play his motorcycle game instead. Luckily Bluey has a solution to keep everyone happy.",
     "watch-link": "https://www.bluey.tv/watch/season-2/circus/"
   },
@@ -675,7 +675,7 @@
     "season": 2,
     "episode": 33,
     "episodeName": "Swim School",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Mum, Dad and Bingo must complete both their classes to pass Swim School but pleasing strict Big Fish instructor Margaret (aka Bluey) is proving very difficult.",
     "watch-link": "https://www.bluey.tv/watch/season-2/swim-school/"
   },
@@ -683,7 +683,7 @@
     "season": 2,
     "episode": 34,
     "episodeName": "Cafe",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "In the park Bluey meets a new playmate Winnie, but when Bluey wants to invite her and her dad home for breakfast, she learns that adults take a little bit longer to make friends.",
     "watch-link": "https://www.bluey.tv/watch/season-2/cafe/"
   },
@@ -691,7 +691,7 @@
     "season": 2,
     "episode": 35,
     "episodeName": "Postman",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "When Mum and Dad have a disagreement Bluey makes Dad write a love letter to Mum to make up. Now Bluey must find a way to play Ground's Lava with Bingo and deliver the letter to Mum without squabbling.",
     "watch-link": "https://www.bluey.tv/watch/season-2/postman/"
   },
@@ -699,7 +699,7 @@
     "season": 2,
     "episode": 36,
     "episodeName": "The Quiet Game",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Bluey and Bingo are playing The Quiet Game and won't use words to tell Dad which toy to buy for Muffin. At his wits end, Dad recruits new store clerk Alfie to help interpret the girls miming.",
     "watch-link": "https://www.bluey.tv/watch/season-2/the-quiet-game/"
   },
@@ -707,7 +707,7 @@
     "season": 2,
     "episode": 37,
     "episodeName": "Mr Monkey Jocks",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Dad thinks the kids have too many toys and suggests a chuck out. To save their beloved Mr Monkeyjocks from getting the chop, Bluey and Bingo must prove he is special.",
     "watch-link": "https://www.bluey.tv/watch/season-2/mr-monkey-jocks/"
   },
@@ -715,7 +715,7 @@
     "season": 2,
     "episode": 38,
     "episodeName": "Double Babysitter",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "When Uncle Rad and Frisky accidentally turn up to babysit Bluey and Bingo on the same night, they have to work together to make Bluey feel better about babysitter putdowns.",
     "watch-link": "https://www.bluey.tv/watch/season-2/double-babysitter/"
   },
@@ -723,7 +723,7 @@
     "season": 2,
     "episode": 39,
     "episodeName": "Bad Mood",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Bingo is playing Bad Mood with Dad, standing on his feet as Dad stomps around the house, controlling everything Bingo does and causing chaos. But how will Bluey get her to snap out of it?",
     "watch-link": "https://www.bluey.tv/watch/season-2/bad-mood/"
   },
@@ -731,7 +731,7 @@
     "season": 2,
     "episode": 40,
     "episodeName": "Octopus",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "When Chloe tries to teach her dad to improvise and play Bluey's game of Octopus at home, he finds it hard to understand or enjoy, until they both realise they can play it their own way.",
     "watch-link": "https://www.bluey.tv/watch/season-2/octopus/"
   },
@@ -739,7 +739,7 @@
     "season": 2,
     "episode": 41,
     "episodeName": "Bin Night",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Bluey, Bingo and Dad always take out the bins. Over a few weeks, Bingo tells Dad about a new kid at Kindy who is mean to her and Mum offers some good advice.",
     "watch-link": "https://www.bluey.tv/watch/season-2/bin-night/"
   },
@@ -747,7 +747,7 @@
     "season": 2,
     "episode": 42,
     "episodeName": "Muffin Cone",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "When Muffin can't stop sucking her thumb, she has to wear a cone of shame, but the cone gets in her way and she can no longer play 'sandwich shop' with Bluey and Bingo.",
     "watch-link": "https://www.bluey.tv/watch/season-2/muffin-cone/"
   },
@@ -755,7 +755,7 @@
     "season": 2,
     "episode": 43,
     "episodeName": "Duck Cake",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Bluey wants to help Dad make Bingo's birthday cake, but first she must put away her toys. But nothing can tempt her to clean up, until Dad drops the cake.",
     "watch-link": "https://www.bluey.tv/watch/season-2/duck-cake/"
   },
@@ -763,7 +763,7 @@
     "season": 2,
     "episode": 44,
     "episodeName": "Handstand",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "At a party, Bingo is desperate to show off her handstand skills, while Nanna can't find a way to make herself useful. They're both feeling a bit lost, until they find each other.",
     "watch-link": "https://www.bluey.tv/watch/season-2/handstand/"
   },
@@ -771,7 +771,7 @@
     "season": 2,
     "episode": 45,
     "episodeName": "Road Trip",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Mum helps Bluey and Bingo find ways to entertain themselves on a family road trip, while Dad tries to stay ahead of the grey nomad convoy or risk camping near the toilets.",
     "watch-link": "https://www.bluey.tv/watch/season-2/road-trip/"
   },
@@ -779,7 +779,7 @@
     "season": 2,
     "episode": 46,
     "episodeName": "Ice Cream",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Bluey and Bingo want a lick of each other's ice cream. But they are so focused on making sure each lick is fair, they don't notice their ice creams are melting.",
     "watch-link": "https://www.bluey.tv/watch/season-2/ice-cream/"
   },
@@ -787,7 +787,7 @@
     "season": 2,
     "episode": 47,
     "episodeName": "Dunny",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Mum bans the girls from saying the word 'dunny' because it's not a word the Queen of England would use, but the kids try and trick her into saying it anyway.",
     "watch-link": "https://www.bluey.tv/watch/season-2/dunny/"
   },
@@ -795,7 +795,7 @@
     "season": 2,
     "episode": 48,
     "episodeName": "Typewriter",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Bluey, Snickers and Winton are on their way to ask Calypso for help with their problems, when they are ambushed by the Terriers and use their unique talents to get past.",
     "watch-link": "https://www.bluey.tv/watch/season-2/typewriter/"
   },
@@ -803,7 +803,7 @@
     "season": 2,
     "episode": 49,
     "episodeName": "Babyrace",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Mum reminisces about Bluey and Judo as babies. Bluey learnt to roll over first, but Judo was the first to crawl, so then it became a race to see who was going to walk first!",
     "watch-link": "https://www.bluey.tv/watch/season-2/babyrace/"
   },
@@ -811,7 +811,7 @@
     "season": 2,
     "episode": 50,
     "episodeName": "Grandad",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Grandad is supposed to be resting, but when Bluey and Bingo go to visit him, he makes a run for it with the kids and takes them on a madcap adventure into the bush.",
     "watch-link": "https://www.bluey.tv/watch/season-2/grandad/"
   },
@@ -819,7 +819,7 @@
     "season": 2,
     "episode": 51,
     "episodeName": "Christmas Swim",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "The Heelers gather for a classic Aussie Christmas, Bluey gets a new teddy and introduces him to the whole family. But the family play too rough with him and now he wants to go home.",
     "watch-link": "https://www.bluey.tv/watch/season-2/christmas-swim/"
   },
@@ -827,7 +827,7 @@
     "season": 2,
     "episode": 52,
     "episodeName": "Easter",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "It’s Easter morning and Bluey and Bingo have woken up worried about the Easter bunny.",
     "watch-link": "https://www.bluey.tv/watch/season-2/easter/"
   },
@@ -835,7 +835,7 @@
     "season": 3,
     "episode": 1,
     "episodeName": "Bedroom",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Bluey is excited to get her own room. But when bedtime comes, she misses Bingo more than she expected and must find a way to stay in touch with her sister.",
     "watch-link": "https://www.bluey.tv/watch/season-3/bedroom/"
   },
@@ -843,7 +843,7 @@
     "season": 3,
     "episode": 2,
     "episodeName": "Obstacle Course",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Mum sets up a backyard obstacle course just for fun, but Dad wants to race! Now the kids are determined to win by any means necessary.",
     "watch-link": "https://www.bluey.tv/watch/season-3/obstacle-course/"
   },
@@ -851,7 +851,7 @@
     "season": 3,
     "episode": 3,
     "episodeName": "Promises",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Bluey keeps breaking her promises! But after seeing how much Bingo trusts Mum’s word, Bluey learns the power of promises and why it’s important not to break them.",
     "watch-link": "https://www.bluey.tv/watch/season-3/promises/"
   },
@@ -859,7 +859,7 @@
     "season": 3,
     "episode": 4,
     "episodeName": "Omelette",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Bingo is helping Mum make an omelette for Dad’s birthday breakfast, but cracking eggs is harder than it looks, and Dad is getting hungrier by the minute.",
     "watch-link": "https://www.bluey.tv/watch/season-3/omelette/"
   },
@@ -867,7 +867,7 @@
     "season": 3,
     "episode": 5,
     "episodeName": "Born Yesterday",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Dad pretends he was born yesterday. Bluey and Bingo have to guide him through his second day on Earth, especially when he discovers food is delicious and steals Lucky’s Dad’s pie.",
     "watch-link": "https://www.bluey.tv/watch/season-3/born-yesterday/"
   },
@@ -875,7 +875,7 @@
     "season": 3,
     "episode": 6,
     "episodeName": "Mini Bluey",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "When Dad complains about how dissimilar Bluey and Bingo are, Bluey hatches a plan to make them more alike and happily introduces Mini-Bluey!",
     "watch-link": "https://www.bluey.tv/watch/season-3/mini-bluey/"
   },
@@ -883,7 +883,7 @@
     "season": 3,
     "episode": 7,
     "episodeName": "Unicorse",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Bluey can’t get to sleep, so Mum reads her one last story. But they are interrupted by Unicorse, the most annoying hand puppet in the world, whom Bluey tries to reform.",
     "watch-link": "https://www.bluey.tv/watch/season-3/unicorse/"
   },
@@ -891,7 +891,7 @@
     "season": 3,
     "episode": 8,
     "episodeName": "Curry Quest",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Bingo and Dad must brave a swooping magpie protecting its nest, when they go on a curry swap to Mackenzie’s house through the park.",
     "watch-link": "https://www.bluey.tv/watch/season-3/curry-quest/"
   },
@@ -899,7 +899,7 @@
     "season": 3,
     "episode": 9,
     "episodeName": "Magic",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Bluey teaches Bingo how to use magic so she can make Mum play with her, but she forgets to explain the most important rule - never use magic for cheekiness!",
     "watch-link": "https://www.bluey.tv/watch/season-3/magic/"
   },
@@ -907,7 +907,7 @@
     "season": 3,
     "episode": 10,
     "episodeName": "Chest",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Dad tries to teach Bluey how to play chess, but Mum thinks she is still too young. When Bingo joins in, the kids make up their own rules, but they still can’t beat Dad.",
     "watch-link": "https://www.bluey.tv/watch/season-3/chest/"
   },
@@ -915,7 +915,7 @@
     "season": 3,
     "episode": 11,
     "episodeName": "Sheepdog",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Dad agrees to play Sheepdog with Bluey and Bingo to stop them from disturbing Mum who is taking a well-earned rest. But looking after a sheep is harder work than they expected.",
     "watch-link": "https://www.bluey.tv/watch/season-3/sheepdog/"
   },
@@ -923,7 +923,7 @@
     "season": 3,
     "episode": 12,
     "episodeName": "Housework",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Mum and Dad vow to only finish their boring housework when the kids stop acting silly, but that’s never going to happen, so they end up trying the same approach themselves.",
     "watch-link": "https://www.bluey.tv/watch/season-3/housework/"
   },
@@ -931,7 +931,7 @@
     "season": 3,
     "episode": 13,
     "episodeName": "Pass The Parcel",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Lucky’s Dad is outraged that modern Pass the Parcel has a present in every layer and changes the rules back to only having one prize in the middle, but Bingo is forever losing.",
     "watch-link": "https://www.bluey.tv/watch/season-3/pass-the-parcel/"
   },
@@ -939,7 +939,7 @@
     "season": 3,
     "episode": 14,
     "episodeName": "Perfect",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Bluey’s Father’s Day card has to be perfect but she can’t decide what to draw! So Mum reminds her about all the fun times she’s had with Dad and how he’s not so perfect either.",
     "watch-link": "https://www.bluey.tv/watch/season-3/perfect/"
   },
@@ -947,7 +947,7 @@
     "season": 3,
     "episode": 15,
     "episodeName": "Explorers",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "While waiting to be picked up from school, Jack plays at being a sailor trying to find his way back home to Australia. Meanwhile, Jack’s Dad has got lost on route to collect him.",
     "watch-link": "https://www.bluey.tv/watch/season-3/explorers/"
   },
@@ -955,7 +955,7 @@
     "season": 3,
     "episode": 16,
     "episodeName": "Phones",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Bluey and Bingo want to play restaurants with Grandad, but it’s a little different than he’s used to… he’s going to need an app to order the food!",
     "watch-link": "https://www.bluey.tv/watch/season-3/phones/"
   },
@@ -963,7 +963,7 @@
     "season": 3,
     "episode": 15,
     "episodeName": "Pavlova",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Mum won’t let Bingo have Pavlova, so the kids find a way by playing a cheeky game of Café in the kitchen. But Dad the chef sets up a competing shop that only serves edamame beans.",
     "watch-link": "https://www.bluey.tv/watch/season-3/pavlova/"
   },
@@ -971,7 +971,7 @@
     "season": 3,
     "episode": 18,
     "episodeName": "Rain",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "When a heavy summer rain thunders over the Heeler home, Bluey is determined to dam the water in the front yard, while Mum tries to stop her constantly tracking mud into the house.",
     "watch-link": "https://www.bluey.tv/watch/season-3/rain/"
   },
@@ -979,7 +979,7 @@
     "season": 3,
     "episode": 19,
     "episodeName": "Pizza Girls",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Bluey and Bingo are making mud pizzas and delivering them to the grown-ups, but their pedal car’s wheel keeps falling off!",
     "watch-link": "https://www.bluey.tv/watch/season-3/pizza-girls/"
   },
@@ -987,7 +987,7 @@
     "season": 3,
     "episode": 20,
     "episodeName": "Driving",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Bluey and Mum race against the clock to buy milk for Agatha.",
     "watch-link": "https://www.bluey.tv/watch/season-3/driving/"
   },
@@ -995,7 +995,7 @@
     "season": 3,
     "episode": 21,
     "episodeName": "Tina",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Tired of being told what to do, Bluey and Bingo enlist their giant invisible friend to show Mum and Dad who’s boss. Now they can do anything they want, until Mum and Dad rebel.",
     "watch-link": "https://www.bluey.tv/watch/season-3/tina/"
   },
@@ -1003,7 +1003,7 @@
     "season": 3,
     "episode": 22,
     "episodeName": "Whale Watching",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Bluey promises her customer Bingo ‘the best tour ever’ in a game of Whale Watching, but they need Mum and Dad to join in and they are too tired to play after a late night.",
     "watch-link": "https://www.bluey.tv/watch/season-3/whale-watching/"
   },
@@ -1011,7 +1011,7 @@
     "season": 3,
     "episode": 23,
     "episodeName": "Family Meeting",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "When Dad’s accused of ‘fluffing’ in Bluey’s face as he climbed out of bed, he’s put on trial with Mum as the judge and Bluey and Bingo as witnesses. But what was Bluey doing there?",
     "watch-link": "https://www.bluey.tv/watch/season-3/family-meeting/"
   },
@@ -1019,7 +1019,7 @@
     "season": 3,
     "episode": 24,
     "episodeName": "Faceytalk",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Bluey and Bingo love to videochat with Muffin and Socks so they can all draw pictures together. When Muffin won’t give Socks a turn, the kids discover what happens when you hog.",
     "watch-link": "https://www.bluey.tv/watch/season-3/facey-talk/"
   },
@@ -1027,7 +1027,7 @@
     "season": 3,
     "episode": 25,
     "episodeName": "Ragdoll",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Dad agrees to take Bluey and Bingo to the shops to buy an ice-cream if they can get him into the car. Only problem is… he’s just entered ‘Ragdoll’ mode!",
     "watch-link": "https://www.bluey.tv/watch/season-3/ragdoll/"
   },
@@ -1035,7 +1035,7 @@
     "season": 3,
     "episode": 26,
     "episodeName": "Fairytale",
-    "title-card": "",
+    "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Dad tells the Bluey and Bingo a real-life fairy tale about growing up in a wild place called the 80s, about a boy who was cursed when he was mean to his little brother.",
     "watch-link": "https://www.bluey.tv/watch/season-3/fairytale/"
   }
