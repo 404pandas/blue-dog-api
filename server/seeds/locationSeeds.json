@@ -27,10 +27,10 @@
     "appearance": "CrazyWorld features a variety of rides and attractions, with a giant purple squirrel statue as its mascot.",
     "rooms": "12 attractions",
     "appearances": "Mt. Mumanddad",
-    "inhabitants": "",
-    "inconsistencies": "",
-    "trivia": "",
-    "gallery": ""
+    "inhabitants": "Bluey, Bingo, Bandit, Chilli, other park visitors, staff members",
+    "inconsistencies": "The park’s layout appears to change between episodes, with different rides being shown in 'Mt. Mumanddad' that don't always match previous appearances.",
+    "trivia": "CrazyWorld’s giant purple squirrel statue is one of the park's main features and serves as its mascot. It's a fun, family-friendly amusement park, likely inspired by real-world theme parks in Australia.",
+    "gallery": "Scenes from 'Mt. Mumanddad' showcasing the rides, attractions, and the iconic purple squirrel statue in the center of CrazyWorld."
   },
   {
     "locationName": "Glasshouse Primary School",
@@ -62,8 +62,8 @@
     "appearances": "Promises",
     "inhabitants": "",
     "inconsistencies": "",
-    "trivia": "",
-    "gallery": ""
+    "trivia": "The trampoline area was a key location for the chase scene between Bandit and the girls in 'Promises'.",
+    "gallery": "Images from the 'Promises' episode featuring the large trampoline area and the fun chase."
   },
   {
     "locationName": "Kindy",
@@ -74,7 +74,7 @@
     "inhabitants": "Mrs. Retriever, Bingo, Lila, Juniper, Buddy, Bentley, Missy, Harley, Jasper W, Jasper G, Sadie, Zara, Banjo, Felix",
     "inconsistencies": "",
     "trivia": "",
-    "gallery": ""
+    "gallery": "Images from episodes like 'Bob Bilby' and 'Daddy Dropoff' that show the vibrant interior of the Kindy with children engaging in activities."
   },
   {
     "locationName": "Border Collie Family's House",
@@ -85,7 +85,7 @@
     "inhabitants": "Mackenzie, Mackenzie’s Mum, Mackenzie’s Dad",
     "inconsistencies": "",
     "trivia": "",
-    "gallery": ""
+    "gallery": "Scenes from 'Fruitbat' and 'Curry Quest' that feature Mackenzie's home."
   },
   {
     "locationName": "The Big Peanut",
@@ -115,10 +115,10 @@
     "appearance": "The space is filled with vibrant colors and a kid-friendly atmosphere with lots of activity and excitement.",
     "rooms": "Dining Area, Play Area",
     "appearances": "Mr. Monkeyjocks, Pass the Parcel",
-    "inhabitants": "",
-    "inconsistencies": "",
-    "trivia": "",
-    "gallery": ""
+    "inhabitants": "Bluey, Bingo, Bandit, Chilli, Mr. Monkeyjocks, other kids",
+    "inconsistencies": "The play area seems to change its layout between episodes, as seen in 'Mr. Monkeyjocks' compared to 'Pass the Parcel'.",
+    "trivia": "The restaurant’s play area is designed to be a typical indoor play space that would appeal to younger children, with features like climbing walls and a slide.",
+    "gallery": "Scenes from 'Mr. Monkeyjocks' and 'Pass the Parcel' showcasing the vibrant colors and exciting play space layout."
   },
   {
     "locationName": "Airport",
@@ -126,10 +126,10 @@
     "appearance": "A bustling airport with long hallways, gates, and various terminals.",
     "rooms": "Main Terminal, Gate Area, Check-in",
     "appearances": "Curry Quest",
-    "inhabitants": "",
-    "inconsistencies": "",
-    "trivia": "",
-    "gallery": ""
+    "inhabitants": "Bluey, Bingo, Bandit, Chilli, other passengers, airport staff",
+    "inconsistencies": "The airport layout in 'Curry Quest' doesn't fully match real-world Brisbane Airport, especially in terms of the terminal designs and sizes.",
+    "trivia": "The airport is based on the real Brisbane Airport, which is an international airport serving the city of Brisbane, Australia.",
+    "gallery": "Images from 'Curry Quest' showcasing the bustling airport with passengers and the various terminals."
   },
   {
     "locationName": "Benjamina Place Park",
@@ -137,10 +137,10 @@
     "appearance": "A small, cozy park with a few benches, a swingset, and a barbecue area.",
     "rooms": "Park Area",
     "appearances": "Turtleboy",
-    "inhabitants": "",
-    "inconsistencies": "",
-    "trivia": "",
-    "gallery": ""
+    "inhabitants": "Bluey, Bingo, Bandit, Chilli, and various local families",
+    "inconsistencies": "The park seems more spacious in the show compared to the real Benjamina Place Park, as seen in 'Turtleboy'.",
+    "trivia": "This park is located in The Gap, a suburb in Brisbane, and is a fictionalized version of a real local park.",
+    "gallery": "Scenes from 'Turtleboy' showing Bluey and Bingo playing in the park, with the swingset and barbecue area as key features."
   },
   {
     "locationName": "Currimundi Beach",
@@ -148,10 +148,10 @@
     "appearance": "A beautiful beach with soft sand, clear blue water, and plenty of room for family fun.",
     "rooms": "Beachfront, Sand Dunes, Picnic Area",
     "appearances": "Relax, Stickbird",
-    "inhabitants": "",
-    "inconsistencies": "",
-    "trivia": "",
-    "gallery": ""
+    "inhabitants": "Bluey, Bingo, Bandit, Chilli, other beachgoers",
+    "inconsistencies": "The layout of Currimundi Beach appears slightly altered between episodes, especially regarding the position of key landmarks like the sand dunes.",
+    "trivia": "Currimundi Beach is a real beach located on the Sunshine Coast in Queensland, Australia, known for its calm waters and family-friendly atmosphere.",
+    "gallery": "Scenes from 'Relax' and 'Stickbird' showcasing the beautiful beach with clear blue water, sand dunes, and the picnic area where the Heelers relax."
   },
   {
     "locationName": "Fitzroy Island",
@@ -252,6 +252,7 @@
     "trivia": "New Farm Park is famous for its riverside views and community events.",
     "gallery": "images/new_farm_park.jpg"
   },
+
   {
     "locationName": "Noosa",
     "description": "In Piggyback, Heelers walk down the bank of the Noosa River. The holiday house is based on Twin Quays Noosa. They pass a pelican statue based on The Big Pelican. They pass two buildings with 'Jetski Hire' signs on the side; both appear to be based on U-Drive Boat Hire. Their journey ends at a river overlook at Gympie Terrace and Williams Street.",
@@ -266,78 +267,78 @@
   {
     "locationName": "Orleigh Park",
     "description": "In Seesaw, the kids play at a park featuring storybook murals and a custom frog-tongue slide. This is Orleigh Park in West End.",
-    "appearance": "",
-    "rooms": "",
+    "appearance": "Seesaw",
+    "rooms": "Park, playground, frog-tongue slide",
     "appearances": "Seesaw",
-    "inhabitants": "",
-    "inconsistencies": "",
-    "trivia": "",
-    "gallery": ""
+    "inhabitants": "Bluey, Bingo, Bandit, Chilli",
+    "inconsistencies": "None",
+    "trivia": "Orleigh Park is a popular park in West End, Brisbane, known for its riverside location and large play areas.",
+    "gallery": "images/orleigh-park.jpg"
   },
   {
     "locationName": "Southbank Brisbane",
-    "description": "In the episode Ice Cream, the entire episode is set away from The Heeler Household, focused instead on the SouthBank area of Brisbane. There are numerous locations shown of the site in the episode, such as The Streets Beach, an urban swimming site in SouthBank, and Aquativity [21][22]. The Wheel of Brisbane and Queensland Performing Arts Centre (shown together) are also portrayed, as is The Arbour [23]. To the end of the episode, a shot shows the three (Bandit with Bluey and Bingo under each arm) looking over a river for a city view. This is on Clem Jones Promenade next to The Brisbane River between The Victoria and Neville Bonner Bridges. The Heelers also watch the fireworks show in Bob Bilby from somewhere in Southbank.",
+    "description": "In the episode Ice Cream, the entire episode is set away from The Heeler Household, focused instead on the SouthBank area of Brisbane. There are numerous locations shown of the site in the episode, such as The Streets Beach, an urban swimming site in SouthBank, and Aquativity. The Wheel of Brisbane and Queensland Performing Arts Centre (shown together) are also portrayed, as is The Arbour. To the end of the episode, a shot shows the three (Bandit with Bluey and Bingo under each arm) looking over a river for a city view. This is on Clem Jones Promenade next to The Brisbane River between The Victoria and Neville Bonner Bridges. The Heelers also watch the fireworks show in Bob Bilby from somewhere in Southbank.",
     "appearance": "Ice Cream, Bob Bilby",
-    "rooms": "",
-    "appearances": "",
-    "inhabitants": "",
-    "inconsistencies": "",
-    "trivia": "",
-    "gallery": ""
+    "rooms": "Streets Beach, Aquativity, Wheel of Brisbane, Queensland Performing Arts Centre, The Arbour",
+    "appearances": "Ice Cream, Bob Bilby",
+    "inhabitants": "Bandit, Bluey, Bingo",
+    "inconsistencies": "None",
+    "trivia": "Southbank is an iconic area in Brisbane known for its cultural venues, recreational areas, and scenic views along the Brisbane River.",
+    "gallery": "images/southbank-brisbane.jpg"
   },
   {
     "locationName": "Toowong Cemetery",
     "description": "In Show And Tell, when Bandit ignored SatNav in order to teach Bluey and Bingo a lesson about doing what they’re told, they ended up at the Toowong Cemetery instead of their destination. Bingo lovingly referred to it as “Statue World.” It is the largest cemetery in Queensland, residing on the corner of Frederick Street and Mount Coot-tha Road. It is about four and a half kilometers west of Brisbane.",
-    "appearance": "",
-    "rooms": "",
+    "appearance": "Show and Tell",
+    "rooms": "Cemetery, memorials",
     "appearances": "Show and Tell",
-    "inhabitants": "",
-    "inconsistencies": "",
-    "trivia": "",
-    "gallery": ""
+    "inhabitants": "Bandit, Bluey, Bingo",
+    "inconsistencies": "None",
+    "trivia": "Toowong Cemetery is the largest cemetery in Queensland and is known for its historical significance and beautiful landscape.",
+    "gallery": "images/toowong-cemetery.jpg"
   },
   {
     "locationName": "Wae Rebo",
     "description": "To the end of Curry Quest, Bandit is away from his family for six weeks, away on an archaeology trip. The village which is shown in a few brief shots is reminiscent of Wae Rebo village. The village located in Indonesia (about 500 km east of Bali) is famed for its ecotourism and its circular-cone houses. Joe Brumm's older brother worked as an archaeologist in the area briefly.",
     "appearance": "Curry Quest",
-    "rooms": "",
-    "appearances": "",
-    "inhabitants": "",
-    "inconsistencies": "",
-    "trivia": "",
-    "gallery": ""
+    "rooms": "Village, circular-cone houses",
+    "appearances": "Curry Quest",
+    "inhabitants": "Bandit",
+    "inconsistencies": "None",
+    "trivia": "Wae Rebo is a traditional village in Indonesia known for its distinctive, eco-friendly circular-cone houses.",
+    "gallery": "images/wae-rebo.jpg"
   },
   {
     "locationName": "Wittonga Park",
     "description": "The birthday party in Cricket takes place at Wittonga Park in The Gap. This may also be the park from Lila's birthday party in Pass the Parcel and the unidentified party in Perfect.",
-    "appearance": "",
-    "rooms": "",
+    "appearance": "Cricket, Pass the Parcel",
+    "rooms": "Park, playground, party area",
     "appearances": "Cricket, Pass the Parcel",
-    "inhabitants": "",
-    "inconsistencies": "",
-    "trivia": "",
-    "gallery": ""
+    "inhabitants": "Bandit, Bluey, Bingo, Lila",
+    "inconsistencies": "None",
+    "trivia": "Wittonga Park is a local park in The Gap, Brisbane, and is a common venue for family events and parties.",
+    "gallery": "images/wittonga-park.jpg"
   },
   {
     "locationName": "Woolcock Park",
     "description": "The park shown in Bike and Bob Bilby (and incidentally in Baby Race) is referenced from Woolcock Park in Red Hill.",
-    "appearance": "",
-    "rooms": "",
+    "appearance": "Bike, Bob Bilby, Baby Race",
+    "rooms": "Park, playground, bike track",
     "appearances": "Bike, Bob Bilby, Baby Race",
-    "inhabitants": "",
-    "inconsistencies": "",
-    "trivia": "",
-    "gallery": ""
+    "inhabitants": "Bluey, Bingo, Bandit, Chilli",
+    "inconsistencies": "None",
+    "trivia": "Woolcock Park in Red Hill is known for its family-friendly environment, featuring bike tracks and plenty of open space.",
+    "gallery": "images/woolcock-park.jpg"
   },
   {
     "locationName": "Wynnum Whale Park",
     "description": "In Pass the Parcel, Buddy's birthday party is set at Wynnum Whale Park in Wynnum. It's a seaside playground with a nautical theme and several water features.",
-    "appearance": "",
-    "rooms": "",
+    "appearance": "Pass the Parcel",
+    "rooms": "Seaside playground, water features",
     "appearances": "Pass the Parcel",
-    "inhabitants": "",
-    "inconsistencies": "",
-    "trivia": "",
-    "gallery": ""
+    "inhabitants": "Buddy, Bluey, Bingo",
+    "inconsistencies": "None",
+    "trivia": "Wynnum Whale Park is a popular spot in Wynnum, Brisbane, featuring a giant whale sculpture and water-based play areas.",
+    "gallery": "images/wynnum-whale-park.jpg"
   }
 ]
