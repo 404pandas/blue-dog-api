@@ -1784,5 +1784,246 @@
     "gallery": "",
     "animated": "Yes",
     "references": ""
+  },
+  {
+    "name": "Jelly",
+    "species": "Dog",
+    "breed": "Unknown",
+    "gender": "Female",
+    "age": "5",
+    "family": {
+      "father": "Unknown",
+      "mother": "Unknown",
+      "siblings": ["Trixie"],
+      "grandparents": {
+        "maternal": ["Unknown"],
+        "paternal": ["Unknown"]
+      }
+    },
+    "appearance": {
+      "fur": ["Yellow", "White"],
+      "eyes": "Black",
+      "nose": "Black",
+      "markings": {
+        "feet": "White",
+        "hands": "White",
+        "tail tip": "White",
+        "chest": "White",
+        "muzzle": "White",
+        "eyebrows": "White",
+        "legs": "Yellow",
+        "arms": "Yellow",
+        "tail stem": "Yellow",
+        "torso": "Yellow",
+        "inner ears": "Yellow",
+        "outer ears": "Pink"
+      }
+    },
+    "personality": {
+      "traits": ["Friendly", "Energetic", "Sociable", "Adventurous"],
+      "likes": ["Playing games", "Running around", "Adventure"],
+      "dislikes": ["Being left out", "Losing games"]
+    },
+    "catchphrase": "Let's play!",
+    "hobbies": ["Outdoor games", "Pretend play"],
+    "friends": ["Bluey", "Bingo", "Trixie"],
+    "firstAppearance": "Bingo's Big Game",
+    "notableEpisodes": ["Bingo's Big Game", "The Beach", "Trixie's Day Out"],
+    "funFacts": {
+      "favoriteColor": "Pink",
+      "birthday": "Unknown",
+      "appearance": "Jelly has a friendly and energetic personality, known for her love of play and her distinctive yellow and white fur."
+    }
+  },
+  {
+    "name": "Calypso",
+    "species": "Dog",
+    "breed": "Unknown",
+    "gender": "Female",
+    "age": "Unknown",
+    "family": {
+      "father": "Unknown",
+      "mother": "Unknown",
+      "siblings": "Unknown",
+      "grandparents": "Unknown"
+    },
+    "appearance": {
+      "fur": ["Light brown", "White"],
+      "eyes": "Black",
+      "nose": "Brown",
+      "markings": {
+        "feet": "White",
+        "hands": "White",
+        "tail tip": "White",
+        "chest": "White",
+        "muzzle": "White",
+        "eyebrows": "White",
+        "legs": "Light brown",
+        "arms": "Light brown",
+        "tail stem": "Light brown",
+        "torso": "Light brown",
+        "inner ears": "Light brown",
+        "outer ears": "Dark brown"
+      }
+    },
+    "personality": {
+      "traits": ["Caring", "Wise", "Patient", "Supportive"],
+      "likes": ["Teaching", "Encouraging students", "Helping others"],
+      "dislikes": ["Disorder", "Lack of respect"]
+    },
+    "catchphrase": "Alright class!",
+    "hobbies": ["Teaching", "Storytelling"],
+    "friends": ["Bluey", "Bingo"],
+    "firstAppearance": "The Teacher",
+    "notableEpisodes": ["The Teacher", "School", "The Beach"],
+    "funFacts": {
+      "favoriteColor": "Teal",
+      "birthday": "Unknown",
+      "appearance": "Calypso is a school teacher who loves to engage with her students and teach them important life lessons."
+    }
+  },
+  {
+    "name": "Trixie",
+    "species": "Dog",
+    "breed": "Unknown",
+    "gender": "Female",
+    "age": "5",
+    "family": {
+      "father": "Unknown",
+      "mother": "Unknown",
+      "siblings": ["Jelly"],
+      "grandparents": {
+        "maternal": ["Unknown"],
+        "paternal": ["Unknown"]
+      }
+    },
+    "appearance": {
+      "fur": ["Light brown", "White"],
+      "eyes": "Black",
+      "nose": "Brown",
+      "markings": {
+        "feet": "White",
+        "hands": "White",
+        "tail tip": "White",
+        "chest": "White",
+        "muzzle": "White",
+        "eyebrows": "White",
+        "legs": "Light brown",
+        "arms": "Light brown",
+        "tail stem": "Light brown",
+        "torso": "Light brown",
+        "inner ears": "Light brown",
+        "outer ears": "Dark brown"
+      }
+    },
+    "personality": {
+      "traits": ["Friendly", "Loyal", "Adventurous"],
+      "likes": ["Having fun", "Playing with friends", "Adventure"],
+      "dislikes": ["Boredom", "Being alone"]
+    },
+    "catchphrase": "Come on, let's go!",
+    "hobbies": ["Outdoor games", "Exploring"],
+    "friends": ["Bluey", "Bingo", "Jelly"],
+    "firstAppearance": "Trixie's Day Out",
+    "notableEpisodes": ["Trixie's Day Out", "The Beach"],
+    "funFacts": {
+      "favoriteColor": "Yellow",
+      "birthday": "Unknown",
+      "appearance": "Trixie is an adventurous and energetic dog who loves spending time with her friends, especially Jelly."
+    }
+  },
+  {
+    "name": "Frisky",
+    "species": "Dog",
+    "breed": "Unknown",
+    "gender": "Female",
+    "age": "Unknown",
+    "family": {
+      "father": "Unknown",
+      "mother": "Unknown",
+      "siblings": "Unknown",
+      "grandparents": "Unknown"
+    },
+    "appearance": {
+      "fur": ["Dark brown", "White"],
+      "eyes": "Black",
+      "nose": "Brown",
+      "markings": {
+        "feet": "White",
+        "hands": "White",
+        "tail tip": "White",
+        "chest": "White",
+        "muzzle": "White",
+        "eyebrows": "White",
+        "legs": "Dark brown",
+        "arms": "Dark brown",
+        "tail stem": "Dark brown",
+        "torso": "Dark brown",
+        "inner ears": "Dark brown",
+        "outer ears": "Dark brown"
+      }
+    },
+    "personality": {
+      "traits": ["Playful", "Mischievous", "Energetic"],
+      "likes": ["Running", "Chasing", "Games"],
+      "dislikes": ["Sitting still", "Boredom"]
+    },
+    "catchphrase": "Let's play, play, play!",
+    "hobbies": ["Running around", "Chasing after things"],
+    "friends": ["Bluey", "Bingo"],
+    "firstAppearance": "Frisky's Day Out",
+    "notableEpisodes": ["Frisky's Day Out"],
+    "funFacts": {
+      "favoriteColor": "Red",
+      "birthday": "Unknown",
+      "appearance": "Frisky is a lively and energetic dog who loves to run and play. She was introduced in 'Frisky's Day Out'."
+    }
+  },
+  {
+    "name": "Shaun",
+    "species": "Sheep",
+    "breed": "Shaun the Sheep",
+    "gender": "Male",
+    "age": "Unknown",
+    "family": {
+      "father": "Unknown",
+      "mother": "Unknown",
+      "siblings": "Unknown",
+      "grandparents": "Unknown"
+    },
+    "appearance": {
+      "fur": ["White"],
+      "eyes": "Black",
+      "nose": "Black",
+      "markings": {
+        "feet": "Black",
+        "hands": "Black",
+        "tail tip": "Black",
+        "chest": "White",
+        "muzzle": "White",
+        "eyebrows": "Black",
+        "legs": "White",
+        "arms": "White",
+        "tail stem": "White",
+        "torso": "White",
+        "inner ears": "White",
+        "outer ears": "White"
+      }
+    },
+    "personality": {
+      "traits": ["Adventurous", "Mischievous", "Playful"],
+      "likes": ["Causing chaos", "Having fun", "Mischief"],
+      "dislikes": ["Being caught", "Disobedience"]
+    },
+    "catchphrase": "Baa!",
+    "hobbies": ["Mischief", "Exploring"],
+    "friends": ["The Farmer", "Timmy the Lamb"],
+    "firstAppearance": "Shaun the Sheep",
+    "notableEpisodes": ["Shaun the Sheep"],
+    "funFacts": {
+      "favoriteColor": "Green",
+      "birthday": "Unknown",
+      "appearance": "Shaun appeared in a crossover episode between 'Bluey' and 'Shaun the Sheep'."
+    }
   }
 ]
