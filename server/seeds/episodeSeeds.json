@@ -955,280 +955,280 @@
     "season": 3,
     "episode": 16,
     "episodeName": "Phones",
-    "title-card": "./src/assets/images/episodes/dance-mode",
+    "title-card": "./src/assets/images/episodes/phones",
     "description": "Bluey and Bingo want to play restaurants with Grandad, but it’s a little different than he’s used to… he’s going to need an app to order the food!",
     "watch-link": "https://www.bluey.tv/watch/season-3/phones/"
   },
   {
     "season": 3,
-    "episode": 15,
+    "episode": 17,
     "episodeName": "Pavlova",
-    "title-card": "./src/assets/images/episodes/dance-mode",
-    "description": "Mum won’t let Bingo have Pavlova, so the kids find a way by playing a cheeky game of Café in the kitchen. But Dad the chef sets up a competing shop that only serves edamame beans.",
+    "title-card": "./src/assets/images/episodes/pavlova",
+    "description": "Bluey and Bingo help their dad make a pavlova for dessert, but things get a bit messy.",
     "watch-link": "https://www.bluey.tv/watch/season-3/pavlova/"
   },
   {
     "season": 3,
     "episode": 18,
     "episodeName": "Rain",
-    "title-card": "./src/assets/images/episodes/dance-mode",
-    "description": "When a heavy summer rain thunders over the Heeler home, Bluey is determined to dam the water in the front yard, while Mum tries to stop her constantly tracking mud into the house.",
+    "title-card": "./src/assets/images/episodes/rain",
+    "description": "Bluey and Bingo want to play outside, but it's raining. They come up with creative indoor games instead.",
     "watch-link": "https://www.bluey.tv/watch/season-3/rain/"
   },
   {
     "season": 3,
     "episode": 19,
     "episodeName": "Pizza Girls",
-    "title-card": "./src/assets/images/episodes/dance-mode",
-    "description": "Bluey and Bingo are making mud pizzas and delivering them to the grown-ups, but their pedal car’s wheel keeps falling off!",
+    "title-card": "./src/assets/images/episodes/pizza-girls",
+    "description": "Bluey and Bingo start a pizza delivery service, but delivering pizzas isn't as easy as it seems.",
     "watch-link": "https://www.bluey.tv/watch/season-3/pizza-girls/"
   },
   {
     "season": 3,
     "episode": 20,
     "episodeName": "Driving",
-    "title-card": "./src/assets/images/episodes/dance-mode",
-    "description": "Bluey and Mum race against the clock to buy milk for Agatha.",
+    "title-card": "./src/assets/images/episodes/driving",
+    "description": "Bluey and Bingo pretend to drive a car, but they quickly learn that driving comes with responsibilities.",
     "watch-link": "https://www.bluey.tv/watch/season-3/driving/"
   },
   {
     "season": 3,
     "episode": 21,
     "episodeName": "Tina",
-    "title-card": "./src/assets/images/episodes/dance-mode",
-    "description": "Tired of being told what to do, Bluey and Bingo enlist their giant invisible friend to show Mum and Dad who’s boss. Now they can do anything they want, until Mum and Dad rebel.",
+    "title-card": "./src/assets/images/episodes/tina",
+    "description": "Bluey and Bingo meet a new friend, Tina, and learn about sharing and making new friends.",
     "watch-link": "https://www.bluey.tv/watch/season-3/tina/"
   },
   {
     "season": 3,
     "episode": 22,
     "episodeName": "Whale Watching",
-    "title-card": "./src/assets/images/episodes/dance-mode",
-    "description": "Bluey promises her customer Bingo ‘the best tour ever’ in a game of Whale Watching, but they need Mum and Dad to join in and they are too tired to play after a late night.",
+    "title-card": "./src/assets/images/episodes/whale-watching",
+    "description": "Bluey and Bingo go whale watching with their family and learn about different sea creatures.",
     "watch-link": "https://www.bluey.tv/watch/season-3/whale-watching/"
   },
   {
     "season": 3,
     "episode": 23,
     "episodeName": "Family Meeting",
-    "title-card": "./src/assets/images/episodes/dance-mode",
-    "description": "When Dad’s accused of ‘fluffing’ in Bluey’s face as he climbed out of bed, he’s put on trial with Mum as the judge and Bluey and Bingo as witnesses. But what was Bluey doing there?",
+    "title-card": "./src/assets/images/episodes/family-meeting",
+    "description": "The Heeler family holds a meeting to discuss important family matters, but the kids have their own agenda.",
     "watch-link": "https://www.bluey.tv/watch/season-3/family-meeting/"
   },
   {
     "season": 3,
     "episode": 24,
     "episodeName": "Faceytalk",
-    "title-card": "./src/assets/images/episodes/dance-mode",
-    "description": "Bluey and Bingo love to videochat with Muffin and Socks so they can all draw pictures together. When Muffin won’t give Socks a turn, the kids discover what happens when you hog.",
-    "watch-link": "https://www.bluey.tv/watch/season-3/facey-talk/"
+    "title-card": "./src/assets/images/episodes/faceytalk",
+    "description": "Bluey and Bingo try to use their mum's tablet to video chat with their friends, leading to humorous situations.",
+    "watch-link": "https://www.bluey.tv/watch/season-3/faceytalk/"
   },
   {
     "season": 3,
     "episode": 25,
     "episodeName": "Ragdoll",
-    "title-card": "./src/assets/images/episodes/dance-mode",
-    "description": "Dad agrees to take Bluey and Bingo to the shops to buy an ice-cream if they can get him into the car. Only problem is… he’s just entered ‘Ragdoll’ mode!",
+    "title-card": "./src/assets/images/episodes/ragdoll",
+    "description": "Bluey and Bingo play with their ragdoll toy, creating imaginative scenarios and adventures.",
     "watch-link": "https://www.bluey.tv/watch/season-3/ragdoll/"
   },
   {
     "season": 3,
     "episode": 26,
     "episodeName": "Fairytale",
-    "title-card": "./src/assets/images/episodes/dance-mode",
-    "description": "Dad tells the Bluey and Bingo a real-life fairy tale about growing up in a wild place called the 80s, about a boy who was cursed when he was mean to his little brother.",
+    "title-card": "./src/assets/images/episodes/fairytale",
+    "description": "Bluey and Bingo create a fairytale world, but they learn that not all stories have happy endings.",
     "watch-link": "https://www.bluey.tv/watch/season-3/fairytale/"
   },
   {
     "season": 3,
     "episode": 27,
-    "episodeName": "Pirates",
-    "title-card": "./src/assets/images/episodes/pirates",
-    "description": "Bluey, Bingo, and Missy pretend to be pirates on the hammock swing at the playground. Missy is frightened of the rough journey on the imaginary ship, but faces her fear to rescue her friends from inside the stomach of a whale.",
-    "watch-link": "https://www.bluey.tv/watch/season-3/pirates/"
+    "episodeName": "Musical Statues",
+    "title-card": "./src/assets/images/episodes/musical-statues",
+    "description": "Bluey and Bingo play musical statues, but they find it hard to stay still when the music stops.",
+    "watch-link": "https://www.bluey.tv/watch/season-3/musical-statues/"
   },
   {
     "season": 3,
     "episode": 28,
-    "episodeName": "Grannies",
-    "title-card": "./src/assets/images/episodes/grannies",
-    "description": "Bluey and Bingo dress up as grandmothers, but disagree on if grandmothers are able to perform the floss dance or not. Bluey proves that they are not by video calling Nana, but when this upsets Bingo, Bluey decides to teach Nana the dance so that Bingo will keep playing.",
-    "watch-link": "https://www.bluey.tv/watch/season-3/grannies/"
+    "episodeName": "Stories",
+    "title-card": "./src/assets/images/episodes/stories",
+    "description": "Bluey and Bingo listen to their dad's stories, but they start to make up their own versions.",
+    "watch-link": "https://www.bluey.tv/watch/season-3/stories/"
   },
   {
     "season": 3,
     "episode": 29,
-    "episodeName": "Creek",
-    "title-card": "./src/assets/images/episodes/creek",
-    "description": "Bandit takes Bluey, Bingo, and Mackenzie to the creek after they grow tired of the local playground. Bluey struggles to appreciate the beauty of the natural world surrounding her, until they arrive at the water. Bluey learns to step out of her comfort zone and try new things.",
-    "watch-link": "https://www.bluey.tv/watch/season-3/creek/"
+    "episodeName": "Puppets",
+    "title-card": "./src/assets/images/episodes/puppets",
+    "description": "Bluey and Bingo put on a puppet show for their family, showcasing their creativity and imagination.",
+    "watch-link": "https://www.bluey.tv/watch/season-3/puppets/"
   },
   {
     "season": 3,
     "episode": 30,
-    "episodeName": "Fairies",
-    "title-card": "./src/assets/images/episodes/fairies",
-    "description": "When the Heelers suspects that their house has been invaded by fairies, they go on a hunt to search for and capture the invisible creatures. Bandit accidentally hurts Bingo's feelings and makes it up to her by outsmarting the fairies.",
-    "watch-link": "https://www.bluey.tv/watch/season-3/fairies/"
+    "episodeName": "Turtleboy",
+    "title-card": "./src/assets/images/episodes/turtleboy",
+    "description": "Bluey and Bingo pretend to be superheroes, but they learn that being a hero isn't always glamorous.",
+    "watch-link": "https://www.bluey.tv/watch/season-3/turtleboy/"
   },
   {
     "season": 3,
     "episode": 31,
-    "episodeName": "Work",
-    "title-card": "./src/assets/images/episodes/work",
-    "description": "Bluey and Bingo roleplay a day at work, with Bandit acting as the boss of a drainpipe factory who hires the girls after their successful interviews. The day takes a turn when Bluey takes control of the company and fires Bandit for his breach of the strict 'no dancing' rules.",
-    "watch-link": "https://www.bluey.tv/watch/season-3/work/"
+    "episodeName": "Onesies",
+    "title-card": "./src/assets/images/episodes/onesies",
+    "description": "Bluey and Bingo wear matching onesies, leading to fun and laughter throughout the day.",
+    "watch-link": "https://www.bluey.tv/watch/season-3/onesies/"
   },
   {
     "season": 3,
     "episode": 32,
-    "episodeName": "Hospital",
-    "title-card": "./src/assets/images/episodes/hospital",
-    "description": "While Bingo is sick and in the hospital, she receives a video from Bluey; a short film she has made with Bandit and the family. The story is about a young dog called Bumpy who gets sick and her owner, Barnicus, who supports her through the period of difficulty.",
-    "watch-link": "https://www.bluey.tv/watch/season-3/hospital/"
+    "episodeName": "Tradies",
+    "title-card": "./src/assets/images/episodes/tradies",
+    "description": "Bluey and Bingo hide under the house and spy on two mysterious tradies working in the backyard.",
+    "watch-link": "https://www.bluey.tv/watch/season-3/tradies/"
   },
   {
     "season": 3,
     "episode": 33,
-    "episodeName": "Trampoline",
-    "title-card": "./src/assets/images/episodes/trampoline",
-    "description": "Bandit plays on the trampoline with Bluey and Bingo before he has to leave for work. The sisters devise a plan to get him to stay; pretending to feed him breakfast on the trampoline. Before leaving, Bandit tells Bluey that she has an important job too: to continue making up games.",
-    "watch-link": "https://www.bluey.tv/watch/season-3/trampoline/"
-  },
-  {
-    "season": 3,
-    "episode": 34,
-    "episodeName": "Dump",
-    "title-card": "./src/assets/images/episodes/dump",
-    "description": "Bandit takes Bluey and Bingo on a car trip to the dump to throw away rubbish. Bluey asks Bandit a range of questions on the way and he proclaims that he knows everything, but when they arrive, Bluey is saddened to learn that he is throwing away her old drawings.",
-    "watch-link": "https://www.bluey.tv/watch/season-3/dump/"
-  },
-  {
-    "season": 3,
-    "episode": 35,
-    "episodeName": "Zoo",
-    "title-card": "./src/assets/images/episodes/zoo",
-    "description": "Bluey and Bingo set up a pretend zoo at home in the backyard, with Bluey acting as the zookeeper who takes Bingo and Chilli on a tour around the grounds. Bluey must devise a plan to catch the baboon (Bandit) when he escapes the enclosure and takes Bingo along with him.",
-    "watch-link": "https://www.bluey.tv/watch/season-3/zoo/"
-  },
-  {
-    "season": 3,
-    "episode": 36,
-    "episodeName": "Backpacking",
-    "title-card": "./src/assets/images/episodes/backpacking",
-    "description": "Bluey, Bingo, Muffin, and Socks roleplay a pretend backpacking adventure around the backyard. The children become the backpacks as Chilli and Bandit are tasked with carrying them around while exploring their holiday destination.",
-    "watch-link": "https://www.bluey.tv/watch/season-3/backpacking/"
-  },
-  {
-    "season": 3,
-    "episode": 37,
-    "episodeName": "Farm",
-    "title-card": "./src/assets/images/episodes/farm",
-    "description": "Bluey plays with Chloe and pretends to be a horse as she accompanies the princess on an imaginary adventure to find food at the family farm. The friends swap roles and adopt a variety of personas as they save the kingdom from an evil queen.",
-    "watch-link": "https://www.bluey.tv/watch/season-3/farm/"
-  },
-  {
-    "season": 3,
-    "episode": 38,
-    "episodeName": "Sleepytime",
-    "title-card": "./src/assets/images/episodes/sleepytime",
-    "description": "Bandit wakes to find Bluey copying his every move. While the pair are playing outside, Bluey finds an injured budgie, and they take it to the vet and learn that it has died. When they get home, Bluey reenacts the events with Bingo to cope with the budgie's death.",
-    "watch-link": "https://www.bluey.tv/watch/season-3/sleepytime/"
-  },
-  {
-    "season": 3,
-    "episode": 39,
-    "episodeName": "Sleepover",
-    "title-card": "./src/assets/images/episodes/sleepover",
-    "description": "Bluey has her first sleepover at Coco's house. She learns about the new experience, dealing with homesickness, and how to adapt to being away from home for the first time. Coco’s parents also share their tips for a successful sleepover.",
-    "watch-link": "https://www.bluey.tv/watch/season-3/sleepover/"
-  },
-  {
-    "season": 3,
-    "episode": 40,
-    "episodeName": "BBQ",
-    "title-card": "./src/assets/images/episodes/bbq",
-    "description": "The family hosts a BBQ in the backyard. While Bluey, Bingo, and their friends try to help, their attempts to cook and organize things result in chaos, but ultimately lead to a fun and memorable BBQ event for everyone.",
-    "watch-link": "https://www.bluey.tv/watch/season-3/bbq/"
-  },
-  {
-    "season": 3,
-    "episode": 41,
-    "episodeName": "The Decider",
-    "title-card": "./src/assets/images/episodes/the-decider",
-    "description": "When Bluey and Bingo can't agree on what to play, Dad comes up with a game called ‘The Decider’ where Bluey and Bingo take turns deciding what to do. They learn about fairness and compromise while playing their silly games.",
-    "watch-link": "https://www.bluey.tv/watch/season-3/the-decider/"
-  },
-  {
-    "season": 3,
-    "episode": 42,
-    "episodeName": "The Pool",
-    "title-card": "./src/assets/images/episodes/the-pool",
-    "description": "The Heelers head to the local pool for some fun in the water. While Bluey and Bingo are excited to swim, they discover new poolside challenges and learn how to overcome their fears of deep water.",
-    "watch-link": "https://www.bluey.tv/watch/season-3/the-pool/"
-  },
-  {
-    "season": 3,
-    "episode": 43,
     "episodeName": "Granny Mobile",
     "title-card": "./src/assets/images/episodes/granny-mobile",
-    "description": "Bluey and Bingo build their very own ‘Granny Mobile’ car and race around the backyard. But when things go wrong, they learn about teamwork and using their imagination to solve problems.",
+    "description": "Muffin plays Grouchy Granny at a garage sale, making Dad push her on an old mobility scooter. But when a real Granny wants to buy it, Muffin won't budge.",
     "watch-link": "https://www.bluey.tv/watch/season-3/granny-mobile/"
   },
   {
     "season": 3,
+    "episode": 34,
+    "episodeName": "Space",
+    "title-card": "./src/assets/images/episodes/space",
+    "description": "Mackenzie, Jack, and Rusty are playing astronauts on a mission to Mars. But during their journey, Mackenzie keeps going missing and no one knows why.",
+    "watch-link": "https://www.bluey.tv/watch/season-3/space/"
+  },
+  {
+    "season": 3,
+    "episode": 35,
+    "episodeName": "Smoochy Kiss",
+    "title-card": "./src/assets/images/episodes/smoochy-kiss",
+    "description": "Bluey and Bingo want Dad all to themselves until they discover he has some gross habits.",
+    "watch-link": "https://www.bluey.tv/watch/season-3/smoochy-kiss/"
+  },
+  {
+    "season": 3,
+    "episode": 36,
+    "episodeName": "Dirt",
+    "title-card": "./src/assets/images/episodes/dirt",
+    "description": "Judo wants to play in the dirt with Bluey and Bingo, but she's not supposed to get dirty.",
+    "watch-link": "https://www.bluey.tv/watch/season-3/dirt/"
+  },
+  {
+    "season": 3,
+    "episode": 37,
+    "episodeName": "The Decider",
+    "title-card": "./src/assets/images/episodes/the-decider",
+    "description": "The Heelers and Lucky's family get together to watch the big game.",
+    "watch-link": "https://www.bluey.tv/watch/season-3/the-decider/"
+  },
+  {
+    "season": 3,
+    "episode": 38,
+    "episodeName": "Cubby",
+    "title-card": "./src/assets/images/episodes/cubby",
+    "description": "Bluey and Bingo build a very special cubby for their stuffed toy Kimjim.",
+    "watch-link": "https://www.bluey.tv/watch/season-3/cubby/"
+  },
+  {
+    "season": 3,
+    "episode": 39,
+    "episodeName": "Exercise",
+    "title-card": "./src/assets/images/episodes/exercise",
+    "description": "Bingo pretends to be Boss Bluey's new employee in the middle of Dad's backyard workout.",
+    "watch-link": "https://www.bluey.tv/watch/season-3/exercise/"
+  },
+  {
+    "season": 3,
+    "episode": 40,
+    "episodeName": "Relax",
+    "title-card": "./src/assets/images/episodes/relax",
+    "description": "Bluey and Bingo would rather explore their holiday hotel room than relax on the beach.",
+    "watch-link": "https://www.bluey.tv/watch/season-3/relax/"
+  },
+  {
+    "season": 3,
+    "episode": 41,
+    "episodeName": "Stickbird",
+    "title-card": "./src/assets/images/episodes/stickbird",
+    "description": "On a trip to the beach, Mum teaches Bluey to throw, while Bingo and Dad get creative with a funny-shaped stick.",
+    "watch-link": "https://www.bluey.tv/watch/season-3/stickbird/"
+  },
+  {
+    "season": 3,
+    "episode": 42,
+    "episodeName": "Show and Tell",
+    "title-card": "./src/assets/images/episodes/show-and-tell",
+    "description": "Bluey wants to know why Dad's always bossing her around.",
+    "watch-link": "https://www.bluey.tv/watch/season-3/show-and-tell/"
+  },
+  {
+    "season": 3,
+    "episode": 43,
+    "episodeName": "Dragon",
+    "title-card": "./src/assets/images/episodes/dragon",
+    "description": "Bluey asks Dad to help her draw a dragon for her story.",
+    "watch-link": "https://www.bluey.tv/watch/season-3/dragon/"
+  },
+  {
+    "season": 3,
     "episode": 44,
-    "episodeName": "Dinosaur",
-    "title-card": "./src/assets/images/episodes/dinosaur",
-    "description": "The Heelers go on an adventure in the park where Bluey, Bingo, and their friends use their imaginations to pretend to be dinosaurs. Along the way, they learn about friendship, fun, and how to get along even when things don't go as planned.",
-    "watch-link": "https://www.bluey.tv/watch/season-3/dinosaur/"
+    "episodeName": "Wild Girls",
+    "title-card": "./src/assets/images/episodes/wild-girls",
+    "description": "Coco wants to play Wild Girls with Indy, but Chloe wants her to play another game.",
+    "watch-link": "https://www.bluey.tv/watch/season-3/wild-girls/"
   },
   {
     "season": 3,
     "episode": 45,
-    "episodeName": "The Claw",
-    "title-card": "./src/assets/images/episodes/the-claw",
-    "description": "Bluey and Bingo discover a new game at the arcade, The Claw. They quickly get hooked, and after some learning, they realize that patience and persistence are key to success.",
-    "watch-link": "https://www.bluey.tv/watch/season-3/the-claw/"
+    "episodeName": "TV Shop",
+    "title-card": "./src/assets/images/episodes/tv-shop",
+    "description": "At the chemist, Bluey and Bingo have fun playing with the CCTV screens.",
+    "watch-link": "https://www.bluey.tv/watch/season-3/tv-shop/"
   },
   {
     "season": 3,
     "episode": 46,
-    "episodeName": "The Doctor",
-    "title-card": "./src/assets/images/episodes/the-doctor",
-    "description": "Bluey and Bingo play doctor, with Bandit acting as their patient. They learn all about the role of a doctor and how important it is to look after people, especially when they aren't feeling well.",
-    "watch-link": "https://www.bluey.tv/watch/season-3/the-doctor/"
+    "episodeName": "Slide",
+    "title-card": "./src/assets/images/episodes/slide",
+    "description": "Bingo and Lila are excited to play on their new waterslide.",
+    "watch-link": "https://www.bluey.tv/watch/season-3/slide/"
   },
   {
     "season": 3,
     "episode": 47,
-    "episodeName": "Muffin Cone",
-    "title-card": "./src/assets/images/episodes/muffin-cone",
-    "description": "Bluey and Bingo try to manage the chaos when Muffin insists on keeping her ice-cream cone all to herself. The episode teaches the importance of sharing and taking turns.",
-    "watch-link": "https://www.bluey.tv/watch/season-3/muffin-cone/"
+    "episodeName": "Cricket",
+    "title-card": "./src/assets/images/episodes/cricket",
+    "description": "During a friendly game of neighborhood cricket, the dads struggle to bowl Rusty out.",
+    "watch-link": "https://www.bluey.tv/watch/season-3/cricket/"
   },
   {
     "season": 3,
     "episode": 48,
-    "episodeName": "Lucky's Dad",
-    "title-card": "./src/assets/images/episodes/luckys-dad",
-    "description": "When Bluey and Bingo visit Lucky's house, they learn more about Lucky's dad and what makes him special. They also discover that everyone has their own way of showing love and care for their family.",
-    "watch-link": "https://www.bluey.tv/watch/season-3/luckys-dad/"
+    "episodeName": "Ghostbasket",
+    "title-card": "./src/assets/images/episodes/ghostbasket",
+    "description": "Dad pretends to be an estate agent selling the Grannies' house to Mum, but Janet and Rita don't want to move out. They introduce 'Ghostbasket' to disrupt the sale.",
+    "watch-link": "https://www.bluey.tv/watch/season-3/ghostbasket/"
   },
   {
     "season": 3,
     "episode": 49,
-    "episodeName": "The Adventure",
-    "title-card": "./src/assets/images/episodes/the-adventure",
-    "description": "The Heelers go on an epic adventure in the wild outdoors. Bluey and Bingo face various challenges while exploring and realize that true adventure is about discovering the world around them.",
-    "watch-link": "https://www.bluey.tv/watch/season-3/the-adventure/"
+    "episodeName": "The Sign",
+    "title-card": "./src/assets/images/episodes/the-sign",
+    "description": "The Heeler home is up for sale, and Bluey is unhappy. The episode explores the family's decision-making process regarding moving and features Bandit's brother Radley's wedding.",
+    "watch-link": "https://www.bluey.tv/watch/season-3/the-sign/"
   },
   {
     "season": 3,
     "episode": 50,
-    "episodeName": "Boomerang",
-    "title-card": "./src/assets/images/episodes/boomerang",
-    "description": "Bluey, Bingo, and their friends enjoy playing with a boomerang. When they fail to catch it, they learn the importance of resilience and never giving up.",
-    "watch-link": "https://www.bluey.tv/watch/season-3/boomerang/"
+    "episodeName": "Surprise!",
+    "title-card": "./src/assets/images/episodes/surprise",
+    "description": "Bluey and Bingo want Dad to play two different games, so Dad plays both at the same time.",
+    "watch-link": "https://www.bluey.tv/watch/season-3/surprise"
   }
 ]
