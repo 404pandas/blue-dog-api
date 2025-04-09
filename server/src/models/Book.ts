@@ -1,7 +1,7 @@
 import mongoose, { Document, Schema, Model } from "mongoose";
 
 // Define a TypeScript interface for the book document
-export interface IBook extends Document {
+interface IBook extends Document {
   bookName: string;
   img?: string;
   characters?: string;
@@ -37,6 +37,6 @@ const bookSchema: Schema<IBook> = new Schema(
 );
 
 // Create the model
-const Book: Model<IBook> = mongoose.model < IBook > ("Book", bookSchema);
+const Book: Model<IBook> = mongoose.model<IBook>("Book", bookSchema);
 
 export default Book;

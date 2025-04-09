@@ -1,7 +1,7 @@
 import mongoose, { Document, Schema, Model } from "mongoose";
 
 // Define the interface for an Episode document
-export interface IEpisode extends Document {
+interface IEpisode extends Document {
   episodeName: string;
   description: string;
   season: number;

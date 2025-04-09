@@ -1,7 +1,7 @@
 import mongoose, { Document, Schema, Model } from "mongoose";
 
 // TypeScript interface for Location document
-export interface ILocation extends Document {
+interface ILocation extends Document {
   locationName: string;
   description: string;
   appearance?: string;
@@ -40,7 +40,9 @@ const locationSchema: Schema<ILocation> = new Schema(
 );
 
 // Create the model
-const Location: Model<ILocation> =
-  mongoose.model < ILocation > ("Location", locationSchema);
+const Location: Model<ILocation> = mongoose.model<ILocation>(
+  "Location",
+  locationSchema
+);
 
 export default Location;

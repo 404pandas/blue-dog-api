@@ -1,7 +1,7 @@
 import mongoose, { Document, Schema, Model } from "mongoose";
 
 // TypeScript interface for Item document
-export interface IItem extends Document {
+interface IItem extends Document {
   itemName: string;
   img: string;
 }
@@ -26,6 +26,6 @@ const itemSchema: Schema<IItem> = new Schema(
 );
 
 // Create the model
-const Item: Model<IItem> = mongoose.model < IItem > ("Item", itemSchema);
+const Item: Model<IItem> = mongoose.model<IItem>("Item", itemSchema);
 
 export default Item;

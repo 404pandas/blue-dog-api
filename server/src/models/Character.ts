@@ -1,6 +1,6 @@
 import { Schema, model, type Document } from "mongoose";
 
-export interface ICharacter extends Document {
+interface ICharacter extends Document {
   characterName: string;
   description1: string;
   description2?: string;

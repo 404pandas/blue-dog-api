@@ -13,14 +13,21 @@ export default async (
   collectionName: string
 ) => {
   try {
-    let modelExists = await models[modelName].db.db
-      .listCollections({
-        name: collectionName,
-      })
-      .toArray();
+    const model = models[modelName];
 
-    if (modelExists.length) {
-      await db.dropCollection(collectionName);
+    // Check if model exists before accessing properties
+    if (model?.db?.db) {
+      let modelExists = await model.db.db
+        .listCollections({
+          name: collectionName,
+        })
+        .toArray();
+
+      if (modelExists.length) {
+        await db.dropCollection(collectionName);
+      }
+    } else {
+      throw new Error(`Model ${modelName} not found.`);
     }
   } catch (err) {
     throw err;

@@ -1,17 +1,13 @@
-import { AuthenticationError } from "apollo-server-express";
-import {
-  User,
-  Character,
-  Episode,
-  Location,
-  Short,
-  Book,
-  Item,
-} from "../models";
-import { signToken } from "../utils/auth";
+import { signToken, AuthenticationError } from "../utils/auth";
 import bcrypt from "bcrypt";
 import { IResolvers } from "@graphql-tools/utils";
-import { UserDocument } from "../models/User";
+import User, { type IUser } from "../models/User.js";
+import Character from "../models/Character.js";
+import Episode from "../models/Episode.js";
+import Location from "../models/Location.js";
+import Short from "../models/Short.js";
+import Book from "../models/Book.js";
+import Item from "../models/Item.js";
 
 // Define the context type (customize as needed)
 interface Context {
@@ -43,8 +39,8 @@ interface AddUserArgs {
 }
 
 interface EditUserArgs {
-  username?: string;
-  email?: string;
+  username?: string | undefined;
+  email?: string | undefined;
   password?: string;
   phoneNum?: string;
 }
@@ -86,16 +82,16 @@ const resolvers: IResolvers = {
       const user = await User.findOne({ email });
       if (!user) throw new AuthenticationError("Incorrect credentials");
 
-      const isMatch = await (user as UserDocument).isCorrectPassword(password);
+      const isMatch = await (user as IUser).isCorrectPassword(password);
       if (!isMatch) throw new AuthenticationError("Incorrect credentials");
 
-      const token = signToken(user);
+      const token = signToken(user.username, user.email, user._id);
       return { token, user };
     },
 
     addUser: async (_parent, args: AddUserArgs) => {
       const user = await User.create(args);
-      const token = signToken(user);
+      const token = signToken(user.username, user.email, user._id);
       return { token, user };
     },
 
@@ -107,7 +103,6 @@ const resolvers: IResolvers = {
       const updates: Partial<EditUserArgs> = {
         username: args.username,
         email: args.email,
-        phoneNum: args.phoneNum,
       };
 
       if (args.password) {

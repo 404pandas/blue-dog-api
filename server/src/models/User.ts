@@ -2,7 +2,7 @@ import mongoose, { Document, Schema, Model } from "mongoose";
 import bcrypt from "bcrypt";
 
 // Extend the Document interface to include instance methods
-export interface IUser extends Document {
+interface IUser extends Document {
   username: string;
   email: string;
   password: string;
@@ -36,16 +36,13 @@ const userSchema: Schema<IUser> = new Schema(
 );
 
 // Pre-save middleware to hash password
-userSchema.pre <
-  IUser >
-  ("save",
-  async function (next) {
-    if (this.isNew || this.isModified("password")) {
-      const saltRounds = 12;
-      this.password = await bcrypt.hash(this.password, saltRounds);
-    }
-    next();
-  });
+userSchema.pre<IUser>("save", async function (next) {
+  if (this.isNew || this.isModified("password")) {
+    const saltRounds = 12;
+    this.password = await bcrypt.hash(this.password, saltRounds);
+  }
+  next();
+});
 
 // Instance method to validate password
 userSchema.methods.isCorrectPassword = async function (
@@ -56,6 +53,9 @@ userSchema.methods.isCorrectPassword = async function (
 };
 
 // Create the model
-const User: Model<IUser> = mongoose.model < IUser > ("User", userSchema);
+const User: Model<IUser> = mongoose.model<IUser>("User", userSchema);
 
+// Export the model and schema
 export default User;
+export { userSchema };
+export type { IUser };
