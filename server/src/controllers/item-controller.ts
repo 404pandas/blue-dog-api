@@ -1,25 +1,25 @@
 import { Request, Response } from "express";
-import Character from "../models/Character.js";
+import Item from "../models/Item.js";
 
-// GET /characters
-export const getAllCharacters = async (_req: Request, res: Response) => {
+// GET /items
+export const getAllItems = async (_req: Request, res: Response) => {
   try {
-    const characters = await Character.find();
-    res.json(characters);
+    const items = await Item.find();
+    res.json(items);
   } catch (error: any) {
     res.status(500).json({ message: error.message });
   }
 };
 
-// GET /characters/:id
-export const getCharacterById = async (req: Request, res: Response) => {
+// GET /items/:id
+export const getItemById = async (req: Request, res: Response) => {
   const { id } = req.params;
   try {
-    const character = await Character.findById(id);
-    if (character) {
-      res.json(character);
+    const item = await Item.findById(id);
+    if (item) {
+      res.json(item);
     } else {
-      res.status(404).json({ message: "Character not found" });
+      res.status(404).json({ message: "Item not found" });
     }
   } catch (error: any) {
     res.status(500).json({ message: error.message });
