@@ -8,5 +8,30 @@
     "username": "404pandas",
     "email": "mary.panda.jackson@gmail.com",
     "password": "testtest"
+  },
+  {
+    "username": "banditheeler",
+    "email": "bandit@heelers.com",
+    "password": "blueyrocks"
+  },
+  {
+    "username": "blueyheeler",
+    "email": "bluey@heelers.com",
+    "password": "bingoandbluey"
+  },
+  {
+    "username": "bingoheeler",
+    "email": "bingo@heelers.com",
+    "password": "funandgames"
+  },
+  {
+    "username": "chloeheeler",
+    "email": "chloe@heelers.com",
+    "password": "chloeandfriends"
+  },
+  {
+    "username": "mumheeler",
+    "email": "mum@heelers.com",
+    "password": "mumanddad"
   }
 ]
