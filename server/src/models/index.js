@@ -1,9 +1,9 @@
-const User = require("./User");
-const Character = require("./Character");
-const Episode = require("./Episode");
-const Location = require("./Location");
-const Short = require("./Short");
-const Item = require("./Item");
-const Book = require("./Book");
+import User from "./User";
+import Character from "./Character";
+import Episode from "./Episode";
+import Location from "./Location";
+import Short from "./Short";
+import Item from "./Item";
+import Book from "./Book";
 
-module.exports = { User, Character, Episode, Location, Short, Item, Book };
+export default { User, Character, Episode, Location, Short, Item, Book };
