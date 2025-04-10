@@ -2,7 +2,6 @@ import { Button, Typography } from "@mui/material";
 import { Link } from "react-router-dom";
 import Header from "../components/Header";
 
-import React from "react";
 import ArrowBackIcon from "@mui/icons-material/ArrowBack";
 export default function NotFound() {
   return (

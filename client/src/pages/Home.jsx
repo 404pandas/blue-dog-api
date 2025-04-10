@@ -1,4 +1,3 @@
-import React from "react";
 import Header from "../components/Header";
 import GifCarousel from "../components/GifCarousel";
 

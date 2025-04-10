@@ -1,4 +1,3 @@
-import React from "react";
 import Shorts from "../components/Shorts";
 import Header from "../components/Header";
 

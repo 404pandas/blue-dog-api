@@ -1,4 +1,3 @@
-import React from "react";
 import { Typography } from "@mui/material";
 import Container from "@mui/material/Container";
 
@@ -7,7 +6,7 @@ import { CURRENT_USER } from "../queries/userQueries";
 
 import Header from "../components/Header";
 
-function Account() {
+const Account = () => {
   const { data } = useQuery(CURRENT_USER);
   const userData = data?.me || {};
 
@@ -25,6 +24,6 @@ function Account() {
       </Container>
     </>
   );
-}
+};
 
 export default Account;

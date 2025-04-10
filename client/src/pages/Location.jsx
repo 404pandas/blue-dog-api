@@ -1,4 +1,3 @@
-import React from "react";
 import Locations from "../components/Locations";
 import Header from "../components/Header";
 

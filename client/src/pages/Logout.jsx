@@ -1,4 +1,3 @@
-import React from "react";
 import AuthService from "../utils/auth";
 import { Typography } from "@mui/material";
 

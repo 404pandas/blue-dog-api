@@ -1,4 +1,3 @@
-import React from "react";
 import { CURRENT_USER } from "../queries/userQueries";
 import { useQuery } from "@apollo/client";
 import Header from "../components/Header";

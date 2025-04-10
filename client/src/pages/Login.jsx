@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { Link } from "react-router-dom";
 
 import { useMutation } from "@apollo/client";
@@ -18,7 +18,7 @@ import LockOutlinedIcon from "@mui/icons-material/LockOutlined";
 import Grid from "@mui/material/Grid";
 import TextField from "@mui/material/TextField";
 
-const Login = (props) => {
+const Login = () => {
   const [formState, setFormState] = useState({
     email: "",
     password: "",
