@@ -131,14 +131,14 @@ const resolvers: IResolvers = {
       return { token, user };
     },
 
-    // NEED TO TEST
+    // Tested and working 6:33PM 4/10
     addUser: async (_parent, args: AddUserArgs) => {
       const user = await User.create(args);
       const token = signToken(user.email, user._id);
       return { token, user };
     },
 
-    // NEED TO TEST
+    // Tested and working 6:32PM 4/10
     editUser: async (_parent, args: EditUserArgs, context: Context) => {
       if (!context.user) {
         throw new AuthenticationError("You need to be logged in!");
@@ -160,7 +160,7 @@ const resolvers: IResolvers = {
       );
     },
 
-    // NEED TO TEST
+    // Tested and working 6:38PM 4/10
     deleteUser: async (_parent, _args, context: Context) => {
       if (!context.user) {
         throw new AuthenticationError("You need to be logged in!");
