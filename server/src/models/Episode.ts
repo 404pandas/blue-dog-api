@@ -13,19 +13,15 @@ const episodeSchema: Schema<IEpisode> = new Schema(
   {
     episodeName: {
       type: String,
-      required: [true, "Please add a Episode Name."],
     },
     description: {
       type: String,
-      required: [true, "Please add a description."],
     },
     season: {
       type: Number,
-      required: [true, "Please add a season."],
     },
     episode: {
       type: Number,
-      required: [true, "Please add an episode."],
     },
   },
   {
@@ -42,3 +38,5 @@ const Episode: Model<IEpisode> = mongoose.model<IEpisode>(
 );
 
 export default Episode;
+export { episodeSchema };
+export type { IEpisode };

@@ -6,10 +6,10 @@ import {
 
 const router = express.Router();
 
-// GET /tickets - Get all tickets
+// GET /characters - Get all characters
 router.get("/", getAllCharacters);
 
-// GET /tickets/:id - Get a ticket by id
+// GET /characters/:id - Get a character by id
 router.get("/:id", getCharacterById);
 
 export { router as characterRouter };

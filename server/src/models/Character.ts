@@ -2,19 +2,10 @@ import { Schema, model, type Document } from "mongoose";
 
 interface ICharacter extends Document {
   characterName: string;
-  description1: string;
-  description2?: string;
-  catchphrase: string;
-  appearance: string;
-  personality: {
-    traits: string[];
-    likes: string[];
-    dislikes: string[];
-  };
-  nicknames: string[];
+  species: string;
   breed: string;
   gender: string;
-  age: number;
+  age: string;
   family: {
     father: string;
     mother: string;
@@ -28,7 +19,7 @@ interface ICharacter extends Document {
     };
     children: string[];
   };
-  appearanceDetails: {
+  appearance: {
     fur: string[];
     eyes: string;
     nose: string;
@@ -54,8 +45,15 @@ interface ICharacter extends Document {
     furColor: string[];
     distinctiveFeatures: string[];
   };
+  personality: {
+    traits: string[];
+    likes: string[];
+    dislikes: string[];
+  };
+  catchphrase: string;
   hobbies: string[];
   friends: string[];
+  nicknames: string[];
   firstAppearance: string;
   notableEpisodes: string[];
   funFacts: {
@@ -82,7 +80,7 @@ interface ICharacter extends Document {
       main: string[];
       shorts: string[];
     };
-    limitedInformation: string;
+    limited_information: string;
   };
 }
 
@@ -90,25 +88,8 @@ const characterSchema = new Schema<ICharacter>(
   {
     characterName: {
       type: String,
-      required: [
-        true,
-        "Please add a Character Name. If you need assistance, ask a parent!",
-      ],
-    },
-    description1: {
-      type: String,
-      required: [
-        true,
-        "Please add a description. If you need assistance, ask a parent!",
-      ],
-    },
-    description2: {
-      type: String,
     },
     catchphrase: {
-      type: String,
-    },
-    appearance: {
       type: String,
     },
     personality: {
@@ -126,7 +107,7 @@ const characterSchema = new Schema<ICharacter>(
       type: String,
     },
     age: {
-      type: Number,
+      type: String,
     },
     family: {
       father: {
@@ -159,7 +140,7 @@ const characterSchema = new Schema<ICharacter>(
         type: [String],
       },
     },
-    appearanceDetails: {
+    appearance: {
       fur: {
         type: [String],
       },
@@ -306,3 +287,5 @@ const characterSchema = new Schema<ICharacter>(
 const Character = model<ICharacter>("Character", characterSchema);
 
 export default Character;
+export { characterSchema };
+export type { ICharacter };

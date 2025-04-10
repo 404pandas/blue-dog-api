@@ -18,7 +18,6 @@ const bookSchema: Schema<IBook> = new Schema(
   {
     bookName: {
       type: String,
-      required: [true, "Please add a Book Name."],
     },
     img: String,
     characters: String,
@@ -40,3 +39,5 @@ const bookSchema: Schema<IBook> = new Schema(
 const Book: Model<IBook> = mongoose.model<IBook>("Book", bookSchema);
 
 export default Book;
+export { bookSchema };
+export type { IBook };

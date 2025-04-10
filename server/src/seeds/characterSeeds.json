@@ -1,6 +1,6 @@
 [
   {
-    "name": "Bluey Christine Heeler",
+    "characterName": "Bluey Christine Heeler",
     "species": "Dog",
     "breed": "Blue Heeler (Australian Cattle Dog)",
     "gender": "Female",
@@ -140,7 +140,7 @@
     }
   },
   {
-    "name": "Bingo Heeler",
+    "characterName": "Bingo Heeler",
     "species": "Dog",
     "breed": "Red Heeler (Australian Cattle Dog)",
     "gender": "Female",
@@ -255,7 +255,7 @@
     }
   },
   {
-    "name": "Bandit Custard Heeler",
+    "characterName": "Bandit Custard Heeler",
     "species": "Dog",
     "breed": "Blue Heeler (Australian Cattle Dog)",
     "gender": "Male",
@@ -268,7 +268,10 @@
       "siblings": ["Radley Heeler", "Stripe Heeler"],
       "nieces": ["Muffin Heeler", "Socks Heeler"],
       "in-laws": ["Trixie Heeler", "Frisky Heeler", "Brandy Cattle"],
-      "grandparents": ["Mort Cattle", "Chilli's Mum (deceased)"]
+      "grandparents": {
+        "maternal": ["Unknown"],
+        "paternal": ["Unknown"]
+      }
     },
     "appearance": {
       "fur": ["blueish grey", "dark blue"],
@@ -295,7 +298,10 @@
       ],
       "dislikes": ["Being reluctant to partake in games"]
     },
-    "catchphrases": ["Oh, no, not (name of the game)!", "Oh, biscuits!"],
+    "catchphrases": [
+      "Oh, no, not (characterName of the game)!",
+      "Oh, biscuits!"
+    ],
     "hobbies": [
       "Playing with daughters",
       "Watching cricket",
@@ -306,22 +312,22 @@
     "firstAppearance": "Magic Xylophone",
     "notableEpisodes": ["Baby Race", "The Sign", "Fairytale"],
     "funFacts": {
-      "middle_name_origin": "Derived from the band 'Custard', which his voice actor David McCormack is a part of",
+      "middle_characterName_origin": "Derived from the band 'Custard', which his voice actor David McCormack is a part of",
       "occupation_influence": "Based on creator Joe Brumm's brother, Adam, an archaeologist involved in the discovery of Homo floresiensis",
       "voice_recording": "David McCormack records his lines remotely in Sydney without hearing other actors or viewing footage",
       "parenting_style": "Praised as a positive father figure, balancing work and family life while engaging in imaginative play with his children"
     }
   },
   {
-    "name": "Bella",
+    "characterName": "Bella",
     "aliases": ["Coco's Mum"],
     "species": "Dog",
     "breed": "Poodle",
     "gender": "Female",
     "occupation": "Mother",
     "family": {
-      "spouse": "Unnamed husband",
-      "children": ["Coco", "Eight other unnamed children"]
+      "spouse": "UncharacterNamed husband",
+      "children": ["Coco", "Eight other uncharacterNamed children"]
     },
     "appearance": {
       "fur": ["pink", "dark pink"],
@@ -356,7 +362,7 @@
     }
   },
   {
-    "name": "Bentley",
+    "characterName": "Bentley",
     "species": "Dog",
     "breed": "Cavalier King Charles Spaniel",
     "gender": "Female",
@@ -379,12 +385,12 @@
     "firstAppearance": "Bike",
     "notableEpisodes": ["Bike", "Fairies", "The Adventure", "Mums and Dads"],
     "funFacts": {
-      "twinSister": "Bentley has a twin sister named Zara.",
+      "twinSister": "Bentley has a twin sister characterNamed Zara.",
       "kindyClass": "Bentley is part of Mrs. Retriever’s kindy class."
     }
   },
   {
-    "name": "Bentley's Mum",
+    "characterName": "Bentley's Mum",
     "species": "Dog",
     "breed": "Cavalier King Charles Spaniel",
     "gender": "Female",
@@ -405,7 +411,7 @@
     }
   },
   {
-    "name": "Biscuits & Buttermilk",
+    "characterName": "Biscuits & Buttermilk",
     "species": "Pony",
     "description": "Biscuits and Buttermilk are ponies featured in the series. Buttermilk is notably seen in the episode 'Markets', where Indy expresses admiration for her.",
     "appearance": {
@@ -423,7 +429,7 @@
     }
   },
   {
-    "name": "Bob Heeler",
+    "characterName": "Bob Heeler",
     "description": [
       "Bob has no known real friends yet, but he is the husband of Chris (Nana), the dad of Bandit, Stripe, and Rad, the father-in-law of Chilli and Trixie, and the grandpa of Bluey, Bingo, Muffin and Socks.",
       "Bob is a secondary character who first appeared in Grannies."
@@ -477,8 +483,8 @@
       "absenceDetails": "He has the longest absence of any character, with a gap of 101 episodes between his physical appearances in Grannies and Fairytale. Even his appearance in Fairytale was a flashback.",
       "speculations": "Since the episode called Christmas Swim, many fans have speculated him to be dead, divorced, or possibly passed away due to dementia.",
       "interviewConfirmation": "In a 2021 interview, Joe Brumm confirmed that Bob is alive and would make an appearance in season 3.",
-      "nicknameUse": "His nickname Bobba is used by Nana in 'Grannies' and the Grannies book.",
-      "youngerAppearance": "A younger version of him can be seen in Fairytale, where he doesn't remember his sons' names."
+      "nickcharacterNameUse": "His nickcharacterName Bobba is used by Nana in 'Grannies' and the Grannies book.",
+      "youngerAppearance": "A younger version of him can be seen in Fairytale, where he doesn't remember his sons' characterNames."
     },
     "absences": "Absent for the longest time in the series; 101 episodes between physical appearances.",
     "animated": "Yes",
@@ -492,7 +498,7 @@
     ]
   },
   {
-    "name": "Chilli Heeler",
+    "characterName": "Chilli Heeler",
     "description": [
       "After having the kids, Chilli’s recently gone back to her job working at Airport Security and juggles this with raising her two little pups. Mum often has a wry comment about the kids' antics or a kind word for an overwrought child, but she’s equally at home throwing herself into a game and always able to see the funny side.",
       "Chilli is a member of the Heeler family. She's the wife of Bandit, the mother of Bluey and Bingo, the aunt of Muffin and Socks, the daughter-in-law of Bob and Nana, and the sister-in-law of Trixie, Rad, and Stripe. Her father is Mort, and her older sister is Brandy. Chilli works part-time in airport security. As a child, Chilli spent a lot of time playing in the scrub near her father’s home. Her family would vacation at a caravan park where Bandit would recall meeting her as children. Chilli doesn't remember this but admits it could be true. She recalls their first meeting being a party in London. Chilli would later remember Bandit having a finger up his nose when they first met. The two began dating, and Bandit eventually proposed to Chilli while they backpacked in Italy. They later married, and guests included Frisky, who would later become Bluey’s godmother, and Bandit's brother Rad. The wedding venue included a pool, which Rad probably fell into. Sometime after the wedding, Chilli became pregnant and gave birth to Bluey. Bingo, their youngest daughter, was born a couple of years later. Chilli currently lives with Bandit and their daughters in the suburbs."
@@ -550,7 +556,7 @@
       "absences": "Chilli has the most episode absences out of the immediate Heeler family.",
       "youngerVersions": "Younger versions of Chilli can be seen in Grandad and Baby Race.",
       "firstMeetingStory": "If Bandit's story is true, a kid version of Chilli can also be seen in Fairytale, where she was a fan of She-Ra.",
-      "nameOrigin": "Chilli is named after the spicy vegetable, the Chilli Pepper, like Coco, Honey, and Snickers are named after food.",
+      "characterNameOrigin": "Chilli is characterNamed after the spicy vegetable, the Chilli Pepper, like Coco, Honey, and Snickers are characterNamed after food.",
       "angryFace": "In episodes like Sticky Gecko, Chilli displays a 'very angry face' when irritated.",
       "cutScene": "In Sticky Gecko, Chilli says a swear word that was cut from US releases.",
       "funFact": "Chilli hums the show's theme song across multiple episodes."
@@ -596,7 +602,7 @@
     "references": ""
   },
   {
-    "name": "Muffin",
+    "characterName": "Muffin",
     "description": [
       "Muffin is Bluey's mischievous and unpredictable younger cousin. She is energetic and tends to act impulsively, often leading to chaotic situations.",
       "Muffin first appeared in the episode 'Muffin's Birthday.'"
@@ -652,7 +658,7 @@
     "references": "Episode 'Muffin's Birthday'"
   },
   {
-    "name": "Jack",
+    "characterName": "Jack",
     "description": [
       "Jack is Chilli’s brother and Bluey and Bingo’s uncle. He is an easygoing, fun-loving character who enjoys spending time with his nieces and nephews. He has a love for the outdoors and is often seen engaging in outdoor activities with the family.",
       "Jack first appeared in the episode 'The Creek.'"
@@ -700,7 +706,7 @@
     "references": "Episode 'The Creek'"
   },
   {
-    "name": "Rusty",
+    "characterName": "Rusty",
     "description": [
       "Rusty is a young, energetic pup who is Bluey and Bingo’s best friend. He is known for being a little more mature for his age, as well as having a bit of a bossy side. He’s very competitive and likes to be involved in any game Bluey and Bingo play.",
       "Rusty first appeared in the episode 'The Adventure.'"
@@ -744,7 +750,7 @@
     "references": "Episode 'The Adventure'"
   },
   {
-    "name": "Lucky",
+    "characterName": "Lucky",
     "description": [
       "Lucky is one of Bluey's friends. He’s a lovable, somewhat mischievous dog who often joins in on Bluey’s adventures. He has a calm and friendly demeanor but can sometimes be found in amusing situations.",
       "Lucky first appeared in the episode 'Lucky's Toy.'"
@@ -781,7 +787,7 @@
     "references": "Episode 'Lucky's Toy'"
   },
   {
-    "name": "Mackenzie Border Collie",
+    "characterName": "Mackenzie Border Collie",
     "description": ["Quick, sociable and from New Zealand.", ""],
     "catchphrase": "",
     "appearance": {
@@ -829,12 +835,12 @@
     "trivia": {
       "inspiration": "Mackenzie's appearance was inspired by Dog from the New Zealand comic Footrot Flats.",
       "uniqueFact": "Mackenzie is one of the very few kids in the show with a known voice actor, along with Chloe, Judo, and Snickers.",
-      "genderConfusion": "Fans initially thought Mackenzie was a girl due to the name Mackenzie being more common for girls, leading to some international dubs portraying Mackenzie as female, which was corrected later.",
+      "genderConfusion": "Fans initially thought Mackenzie was a girl due to the characterName Mackenzie being more common for girls, leading to some international dubs portraying Mackenzie as female, which was corrected later.",
       "dubDifferences": "In the Latin American dub, Mackenzie was initially portrayed as female, but this was fixed in subsequent episodes.",
-      "nameChange": "In the Polish dub, Mackenzie is called 'Kołnierzyk,' which means Collar.",
-      "familyName": "Mackenzie's family name was revealed as the Border Collies in 'Curry Quest'.",
+      "characterNameChange": "In the Polish dub, Mackenzie is called 'Kołnierzyk,' which means Collar.",
+      "familyName": "Mackenzie's family characterName was revealed as the Border Collies in 'Curry Quest'.",
       "abandonmentIssue": "In 'Space', it's revealed Mackenzie had an abandonment issue stemming from being separated from his mother as a young pup, but he finds closure by the end of the episode.",
-      "culturalReference": "In the Polish dub, Mackenzie's name is changed to Kołnierzyk, which means Collar."
+      "culturalReference": "In the Polish dub, Mackenzie's characterName is changed to Kołnierzyk, which means Collar."
     },
     "absences": "",
     "gallery": "",
@@ -842,7 +848,7 @@
     "references": ""
   },
   {
-    "name": "Indy",
+    "characterName": "Indy",
     "description": [
       "Super open and imaginative.",
       "Indy is friends with most of the students in Calypso’s school. She has a Mum and a sister, but no known dad as of yet."
@@ -870,7 +876,7 @@
       "behavior": "Indy is a friendly and imaginative character who connects well with her peers, often showing an open and creative personality."
     },
     "nicknames": "",
-    "relatives": ["Indy's Mum", "Unnamed sister (Early Baby)"],
+    "relatives": ["Indy's Mum", "UncharacterNamed sister (Early Baby)"],
     "friends": [
       "Bluey",
       "Bingo",
@@ -889,7 +895,7 @@
       "dietaryRestrictions": "Indy is not allowed to eat wheat/gluten, sugar, salt, dairy, or food with added ingredients (like prepackaged tomato sauce, barbecue sauce, and mustard) due to her allergies, religion, tradition, or her family’s basic diet.",
       "hairChanges": "She is seen with longer hair in some episodes, but the studio shortened it for easier animation. When she had longer hair, she wore green, blue, yellow, and pink hair rings.",
       "siblingInfo": "In the 'Early Baby' episode, it is revealed that Indy has a sister who either had a premature baby or was a preemie herself, though this hasn’t been fully explained yet. It’s assumed Indy’s sister had the early baby, as Bluey mentions wanting to play 'Early Baby' like her sister.",
-      "nameOrigin": "Her name, Indy, is a diminutive of Indianapolis."
+      "characterNameOrigin": "Her characterName, Indy, is a diminutive of Indianapolis."
     },
     "absences": "",
     "gallery": "",
@@ -897,7 +903,7 @@
     "references": ""
   },
   {
-    "name": "Honey",
+    "characterName": "Honey",
     "description": [
       "Assertive, thoughtful, and mindful.",
       "Honey is friends with many of the children in Calypso’s school. She has a Dad called Marcus and a Mum called Daisy."
@@ -939,7 +945,7 @@
     "trivia": {
       "parentTraits": "Honey’s parents, Daisy and Marcus, both wear glasses like her.",
       "uniqueTail": "Unlike most dogs, Honey’s tail can wag her body rather than the other way around.",
-      "nameOrigin": "Her name is a reference to the sweet food substance, Honey."
+      "characterNameOrigin": "Her characterName is a reference to the sweet food substance, Honey."
     },
     "absences": "",
     "gallery": "",
@@ -947,7 +953,7 @@
     "references": ""
   },
   {
-    "name": "Coco",
+    "characterName": "Coco",
     "description": [
       "Enthusiastic, impatient.",
       "Coco is friends with most of the students in Calypso’s School. She has a mum, a dad, and eight older siblings."
@@ -971,9 +977,9 @@
     "nicknames": "",
     "relatives": [
       "Bella (Mother)",
-      "Unnamed Father",
-      "3 Unnamed Older Brothers",
-      "5 Unnamed Older Sisters"
+      "UncharacterNamed Father",
+      "3 UncharacterNamed Older Brothers",
+      "5 UncharacterNamed Older Sisters"
     ],
     "friends": [
       "Bluey",
@@ -994,7 +1000,7 @@
       "visibleEyelashes": "Coco is the only kid and one of five characters to have visible eyelashes, alongside Calypso, Mrs. Retriever, Wendy, and Cherry.",
       "siblings": "In 'Baby Race,' it is revealed that she has eight older siblings.",
       "crush": "She appears to have a crush on Mackenzie, as seen in 'Circus.'",
-      "BrazilianVersion": "In the Brazilian version, her name is Cacau, meaning Cocoa."
+      "BrazilianVersion": "In the Brazilian version, her characterName is Cacau, meaning Cocoa."
     },
     "absences": "",
     "gallery": "",
@@ -1002,7 +1008,7 @@
     "references": ""
   },
   {
-    "name": "Customer",
+    "characterName": "Customer",
     "description": [
       "Customer is a secondary character who appeared in 'Kids'.",
       "Customer is friends with Bandit, but has no relatives as of yet."
@@ -1037,7 +1043,7 @@
     "references": ""
   },
   {
-    "name": "Customer 2",
+    "characterName": "Customer 2",
     "description": [
       "Customer 2 is a secondary character that has appeared in multiple episodes of Bluey.",
       "Customer 2 sells fruit and veggies at the market and has no known friends or relatives as of yet."
@@ -1069,7 +1075,7 @@
     "references": ""
   },
   {
-    "name": "Snickers",
+    "characterName": "Snickers",
     "description": [
       "Not the most physical kid but loves machines, atoms and the stars.",
       "Snickers is a friend of Bluey and enjoys building things with his hands. He's not as active in games, preferring to focus on the more intellectual side of play, such as understanding how things work."
@@ -1100,7 +1106,7 @@
     "references": ""
   },
   {
-    "name": "Chloe",
+    "characterName": "Chloe",
     "description": [
       "Bluey’s Best Friend. Super kind, gentle and smart.",
       "Chloe is Bluey’s best friend but is also friends with most of the students in Calypso‘s school. She is seven years old, and has a Dad, Mum and Baby Brother."
@@ -1125,13 +1131,13 @@
     },
     "personality": "Chloe is energetic and loves playing with Bluey and her friends at Calypso's School.",
     "nicknames": "",
-    "relatives": "Frank (father), Chloe’s Mum, Unnamed baby brother",
+    "relatives": "Frank (father), Chloe’s Mum, UncharacterNamed baby brother",
     "friends": "Bluey (best friend), Bingo, Mackenzie, Indy, Honey, Rusty, Coco, Gruber",
     "firstAppearance": "Bike",
     "trivia": {
       "birthday": "Her age was revealed to be 7 at the start of Featherwand.",
       "houseNumber": "Her house number 101 references the 1956 book 'The Hundred and One Dalmatians' and the 1961 animated film adaptation.",
-      "otherInfo": "She is the first character who had a birthday and aged up in the series. Her favourite TV show is the same as Bluey's, Chunky Chimp. In Polish, her name is Łatka, meaning Spot."
+      "otherInfo": "She is the first character who had a birthday and aged up in the series. Her favourite TV show is the same as Bluey's, Chunky Chimp. In Polish, her characterName is Łatka, meaning Spot."
     },
     "absences": "",
     "gallery": "",
@@ -1139,9 +1145,9 @@
     "references": ""
   },
   {
-    "name": "Chloe's Mum",
+    "characterName": "Chloe's Mum",
     "description": [
-      "Chloe’s Mum is friends with Bluey, Honey and Mackenzie’s parents. She has a daughter named Chloe, a husband, and a baby son."
+      "Chloe’s Mum is friends with Bluey, Honey and Mackenzie’s parents. She has a daughter characterNamed Chloe, a husband, and a baby son."
     ],
     "catchphrase": "",
     "appearance": {
@@ -1163,7 +1169,7 @@
     },
     "personality": "",
     "nicknames": "",
-    "relatives": "Frank (husband), Chloe (daughter), Unnamed son",
+    "relatives": "Frank (husband), Chloe (daughter), UncharacterNamed son",
     "friends": "Bandit, Chilli, Mackenzie’s Dad, Mackenzie’s Mum, Marcus, Daisy",
     "firstAppearance": "The Magic Xylophone",
     "trivia": {
@@ -1176,10 +1182,10 @@
     "references": ""
   },
   {
-    "name": "Frank",
+    "characterName": "Frank",
     "description": [
       "Frank is a secondary character that has appeared in multiple episodes of Bluey.",
-      "Frank is friends with Bluey, Mackenzie, and Honey‘s parents. He has a wife, a baby son, and a daughter named Chloe."
+      "Frank is friends with Bluey, Mackenzie, and Honey‘s parents. He has a wife, a baby son, and a daughter characterNamed Chloe."
     ],
     "catchphrase": "",
     "appearance": {
@@ -1202,7 +1208,7 @@
     },
     "personality": "",
     "nicknames": "",
-    "relatives": "Chloe (daughter), Chloe’s Mum (wife), Unnamed son",
+    "relatives": "Chloe (daughter), Chloe’s Mum (wife), UncharacterNamed son",
     "friends": "Chilli, Bandit, Mackenzie’s Dad, Mackenzie’s Mum, Marcus, Daisy",
     "firstAppearance": "Spy Game",
     "trivia": {
@@ -1214,7 +1220,7 @@
     "references": ""
   },
   {
-    "name": "Judo",
+    "characterName": "Judo",
     "description": [
       "Bluey’s other neighbour.",
       "Judo is a young and energetic girl who is always full of enthusiasm. She is a good friend of Bluey and often plays with her in the neighborhood."
@@ -1243,7 +1249,7 @@
     "references": ""
   },
   {
-    "name": "Jean Luc",
+    "characterName": "Jean Luc",
     "description": [
       "Bluey’s French Canadian camping buddy.",
       "Jean-Luc is a secondary character that appeared in Camping."
@@ -1265,7 +1271,7 @@
       "language": "Jean-Luc and his parents speak French. He is French-Canadian in reference to the Labrador breed and its ties to Newfoundland and Labrador in Canada.",
       "appearance": "Jean-Luc is similar in appearance to Lucky, but isn’t slimmer towards his waist and has different coloured fur.",
       "future": "His future self speaks English as seen at the end of Camping.",
-      "other": "In the French dub, Jean Luc is renamed Johnny and speaks English."
+      "other": "In the French dub, Jean Luc is recharacterNamed Johnny and speaks English."
     },
     "absences": "",
     "gallery": "",
@@ -1273,7 +1279,7 @@
     "references": ""
   },
   {
-    "name": "The Terriers",
+    "characterName": "The Terriers",
     "description": [
       "Unstoppable forces of nature. They’re little terriers.",
       "The Terriers are a group of small, energetic dogs that are full of mischief and energy. They are always causing chaos and running around in the neighborhood."
@@ -1298,7 +1304,7 @@
     "references": ""
   },
   {
-    "name": "Socks",
+    "characterName": "Socks",
     "description": [
       "Muffin’s baby sister is just starting to talk.",
       "Socks is a small and cute pup who is still learning to talk and interact with her surroundings. She often mimics what she hears and is still figuring out how to express herself."
@@ -1313,7 +1319,7 @@
     },
     "personality": "Socks is curious, playful, and loves to follow her older sister Muffin around. She's just starting to learn new things and has a lot of energy.",
     "nicknames": "",
-    "relatives": "Muffin (sister), Unnamed Parents",
+    "relatives": "Muffin (sister), UncharacterNamed Parents",
     "friends": "Muffin, Bluey, Bingo",
     "firstAppearance": "Muffin's Baby Sister",
     "trivia": "Socks is just learning how to talk and walk, and often mimics sounds and words she hears from her family members.",
@@ -1323,7 +1329,7 @@
     "references": ""
   },
   {
-    "name": "Missy",
+    "characterName": "Missy",
     "description": [
       "Super brave when she’s ready.",
       "Missy is a secondary character that has appeared in multiple episodes of Bluey."
@@ -1345,7 +1351,7 @@
     },
     "personality": "Missy is normally quite shy but can be super brave when she feels ready. She is very friendly, especially when she's with her close friends.",
     "nicknames": "Missy Moo",
-    "relatives": "Unnamed mother",
+    "relatives": "UncharacterNamed mother",
     "friends": "Bluey, Bingo",
     "firstAppearance": "Bob Bilby",
     "trivia": "She is usually shy but can be super brave when she's ready. Her birthday is the 18th of an unknown month. In 'Pass the Parcel', it reveals she has a mother, but she has no known dad yet.",
@@ -1355,7 +1361,7 @@
     "references": ""
   },
   {
-    "name": "Buddy",
+    "characterName": "Buddy",
     "description": [
       "Patient for days.",
       "Buddy is a secondary character that has appeared in multiple episodes of Bluey."
@@ -1375,7 +1381,7 @@
     },
     "personality": "Buddy is a laid-back character who is known for being patient, often seen calmly waiting for things to happen.",
     "nicknames": "Buddy the Patient",
-    "relatives": "Unnamed mother",
+    "relatives": "UncharacterNamed mother",
     "friends": "Bingo, Media",
     "firstAppearance": "Bob Bilby",
     "trivia": "He is usually seen panting and picking his nose. He is 5 years old, and his birthday is on November 12th, as confirmed in 'Pass the Parcel'.",
@@ -1385,7 +1391,7 @@
     "references": ""
   },
   {
-    "name": "Buddy's Mum",
+    "characterName": "Buddy's Mum",
     "description": [
       "Buddy's caring mother.",
       "Buddy's mum is friends with the parents of Buddy's friends. Aside from her son, she has no known family members."
@@ -1414,7 +1420,7 @@
     "references": ""
   },
   {
-    "name": "Bull Terriers",
+    "characterName": "Bull Terriers",
     "description": [
       "Muffin’s baby sister is just starting to talk.",
       "Both of the Bull Terriers seem to enjoy being sociable. With most of their cameos being with family members."
@@ -1443,7 +1449,7 @@
     "references": ""
   },
   {
-    "name": "Bus Stop Dog",
+    "characterName": "Bus Stop Dog",
     "description": [
       "The Bus Stop Dog is a character who is always sitting on the bench at the bus stop.",
       "She has white fur and blue glasses. She speaks once when confronted by Bandit, saying she doesn’t need to worry about the Sun since it’s meant to be there."
@@ -1468,7 +1474,7 @@
     "references": ""
   },
   {
-    "name": "Calypso",
+    "characterName": "Calypso",
     "description": [
       "Calypso is the teacher at Bluey's school, Glasshouse Primary School. She has no known relatives but is friends with many of her students.",
       "Bluey's teacher for Prep. An Aussie Shepherd."
@@ -1494,14 +1500,14 @@
     "relatives": "",
     "friends": "",
     "firstAppearance": "Calypso",
-    "trivia": "Sister Rain has left, and Father Sun is home. Brother Wind comes blowing in to welcome home the gnome. ― Calypso's song. She is voiced by musician and songwriter Megan Alexanda Washington. She works in a Steiner school, Glasshouse Primary, which is based on one in The Samford Valley, near Brisbane. This is the second character to be voiced by a musician, the first being Bandit. Based on her appearance and voice, she appears to be an older character, possibly middle-aged. Her name is based off the genre of Caribbean music of the same name, which features syncopated African rhythms and, typically, words improvised on a topical theme. She is skilled at knitting, as shown off mainly in Barky Boats and Typewriter. There is an episode named after her. Her hair in Calypso is off to the right but it is switched to the left for the rest of Season 1. In Polish dub her name is Pani Matylda (Mrs. Matilda). In the Persian dub, Calypso, alongside Pony Lady, is voiced by a man.",
+    "trivia": "Sister Rain has left, and Father Sun is home. Brother Wind comes blowing in to welcome home the gnome. ― Calypso's song. She is voiced by musician and songwriter Megan Alexanda Washington. She works in a Steiner school, Glasshouse Primary, which is based on one in The Samford Valley, near Brisbane. This is the second character to be voiced by a musician, the first being Bandit. Based on her appearance and voice, she appears to be an older character, possibly middle-aged. Her characterName is based off the genre of Caribbean music of the same characterName, which features syncopated African rhythms and, typically, words improvised on a topical theme. She is skilled at knitting, as shown off mainly in Barky Boats and Typewriter. There is an episode characterNamed after her. Her hair in Calypso is off to the right but it is switched to the left for the rest of Season 1. In Polish dub her characterName is Pani Matylda (Mrs. Matilda). In the Persian dub, Calypso, alongside Pony Lady, is voiced by a man.",
     "absences": "",
     "gallery": "",
     "animated": "",
     "references": ""
   },
   {
-    "name": "Winton",
+    "characterName": "Winton",
     "description": [
       "A very obedient breed.",
       "Winton is a secondary character who appears in a few episodes of Bluey."
@@ -1516,7 +1522,7 @@
     },
     "personality": "Winton is known for being very obedient and eager to please. He loves to help others and is always ready to follow instructions.",
     "nicknames": "",
-    "relatives": "Unnamed parents",
+    "relatives": "UncharacterNamed parents",
     "friends": "Bluey, Bingo",
     "firstAppearance": "Sleepytime",
     "trivia": "Winton is often seen assisting others and being a helpful companion. His obedient nature makes him a fun character for the children to interact with.",
@@ -1526,7 +1532,7 @@
     "references": ""
   },
   {
-    "name": "Uncle Stripe",
+    "characterName": "Uncle Stripe",
     "description": [
       "Dad’s younger brother & Bluey & Bingo’s uncle.",
       "Uncle Stripe is a playful and fun-loving character, known for his relationship with his nieces, Bluey and Bingo."
@@ -1551,7 +1557,7 @@
     "references": ""
   },
   {
-    "name": "Aunt Trixie",
+    "characterName": "Aunt Trixie",
     "description": [
       "Bluey & Bingo’s aunt and Chilli’s hockey teammate.",
       "Aunt Trixie is a fun, sporty, and loving character who enjoys spending time with Bluey and Bingo."
@@ -1576,7 +1582,7 @@
     "references": ""
   },
   {
-    "name": "Bently",
+    "characterName": "Bently",
     "description": [
       "Small, inventive, and determined.",
       "Bently is a secondary character who enjoys creating new things and solving problems."
@@ -1591,7 +1597,7 @@
     },
     "personality": "Bently is inventive and always curious. He loves to come up with solutions to problems and is very determined to see things through.",
     "nicknames": "",
-    "relatives": "Unnamed parents",
+    "relatives": "UncharacterNamed parents",
     "friends": "Bluey, Bingo",
     "firstAppearance": "The Inventor",
     "trivia": "Bently is known for his inventive nature, often coming up with clever ideas for the kids to play with.",
@@ -1601,7 +1607,7 @@
     "references": ""
   },
   {
-    "name": "Nana",
+    "characterName": "Nana",
     "description": [
       "Bandit’s Mum and Bluey & Bingo’s Nana. Retired to the Gold Coast.",
       "Nana is a caring and loving grandmother, who enjoys spending time with her grandchildren, Bluey and Bingo."
@@ -1626,7 +1632,7 @@
     "references": ""
   },
   {
-    "name": "Bob Heeler",
+    "characterName": "Bob Heeler",
     "description": [
       "Bluey & Bingo’s Grandad.",
       "Bob has no known real friends yet, but he is the husband of Chris (Nana), the dad of Bandit, Stripe, and Rad, the father-in-law of Chilli and Trixie, and the grandpa of Bluey, Bingo, Muffin and Socks."
@@ -1657,7 +1663,7 @@
     "references": ""
   },
   {
-    "name": "Bosco",
+    "characterName": "Bosco",
     "description": [
       "Bosco is a character mentioned in Bluey. So far, he has never made an appearance; only mentioned. Frisky was his wife or girlfriend, later he broke up with her before the events of Double Babysitter.",
       "Bosco's breakup with Frisky is unexplained, and it is implied that Bosco might have been the one who broke up with her or cheated on her."
@@ -1682,7 +1688,7 @@
     "references": ""
   },
   {
-    "name": "Brandy Cattle",
+    "characterName": "Brandy Cattle",
     "description": [
       "Brandy Cattle (also known as Aunty Brandy by Bluey and Bingo) is the older sister of Chilli, the sister-in-law of Bandit, and the maternal aunt of Bluey and Bingo.",
       "Brandy distanced herself from Chilli due to grief about her fertility issues, but the two eventually reconciled after years of not speaking."
@@ -1711,9 +1717,9 @@
     "references": ""
   },
   {
-    "name": "Busker",
+    "characterName": "Busker",
     "description": [
-      "Busker is a musician who plays different instruments at various venues. He has no known name and is referred to simply as Busker."
+      "Busker is a musician who plays different instruments at various venues. He has no known characterName and is referred to simply as Busker."
     ],
     "catchphrase": "",
     "appearance": {
@@ -1735,7 +1741,7 @@
     "references": ""
   },
   {
-    "name": "Captain",
+    "characterName": "Captain",
     "description": [
       "Captain is an 11 to 12-year-old American Foxhound and is Mackenzie's school buddy."
     ],
@@ -1762,7 +1768,7 @@
     "references": ""
   },
   {
-    "name": "Checkout Dog",
+    "characterName": "Checkout Dog",
     "description": [
       "Checkout Dog is a minor character in the Bluey series who works as a cashier at a store."
     ],
@@ -1786,7 +1792,7 @@
     "references": ""
   },
   {
-    "name": "Jelly",
+    "characterName": "Jelly",
     "species": "Dog",
     "breed": "Unknown",
     "gender": "Female",
@@ -1836,7 +1842,7 @@
     }
   },
   {
-    "name": "Calypso",
+    "characterName": "Calypso",
     "species": "Dog",
     "breed": "Unknown",
     "gender": "Female",
@@ -1845,7 +1851,10 @@
       "father": "Unknown",
       "mother": "Unknown",
       "siblings": "Unknown",
-      "grandparents": "Unknown"
+      "grandparents": {
+        "maternal": ["Unknown"],
+        "paternal": ["Unknown"]
+      }
     },
     "appearance": {
       "fur": ["Light brown", "White"],
@@ -1883,7 +1892,7 @@
     }
   },
   {
-    "name": "Trixie",
+    "characterName": "Trixie",
     "species": "Dog",
     "breed": "Unknown",
     "gender": "Female",
@@ -1933,7 +1942,7 @@
     }
   },
   {
-    "name": "Frisky",
+    "characterName": "Frisky",
     "species": "Dog",
     "breed": "Unknown",
     "gender": "Female",
@@ -1942,7 +1951,10 @@
       "father": "Unknown",
       "mother": "Unknown",
       "siblings": "Unknown",
-      "grandparents": "Unknown"
+      "grandparents": {
+        "maternal": ["Unknown"],
+        "paternal": ["Unknown"]
+      }
     },
     "appearance": {
       "fur": ["Dark brown", "White"],
@@ -1980,7 +1992,7 @@
     }
   },
   {
-    "name": "Shaun",
+    "characterName": "Shaun",
     "species": "Sheep",
     "breed": "Shaun the Sheep",
     "gender": "Male",
@@ -1989,7 +2001,10 @@
       "father": "Unknown",
       "mother": "Unknown",
       "siblings": "Unknown",
-      "grandparents": "Unknown"
+      "grandparents": {
+        "maternal": ["Unknown"],
+        "paternal": ["Unknown"]
+      }
     },
     "appearance": {
       "fur": ["White"],

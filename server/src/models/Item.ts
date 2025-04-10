@@ -11,11 +11,9 @@ const itemSchema: Schema<IItem> = new Schema(
   {
     itemName: {
       type: String,
-      required: [true, "Please add a Item Name."],
     },
     img: {
       type: String,
-      required: [true, "Please add an image file path."],
     },
   },
   {
@@ -29,3 +27,5 @@ const itemSchema: Schema<IItem> = new Schema(
 const Item: Model<IItem> = mongoose.model<IItem>("Item", itemSchema);
 
 export default Item;
+export { itemSchema };
+export type { IItem };

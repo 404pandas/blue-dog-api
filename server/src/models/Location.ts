@@ -18,11 +18,9 @@ const locationSchema: Schema<ILocation> = new Schema(
   {
     locationName: {
       type: String,
-      required: [true, "Please add a Location Name."],
     },
     description: {
       type: String,
-      required: [true, "Please add a description."],
     },
     appearance: String,
     rooms: String,
@@ -46,3 +44,5 @@ const Location: Model<ILocation> = mongoose.model<ILocation>(
 );
 
 export default Location;
+export { locationSchema };
+export type { ILocation };

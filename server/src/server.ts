@@ -8,6 +8,7 @@ import { authenticateToken } from "./utils/auth.js";
 // Import the two parts of a GraphQL schema
 import { typeDefs, resolvers } from "./schema/index.js";
 import db from "./config/db.js";
+import routes from "./routes/index.js"; // example REST routes
 
 const PORT = process.env.PORT || 3001;
 const server = new ApolloServer({
@@ -16,6 +17,11 @@ const server = new ApolloServer({
 });
 
 const app = express();
+
+app.use(express.urlencoded({ extended: false }));
+app.use(express.json());
+
+app.use(routes); // or whatever routes you created
 
 // Create a new instance of an Apollo server with the GraphQL schema
 const startApolloServer = async () => {

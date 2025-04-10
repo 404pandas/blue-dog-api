@@ -1,13 +1,13 @@
-import { signToken, AuthenticationError } from "../utils/auth";
+import { signToken, AuthenticationError } from "../utils/auth.js";
 import bcrypt from "bcrypt";
 import { IResolvers } from "@graphql-tools/utils";
 import User, { type IUser } from "../models/User.js";
-import Character from "../models/Character.js";
-import Episode from "../models/Episode.js";
-import Location from "../models/Location.js";
-import Short from "../models/Short.js";
-import Book from "../models/Book.js";
-import Item from "../models/Item.js";
+import Character, { type ICharacter } from "../models/Character.js";
+import Episode, { type IEpisode } from "../models/Episode.js";
+import Location, { type ILocation } from "../models/Location.js";
+import Short, { type IShort } from "../models/Short.js";
+import Book, { type IBook } from "../models/Book.js";
+import Item, { type IItem } from "../models/Item.js";
 
 // Define the context type (customize as needed)
 interface Context {
@@ -47,8 +47,8 @@ interface EditUserArgs {
 
 const resolvers: IResolvers = {
   Query: {
-    users: async () => {
-      return User.find().select("-__v -password");
+    users: async (): Promise<IUser[] | null> => {
+      return User.find({}).select("-__v -password");
     },
     user: async (_parent, { userId }: IdArgs) => {
       return User.findOne({ _id: userId }).select("-__v -password");
@@ -59,20 +59,24 @@ const resolvers: IResolvers = {
       }
       throw new AuthenticationError("You need to be logged in!");
     },
-    books: async () => Book.find(),
+    books: async (): Promise<IBook[] | null> => {
+      const books = await Book.find({});
+      console.log("Books found:", books);
+      return books;
+    },
     book: async (_parent, { bookId }: IdArgs) => Book.findById(bookId),
-    characters: async () => Character.find(),
+    characters: async (): Promise<ICharacter[] | null> => Character.find({}),
     character: async (_parent, { characterId }: IdArgs) =>
       Character.findById(characterId),
-    episodes: async () => Episode.find(),
+    episodes: async (): Promise<IEpisode[] | null> => Episode.find({}),
     episode: async (_parent, { episodeId }: IdArgs) =>
       Episode.findById(episodeId),
-    items: async () => Item.find(),
+    items: async (): Promise<IItem[] | null> => Item.find({}),
     item: async (_parent, { itemId }: IdArgs) => Item.findById(itemId),
-    locations: async () => Location.find(),
+    locations: async (): Promise<ILocation[] | null> => Location.find({}),
     location: async (_parent, { locationId }: IdArgs) =>
       Location.findById(locationId),
-    shorts: async () => Short.find(),
+    shorts: async (): Promise<IShort[] | null> => Short.find({}),
     short: async (_parent, { locationId }: IdArgs) =>
       Short.findById(locationId), // Assuming this was a typo
   },
