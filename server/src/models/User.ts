@@ -19,7 +19,6 @@ const userSchema: Schema<IUser> = new Schema(
     },
     email: {
       type: String,
-      required: true,
       unique: true,
       match: [/.+@.+\..+/, "Must use a valid email address"],
     },
@@ -39,6 +38,8 @@ const userSchema: Schema<IUser> = new Schema(
 userSchema.pre<IUser>("save", async function (next) {
   if (this.isNew || this.isModified("password")) {
     const saltRounds = 12;
+    console.log(`Hashing password for ${this.email}`); // 🔍 debug line
+
     this.password = await bcrypt.hash(this.password, saltRounds);
   }
   next();

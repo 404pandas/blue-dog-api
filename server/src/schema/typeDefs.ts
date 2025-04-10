@@ -168,7 +168,7 @@ const typeDefs = `
   type User {
     _id: ID!
     username: String!
-    email: String!
+    email: String
   }
 
   type Auth {

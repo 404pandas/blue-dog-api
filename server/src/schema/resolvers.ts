@@ -58,7 +58,7 @@ const resolvers: IResolvers = {
       return User.findOne({ _id: userId }).select("-__v -password");
     },
 
-    // NEED TO TEST
+    // Tested and working 6:29PM 4/10
     me: async (_parent, _args, context: Context) => {
       if (context.user) {
         return User.findOne({ _id: context.user._id }).select("-__v -password");
@@ -111,22 +111,30 @@ const resolvers: IResolvers = {
   },
 
   Mutation: {
-    // NEED TO TEST
+    // Tested and working 6:27PM 4/10
     login: async (_parent, { email, password }: LoginArgs) => {
       const user = await User.findOne({ email });
-      if (!user) throw new AuthenticationError("Incorrect credentials");
+      if (!user)
+        throw new AuthenticationError(
+          "Incorrect credentials! Please enter a different email."
+        );
 
+      console.log("User found: ", user);
+      console.log("Password entered: ", password);
       const isMatch = await (user as IUser).isCorrectPassword(password);
-      if (!isMatch) throw new AuthenticationError("Incorrect credentials");
+      if (!isMatch)
+        throw new AuthenticationError(
+          "Incorrect credentials! Please enter a different password."
+        );
 
-      const token = signToken(user.username, user.email, user._id);
+      const token = signToken(user.email, user._id);
       return { token, user };
     },
 
     // NEED TO TEST
     addUser: async (_parent, args: AddUserArgs) => {
       const user = await User.create(args);
-      const token = signToken(user.username, user.email, user._id);
+      const token = signToken(user.email, user._id);
       return { token, user };
     },
 

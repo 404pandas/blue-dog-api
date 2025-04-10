@@ -36,7 +36,10 @@ db.once("open", async () => {
     await cleanDB("Location", "locations");
     console.log("Locations deleted");
     // Creates Users
-    await User.insertMany(userSeeds);
+    for (const user of userSeeds) {
+      const newUser = new User(user);
+      await newUser.save(); // will trigger password hashing
+    }
     console.log("Users seeded!");
     // Creates Characters
     await Character.insertMany(characterSeeds);
