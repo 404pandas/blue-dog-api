@@ -1,7 +1,7 @@
 const typeDefs = `
   type Book {
     _id: ID!
-    bookName: String!
+    bookName: String
     img: String
     characters: String
     plot: String
@@ -14,17 +14,24 @@ const typeDefs = `
 
   type Character {
     _id: ID!
-    characterName: String!
-    description1: String!
-    description2: String
+    characterName: String
+    species: String
+    breed: String
+    gender: String
+    age: String
+    family: Family
+    appearance: Appearance
+    personality: Personality
     catchphrase: String
-    appearance: String
-    personality: String
+    hobbies: [String]
+    friends: [String]
     nicknames: String
+    firstAppearance: String
+    notableEpisodes: [String]
+    funfacts: FunFacts
     characteristics: String
     traits: String
     personal_status: String
-    firstAppearance: String
     trivia: String
     absences: String
     gallery: String
@@ -32,18 +39,107 @@ const typeDefs = `
     references: String
   }
 
+  type Family {
+    father: String
+    mother: String
+    sister: String
+    uncle: String
+    aunt: String
+    cousins: [String]
+    grandparents: Grandparents
+    children: [String]
+  }
+
+  type Grandparents {
+    maternal: [String]
+    paternal: [String]
+  }
+
+  type Appearance {
+    fur: [String]
+    eyes: String
+    nose: String
+    markings: Markings
+  }
+
+  type Markings {
+    paws: String
+    outerMuzzle: String
+    eyebrows: String
+    chest: String
+    legs: String
+    arms: String
+    torso: String
+    head: String
+    tail: Tail
+    ears: Ear
+    muzzle: String
+    furColor: [String]
+    distinctiveFeatures: [String]
+  }
+
+  type Tail {
+    stem: String
+    tip: String
+  }
+
+  type Ear {
+    outer: String
+    inner: String
+  }
+
+  type Personality {
+    traits: [String]
+    likes: [String]
+    dislikes: [String]
+  }
+
+  type FunFacts {
+    favoriteAnimal: String
+    favoriteColorOfCapsicum: String
+    favoriteBreakfast: String
+    school: String
+    middleName: String
+    beltRank: BeltRank
+    canRead: String
+    instrument: String
+    birthdayStatus: BirthdayStatus
+    spokenInShorts: [String]
+    mistakenForBoy: Boolean
+    emojiAvailableOnDisneyNOW: Boolean
+    absentEpisodes: AbsentEpisodes
+    limited_information: String
+  }
+
+  type BeltRank {
+    start: String
+    current: String
+  }
+
+
+  type BirthdayStatus {
+    lastSeen: String
+    ageConfirmed: Int
+    comment: String
+  }
+
+  type AbsentEpisodes {
+    main: [String]
+    shorts: [String]
+    }
+
   type Episode {
     _id: ID!
-    episodeName: String!
-    description: String!
-    season: Int!
-    episode: Int!
+    episodeName: String
+    description: String
+    season: Int
+    episode: Int
   }
 
   type Location {
     _id: ID!
-    locationName: String!
-    description: String!
+    locationName: String
+    description: String
     appearance: String
     rooms: String
     appearances: String
@@ -55,14 +151,14 @@ const typeDefs = `
 
   type Item {
     _id: ID!
-    itemName: String!
-    img: String!
+    itemName: String
+    img: String
   }
 
   type Short {
     _id: ID!
-    shortName: String!
-    plot: String!
+    shortName: String
+    plot: String
     characters: String
     trivia: String
     url: String
@@ -73,7 +169,6 @@ const typeDefs = `
     _id: ID!
     username: String!
     email: String!
-    password: String!
   }
 
   type Auth {
@@ -100,7 +195,7 @@ const typeDefs = `
   }
 
   type Mutation {
-    login(username: String!, email: String!, password: String!): Auth
+    login(email: String!, password: String!): Auth
     addUser(username: String!, email: String!, password: String!): Auth
     editUser(username: String!, email: String!, password: String!): User
     deleteUser: User
