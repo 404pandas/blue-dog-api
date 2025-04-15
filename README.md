@@ -1,4 +1,5 @@
 Future Development- add character stats for cards
+(Cheat so Lucky always wins)
 
 <div align="center">
 
