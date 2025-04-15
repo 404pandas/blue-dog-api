@@ -1,3 +1,5 @@
+Future Development- add character stats for cards
+
 <div align="center">
 
   <!-- Add badges using the following format: -->
