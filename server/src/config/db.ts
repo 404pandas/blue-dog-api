@@ -4,7 +4,7 @@ dotenv.config();
 import mongoose from "mongoose";
 
 mongoose.connect(
-  process.env.MONGODB_URI || "mongodb://127.0.0.1:27017/bluedogdb"
+  process.env.MONGODB_URI || "mongodb://127.0.0.1:27017/blue-dog-api"
 );
 
 const db = mongoose.connection;
