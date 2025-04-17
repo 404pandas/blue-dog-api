@@ -6,6 +6,10 @@ import {
   createHttpLink,
 } from "@apollo/client";
 import { Outlet } from "react-router-dom";
+import { setContext } from "@apollo/client/link/context";
+
+// COMPONENTS
+import Header from "./components/Header";
 
 // CSS
 import "./index.css";

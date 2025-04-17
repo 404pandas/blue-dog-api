@@ -4,8 +4,6 @@ import Container from "@mui/material/Container";
 import { useQuery } from "@apollo/client";
 import { CURRENT_USER } from "../queries/userQueries";
 
-import Header from "../components/Header";
-
 const Account = () => {
   const { data } = useQuery(CURRENT_USER);
   const userData = data?.me || {};
@@ -13,7 +11,6 @@ const Account = () => {
   console.log(userData);
   return (
     <>
-      <Header />
       <Container>
         {" "}
         {userData ? (

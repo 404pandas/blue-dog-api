@@ -3,7 +3,6 @@ import { Link } from "react-router-dom";
 
 import { useMutation } from "@apollo/client";
 import { LOGIN_USER } from "../mutations/userMutations";
-import Header from "../components/Header";
 
 import Auth from "../utils/auth";
 
@@ -52,7 +51,6 @@ const Login = () => {
 
   return (
     <>
-      <Header />
       <main style={{ marginTop: "160px", marginBottom: "60px" }}>
         {data ? (
           <>

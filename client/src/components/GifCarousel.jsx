@@ -1,17 +1,8 @@
-import React from "react";
+import React, { useState, useEffect, useRef } from "react";
 import { useTheme } from "@mui/material/styles";
-
-import Box from "@mui/material/Box";
-import MobileStepper from "@mui/material/MobileStepper";
-import Paper from "@mui/material/Paper";
-import Typography from "@mui/material/Typography";
-import Button from "@mui/material/Button";
+import { Box, Paper, Typography, MobileStepper, Button } from "@mui/material";
 import KeyboardArrowLeft from "@mui/icons-material/KeyboardArrowLeft";
 import KeyboardArrowRight from "@mui/icons-material/KeyboardArrowRight";
-import SwipeableViews from "react-swipeable-views";
-import { autoPlay } from "react-swipeable-views-utils";
-
-const AutoPlaySwipeableViews = autoPlay(SwipeableViews);
 
 const images = [
   {
@@ -68,21 +59,44 @@ const images = [
 
 export default function GifCarousel() {
   const theme = useTheme();
-
-  const [activeStep, setActiveStep] = React.useState(0);
+  const [activeStep, setActiveStep] = useState(0);
   const maxSteps = images.length;
+  const [isHovered, setIsHovered] = useState(false);
+  const autoPlayRef = useRef(null);
+  const touchStartXRef = useRef(0);
+  const touchEndXRef = useRef(0);
+
+  useEffect(() => {
+    if (!isHovered) {
+      autoPlayRef.current = setInterval(() => {
+        setActiveStep((prev) => (prev + 1) % maxSteps);
+      }, 3000);
+    }
+
+    return () => clearInterval(autoPlayRef.current);
+  }, [isHovered, maxSteps]);
 
   const handleNext = () => {
-    setActiveStep((prevActiveStep) => prevActiveStep + 1);
+    setActiveStep((prev) => (prev + 1) % maxSteps);
   };
 
   const handleBack = () => {
-    setActiveStep((prevActiveStep) => prevActiveStep - 1);
+    setActiveStep((prev) => (prev - 1 + maxSteps) % maxSteps);
   };
 
-  const handleStepChange = (step) => {
-    setActiveStep(step);
+  const handleTouchStart = (e) => {
+    touchStartXRef.current = e.touches[0].clientX;
   };
+
+  const handleTouchEnd = (e) => {
+    touchEndXRef.current = e.changedTouches[0].clientX;
+    const deltaX = touchStartXRef.current - touchEndXRef.current;
+
+    if (Math.abs(deltaX) > 50) {
+      deltaX > 0 ? handleNext() : handleBack();
+    }
+  };
+
   return (
     <Box sx={{ maxWidth: 400, flexGrow: 1 }}>
       <Paper
@@ -98,31 +112,28 @@ export default function GifCarousel() {
       >
         <Typography variant='h6'>{images[activeStep].label}</Typography>
       </Paper>
-      <AutoPlaySwipeableViews
-        axis={theme.direction === "rtl" ? "x-reverse" : "x"}
-        index={activeStep}
-        onChangeIndex={handleStepChange}
-        enableMouseEvents
+
+      <Box
+        onTouchStart={handleTouchStart}
+        onTouchEnd={handleTouchEnd}
+        onMouseEnter={() => setIsHovered(true)}
+        onMouseLeave={() => setIsHovered(false)}
+        sx={{
+          position: "relative",
+          height: 350,
+          maxWidth: 400,
+          overflow: "hidden",
+          width: "100%",
+        }}
       >
-        {images.map((step, index) => (
-          <div key={step.label}>
-            {Math.abs(activeStep - index) <= 2 ? (
-              <Box
-                component='img'
-                sx={{
-                  height: 350,
-                  display: "block",
-                  maxWidth: 400,
-                  overflow: "hidden",
-                  width: "100%",
-                }}
-                src={step.imgPath}
-                alt={step.label}
-              />
-            ) : null}
-          </div>
-        ))}
-      </AutoPlaySwipeableViews>
+        <Box
+          component='img'
+          sx={{ width: "100%", height: "100%", objectFit: "cover" }}
+          src={images[activeStep].imgPath}
+          alt={images[activeStep].label}
+        />
+      </Box>
+
       <MobileStepper
         steps={maxSteps}
         position='static'

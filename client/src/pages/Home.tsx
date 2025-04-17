@@ -1,4 +1,3 @@
-import Header from "../components/Header";
 import GifCarousel from "../components/GifCarousel";
 
 import Container from "@mui/material/Container";
@@ -15,7 +14,6 @@ import portfolio from "../assets/images/presentation/portfolios-qr.png";
 export default function Home() {
   return (
     <>
-      <Header />
       <Container
         sx={{
           marginLeft: "auto",
@@ -36,7 +34,7 @@ export default function Home() {
           <Typography variant='h4'>Welcome to my Portfolio Project!</Typography>
           <GifCarousel />
           <Typography variant='h6'>
-            I'm looking for full stack development work!
+            I&#39;'m looking for full stack development work!
           </Typography>
           <Grid
             className='flexbox-turn-on'

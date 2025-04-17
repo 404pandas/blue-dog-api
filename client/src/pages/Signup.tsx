@@ -3,7 +3,6 @@ import { Link } from "react-router-dom";
 
 import { useMutation } from "@apollo/client";
 import { ADD_USER } from "../mutations/userMutations";
-import Header from "../components/Header";
 
 import Auth from "../utils/auth";
 
@@ -52,10 +51,9 @@ const Signup = () => {
 
   return (
     <>
-      <Header />
       <main style={{ marginTop: "160px", marginBottom: "60px" }}>
         {data ? (
-          <p variant='subtitle1'>Successfully created an account.</p>
+          <p>Successfully created an account.</p>
         ) : (
           <Container component='main' maxWidth='xs'>
             <CssBaseline />

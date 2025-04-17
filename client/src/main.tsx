@@ -2,21 +2,20 @@ import ReactDOM from "react-dom/client";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
 // Pages
-import Account from "./pages/Account";
-import Book from "./pages/Book";
-import Character from "./pages/Character";
-import Dashboard from "./pages/Dashboard";
-import DrawingApp from "./pages/DrawingApp";
-import Episode from "./pages/Episode";
-import Home from "./pages/Home";
-import Location from "./pages/Location";
-import Login from "./pages/Login";
-import Logout from "./pages/Logout";
-import NotFound from "./pages/NotFound";
-import Item from "./pages/Item";
-import KeepyUppy from "./pages/KeepyUppy";
-import Short from "./pages/Short";
-import Signup from "./pages/Signup";
+import Account from "./pages/Account.js";
+import Book from "./pages/Book.js";
+import Character from "./pages/Character.js";
+import DrawingApp from "./pages/DrawingApp.js";
+import Episode from "./pages/Episode.js";
+import Home from "./pages/Home.js";
+import Location from "./pages/Location.js";
+import Login from "./pages/Login.js";
+import Logout from "./pages/Logout.js";
+import NotFound from "./pages/NotFound.js";
+import Item from "./pages/Item.js";
+import KeepyUppy from "./pages/KeepyUppy.js";
+import Short from "./pages/Short.js";
+import Signup from "./pages/Signup.js";
 import App from "./App.js";
 
 const router = createBrowserRouter([
@@ -40,10 +39,6 @@ const router = createBrowserRouter([
       {
         path: "/character",
         element: <Character />,
-      },
-      {
-        path: "/dashboard",
-        element: <Dashboard />,
       },
       {
         path: "/drawing-app",
