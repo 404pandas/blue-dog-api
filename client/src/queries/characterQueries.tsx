@@ -5,21 +5,67 @@ export const GET_CHARACTERS = gql`
     characters {
       _id
       characterName
-      description1
-      description2
+      species
+      breed
+      gender
+      age
       catchphrase
-      appearance
-      personality
-      nicknames
+      hobbies
+      friends
+      firstAppearance
+      notableEpisodes
       characteristics
       traits
       personal_status
-      firstAppearance
       trivia
       absences
       gallery
       animated
       references
+      personality {
+        traits
+        likes
+        dislikes
+      }
+      family {
+        father
+        mother
+        sister
+        uncle
+        aunt
+        cousins
+        children
+        grandparents {
+          maternal
+          paternal
+        }
+      }
+      appearance {
+        fur
+        eyes
+        nose
+        markings {
+          paws
+          outerMuzzle
+          eyebrows
+          chest
+          legs
+          arms
+          torso
+          head
+          muzzle
+          tail {
+            stem
+            tip
+          }
+          ears {
+            outer
+            inner
+          }
+          furColor
+          distinctiveFeatures
+        }
+      }
     }
   }
 `;
