@@ -4,11 +4,10 @@
   "description": "Open Source API for the TV show Bluey",
   "main": "server/server.js",
   "scripts": {
-    "start": "concurrently \"cd server && npm run start\" \"cd client && npm start\"",
+    "start": "node server/dist/server.js",
     "dev": "concurrently \"cd server && npm run watch\" \"cd client && npm run dev\"",
     "install": "cd server && npm i && cd ../client && npm i",
-    "build": "concurrently \"cd server && npm run build\" \"cd client && npm run build\"",
-    "render-build": "npm install && npm run build"
+    "build": "cd server && npm install && npm run build && cd ../client && npm install && npm run build"
   },
   "author": "Mary Elenius",
   "license": "MIT",
