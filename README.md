@@ -31,6 +31,13 @@ Bluey API with a styled front end and games for my daughter to play    <br />
   </p>
 </div>
 
+## **Bluey API - Available on RapidAPI**
+
+I'm excited to share that my **Bluey-themed API** is now live on **RapidAPI**! 🎉 This API is perfect for developers looking to create **Bluey**-themed apps, games, or anything related to the **Bluey TV show**.
+
+🔵 **Explore the API** and start building today:  
+[Bluey API on RapidAPI](https://rapidapi.com/404pandas/api/bluey-tv)
+
 ## Table of Contents
 
 - [About The Project](#about-the-project)
