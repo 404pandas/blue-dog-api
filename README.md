@@ -1,10 +1,6 @@
-Future Development- add character stats for cards
-(Cheat so Lucky always wins)
+# Blue Dog API
 
 <div align="center">
-
-  <!-- Add badges using the following format: -->
-  <!-- ![Name](urlToShieldHere)(urlToGithubHere) -->
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributors](https://img.shields.io/github/contributors/404pandas/blue-dog-api.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/blue-dog-api/graphs/contributors)
@@ -14,8 +10,6 @@ Future Development- add character stats for cards
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=appveyor&logo=linkedin&colorB=555)](https://linkedin.com/in/404pandas)
 
 </div>
-
-<!-- PROJECT LOGO -->
 
 <div align="center">
   <a href="https://github.com/404pandas/blue-dog-api">
@@ -37,68 +31,100 @@ Bluey API with a styled front end and games for my daughter to play    <br />
   </p>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
+## Table of Contents
 
-<!-- ABOUT THE PROJECT -->
+- [About The Project](#about-the-project)
+  - [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Routes](#routes)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgments](#acknowledgments)
+- [Resources Used](#resources-used)
+- [Time Bluey Watched](#time-bluey-watched)
 
 ## About The Project
-
-<!-- Add screenshots using the following format: -->
-<!-- ![Screenshot alt description](directPathOfScreenshots) -->
 
 This project was built using the MERN stack and Apollo/GraphQL. It contains mutable data for a user integration, styled front end, and games.
 It uses Materialize for a CSS framework.
 It uses Mongoose as an ORM.
 It will use Netlify for deployment.
-It also makes use of packages JWT and Bcrypt
+It also makes use of packages JWT and Bcrypt.
 
 ### Built With
 
-<div align="center">
+Technologies used:
 
-[![HTML](https://img.shields.io/badge/Language-HTML-ff0000?style=plastic&logo=HTML5&logoWidth=10)](https://html.com/)
-[![Javascript](https://img.shields.io/badge/Language-JavaScript-ff8000?style=plastic&logo=JavaScript&logoWidth=10)](https://javascript.info/)
-[![CSS](https://img.shields.io/badge/Tool-CSS-ffff00?style=plastic&logo=css3&logoWidth=10)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Materialize](https://img.shields.io/badge/Framework-Materialize-80ff00?style=plastic&logo=80ff00&logoWidth=10)](https://materializecss.com/)
-[![MongoDB](https://img.shields.io/badge/Database-MongoDB-00ff00?style=plastic&logo=MongoDB&logoWidth=10)](https://www.mongodb.com/home)
-[![Express](https://img.shields.io/badge/Framework-Express-00ff80?style=plastic&logo=Express&logoWidth=10)](https://expressjs.com/)
-[![React](https://img.shields.io/badge/Framework-React.js-00ffff?style=plastic&logo=React&logoWidth=10)](https://reactjs.org/docs/getting-started.html)
-[![Node.js](https://img.shields.io/badge/Framework-Node.js-0080ff?style=plastic&logo=Node.js&logoWidth=10)](https://nodejs.org/en/)
-[![npm](https://img.shields.io/badge/Tool-npm-0000ff?style=plastic&logo=npm&logoWidth=10)](https://www.npmjs.com/)
-[![VS Code](https://img.shields.io/badge/IDE-VSCode-8000ff?style=plastic&logo=VisualStudioCode&logoWidth=10)](https://code.visualstudio.com/docs)
-[![Mongoose](https://img.shields.io/badge/ORM-Mongoose-ff00ff?style=plastic&logo=Mongoose&logoWidth=10)](https://code.visualstudio.com/docs)
-[![Concurrrently](https://img.shields.io/badge/Package-Concurrrently-ff0080?style=plastic&logo=npm&logoWidth=10)](https://www.npmjs.com/package/concurrently/)
-[![JWT](https://img.shields.io/badge/Package-JWT-ff00ff?style=plastic&logo=npm&logoWidth=10)](https://www.npmjs.com/package/jsonwebtoken)
-[![Brcypt](https://img.shields.io/badge/Package-Bcrypt-8000ff?style=plastic&logo=npm&logoWidth=10)](https://www.npmjs.com/package/bcrypt)
-[![Dotenv](https://img.shields.io/badge/Package-Dotenv-0000ff?style=plastic&logo=npm&logoWidth=10)](https://www.npmjs.com/package/dotenv)
-[![Nodemon](https://img.shields.io/badge/Package-Nodemon-0080ff?style=plastic&logo=npm&logoWidth=10)](https://www.npmjs.com/package/nodemon)
+- HTML
+- CSS
+- JavaScript
+- Materialize
+- MongoDB
+- Express
+- React
+- Node.js
+- npm
+- VS Code
+- Mongoose
+- Concurrently
+- JWT
+- Bcrypt
+- Dotenv
+- Nodemon
 
-</div>
+## Getting Started
 
-Once completely built, this application will function as a deployed app on Netlify and a free API on RapidAPI.
+### Installation
+
+1. Clone the repo  
+   `git clone https://github.com/404pandas/blue-dog-api.git`
+
+2. Install dependencies  
+   `npm install`
+
+3. Run the development server  
+   `npm run develop`
+
+## Usage
+
+Once the app is running, you can navigate to the front end and interact with the Bluey API or play the built-in games.
+
+## Routes
+
+### Character Routes
+
+- `GET /api/characters` - Get all characters
+- `GET /api/characters/:id` - Get a character by ID
+- `POST /api/characters` - Create a new character (protected)
+- `PUT /api/characters/:id` - Update a character (protected)
+- `DELETE /api/characters/:id` - Delete a character (protected)
+
+### Episode Routes
+
+- `GET /api/episodes` - Get all episodes
+- `GET /api/episodes/:id` - Get an episode by ID
+- `POST /api/episodes` - Create an episode (protected)
+- `PUT /api/episodes/:id` - Update an episode (protected)
+- `DELETE /api/episodes/:id` - Delete an episode (protected)
+
+### Location Routes
+
+- `GET /api/locations` - Get all locations
+- `GET /api/locations/:id` - Get a location by ID
+
+### Book Routes
+
+- `GET /api/books` - Get all books
+
+### User/Auth Routes
+
+- `POST /api/users/signup` - Sign up
+- `POST /api/users/login` - Log in
+- `GET /api/users/me` - Get current user info (JWT required)
 
 ## Roadmap
 
@@ -123,70 +149,43 @@ Once completely built, this application will function as a deployed app on Netli
 
 See the [open issues](https://github.com/404pandas/blue-dog-api/issues) for a full list of proposed features (and known issues).
 
-<!-- CONTRIBUTING -->
-
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-</br>
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-</br></br>
-Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
-2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
-3. Commit your Changes (git commit -m 'Add some AmazingFeature')
-4. Push to the Branch (git push origin feature/AmazingFeature)
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<!-- LICENSE -->
+Don't forget to give the project a star! Thanks again!
 
 ## License
 
 This project is licensed under the MIT license.
-
-See LICENSE.txt for more information.
-
-<!-- CONTACT -->
+See `LICENSE.txt` for more information.
 
 ## Contact
 
-Mary Elenius - mary.panda.jackson@gmail.com
-
-Project Link: [https://github.com/404pandas/blue-dog-api](https://github.com/404pandas/blue-dog-api)
-
-Portfolios: [Javascript]([https://404pandas.github.io]) || [React]([https://404pandas.github.io])
-
-<!-- ACKNOWLEDGMENTS -->
+Mary Elenius - mary.panda.jackson@gmail.com  
+Project Link: [https://github.com/404pandas/blue-dog-api](https://github.com/404pandas/blue-dog-api)  
+Portfolios: [Javascript](https://404pandas.github.io) | [React](https://404pandas.github.io)
 
 ## Acknowledgments
 
-I would like to give a big shoutout to my partner in crime and daughter, Yennefer! Every day she proves she is small yet mighty!
-</br>
-I would also like to acknowledge my friends and family for supporting me through this journey.
-</br>
-This API was created using the guide at [this](https://rapidapi.com/guides/build-api-publish-on-rapidapi) page on RapidAPI.
-</br>
-This API is listed on [RapidAPI](https://rapidapi.com/).
-</br>
-This API is stored on [Github](https://github.com/).
-</br>
-This API is hosted on [Netlify](https://www.netlify.com/).
-
-<!-- Resources -->
+- Yennefer — the mighty inspiration
+- Friends and family for support
+- [RapidAPI Guide](https://rapidapi.com/guides/build-api-publish-on-rapidapi)
+- [RapidAPI Listing](https://rapidapi.com/)
+- [GitHub](https://github.com/)
+- [Netlify](https://www.netlify.com/)
 
 ## Resources Used
 
-The following is a list of resources used in the making of this API
-</br>
-https://www.bluey.tv/watch/
-</br>
-https://blueypedia.fandom.com/wiki/Bluey_(TV_series)
-
-<!-- Counter -->
+- https://www.bluey.tv/watch/
+- https://blueypedia.fandom.com/wiki/Bluey_(TV_series)
 
 ## Time Bluey Watched
 
-This portion of the Readme is devoted to keeping track how many times I've rewatched Bluey in its entirety while developing this app.
-</br>
-Current count: 14
+Current count: 167 full rewatch sessions
