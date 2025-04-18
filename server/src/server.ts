@@ -1,6 +1,4 @@
 import express from "express";
-import { fileURLToPath } from "url";
-import path from "path";
 import type { Request, Response } from "express";
 // Import the ApolloServer class
 import { ApolloServer } from "@apollo/server";
@@ -10,9 +8,6 @@ import { authenticateToken } from "./utils/auth.js";
 import { typeDefs, resolvers } from "./schema/index.js";
 import db from "./config/db.js";
 import routes from "./routes/index.js"; // example REST routes
-
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
 
 const PORT = process.env.PORT || 3001;
 const server = new ApolloServer({
@@ -43,10 +38,10 @@ const startApolloServer = async () => {
   );
 
   if (process.env.NODE_ENV === "production") {
-    app.use(express.static(path.join(__dirname, "../client/dist")));
+    app.use(express.static("../client/dist"));
 
     app.get("*", (_req: Request, res: Response) => {
-      res.sendFile(path.join(__dirname, "../client/dist/index.html"));
+      res.sendFile("../client/dist/index.html");
     });
   }
 
