@@ -19,7 +19,6 @@ export default function Home() {
           marginLeft: "auto",
         }}
         component='main'
-        maxWidth='s'
       >
         <CssBaseline />
 

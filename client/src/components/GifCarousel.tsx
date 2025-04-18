@@ -4,7 +4,13 @@ import { Box, Paper, Typography, MobileStepper, Button } from "@mui/material";
 import KeyboardArrowLeft from "@mui/icons-material/KeyboardArrowLeft";
 import KeyboardArrowRight from "@mui/icons-material/KeyboardArrowRight";
 
-const images = [
+// Type for individual image
+interface CarouselImage {
+  label: string;
+  imgPath: string;
+}
+
+const images: CarouselImage[] = [
   {
     label: "Bingo Spinning",
     imgPath:
@@ -57,14 +63,14 @@ const images = [
   },
 ];
 
-export default function GifCarousel() {
+export default function GifCarousel(): JSX.Element {
   const theme = useTheme();
-  const [activeStep, setActiveStep] = useState(0);
+  const [activeStep, setActiveStep] = useState<number>(0);
   const maxSteps = images.length;
-  const [isHovered, setIsHovered] = useState(false);
-  const autoPlayRef = useRef(null);
-  const touchStartXRef = useRef(0);
-  const touchEndXRef = useRef(0);
+  const [isHovered, setIsHovered] = useState<boolean>(false);
+  const autoPlayRef = useRef<ReturnType<typeof setInterval> | null>(null);
+  const touchStartXRef = useRef<number>(0);
+  const touchEndXRef = useRef<number>(0);
 
   useEffect(() => {
     if (!isHovered) {
@@ -73,7 +79,11 @@ export default function GifCarousel() {
       }, 3000);
     }
 
-    return () => clearInterval(autoPlayRef.current);
+    return () => {
+      if (autoPlayRef.current) {
+        clearInterval(autoPlayRef.current);
+      }
+    };
   }, [isHovered, maxSteps]);
 
   const handleNext = () => {
@@ -84,11 +94,11 @@ export default function GifCarousel() {
     setActiveStep((prev) => (prev - 1 + maxSteps) % maxSteps);
   };
 
-  const handleTouchStart = (e) => {
+  const handleTouchStart = (e: React.TouchEvent<HTMLDivElement>) => {
     touchStartXRef.current = e.touches[0].clientX;
   };
 
-  const handleTouchEnd = (e) => {
+  const handleTouchEnd = (e: React.TouchEvent<HTMLDivElement>) => {
     touchEndXRef.current = e.changedTouches[0].clientX;
     const deltaX = touchStartXRef.current - touchEndXRef.current;
 
