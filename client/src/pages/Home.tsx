@@ -1,4 +1,4 @@
-import GifCarousel from "../components/GifCarousel";
+import GifCarousel from "../components/GifCarousel.js";
 
 import Container from "@mui/material/Container";
 import Box from "@mui/material/Box";
@@ -7,9 +7,9 @@ import { Typography } from "@mui/material";
 import Grid from "@mui/material/Grid";
 import { Link } from "react-router-dom";
 
-import linkedin from "../assets/images/presentation/linkedin-qr.png";
-import repo from "../assets/images/presentation/repo-qr.png";
-import portfolio from "../assets/images/presentation/portfolios-qr.png";
+import linkedin from "../assets/images/presentation/linkedin.png";
+import repo from "../assets/images/presentation/github.png";
+import portfolio from "../assets/images/presentation/portfolio.png";
 
 export default function Home() {
   return (
@@ -34,7 +34,7 @@ export default function Home() {
           <Typography variant='h4'>Welcome to my Portfolio Project!</Typography>
           <GifCarousel />
           <Typography variant='h6'>
-            I&#39;'m looking for full stack development work!
+            I'm looking for full stack development work!
           </Typography>
           <Grid
             className='flexbox-turn-on'
@@ -45,8 +45,7 @@ export default function Home() {
             spacing={1}
           >
             <Grid
-              item
-              xs={3}
+              size={3}
               className='flexbox-turn-on'
               sx={{
                 justifyContent: "center",
@@ -63,8 +62,7 @@ export default function Home() {
             </Grid>
 
             <Grid
-              item
-              xs={3}
+              size={3}
               className='flexbox-turn-on'
               sx={{
                 justifyContent: "center",
@@ -80,14 +78,13 @@ export default function Home() {
               </Link>
             </Grid>
             <Grid
-              item
-              xs={3}
+              size={3}
               className='flexbox-turn-on'
               sx={{
                 justifyContent: "center",
               }}
             >
-              <Link to='https://404pandas.github.io'>
+              <Link to='https://www.maryelenius.com'>
                 {" "}
                 <img
                   className='qr-codes'
