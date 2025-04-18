@@ -59,6 +59,7 @@ export default function Home() {
                   alt='QR code for linkedin'
                 />
               </Link>
+              <Typography variant='h6'>Linked In </Typography>
             </Grid>
 
             <Grid
@@ -76,6 +77,7 @@ export default function Home() {
                   alt='QR code for github repository'
                 />
               </Link>
+              <Typography variant='h6'>Github </Typography>
             </Grid>
             <Grid
               size={3}
@@ -92,6 +94,7 @@ export default function Home() {
                   alt='QR code for portfolio'
                 />
               </Link>
+              <Typography variant='h6'>Portfolio </Typography>
             </Grid>
           </Grid>
           {/* Resume */}
