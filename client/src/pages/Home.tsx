@@ -48,6 +48,7 @@ export default function Home() {
               className='flexbox-turn-on'
               sx={{
                 justifyContent: "center",
+                flexDirection: "column",
               }}
             >
               <Link to='https://www.linkedin.com/in/404pandas/'>
@@ -66,6 +67,7 @@ export default function Home() {
               className='flexbox-turn-on'
               sx={{
                 justifyContent: "center",
+                flexDirection: "column",
               }}
             >
               <Link to='https://github.com/404pandas/blue-dog-api'>
@@ -83,6 +85,7 @@ export default function Home() {
               className='flexbox-turn-on'
               sx={{
                 justifyContent: "center",
+                flexDirection: "column",
               }}
             >
               <Link to='https://www.maryelenius.com'>
