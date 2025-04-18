@@ -23,7 +23,7 @@ Bluey API with a styled front end and games for my daughter to play    <br />
     <a href="https://github.com/404pandas/blue-dog-api"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/404pandas/blue-dog-api">View Demo(Under development)</a>
+    <a href="[https://github.com/404pandas/blue-dog-api](https://blue-dog-api.onrender.com/)">View Demo</a>
     ·
     <a href="https://github.com/404pandas/blue-dog-api/issues">Report Bug</a>
     ·
@@ -80,14 +80,34 @@ Technologies used:
 
 ### Installation
 
-1. Clone the repo  
-   `git clone https://github.com/404pandas/blue-dog-api.git`
+🚀 Installation
 
-2. Install dependencies  
-   `npm install`
+Clone the repository
 
-3. Run the development server  
-   `npm run develop`
+git clone https://github.com/your-username/blue-dog-api.git
+cd blue-dog-api
+
+Add a .env file to the /server/src/ folder with the following variables:
+
+MONGODB_URI=your_mongodb_connection_string
+JWT_SECRET_KEY=your_jwt_secret_key
+
+Install dependencies
+
+npm i
+```
+npm install
+```
+
+Build the project
+```
+npm build
+```
+
+Start the development server
+```
+npm run dev
+```
 
 ## Usage
 
@@ -169,8 +189,9 @@ See `LICENSE.txt` for more information.
 ## Contact
 
 Mary Elenius - mary.panda.jackson@gmail.com  
+Deployment Link: [https://blue-dog-api.onrender.com/](https://blue-dog-api.onrender.com/)
 Project Link: [https://github.com/404pandas/blue-dog-api](https://github.com/404pandas/blue-dog-api)  
-Portfolios: [Javascript](https://404pandas.github.io) | [React](https://404pandas.github.io)
+Portfolio: [Mary Elenius](https://www.maryelenius.com)
 
 ## Acknowledgments
 
@@ -179,7 +200,7 @@ Portfolios: [Javascript](https://404pandas.github.io) | [React](https://404panda
 - [RapidAPI Guide](https://rapidapi.com/guides/build-api-publish-on-rapidapi)
 - [RapidAPI Listing](https://rapidapi.com/)
 - [GitHub](https://github.com/)
-- [Netlify](https://www.netlify.com/)
+- [Render](https://www.render.com/)
 
 ## Resources Used
 
