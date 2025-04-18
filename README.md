@@ -49,32 +49,33 @@ Bluey API with a styled front end and games for my daughter to play    <br />
 
 ## About The Project
 
-This project was built using the MERN stack and Apollo/GraphQL. It contains mutable data for a user integration, styled front end, and games.
+This project was built using the MERN stack and Apollo/GraphQL. It contains mutable data for user integration, styled front end, and games.
 It uses Materialize for a CSS framework.
 It uses Mongoose as an ORM.
-It will use Netlify for deployment.
+It uses Reder for deployment.
 It also makes use of packages JWT and Bcrypt.
 
 ### Built With
 
 Technologies used:
 
-- HTML
-- CSS
-- JavaScript
-- Materialize
-- MongoDB
-- Express
-- React
-- Node.js
-- npm
-- VS Code
-- Mongoose
-- Concurrently
-- JWT
-- Bcrypt
-- Dotenv
-- Nodemon
+[![HTML](https://img.shields.io/badge/HTML-ff0000?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-ff6600?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ffcc00?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Materialize](https://img.shields.io/badge/Materialize-ff99cc?style=for-the-badge&logo=materialize&logoColor=white)](https://materializecss.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-66cc33?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/)
+[![Express](https://img.shields.io/badge/Express-339933?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![React](https://img.shields.io/badge/React-0066cc?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/docs/getting-started.html)
+[![Node.js](https://img.shields.io/badge/Node.js-66cc33?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/docs/)
+[![npm](https://img.shields.io/badge/npm-cc3534?style=for-the-badge&logo=npm&logoColor=white)](https://docs.npmjs.com/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/docs)
+[![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com/docs/)
+[![Concurrently](https://img.shields.io/badge/Concurrently-00cc66?style=for-the-badge&logo=python&logoColor=white)](https://www.npmjs.com/package/concurrently)
+[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)](https://jwt.io/)
+[![Bcrypt](https://img.shields.io/badge/Bcrypt-f1a5ff?style=for-the-badge&logo=python&logoColor=white)](https://www.npmjs.com/package/bcrypt)
+[![Dotenv](https://img.shields.io/badge/Dotenv-000000?style=for-the-badge&logo=python&logoColor=white)](https://www.npmjs.com/package/dotenv)
+[![Nodemon](https://img.shields.io/badge/Nodemon-8e44ad?style=for-the-badge&logo=nodemon&logoColor=white)](https://nodemon.io/)
+[![Render](https://img.shields.io/badge/Render-3b49d3?style=for-the-badge&logo=render&logoColor=white)](https://render.com/docs)
 
 ## Getting Started
 
@@ -84,18 +85,19 @@ Technologies used:
 
 Clone the repository
 
-git clone https://github.com/your-username/blue-dog-api.git
+```git clone https://github.com/your-username/blue-dog-api.git
 cd blue-dog-api
+```
 
 Add a .env file to the /server/src/ folder with the following variables:
-
+```
 MONGODB_URI=your_mongodb_connection_string
 JWT_SECRET_KEY=your_jwt_secret_key
+```
 
 Install dependencies
-
-npm i
 ```
+npm i
 npm install
 ```
 
