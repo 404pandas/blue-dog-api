@@ -1,6 +1,6 @@
 [
   {
-    "characterName": "Bluey Christine Heeler",
+    "characterName": "Bluey Heeler",
     "species": "Dog",
     "breed": "Blue Heeler (Australian Cattle Dog)",
     "gender": "Female",
@@ -9,17 +9,30 @@
       "father": "Bandit Heeler",
       "mother": "Chilli Heeler",
       "sister": "Bingo Heeler",
-      "uncle": "Stripe Heeler",
-      "aunt": "Trixie Heeler",
-      "cousins": ["Muffin Heeler", "Socks Heeler"],
+      "uncle": "Uncle Stripe",
+      "aunt": "Aunt Trixie",
+      "cousins": [
+        "Muffin",
+        "Socks"
+      ],
       "grandparents": {
-        "maternal": ["Bob", "Nana"],
-        "paternal": ["Mort", "Mrs. Cattle"]
-      },
-      "children": ["Bentley", "Zara"]
+        "maternal": [
+          "Bob",
+          "Nana"
+        ],
+        "paternal": [
+          "Mort",
+          "Mrs. Cattle"
+        ]
+      }
     },
     "appearance": {
-      "fur": ["light blue", "blue", "dark blue", "tan"],
+      "fur": [
+        "light blue",
+        "blue",
+        "dark blue",
+        "tan"
+      ],
       "eyes": "Black",
       "nose": "Black",
       "markings": {
@@ -41,8 +54,13 @@
         },
         "muzzle": "Tan"
       },
-      "fur_color": ["brown", "white"],
-      "distinctive_features": ["Similar appearance to Bentley"]
+      "fur_color": [
+        "brown",
+        "white"
+      ],
+      "distinctive_features": [
+        "Similar appearance to Bentley"
+      ]
     },
     "personality": {
       "traits": [
@@ -53,8 +71,15 @@
         "Creative",
         "Loving"
       ],
-      "likes": ["Playing games", "Pretending to be a grown-up", "Family time"],
-      "dislikes": ["Being left out", "Games ending too soon"]
+      "likes": [
+        "Playing games",
+        "Pretending to be a grown-up",
+        "Family time"
+      ],
+      "dislikes": [
+        "Being left out",
+        "Games ending too soon"
+      ]
     },
     "catchphrase": "For real life?",
     "hobbies": [
@@ -71,15 +96,15 @@
       "Coco",
       "Snickers",
       "Honey",
-      "Mackenzie",
+      "Mackenzie Border Collie",
       "Chloe",
       "Judo",
-      "Jean-Luc",
+      "Jean Luc",
       "Winton",
       "Buddy",
       "The Terriers",
       "Pretzel",
-      "Bentley",
+      "Bently",
       "Winnie",
       "Fido",
       "Mia",
@@ -107,8 +132,8 @@
       "Fruit Bat",
       "BBQ",
       "Camping",
-      "Pass the Parcel",
-      "Baby Race",
+      "Pass The Parcel",
+      "Babyrace",
       "Family Meeting",
       "Burger Shop"
     ],
@@ -129,12 +154,21 @@
         "ageConfirmed": "7",
         "comment": "Not always clear when birthday is due to episode order"
       },
-      "spokenInShorts": ["Jingle Bells"],
+      "spokenInShorts": [
+        "Jingle Bells"
+      ],
       "mistakenForBoy": true,
       "emojiAvailableOnDisneyNOW": true,
       "absentEpisodes": {
-        "main": ["Turtleboy"],
-        "shorts": ["Pea Pod Sausages", "Green Bottles", "Mower", "Honk"]
+        "main": [
+          "Turtleboy"
+        ],
+        "shorts": [
+          "Pea Pod Sausages",
+          "Green Bottles",
+          "Mower",
+          "Honk"
+        ]
       },
       "limited_information": "Specific details about Bentley's Mum are limited as she is a minor character."
     }
@@ -149,16 +183,29 @@
       "father": "Bandit Heeler",
       "mother": "Chilli Heeler",
       "sister": "Bluey Heeler",
-      "uncle": "Stripe Heeler",
-      "aunt": "Trixie Heeler",
-      "cousins": ["Muffin Heeler", "Socks Heeler"],
+      "uncle": "Uncle Stripe",
+      "aunt": "Aunt Trixie",
+      "cousins": [
+        "Muffin",
+        "Socks"
+      ],
       "grandparents": {
-        "maternal": ["Bob", "Nana"],
-        "paternal": ["Mort", "Mrs. Cattle"]
+        "maternal": [
+          "Bob",
+          "Nana"
+        ],
+        "paternal": [
+          "Mort",
+          "Mrs. Cattle"
+        ]
       }
     },
     "appearance": {
-      "fur": ["light cream", "orange", "dark orange"],
+      "fur": [
+        "light cream",
+        "orange",
+        "dark orange"
+      ],
       "eyes": "Black",
       "nose": "Brown",
       "markings": {
@@ -175,19 +222,30 @@
         "inner ears": "Orange",
         "tail spot": "Dark orange",
         "back spot": "Dark orange",
-        "head spots": ["Dark orange (left and right)"],
+        "head spots": [
+          "Dark orange (left and right)"
+        ],
         "outer ears": "Dark orange"
       }
     },
     "personality": {
-      "traits": ["Curious", "Playful", "Observant", "Sensitive", "Imaginative"],
+      "traits": [
+        "Curious",
+        "Playful",
+        "Observant",
+        "Sensitive",
+        "Imaginative"
+      ],
       "likes": [
         "Playing games",
         "Observing bugs",
         "Pretend play",
         "Family time"
       ],
-      "dislikes": ["Rough play", "Being made fun of"]
+      "dislikes": [
+        "Rough play",
+        "Being made fun of"
+      ]
     },
     "catchphrase": "This is confusing.",
     "hobbies": [
@@ -199,10 +257,10 @@
       "Lila",
       "Missy",
       "Buddy",
-      "Bentley",
-      "Chucky Golden",
-      "Dougie Cavapoo",
-      "Snickers Dachshund"
+      "Bently",
+      "Chucky",
+      "Dougie",
+      "Snickers"
     ],
     "nicknames": [
       "Slobberdobber",
@@ -222,7 +280,7 @@
       "Daddy Dropoff",
       "The Weekend",
       "Sleepytime",
-      "Pass the Parcel",
+      "Pass The Parcel",
       "Yoga Ball",
       "Pirates"
     ],
@@ -235,7 +293,7 @@
       "birthday": "Bingo's fifth birthday is celebrated in the episode 'Handstand'",
       "voice": "Bingo speaks with a faint, but noticeable nasally voice",
       "readingSkills": "It is currently shown that Bingo can only count to fourteen, as seen in 'Hide and Seek'",
-      "carSeat": "In season two, Bingo’s car seat changed from a lap-sash seat to a four-point harness seat",
+      "carSeat": "In season two, Bingo's car seat changed from a lap-sash seat to a four-point harness seat",
       "appearance": "Bingo is very similar in appearance to her aunt Brandy, as mentioned in 'Onesies'",
       "absentEpisodes": [
         "Shadowlands",
@@ -255,7 +313,7 @@
     }
   },
   {
-    "characterName": "Bandit Custard Heeler",
+    "characterName": "Bandit Heeler",
     "species": "Dog",
     "breed": "Blue Heeler (Australian Cattle Dog)",
     "gender": "Male",
@@ -263,18 +321,41 @@
     "occupation": "Archaeologist",
     "family": {
       "spouse": "Chilli Heeler",
-      "children": ["Bluey Heeler", "Bingo Heeler"],
-      "parents": ["Bob Heeler", "Chris Heeler"],
-      "siblings": ["Radley Heeler", "Stripe Heeler"],
-      "nieces": ["Muffin Heeler", "Socks Heeler"],
-      "in-laws": ["Trixie Heeler", "Frisky Heeler", "Brandy Cattle"],
+      "children": [
+        "Bluey Heeler",
+        "Bingo Heeler"
+      ],
+      "parents": [
+        "Bob Heeler",
+        "Chris Heeler"
+      ],
+      "siblings": [
+        "Radley Heeler",
+        "Uncle Stripe"
+      ],
+      "nieces": [
+        "Muffin",
+        "Socks"
+      ],
+      "in-laws": [
+        "Trixie Heeler",
+        "Frisky",
+        "Brandy Cattle"
+      ],
       "grandparents": {
-        "maternal": ["Unknown"],
-        "paternal": ["Unknown"]
+        "maternal": [
+          "Unknown"
+        ],
+        "paternal": [
+          "Unknown"
+        ]
       }
     },
     "appearance": {
-      "fur": ["blueish grey", "dark blue"],
+      "fur": [
+        "blueish grey",
+        "dark blue"
+      ],
       "eyes": "Black",
       "nose": "Black",
       "markings": {
@@ -296,7 +377,9 @@
         "Playing squash",
         "Making 'dad jokes'"
       ],
-      "dislikes": ["Being reluctant to partake in games"]
+      "dislikes": [
+        "Being reluctant to partake in games"
+      ]
     },
     "catchphrases": [
       "Oh, no, not (characterName of the game)!",
@@ -309,28 +392,40 @@
       "Making 'dad jokes'"
     ],
     "voice_actor": "David McCormack",
-    "firstAppearance": "Magic Xylophone",
-    "notableEpisodes": ["Baby Race", "The Sign", "Fairytale"],
+    "firstAppearance": "The Magic Xylophone",
+    "notableEpisodes": [
+      "Babyrace",
+      "The Sign",
+      "Fairytale"
+    ],
     "funFacts": {
       "middle_characterName_origin": "Derived from the band 'Custard', which his voice actor David McCormack is a part of",
       "occupation_influence": "Based on creator Joe Brumm's brother, Adam, an archaeologist involved in the discovery of Homo floresiensis",
       "voice_recording": "David McCormack records his lines remotely in Sydney without hearing other actors or viewing footage",
       "parenting_style": "Praised as a positive father figure, balancing work and family life while engaging in imaginative play with his children"
-    }
+    },
+    "friends": []
   },
   {
     "characterName": "Bella",
-    "aliases": ["Coco's Mum"],
+    "aliases": [
+      "Coco's Mum"
+    ],
     "species": "Dog",
     "breed": "Poodle",
     "gender": "Female",
     "occupation": "Mother",
     "family": {
       "spouse": "UncharacterNamed husband",
-      "children": ["Coco", "Eight other uncharacterNamed children"]
+      "children": [
+        "Coco"
+      ]
     },
     "appearance": {
-      "fur": ["pink", "dark pink"],
+      "fur": [
+        "pink",
+        "dark pink"
+      ],
       "eyes": "black",
       "nose": "black",
       "markings": {
@@ -348,13 +443,20 @@
         "headTuft": "dark pink"
       }
     },
-    "friends": ["Chilli Heeler", "Wendy", "Snickers' Mum"],
+    "friends": [
+      "Chilli Heeler",
+      "Wendy",
+      "Snickers' Mum"
+    ],
     "voiceActors": {
       "Shadowlands": "Hsiao-Ling Tang",
       "Baby Race": "Leigh Sales"
     },
     "firstAppearance": "Shadowlands",
-    "notableEpisodes": ["Shadowlands", "Baby Race"],
+    "notableEpisodes": [
+      "Shadowlands",
+      "Babyrace"
+    ],
     "funFacts": {
       "motherhood": "Bella has nine children, including Coco.",
       "licensePlate": "Her car's license plate reads '2MNYKID5' (too many kids).",
@@ -368,25 +470,41 @@
     "gender": "Female",
     "family": {
       "mother": "Bentley's Mum",
-      "siblings": ["Zara"]
+      "siblings": []
     },
     "appearance": {
-      "fur": ["white", "brown"],
+      "fur": [
+        "white",
+        "brown"
+      ],
       "eyes": "black",
       "markings": {
         "fur": "Fluffy white and brown fur",
         "size": "Small stature"
       }
     },
-    "friends": ["Bingo Heeler", "Bluey Heeler"],
+    "friends": [
+      "Bingo Heeler",
+      "Bluey Heeler"
+    ],
     "personality": {
-      "traits": ["Inventive", "Friendly", "Supportive", "Determined"]
+      "traits": [
+        "Inventive",
+        "Friendly",
+        "Supportive",
+        "Determined"
+      ]
     },
     "firstAppearance": "Bike",
-    "notableEpisodes": ["Bike", "Fairies", "The Adventure", "Mums and Dads"],
+    "notableEpisodes": [
+      "Bike",
+      "Fairies",
+      "The Adventure",
+      "Mums And Dads"
+    ],
     "funFacts": {
       "twinSister": "Bentley has a twin sister characterNamed Zara.",
-      "kindyClass": "Bentley is part of Mrs. Retriever’s kindy class."
+      "kindyClass": "Bentley is part of Mrs. Retriever's kindy class."
     }
   },
   {
@@ -395,20 +513,28 @@
     "breed": "Cavalier King Charles Spaniel",
     "gender": "Female",
     "appearance": {
-      "fur": ["brown", "white"],
+      "fur": [
+        "brown",
+        "white"
+      ],
       "eyes": "black",
       "markings": {
         "similarAppearance": "Similar appearance to Bentley"
       }
     },
     "family": {
-      "children": ["Bentley", "Zara"]
+      "children": [
+        "Bently"
+      ]
     },
     "firstAppearance": "Bob Bilby",
-    "notableEpisodes": ["Bob Bilby"],
+    "notableEpisodes": [
+      "Bob Bilby"
+    ],
     "funFacts": {
       "limitedInformation": "Specific details about Bentley's Mum are limited as she is a minor character."
-    }
+    },
+    "friends": []
   },
   {
     "characterName": "Biscuits & Buttermilk",
@@ -423,10 +549,14 @@
       }
     },
     "firstAppearance": "Markets",
-    "notableEpisodes": ["Markets"],
+    "notableEpisodes": [
+      "Markets"
+    ],
     "funFacts": {
       "indysAdmiration": "Indy admires Buttermilk in the episode 'Markets'."
-    }
+    },
+    "friends": [],
+    "family": {}
   },
   {
     "characterName": "Bob Heeler",
@@ -436,7 +566,13 @@
     ],
     "catchphrase": "Bobba!",
     "appearance": {
-      "fur": ["White", "Grey", "Dark Grey", "Black", "Brown"],
+      "fur": [
+        "White",
+        "Grey",
+        "Dark Grey",
+        "Black",
+        "Brown"
+      ],
       "distinctiveFeatures": [
         "Piece of left ear missing",
         "Beard whiskers on muzzle",
@@ -456,7 +592,9 @@
         "Distant or possibly experiencing memory loss"
       ]
     },
-    "nicknames": ["Bobba (used by Nana in 'Grannies' and the Grannies book)"],
+    "nicknames": [
+      "Bobba (used by Nana in 'Grannies' and the Grannies book)"
+    ],
     "relatives": [
       "Chris (wife)",
       "Bandit (son)",
@@ -470,14 +608,13 @@
       "Socks (granddaughter)",
       "Chris's Nana (grandmother-in-law)"
     ],
-    "friends": "Unknown – no established close friends in the show",
+    "friends": [],
     "firstAppearance": "Grannies",
     "notableEpisodes": [
       "Grannies",
       "Fairytale",
       "Christmas Swim",
-      "Bedroom",
-      "Humpty Dumpty"
+      "Bedroom"
     ],
     "trivia": {
       "absenceDetails": "He has the longest absence of any character, with a gap of 101 episodes between his physical appearances in Grannies and Fairytale. Even his appearance in Fairytale was a flashback.",
@@ -494,18 +631,23 @@
       "[3] Episode 'Fairytale'",
       "[4] Episode 'Bedroom'",
       "[5] Episode 'Humpty Dumpty'",
-      "[6] Book 'Where’s Bluey?'"
-    ]
+      "[6] Book 'Where's Bluey?'"
+    ],
+    "family": {}
   },
   {
     "characterName": "Chilli Heeler",
     "description": [
-      "After having the kids, Chilli’s recently gone back to her job working at Airport Security and juggles this with raising her two little pups. Mum often has a wry comment about the kids' antics or a kind word for an overwrought child, but she’s equally at home throwing herself into a game and always able to see the funny side.",
-      "Chilli is a member of the Heeler family. She's the wife of Bandit, the mother of Bluey and Bingo, the aunt of Muffin and Socks, the daughter-in-law of Bob and Nana, and the sister-in-law of Trixie, Rad, and Stripe. Her father is Mort, and her older sister is Brandy. Chilli works part-time in airport security. As a child, Chilli spent a lot of time playing in the scrub near her father’s home. Her family would vacation at a caravan park where Bandit would recall meeting her as children. Chilli doesn't remember this but admits it could be true. She recalls their first meeting being a party in London. Chilli would later remember Bandit having a finger up his nose when they first met. The two began dating, and Bandit eventually proposed to Chilli while they backpacked in Italy. They later married, and guests included Frisky, who would later become Bluey’s godmother, and Bandit's brother Rad. The wedding venue included a pool, which Rad probably fell into. Sometime after the wedding, Chilli became pregnant and gave birth to Bluey. Bingo, their youngest daughter, was born a couple of years later. Chilli currently lives with Bandit and their daughters in the suburbs."
+      "After having the kids, Chilli's recently gone back to her job working at Airport Security and juggles this with raising her two little pups. Mum often has a wry comment about the kids' antics or a kind word for an overwrought child, but she's equally at home throwing herself into a game and always able to see the funny side.",
+      "Chilli is a member of the Heeler family. She's the wife of Bandit, the mother of Bluey and Bingo, the aunt of Muffin and Socks, the daughter-in-law of Bob and Nana, and the sister-in-law of Trixie, Rad, and Stripe. Her father is Mort, and her older sister is Brandy. Chilli works part-time in airport security. As a child, Chilli spent a lot of time playing in the scrub near her father's home. Her family would vacation at a caravan park where Bandit would recall meeting her as children. Chilli doesn't remember this but admits it could be true. She recalls their first meeting being a party in London. Chilli would later remember Bandit having a finger up his nose when they first met. The two began dating, and Bandit eventually proposed to Chilli while they backpacked in Italy. They later married, and guests included Frisky, who would later become Bluey's godmother, and Bandit's brother Rad. The wedding venue included a pool, which Rad probably fell into. Sometime after the wedding, Chilli became pregnant and gave birth to Bluey. Bingo, their youngest daughter, was born a couple of years later. Chilli currently lives with Bandit and their daughters in the suburbs."
     ],
     "catchphrase": "",
     "appearance": {
-      "fur": ["Cream", "Light Orange", "Brown"],
+      "fur": [
+        "Cream",
+        "Light Orange",
+        "Brown"
+      ],
       "distinctiveFeatures": [
         "Cream feet, hands, tail spots, back spots, chest, muzzle, and eyebrows",
         "Light orange legs, arms, tail, torso, and head",
@@ -519,9 +661,20 @@
       "breed": "Red Heeler"
     },
     "personality": {
-      "traits": ["Caring", "Comforting", "Playful", "Kind"]
+      "traits": [
+        "Caring",
+        "Comforting",
+        "Playful",
+        "Kind"
+      ]
     },
-    "nicknames": ["Pavlova", "Lady Gaberdine", "Madge", "Chilli Dog", "Sharon"],
+    "nicknames": [
+      "Pavlova",
+      "Lady Gaberdine",
+      "Madge",
+      "Chilli Dog",
+      "Sharon"
+    ],
     "relatives": [
       "Bandit (husband)",
       "Bluey (daughter)",
@@ -540,9 +693,9 @@
     ],
     "friends": [
       "Daisy",
-      "Mackenzie’s Mum",
-      "Chloe’s Mum",
-      "Snickers’ Mum",
+      "Mackenzie's Mum",
+      "Chloe's Mum",
+      "Snickers' Mum",
       "Bella",
       "Wendy",
       "Frisky",
@@ -599,7 +752,8 @@
     ],
     "gallery": "",
     "animated": "Yes",
-    "references": ""
+    "references": "",
+    "family": {}
   },
   {
     "characterName": "Muffin",
@@ -609,7 +763,11 @@
     ],
     "catchphrase": "Hooray!",
     "appearance": {
-      "fur": ["Light Blue", "White", "Dark Blue"],
+      "fur": [
+        "Light Blue",
+        "White",
+        "Dark Blue"
+      ],
       "distinctiveFeatures": [
         "White paws and belly",
         "Darker blue spots on her back and tail",
@@ -631,7 +789,10 @@
       ],
       "behavior": "Muffin's impulsiveness often causes chaos, but she always comes around in the end."
     },
-    "nicknames": ["Muff", "Muffin-tuff"],
+    "nicknames": [
+      "Muff",
+      "Muffin-tuff"
+    ],
     "relatives": [
       "Bluey (cousin)",
       "Bingo (cousin)",
@@ -644,8 +805,10 @@
       "Stripe (uncle)",
       "Socks (cousin)"
     ],
-    "friends": ["Bluey", "Bingo", "Other children from school"],
-    "firstAppearance": "Muffin's Birthday",
+    "friends": [
+      "Bluey Heeler",
+      "Bingo Heeler"
+    ],
     "trivia": {
       "personality": "Muffin is often depicted as being younger than Bluey and Bingo, with her naivety and impulsive behavior creating humorous situations.",
       "loveOfCake": "Muffin is known for her love of cake."
@@ -655,17 +818,21 @@
     ],
     "gallery": "",
     "animated": "Yes",
-    "references": "Episode 'Muffin's Birthday'"
+    "references": "Episode 'Muffin's Birthday'",
+    "family": {}
   },
   {
     "characterName": "Jack",
     "description": [
-      "Jack is Chilli’s brother and Bluey and Bingo’s uncle. He is an easygoing, fun-loving character who enjoys spending time with his nieces and nephews. He has a love for the outdoors and is often seen engaging in outdoor activities with the family.",
+      "Jack is Chilli's brother and Bluey and Bingo's uncle. He is an easygoing, fun-loving character who enjoys spending time with his nieces and nephews. He has a love for the outdoors and is often seen engaging in outdoor activities with the family.",
       "Jack first appeared in the episode 'The Creek.'"
     ],
     "catchphrase": "G'day!",
     "appearance": {
-      "fur": ["Blue", "White"],
+      "fur": [
+        "Blue",
+        "White"
+      ],
       "distinctiveFeatures": [
         "White paws",
         "White muzzle",
@@ -678,10 +845,18 @@
       "clothing": "Casual clothing such as a t-shirt or hoodie"
     },
     "personality": {
-      "traits": ["Relaxed", "Outdoorsy", "Adventurous", "Playful", "Laid-back"],
+      "traits": [
+        "Relaxed",
+        "Outdoorsy",
+        "Adventurous",
+        "Playful",
+        "Laid-back"
+      ],
       "behavior": "Jack enjoys physical activities like swimming, camping, and hiking. He often joins in Bluey and Bingo's games or encourages them to explore."
     },
-    "nicknames": ["Uncle Jack"],
+    "nicknames": [
+      "Uncle Jack"
+    ],
     "relatives": [
       "Chilli (sister)",
       "Bandit (brother-in-law)",
@@ -692,7 +867,9 @@
       "Trixie (sister-in-law)",
       "Bob (father)"
     ],
-    "friends": ["Bandit", "Other family members"],
+    "friends": [
+      "Bandit Heeler"
+    ],
     "firstAppearance": "The Creek",
     "trivia": {
       "natureLover": "Jack loves nature and often brings a relaxed and calming presence to the family.",
@@ -703,17 +880,23 @@
     ],
     "gallery": "",
     "animated": "Yes",
-    "references": "Episode 'The Creek'"
+    "references": "Episode 'The Creek'",
+    "family": {}
   },
   {
     "characterName": "Rusty",
     "description": [
-      "Rusty is a young, energetic pup who is Bluey and Bingo’s best friend. He is known for being a little more mature for his age, as well as having a bit of a bossy side. He’s very competitive and likes to be involved in any game Bluey and Bingo play.",
+      "Rusty is a young, energetic pup who is Bluey and Bingo's best friend. He is known for being a little more mature for his age, as well as having a bit of a bossy side. He's very competitive and likes to be involved in any game Bluey and Bingo play.",
       "Rusty first appeared in the episode 'The Adventure.'"
     ],
     "catchphrase": "Let's do it!",
     "appearance": {
-      "fur": ["Red", "Tan", "White", "Black"],
+      "fur": [
+        "Red",
+        "Tan",
+        "White",
+        "Black"
+      ],
       "distinctiveFeatures": [
         "Patch of white on his chest",
         "Tan snout",
@@ -734,9 +917,18 @@
       ],
       "behavior": "Rusty enjoys leading games, often taking charge and encouraging others to follow his ideas. His competitive nature often drives him to be involved in every challenge Bluey and Bingo come up with."
     },
-    "nicknames": ["Rust", "Rusty-boy"],
-    "relatives": ["No known relatives other than his parents"],
-    "friends": ["Bluey", "Bingo", "Muffin", "Other kids in the neighborhood"],
+    "nicknames": [
+      "Rust",
+      "Rusty-boy"
+    ],
+    "relatives": [
+      "No known relatives other than his parents"
+    ],
+    "friends": [
+      "Bluey Heeler",
+      "Bingo Heeler",
+      "Muffin"
+    ],
     "firstAppearance": "The Adventure",
     "trivia": {
       "breedTraits": "Rusty is an Australian Cattle Dog, a breed known for its intelligence and energy.",
@@ -747,17 +939,22 @@
     ],
     "gallery": "",
     "animated": "Yes",
-    "references": "Episode 'The Adventure'"
+    "references": "Episode 'The Adventure'",
+    "family": {}
   },
   {
     "characterName": "Lucky",
     "description": [
-      "Lucky is one of Bluey's friends. He’s a lovable, somewhat mischievous dog who often joins in on Bluey’s adventures. He has a calm and friendly demeanor but can sometimes be found in amusing situations.",
+      "Lucky is one of Bluey's friends. He's a lovable, somewhat mischievous dog who often joins in on Bluey's adventures. He has a calm and friendly demeanor but can sometimes be found in amusing situations.",
       "Lucky first appeared in the episode 'Lucky's Toy.'"
     ],
     "catchphrase": "No worries!",
     "appearance": {
-      "fur": ["Red", "White", "Tan"],
+      "fur": [
+        "Red",
+        "White",
+        "Tan"
+      ],
       "distinctiveFeatures": [
         "White paws",
         "Tan face",
@@ -769,29 +966,48 @@
       "breed": "Red Heeler"
     },
     "personality": {
-      "traits": ["Relaxed", "Easygoing", "Mischievous", "Carefree"],
-      "behavior": "Lucky is always up for fun and enjoys joining Bluey’s games. He has a laid-back nature, and often finds himself in amusing situations. His trademark line, 'No worries,' reflects his ability to stay calm in tough moments."
+      "traits": [
+        "Relaxed",
+        "Easygoing",
+        "Mischievous",
+        "Carefree"
+      ],
+      "behavior": "Lucky is always up for fun and enjoys joining Bluey's games. He has a laid-back nature, and often finds himself in amusing situations. His trademark line, 'No worries,' reflects his ability to stay calm in tough moments."
     },
-    "nicknames": ["Luck", "Lucky-boy"],
-    "relatives": ["No known relatives"],
-    "friends": ["Bluey", "Bingo", "Other neighborhood pups"],
-    "firstAppearance": "Lucky's Toy",
+    "nicknames": [
+      "Luck",
+      "Lucky-boy"
+    ],
+    "relatives": [
+      "No known relatives"
+    ],
+    "friends": [
+      "Bluey Heeler",
+      "Bingo Heeler"
+    ],
     "trivia": {
-      "carefreeNature": "Lucky’s carefree nature makes him a fun companion for Bluey and Bingo. He's always ready for an adventure or a solution to a problem, no matter how silly it may seem."
+      "carefreeNature": "Lucky's carefree nature makes him a fun companion for Bluey and Bingo. He's always ready for an adventure or a solution to a problem, no matter how silly it may seem."
     },
     "absences": [
       "Lucky appears in many episodes but is not as regularly featured as Bluey or Bingo."
     ],
     "gallery": "",
     "animated": "Yes",
-    "references": "Episode 'Lucky's Toy'"
+    "references": "Episode 'Lucky's Toy'",
+    "family": {}
   },
   {
     "characterName": "Mackenzie Border Collie",
-    "description": ["Quick, sociable and from New Zealand.", ""],
+    "description": [
+      "Quick, sociable and from New Zealand.",
+      ""
+    ],
     "catchphrase": "",
     "appearance": {
-      "fur": ["Black", "White"],
+      "fur": [
+        "Black",
+        "White"
+      ],
       "distinctiveFeatures": [
         "Black left foot",
         "Black right leg",
@@ -814,24 +1030,32 @@
       "breed": "Border Collie"
     },
     "personality": {
-      "traits": ["Enthusiastic", "Friendly", "Impatient", "Rude at times"],
-      "behavior": "Mackenzie is sociable and loves to interact, but he can be a bit impatient and prefers to get straight to the point. Despite his occasional rudeness, he’s easy to cheer up and is generally friendly."
+      "traits": [
+        "Enthusiastic",
+        "Friendly",
+        "Impatient",
+        "Rude at times"
+      ],
+      "behavior": "Mackenzie is sociable and loves to interact, but he can be a bit impatient and prefers to get straight to the point. Despite his occasional rudeness, he's easy to cheer up and is generally friendly."
     },
     "nicknames": "",
-    "relatives": ["Mackenzie’s Dad", "Mackenzie’s Mum"],
+    "relatives": [
+      "Mackenzie's Dad",
+      "Mackenzie's Mum"
+    ],
     "friends": [
-      "Bluey",
+      "Bluey Heeler",
       "Captain",
       "Honey",
       "Coco",
       "Chloe",
-      "Bingo",
-      "Bandit",
+      "Bingo Heeler",
+      "Bandit Heeler",
       "Rusty",
       "Hercules",
       "Jack"
     ],
-    "firstAppearance": "Fruitbat (cameo)",
+    "firstAppearance": "Fruit Bat",
     "trivia": {
       "inspiration": "Mackenzie's appearance was inspired by Dog from the New Zealand comic Footrot Flats.",
       "uniqueFact": "Mackenzie is one of the very few kids in the show with a known voice actor, along with Chloe, Judo, and Snickers.",
@@ -845,17 +1069,22 @@
     "absences": "",
     "gallery": "",
     "animated": "",
-    "references": ""
+    "references": "",
+    "family": {}
   },
   {
     "characterName": "Indy",
     "description": [
       "Super open and imaginative.",
-      "Indy is friends with most of the students in Calypso’s school. She has a Mum and a sister, but no known dad as of yet."
+      "Indy is friends with most of the students in Calypso's school. She has a Mum and a sister, but no known dad as of yet."
     ],
     "catchphrase": "",
     "appearance": {
-      "fur": ["Orange", "Tan", "Cream"],
+      "fur": [
+        "Orange",
+        "Tan",
+        "Cream"
+      ],
       "distinctiveFeatures": [
         "Tan on her legs, hands, arms, tail, torso, bottom of her head and muzzle, and eyebrows.",
         "Orange on her hair, the top of her head, and muzzle.",
@@ -872,14 +1101,20 @@
       "breed": "Afghan Hound"
     },
     "personality": {
-      "traits": ["Open", "Imaginative"],
+      "traits": [
+        "Open",
+        "Imaginative"
+      ],
       "behavior": "Indy is a friendly and imaginative character who connects well with her peers, often showing an open and creative personality."
     },
     "nicknames": "",
-    "relatives": ["Indy's Mum", "UncharacterNamed sister (Early Baby)"],
+    "relatives": [
+      "Indy's Mum",
+      "UncharacterNamed sister (Early Baby)"
+    ],
     "friends": [
-      "Bluey",
-      "Bingo",
+      "Bluey Heeler",
+      "Bingo Heeler",
       "Chloe",
       "Honey",
       "Rusty",
@@ -888,29 +1123,35 @@
       "Snickers",
       "The Terriers",
       "Coco",
-      "Mackenzie"
+      "Mackenzie Border Collie"
     ],
     "firstAppearance": "Calypso",
     "trivia": {
-      "dietaryRestrictions": "Indy is not allowed to eat wheat/gluten, sugar, salt, dairy, or food with added ingredients (like prepackaged tomato sauce, barbecue sauce, and mustard) due to her allergies, religion, tradition, or her family’s basic diet.",
+      "dietaryRestrictions": "Indy is not allowed to eat wheat/gluten, sugar, salt, dairy, or food with added ingredients (like prepackaged tomato sauce, barbecue sauce, and mustard) due to her allergies, religion, tradition, or her family's basic diet.",
       "hairChanges": "She is seen with longer hair in some episodes, but the studio shortened it for easier animation. When she had longer hair, she wore green, blue, yellow, and pink hair rings.",
-      "siblingInfo": "In the 'Early Baby' episode, it is revealed that Indy has a sister who either had a premature baby or was a preemie herself, though this hasn’t been fully explained yet. It’s assumed Indy’s sister had the early baby, as Bluey mentions wanting to play 'Early Baby' like her sister.",
+      "siblingInfo": "In the 'Early Baby' episode, it is revealed that Indy has a sister who either had a premature baby or was a preemie herself, though this hasn't been fully explained yet. It's assumed Indy's sister had the early baby, as Bluey mentions wanting to play 'Early Baby' like her sister.",
       "characterNameOrigin": "Her characterName, Indy, is a diminutive of Indianapolis."
     },
     "absences": "",
     "gallery": "",
     "animated": "",
-    "references": ""
+    "references": "",
+    "family": {}
   },
   {
     "characterName": "Honey",
     "description": [
       "Assertive, thoughtful, and mindful.",
-      "Honey is friends with many of the children in Calypso’s school. She has a Dad called Marcus and a Mum called Daisy."
+      "Honey is friends with many of the children in Calypso's school. She has a Dad called Marcus and a Mum called Daisy."
     ],
     "catchphrase": "",
     "appearance": {
-      "fur": ["White", "Honey", "Dark Honey", "Brown"],
+      "fur": [
+        "White",
+        "Honey",
+        "Dark Honey",
+        "Brown"
+      ],
       "distinctiveFeatures": [
         "White feet, hands, first tail tip, chest, and muzzle",
         "Honey-colored legs, arms, tail stem, torso, and head",
@@ -918,24 +1159,33 @@
         "Dark honey-colored ears",
         "Black nose"
       ],
-      "accessories": ["Circle turquoise glasses"],
+      "accessories": [
+        "Circle turquoise glasses"
+      ],
       "eyes": "Black",
       "gender": "Female ♀",
       "breed": "Beagle"
     },
     "personality": {
-      "traits": ["Assertive", "Thoughtful", "Mindful"],
+      "traits": [
+        "Assertive",
+        "Thoughtful",
+        "Mindful"
+      ],
       "behavior": "Honey is known for her strong sense of mindfulness and thoughtfulness, often asserting herself in group situations. She is a reliable friend who values consideration and care in her interactions."
     },
     "nicknames": "",
-    "relatives": ["Daisy (Mum)", "Marcus (Dad)"],
+    "relatives": [
+      "Daisy (Mum)",
+      "Marcus (Dad)"
+    ],
     "friends": [
-      "Bluey",
+      "Bluey Heeler",
       "Coco",
       "Chloe",
-      "Mackenzie",
+      "Mackenzie Border Collie",
       "Indy",
-      "Bingo",
+      "Bingo Heeler",
       "Rusty",
       "Hercules",
       "Snickers",
@@ -943,35 +1193,44 @@
     ],
     "firstAppearance": "Spy Game",
     "trivia": {
-      "parentTraits": "Honey’s parents, Daisy and Marcus, both wear glasses like her.",
-      "uniqueTail": "Unlike most dogs, Honey’s tail can wag her body rather than the other way around.",
+      "parentTraits": "Honey's parents, Daisy and Marcus, both wear glasses like her.",
+      "uniqueTail": "Unlike most dogs, Honey's tail can wag her body rather than the other way around.",
       "characterNameOrigin": "Her characterName is a reference to the sweet food substance, Honey."
     },
     "absences": "",
     "gallery": "",
     "animated": "",
-    "references": ""
+    "references": "",
+    "family": {}
   },
   {
     "characterName": "Coco",
     "description": [
       "Enthusiastic, impatient.",
-      "Coco is friends with most of the students in Calypso’s School. She has a mum, a dad, and eight older siblings."
+      "Coco is friends with most of the students in Calypso's School. She has a mum, a dad, and eight older siblings."
     ],
     "catchphrase": "",
     "appearance": {
-      "fur": ["Pink", "Light Pink"],
+      "fur": [
+        "Pink",
+        "Light Pink"
+      ],
       "distinctiveFeatures": [
         "Bright pink tufts of fur on her head, ears, hands, feet, and tail",
         "Rest of the fur is light pink"
       ],
-      "accessories": ["Blue butterfly hair clips"],
+      "accessories": [
+        "Blue butterfly hair clips"
+      ],
       "eyes": "Black",
       "gender": "Female ♀",
       "breed": "Poodle"
     },
     "personality": {
-      "traits": ["Enthusiastic", "Impatient"],
+      "traits": [
+        "Enthusiastic",
+        "Impatient"
+      ],
       "behavior": "Coco is full of energy and excitement but tends to be impatient, often seeking shortcuts or bending the rules to make things easier for herself."
     },
     "nicknames": "",
@@ -982,8 +1241,8 @@
       "5 UncharacterNamed Older Sisters"
     ],
     "friends": [
-      "Bluey",
-      "Bingo",
+      "Bluey Heeler",
+      "Bingo Heeler",
       "Indy",
       "Rusty",
       "Honey",
@@ -1005,7 +1264,8 @@
     "absences": "",
     "gallery": "",
     "animated": "",
-    "references": ""
+    "references": "",
+    "family": {}
   },
   {
     "characterName": "Customer",
@@ -1015,7 +1275,13 @@
     ],
     "catchphrase": "",
     "appearance": {
-      "fur": ["Brown", "Dark Brown", "White", "Grey", "Pink"],
+      "fur": [
+        "Brown",
+        "Dark Brown",
+        "White",
+        "Grey",
+        "Pink"
+      ],
       "distinctiveFeatures": [
         "Brown legs, arms, tail stem, and torso",
         "Dark brown outer ears and head",
@@ -1030,7 +1296,9 @@
     "personality": "No specific personality traits are provided for this character.",
     "nicknames": "",
     "relatives": "No known relatives.",
-    "friends": ["Bandit"],
+    "friends": [
+      "Bandit Heeler"
+    ],
     "firstAppearance": "Kids",
     "trivia": {
       "designSimilarity": "Customer shares the same design as Poffertje Dog, who appeared in 'Markets', but is voiced by a different person in each occurrence.",
@@ -1040,7 +1308,8 @@
     "absences": "",
     "gallery": "",
     "animated": "Yes",
-    "references": ""
+    "references": "",
+    "family": {}
   },
   {
     "characterName": "Customer 2",
@@ -1050,7 +1319,12 @@
     ],
     "catchphrase": "",
     "appearance": {
-      "fur": ["Orange", "White", "Light Brown", "Pink"],
+      "fur": [
+        "Orange",
+        "White",
+        "Light Brown",
+        "Pink"
+      ],
       "distinctiveFeatures": [
         "Orange legs, arms, tail stem, torso, head, and outer ears",
         "White feet, tail tip, hands, chest, and eyebrows",
@@ -1064,7 +1338,7 @@
     "personality": "No specific personality traits are provided for this character.",
     "nicknames": "",
     "relatives": "No known relatives.",
-    "friends": "No known friends.",
+    "friends": [],
     "firstAppearance": "Markets",
     "trivia": {
       "gender": "The gender for Customer 2 is currently unknown."
@@ -1072,7 +1346,8 @@
     "absences": "",
     "gallery": "",
     "animated": "Yes",
-    "references": ""
+    "references": "",
+    "family": {}
   },
   {
     "characterName": "Snickers",
@@ -1080,9 +1355,13 @@
       "Not the most physical kid but loves machines, atoms and the stars.",
       "Snickers is a friend of Bluey and enjoys building things with his hands. He's not as active in games, preferring to focus on the more intellectual side of play, such as understanding how things work."
     ],
-    "catchphrase": "I think I’ve figured it out!",
+    "catchphrase": "I think I've figured it out!",
     "appearance": {
-      "fur": ["Light brown", "Tan", "White"],
+      "fur": [
+        "Light brown",
+        "Tan",
+        "White"
+      ],
       "distinctiveFeatures": [
         "Darker spots on his back and tail",
         "White muzzle and paws",
@@ -1095,7 +1374,10 @@
     "personality": "Snickers is quiet and thoughtful, preferring activities that challenge his intellect, such as problem-solving and understanding how things work. He enjoys spending time with Bluey and the other kids, especially when it involves learning new things.",
     "nicknames": "",
     "relatives": "No known relatives.",
-    "friends": "Bluey, Bingo",
+    "friends": [
+      "Bluey Heeler",
+      "Bingo Heeler"
+    ],
     "firstAppearance": "The Beach",
     "trivia": {
       "intellectualSide": "Snickers is one of the more intellectual characters in the show, often seen tinkering with gadgets or discussing complex topics. His love for machines and science is often a focal point in episodes that feature him."
@@ -1103,17 +1385,21 @@
     "absences": "",
     "gallery": "",
     "animated": "Yes",
-    "references": ""
+    "references": "",
+    "family": {}
   },
   {
     "characterName": "Chloe",
     "description": [
-      "Bluey’s Best Friend. Super kind, gentle and smart.",
-      "Chloe is Bluey’s best friend but is also friends with most of the students in Calypso‘s school. She is seven years old, and has a Dad, Mum and Baby Brother."
+      "Bluey's Best Friend. Super kind, gentle and smart.",
+      "Chloe is Bluey's best friend but is also friends with most of the students in Calypso's school. She is seven years old, and has a Dad, Mum and Baby Brother."
     ],
     "catchphrase": "",
     "appearance": {
-      "fur": ["White", "Black"],
+      "fur": [
+        "White",
+        "Black"
+      ],
       "distinctiveFeatures": [
         "Black leg spots",
         "Arm spots",
@@ -1131,8 +1417,17 @@
     },
     "personality": "Chloe is energetic and loves playing with Bluey and her friends at Calypso's School.",
     "nicknames": "",
-    "relatives": "Frank (father), Chloe’s Mum, UncharacterNamed baby brother",
-    "friends": "Bluey (best friend), Bingo, Mackenzie, Indy, Honey, Rusty, Coco, Gruber",
+    "relatives": "Frank (father), Chloe's Mum, UncharacterNamed baby brother",
+    "friends": [
+      "Bluey Heeler",
+      "Bingo Heeler",
+      "Mackenzie Border Collie",
+      "Indy",
+      "Honey",
+      "Rusty",
+      "Coco",
+      "Gruber"
+    ],
     "firstAppearance": "Bike",
     "trivia": {
       "birthday": "Her age was revealed to be 7 at the start of Featherwand.",
@@ -1142,16 +1437,20 @@
     "absences": "",
     "gallery": "",
     "animated": "Yes",
-    "references": ""
+    "references": "",
+    "family": {}
   },
   {
     "characterName": "Chloe's Mum",
     "description": [
-      "Chloe’s Mum is friends with Bluey, Honey and Mackenzie’s parents. She has a daughter characterNamed Chloe, a husband, and a baby son."
+      "Chloe's Mum is friends with Bluey, Honey and Mackenzie's parents. She has a daughter characterNamed Chloe, a husband, and a baby son."
     ],
     "catchphrase": "",
     "appearance": {
-      "fur": ["White", "Black"],
+      "fur": [
+        "White",
+        "Black"
+      ],
       "distinctiveFeatures": [
         "Black leg spots",
         "Torso spots",
@@ -1161,7 +1460,7 @@
         "Ear spots",
         "White feet, legs, arms, hands, torso, tail stem, head, eyebrows",
         "Black nose",
-        "Commonly seen wheeling a pram with Chloe’s Baby Brother inside"
+        "Commonly seen wheeling a pram with Chloe's Baby Brother inside"
       ],
       "eyes": "Black",
       "gender": "Female ♀",
@@ -1170,7 +1469,14 @@
     "personality": "",
     "nicknames": "",
     "relatives": "Frank (husband), Chloe (daughter), UncharacterNamed son",
-    "friends": "Bandit, Chilli, Mackenzie’s Dad, Mackenzie’s Mum, Marcus, Daisy",
+    "friends": [
+      "Bandit Heeler",
+      "Chilli Heeler",
+      "Mackenzie's Dad",
+      "Mackenzie's Mum",
+      "Marcus",
+      "Daisy"
+    ],
     "firstAppearance": "The Magic Xylophone",
     "trivia": {
       "voiceActor": "Chloe's Mum is voiced by actress Hsiao-Ling Tang.",
@@ -1179,17 +1485,21 @@
     "absences": "",
     "gallery": "",
     "animated": "Yes",
-    "references": ""
+    "references": "",
+    "family": {}
   },
   {
     "characterName": "Frank",
     "description": [
       "Frank is a secondary character that has appeared in multiple episodes of Bluey.",
-      "Frank is friends with Bluey, Mackenzie, and Honey‘s parents. He has a wife, a baby son, and a daughter characterNamed Chloe."
+      "Frank is friends with Bluey, Mackenzie, and Honey's parents. He has a wife, a baby son, and a daughter characterNamed Chloe."
     ],
     "catchphrase": "",
     "appearance": {
-      "fur": ["White", "Black"],
+      "fur": [
+        "White",
+        "Black"
+      ],
       "distinctiveFeatures": [
         "Black leg spots",
         "Arm spots",
@@ -1208,26 +1518,38 @@
     },
     "personality": "",
     "nicknames": "",
-    "relatives": "Chloe (daughter), Chloe’s Mum (wife), UncharacterNamed son",
-    "friends": "Chilli, Bandit, Mackenzie’s Dad, Mackenzie’s Mum, Marcus, Daisy",
+    "relatives": "Chloe (daughter), Chloe's Mum (wife), UncharacterNamed son",
+    "friends": [
+      "Chilli Heeler",
+      "Bandit Heeler",
+      "Mackenzie's Dad",
+      "Mackenzie's Mum",
+      "Marcus",
+      "Daisy"
+    ],
     "firstAppearance": "Spy Game",
     "trivia": {
-      "voiceActor": "He is voiced by one of the show’s designers, Francis Stanton."
+      "voiceActor": "He is voiced by one of the show's designers, Francis Stanton."
     },
     "absences": "",
     "gallery": "",
     "animated": "Yes",
-    "references": ""
+    "references": "",
+    "family": {}
   },
   {
     "characterName": "Judo",
     "description": [
-      "Bluey’s other neighbour.",
+      "Bluey's other neighbour.",
       "Judo is a young and energetic girl who is always full of enthusiasm. She is a good friend of Bluey and often plays with her in the neighborhood."
     ],
-    "catchphrase": "Let’s do this!",
+    "catchphrase": "Let's do this!",
     "appearance": {
-      "fur": ["Light brown", "White", "Dark brown"],
+      "fur": [
+        "Light brown",
+        "White",
+        "Dark brown"
+      ],
       "distinctiveFeatures": [
         "Darker spots around her ears and eyes",
         "White on her chest, paws, and the tip of her tail",
@@ -1239,25 +1561,34 @@
     },
     "personality": "Judo is confident, sporty, and loves to play games with Bluey and her friends. She is always up for a challenge and enjoys showing off her skills.",
     "nicknames": "Jude",
-    "relatives": "Judo’s Dad, Judo’s Mum",
-    "friends": "Bluey, Bingo",
+    "relatives": "Judo's Dad, Judo's Mum",
+    "friends": [
+      "Bluey Heeler",
+      "Bingo Heeler"
+    ],
     "firstAppearance": "The Beach",
     "trivia": "Judo is often seen participating in physical games, like sports or challenges, and is a natural leader among her friends.",
     "absences": "",
     "gallery": "",
     "animated": "Yes",
-    "references": ""
+    "references": "",
+    "family": {}
   },
   {
     "characterName": "Jean Luc",
     "description": [
-      "Bluey’s French Canadian camping buddy.",
+      "Bluey's French Canadian camping buddy.",
       "Jean-Luc is a secondary character that appeared in Camping."
     ],
     "catchphrase": "This is amazing!",
     "appearance": {
-      "fur": ["Bluish-black", "Navy"],
-      "distinctiveFeatures": ["Dark blue nose"],
+      "fur": [
+        "Bluish-black",
+        "Navy"
+      ],
+      "distinctiveFeatures": [
+        "Dark blue nose"
+      ],
       "eyes": "Black",
       "gender": "Male ♂",
       "breed": "Labrador"
@@ -1265,29 +1596,39 @@
     "personality": "Jean-Luc is friendly, adventurous, and enjoys the outdoors. He has a great sense of humor and enjoys spending time with Bluey and Bandit.",
     "nicknames": "Johnny (French dub)",
     "relatives": "Jean-Luc's Dad, Jean-Luc's Mum",
-    "friends": "Bluey, Bandit",
+    "friends": [
+      "Bluey Heeler",
+      "Bandit Heeler"
+    ],
     "firstAppearance": "Camping",
     "trivia": {
       "language": "Jean-Luc and his parents speak French. He is French-Canadian in reference to the Labrador breed and its ties to Newfoundland and Labrador in Canada.",
-      "appearance": "Jean-Luc is similar in appearance to Lucky, but isn’t slimmer towards his waist and has different coloured fur.",
+      "appearance": "Jean-Luc is similar in appearance to Lucky, but isn't slimmer towards his waist and has different coloured fur.",
       "future": "His future self speaks English as seen at the end of Camping.",
       "other": "In the French dub, Jean Luc is recharacterNamed Johnny and speaks English."
     },
     "absences": "",
     "gallery": "",
     "animated": "Yes",
-    "references": ""
+    "references": "",
+    "family": {}
   },
   {
     "characterName": "The Terriers",
     "description": [
-      "Unstoppable forces of nature. They’re little terriers.",
+      "Unstoppable forces of nature. They're little terriers.",
       "The Terriers are a group of small, energetic dogs that are full of mischief and energy. They are always causing chaos and running around in the neighborhood."
     ],
-    "catchphrase": "Let’s run!",
+    "catchphrase": "Let's run!",
     "appearance": {
-      "fur": ["Varied, typically scruffy", "Wiry"],
-      "distinctiveFeatures": ["Expressive faces", "Variety of colors"],
+      "fur": [
+        "Varied, typically scruffy",
+        "Wiry"
+      ],
+      "distinctiveFeatures": [
+        "Expressive faces",
+        "Variety of colors"
+      ],
       "eyes": "Varies",
       "gender": "Mixed",
       "breed": "Terrier"
@@ -1295,24 +1636,33 @@
     "personality": "The Terriers are playful, chaotic, and always up to something fun. They enjoy running, digging, and playing in the park, and they are not afraid to get into trouble.",
     "nicknames": "",
     "relatives": "",
-    "friends": "Bluey, Bingo",
-    "firstAppearance": "The Terriers",
+    "friends": [
+      "Bluey Heeler",
+      "Bingo Heeler"
+    ],
     "trivia": "The Terriers are known for their boundless energy and their love for exploring and causing playful chaos wherever they go.",
     "absences": "",
     "gallery": "",
     "animated": "Yes",
-    "references": ""
+    "references": "",
+    "family": {}
   },
   {
     "characterName": "Socks",
     "description": [
-      "Muffin’s baby sister is just starting to talk.",
+      "Muffin's baby sister is just starting to talk.",
       "Socks is a small and cute pup who is still learning to talk and interact with her surroundings. She often mimics what she hears and is still figuring out how to express herself."
     ],
     "catchphrase": "Muffin! Look!",
     "appearance": {
-      "fur": ["Blue", "White on paws, belly, and tail tip"],
-      "distinctiveFeatures": ["Big, wide eyes", "Playful expression"],
+      "fur": [
+        "Blue",
+        "White on paws, belly, and tail tip"
+      ],
+      "distinctiveFeatures": [
+        "Big, wide eyes",
+        "Playful expression"
+      ],
       "eyes": "Blue",
       "gender": "Female ♀",
       "breed": "Unknown"
@@ -1320,23 +1670,32 @@
     "personality": "Socks is curious, playful, and loves to follow her older sister Muffin around. She's just starting to learn new things and has a lot of energy.",
     "nicknames": "",
     "relatives": "Muffin (sister), UncharacterNamed Parents",
-    "friends": "Muffin, Bluey, Bingo",
-    "firstAppearance": "Muffin's Baby Sister",
+    "friends": [
+      "Muffin",
+      "Bluey Heeler",
+      "Bingo Heeler"
+    ],
     "trivia": "Socks is just learning how to talk and walk, and often mimics sounds and words she hears from her family members.",
     "absences": "",
     "gallery": "",
     "animated": "Yes",
-    "references": ""
+    "references": "",
+    "family": {}
   },
   {
     "characterName": "Missy",
     "description": [
-      "Super brave when she’s ready.",
+      "Super brave when she's ready.",
       "Missy is a secondary character that has appeared in multiple episodes of Bluey."
     ],
     "catchphrase": "I'm ready!",
     "appearance": {
-      "fur": ["Black", "Brown", "Dark brown", "Light brown"],
+      "fur": [
+        "Black",
+        "Brown",
+        "Dark brown",
+        "Light brown"
+      ],
       "distinctiveFeatures": [
         "Black legs, arms, torso, and tail top",
         "Brown feet, hands, chest, head, ears, and bottom tail",
@@ -1352,13 +1711,17 @@
     "personality": "Missy is normally quite shy but can be super brave when she feels ready. She is very friendly, especially when she's with her close friends.",
     "nicknames": "Missy Moo",
     "relatives": "UncharacterNamed mother",
-    "friends": "Bluey, Bingo",
+    "friends": [
+      "Bluey Heeler",
+      "Bingo Heeler"
+    ],
     "firstAppearance": "Bob Bilby",
     "trivia": "She is usually shy but can be super brave when she's ready. Her birthday is the 18th of an unknown month. In 'Pass the Parcel', it reveals she has a mother, but she has no known dad yet.",
     "absences": "",
     "gallery": "",
     "animated": "Yes",
-    "references": ""
+    "references": "",
+    "family": {}
   },
   {
     "characterName": "Buddy",
@@ -1368,7 +1731,11 @@
     ],
     "catchphrase": "I'm just waiting!",
     "appearance": {
-      "fur": ["Brown", "Light brown", "Tan"],
+      "fur": [
+        "Brown",
+        "Light brown",
+        "Tan"
+      ],
       "distinctiveFeatures": [
         "Tan legs, feet, arms, hands, tail, torso, and head",
         "Brown eyebrows and ears",
@@ -1382,13 +1749,16 @@
     "personality": "Buddy is a laid-back character who is known for being patient, often seen calmly waiting for things to happen.",
     "nicknames": "Buddy the Patient",
     "relatives": "UncharacterNamed mother",
-    "friends": "Bingo, Media",
+    "friends": [
+      "Bingo Heeler"
+    ],
     "firstAppearance": "Bob Bilby",
     "trivia": "He is usually seen panting and picking his nose. He is 5 years old, and his birthday is on November 12th, as confirmed in 'Pass the Parcel'.",
     "absences": "",
     "gallery": "",
     "animated": "Yes",
-    "references": ""
+    "references": "",
+    "family": {}
   },
   {
     "characterName": "Buddy's Mum",
@@ -1398,7 +1768,11 @@
     ],
     "catchphrase": "",
     "appearance": {
-      "fur": ["Tan", "Brown", "Grey"],
+      "fur": [
+        "Tan",
+        "Brown",
+        "Grey"
+      ],
       "distinctiveFeatures": [
         "Brown eyebrows and ears",
         "Grey muzzle",
@@ -1411,23 +1785,33 @@
     "personality": "She is a friendly and caring mother figure who enjoys socializing with other characters.",
     "nicknames": "",
     "relatives": "Buddy (son), Friend(s), Chilli, Bandit, Pat, Janelle, Missy's Mum, Sheila, Pom Pom's Mom, Jasper's Mum",
-    "friends": "Chilli, Bandit",
-    "firstAppearance": "Pass the Parcel",
+    "friends": [
+      "Chilli Heeler",
+      "Bandit Heeler"
+    ],
+    "firstAppearance": "Pass The Parcel",
     "trivia": "Buddy's mum is often seen interacting with other characters in social settings and is a supportive mother figure.",
     "absences": "",
     "gallery": "",
     "animated": "Yes",
-    "references": ""
+    "references": "",
+    "family": {}
   },
   {
     "characterName": "Bull Terriers",
     "description": [
-      "Muffin’s baby sister is just starting to talk.",
+      "Muffin's baby sister is just starting to talk.",
       "Both of the Bull Terriers seem to enjoy being sociable. With most of their cameos being with family members."
     ],
     "catchphrase": "",
     "appearance": {
-      "fur": ["White", "Brown", "Grey", "Maroon", "Pink"],
+      "fur": [
+        "White",
+        "Brown",
+        "Grey",
+        "Maroon",
+        "Pink"
+      ],
       "distinctiveFeatures": [
         "Mum has a right-sided tawny colored eyepatch",
         "Pup has a left-sided fable-colored eyepatch",
@@ -1440,24 +1824,29 @@
     "personality": "The Bull Terriers are both friendly and seem to enjoy socializing. Their interactions with others are mostly playful and casual.",
     "nicknames": "",
     "relatives": "No known father, only mother",
-    "friends": "Surfer",
+    "friends": [],
     "firstAppearance": "Piggyback",
     "trivia": "The mum has an eyepatch on her right eye, while her pup has one on his left eye. The Bull Terrier mum is the only character with visible flat eyelashes.",
     "absences": "",
     "gallery": "",
     "animated": "Yes",
-    "references": ""
+    "references": "",
+    "family": {}
   },
   {
     "characterName": "Bus Stop Dog",
     "description": [
       "The Bus Stop Dog is a character who is always sitting on the bench at the bus stop.",
-      "She has white fur and blue glasses. She speaks once when confronted by Bandit, saying she doesn’t need to worry about the Sun since it’s meant to be there."
+      "She has white fur and blue glasses. She speaks once when confronted by Bandit, saying she doesn't need to worry about the Sun since it's meant to be there."
     ],
     "catchphrase": "The sun is supposed to be there!",
     "appearance": {
-      "fur": ["White"],
-      "distinctiveFeatures": ["Blue glasses"],
+      "fur": [
+        "White"
+      ],
+      "distinctiveFeatures": [
+        "Blue glasses"
+      ],
       "eyes": "Black",
       "gender": "Female",
       "breed": "Samoyed"
@@ -1465,13 +1854,14 @@
     "personality": "She is calm and laid-back, only speaking when necessary.",
     "nicknames": "",
     "relatives": "",
-    "friends": "",
+    "friends": [],
     "firstAppearance": "Wagon Ride",
     "trivia": "Appears only briefly in the episodes 'Wagon Ride' and 'Born Yesterday'. She is known for her serene presence at the bus stop.",
     "absences": "",
     "gallery": "",
     "animated": "Yes",
-    "references": ""
+    "references": "",
+    "family": {}
   },
   {
     "characterName": "Calypso",
@@ -1481,7 +1871,13 @@
     ],
     "catchphrase": "",
     "appearance": {
-      "fur": ["Dark brown", "Grey", "White", "Orange", "Light orange"],
+      "fur": [
+        "Dark brown",
+        "Grey",
+        "White",
+        "Orange",
+        "Light orange"
+      ],
       "distinctiveFeatures": [
         "White feet, hands, tail tip, chest, muzzle and head spots",
         "Light orange bottom legs, bottom arms, tail bottom, torso, outer muzzle and eyebrows",
@@ -1498,13 +1894,14 @@
     "personality": "",
     "nicknames": "",
     "relatives": "",
-    "friends": "",
+    "friends": [],
     "firstAppearance": "Calypso",
     "trivia": "Sister Rain has left, and Father Sun is home. Brother Wind comes blowing in to welcome home the gnome. ― Calypso's song. She is voiced by musician and songwriter Megan Alexanda Washington. She works in a Steiner school, Glasshouse Primary, which is based on one in The Samford Valley, near Brisbane. This is the second character to be voiced by a musician, the first being Bandit. Based on her appearance and voice, she appears to be an older character, possibly middle-aged. Her characterName is based off the genre of Caribbean music of the same characterName, which features syncopated African rhythms and, typically, words improvised on a topical theme. She is skilled at knitting, as shown off mainly in Barky Boats and Typewriter. There is an episode characterNamed after her. Her hair in Calypso is off to the right but it is switched to the left for the rest of Season 1. In Polish dub her characterName is Pani Matylda (Mrs. Matilda). In the Persian dub, Calypso, alongside Pony Lady, is voiced by a man.",
     "absences": "",
     "gallery": "",
     "animated": "",
-    "references": ""
+    "references": "",
+    "family": {}
   },
   {
     "characterName": "Winton",
@@ -1512,10 +1909,17 @@
       "A very obedient breed.",
       "Winton is a secondary character who appears in a few episodes of Bluey."
     ],
-    "catchphrase": "I’ll do it!",
+    "catchphrase": "I'll do it!",
     "appearance": {
-      "fur": ["White", "Cream"],
-      "distinctiveFeatures": ["Small, fluffy body", "Big ears", "Red collar"],
+      "fur": [
+        "White",
+        "Cream"
+      ],
+      "distinctiveFeatures": [
+        "Small, fluffy body",
+        "Big ears",
+        "Red collar"
+      ],
       "eyes": "Black",
       "gender": "Male ♂",
       "breed": "Bichon Frise"
@@ -1523,24 +1927,35 @@
     "personality": "Winton is known for being very obedient and eager to please. He loves to help others and is always ready to follow instructions.",
     "nicknames": "",
     "relatives": "UncharacterNamed parents",
-    "friends": "Bluey, Bingo",
+    "friends": [
+      "Bluey Heeler",
+      "Bingo Heeler"
+    ],
     "firstAppearance": "Sleepytime",
     "trivia": "Winton is often seen assisting others and being a helpful companion. His obedient nature makes him a fun character for the children to interact with.",
     "absences": "",
     "gallery": "",
     "animated": "Yes",
-    "references": ""
+    "references": "",
+    "family": {}
   },
   {
     "characterName": "Uncle Stripe",
     "description": [
-      "Dad’s younger brother & Bluey & Bingo’s uncle.",
+      "Dad's younger brother & Bluey & Bingo's uncle.",
       "Uncle Stripe is a playful and fun-loving character, known for his relationship with his nieces, Bluey and Bingo."
     ],
     "catchphrase": "Uncle Stripe is here to play!",
     "appearance": {
-      "fur": ["Blue", "Darker blue stripes"],
-      "distinctiveFeatures": ["Sporty appearance", "Green t-shirt", "Cap"],
+      "fur": [
+        "Blue",
+        "Darker blue stripes"
+      ],
+      "distinctiveFeatures": [
+        "Sporty appearance",
+        "Green t-shirt",
+        "Cap"
+      ],
       "eyes": "Black",
       "gender": "Male ♂",
       "breed": "Blue Heeler"
@@ -1548,38 +1963,48 @@
     "personality": "Uncle Stripe is playful, energetic, and has a very close relationship with his nieces. He often engages in games with Bluey and Bingo, and he has a very relaxed personality.",
     "nicknames": "Stripe",
     "relatives": "Bandit (brother), Chilli (sister-in-law), Bluey and Bingo (nieces)",
-    "friends": "Bluey, Bingo",
-    "firstAppearance": "Uncle Stripe's Visit",
+    "friends": [
+      "Bluey Heeler",
+      "Bingo Heeler"
+    ],
     "trivia": "Uncle Stripe is often seen as the fun-loving uncle who indulges his nieces' wild ideas.",
     "absences": "",
     "gallery": "",
     "animated": "Yes",
-    "references": ""
+    "references": "",
+    "family": {}
   },
   {
     "characterName": "Aunt Trixie",
     "description": [
-      "Bluey & Bingo’s aunt and Chilli’s hockey teammate.",
+      "Bluey & Bingo's aunt and Chilli's hockey teammate.",
       "Aunt Trixie is a fun, sporty, and loving character who enjoys spending time with Bluey and Bingo."
     ],
     "catchphrase": "",
     "appearance": {
-      "fur": ["Blue"],
-      "distinctiveFeatures": ["Dark blue jacket", "Sporty appearance"],
+      "fur": [
+        "Blue"
+      ],
+      "distinctiveFeatures": [
+        "Dark blue jacket",
+        "Sporty appearance"
+      ],
       "eyes": "Black",
       "gender": "Female ♀",
       "breed": "Blue Heeler"
     },
-    "personality": "Aunt Trixie is sporty, energetic, and always excited to be involved with Bluey and Bingo’s activities. She enjoys playing games with them and has a playful attitude.",
+    "personality": "Aunt Trixie is sporty, energetic, and always excited to be involved with Bluey and Bingo's activities. She enjoys playing games with them and has a playful attitude.",
     "nicknames": "",
     "relatives": "Chilli (sister), Bandit (brother-in-law), Bluey and Bingo (nieces)",
-    "friends": "Chilli",
-    "firstAppearance": "Aunt Trixie’s Visit",
-    "trivia": "Aunt Trixie plays hockey with Chilli and has a friendly rivalry with Bandit. She’s very close with Bluey and Bingo and often spends time with them.",
+    "friends": [
+      "Chilli Heeler"
+    ],
+    "trivia": "Aunt Trixie plays hockey with Chilli and has a friendly rivalry with Bandit. She's very close with Bluey and Bingo and often spends time with them.",
     "absences": "",
     "gallery": "",
     "animated": "Yes",
-    "references": ""
+    "references": "",
+    "family": {}
   },
   {
     "characterName": "Bently",
@@ -1589,8 +2014,14 @@
     ],
     "catchphrase": "",
     "appearance": {
-      "fur": ["Brown", "White"],
-      "distinctiveFeatures": ["Scruffy appearance", "White chest patch"],
+      "fur": [
+        "Brown",
+        "White"
+      ],
+      "distinctiveFeatures": [
+        "Scruffy appearance",
+        "White chest patch"
+      ],
       "eyes": "Black",
       "gender": "Male ♂",
       "breed": "Mixed Breed"
@@ -1598,24 +2029,33 @@
     "personality": "Bently is inventive and always curious. He loves to come up with solutions to problems and is very determined to see things through.",
     "nicknames": "",
     "relatives": "UncharacterNamed parents",
-    "friends": "Bluey, Bingo",
-    "firstAppearance": "The Inventor",
+    "friends": [
+      "Bluey Heeler",
+      "Bingo Heeler"
+    ],
     "trivia": "Bently is known for his inventive nature, often coming up with clever ideas for the kids to play with.",
     "absences": "",
     "gallery": "",
     "animated": "Yes",
-    "references": ""
+    "references": "",
+    "family": {}
   },
   {
     "characterName": "Nana",
     "description": [
-      "Bandit’s Mum and Bluey & Bingo’s Nana. Retired to the Gold Coast.",
+      "Bandit's Mum and Bluey & Bingo's Nana. Retired to the Gold Coast.",
       "Nana is a caring and loving grandmother, who enjoys spending time with her grandchildren, Bluey and Bingo."
     ],
     "catchphrase": "Oh my, Bandit!",
     "appearance": {
-      "fur": ["Light grey", "Silver"],
-      "distinctiveFeatures": ["Silver-grey fur", "Glasses"],
+      "fur": [
+        "Light grey",
+        "Silver"
+      ],
+      "distinctiveFeatures": [
+        "Silver-grey fur",
+        "Glasses"
+      ],
       "eyes": "Black",
       "gender": "Female ♀",
       "breed": "Blue Heeler"
@@ -1623,44 +2063,24 @@
     "personality": "Nana is gentle, kind, and nurturing. She is very close to her children and grandchildren and enjoys spending time with them, often offering wisdom and support.",
     "nicknames": "Grandma, Nan",
     "relatives": "Bandit (son), Chilli (daughter-in-law), Bluey and Bingo (granddaughters)",
-    "friends": "Uncle Stripe, Chilli",
-    "firstAppearance": "Granny's Day Out",
+    "friends": [
+      "Uncle Stripe",
+      "Chilli Heeler"
+    ],
+    "firstAppearance": "Grannies",
     "trivia": "Nana enjoys her time on the Gold Coast, relaxing and visiting with her family. She often gives advice to Bandit and is always excited to see Bluey and Bingo.",
     "absences": "",
     "gallery": "",
     "animated": "Yes",
-    "references": ""
-  },
-  {
-    "characterName": "Bob Heeler",
-    "description": [
-      "Bluey & Bingo’s Grandad.",
-      "Bob has no known real friends yet, but he is the husband of Chris (Nana), the dad of Bandit, Stripe, and Rad, the father-in-law of Chilli and Trixie, and the grandpa of Bluey, Bingo, Muffin and Socks."
-    ],
-    "catchphrase": "Oh, Bluey!",
-    "appearance": {
-      "fur": ["White", "Grey", "Black", "Dark grey", "Brown"],
-      "distinctiveFeatures": [
-        "White feet, hands, chest, muzzle, and eyebrows",
-        "Grey legs, leg spots, arms, torso, tail tip, and head spots",
-        "Black outer ears",
-        "Brown leg spots, head spots, left head, and inner ears",
-        "Part of his left ear missing"
-      ],
-      "eyes": "Black",
-      "gender": "Male ♂",
-      "breed": "Blue Heeler"
-    },
-    "personality": "Bob is easy-going, wise, and humorous. He has a laid-back attitude and enjoys spending time with his family, especially his grandchildren.",
-    "nicknames": "Bobba (by Nana)",
-    "relatives": "Chris (wife), Bandit (son), Stripe (son), Rad (son), Chilli (daughter-in-law), Bluey (granddaughter), Bingo (granddaughter), Trixie (daughter-in-law), Muffin (granddaughter), Socks (granddaughter), Chris's Nana (grandmother-in-law)",
-    "friends": "None known yet",
-    "firstAppearance": "Grannies",
-    "trivia": "Bob has a piece of his left ear missing. He was voiced by Ian McFadyen. Bob has had the longest absence of any character in the show, with 101 episodes passing between his appearances.",
-    "absences": "Over 100 episodes",
-    "gallery": "",
-    "animated": "Yes",
-    "references": ""
+    "references": "",
+    "family": {
+      "husband": "Bob Heeler",
+      "children": [
+        "Bandit Heeler",
+        "Uncle Stripe",
+        "Radley Heeler"
+      ]
+    }
   },
   {
     "characterName": "Bosco",
@@ -1679,13 +2099,16 @@
     "personality": "Unknown, as Bosco has only been mentioned in dialogue.",
     "nicknames": "",
     "relatives": "",
-    "friends": "Frisky (ex-girlfriend)",
-    "firstAppearance": "Mentioned in Double Babysitter",
+    "friends": [
+      "Frisky"
+    ],
+    "firstAppearance": "Double Babysitter",
     "trivia": "Bosco is one of the few characters in Bluey who has not yet been physically shown. His relationship with Frisky has left fans speculating about the reasons for their breakup.",
     "absences": "Never appeared physically",
     "gallery": "",
     "animated": "No",
-    "references": ""
+    "references": "",
+    "family": {}
   },
   {
     "characterName": "Brandy Cattle",
@@ -1695,7 +2118,11 @@
     ],
     "catchphrase": "",
     "appearance": {
-      "fur": ["Dark orange", "Light orange", "Light cream"],
+      "fur": [
+        "Dark orange",
+        "Light orange",
+        "Light cream"
+      ],
       "distinctiveFeatures": [
         "Cream hands, legs, and feet",
         "Dark orange ears and spots",
@@ -1708,13 +2135,13 @@
     "personality": "Brandy is kind and caring but has experienced emotional struggles due to her infertility. She eventually reconnected with her sister Chilli after years of not speaking.",
     "nicknames": "Aunty Brandy",
     "relatives": "Mort Cattle (father), Mrs. Cattle (mother), Chilli (sister), Bandit (brother-in-law), Bluey (niece), Bingo (niece)",
-    "friends": "",
-    "firstAppearance": "Bluey's Big Play",
+    "friends": [],
     "trivia": "Brandy and Chilli hadn't spoken for four years before their reconciliation in 'Onesies.' She has fertility struggles, which caused emotional distance from her sister.",
     "absences": "",
     "gallery": "",
     "animated": "Yes",
-    "references": ""
+    "references": "",
+    "family": {}
   },
   {
     "characterName": "Busker",
@@ -1723,8 +2150,15 @@
     ],
     "catchphrase": "",
     "appearance": {
-      "fur": ["Dark orange", "Light orange", "Brown", "Light brown"],
-      "distinctiveFeatures": ["Brown glasses"],
+      "fur": [
+        "Dark orange",
+        "Light orange",
+        "Brown",
+        "Light brown"
+      ],
+      "distinctiveFeatures": [
+        "Brown glasses"
+      ],
       "eyes": "Black",
       "gender": "Male ♂",
       "breed": "Brussels Griffon"
@@ -1732,13 +2166,14 @@
     "personality": "Busker is an artistic character with a love for music. He is often seen playing his instruments in public settings, entertaining others.",
     "nicknames": "",
     "relatives": "",
-    "friends": "",
+    "friends": [],
     "firstAppearance": "Markets",
     "trivia": "Busker is voiced by Joff Bush, the show's composer. He plays both the guitar and the thongaphone.",
     "absences": "",
     "gallery": "",
     "animated": "Yes",
-    "references": ""
+    "references": "",
+    "family": {}
   },
   {
     "characterName": "Captain",
@@ -1747,7 +2182,11 @@
     ],
     "catchphrase": "",
     "appearance": {
-      "fur": ["White", "Brown", "Dark brown"],
+      "fur": [
+        "White",
+        "Brown",
+        "Dark brown"
+      ],
       "distinctiveFeatures": [
         "Patches of brown and black fur",
         "Blue-black nose"
@@ -1759,13 +2198,18 @@
     "personality": "Captain is friendly and enjoys spending time with his friends. He is active and playful.",
     "nicknames": "",
     "relatives": "",
-    "friends": "Mia, Mackenzie, Bluey Heeler",
+    "friends": [
+      "Mia",
+      "Mackenzie Border Collie",
+      "Bluey Heeler"
+    ],
     "firstAppearance": "Barky Boats",
     "trivia": "Captain loves mangoes and is in his final year of primary school before secondary school.",
     "absences": "",
     "gallery": "",
     "animated": "Yes",
-    "references": ""
+    "references": "",
+    "family": {}
   },
   {
     "characterName": "Checkout Dog",
@@ -1783,13 +2227,14 @@
     "personality": "Checkout Dog is likely polite and professional, given his role in the store.",
     "nicknames": "",
     "relatives": "",
-    "friends": "",
-    "firstAppearance": "Supermarket",
+    "friends": [],
+    "firstAppearance": "Shops",
     "trivia": "He has a minor role, appearing briefly in the episode 'Supermarket.'",
     "absences": "",
     "gallery": "",
     "animated": "Yes",
-    "references": ""
+    "references": "",
+    "family": {}
   },
   {
     "characterName": "Jelly",
@@ -1800,14 +2245,23 @@
     "family": {
       "father": "Unknown",
       "mother": "Unknown",
-      "siblings": ["Trixie"],
+      "siblings": [
+        "Trixie"
+      ],
       "grandparents": {
-        "maternal": ["Unknown"],
-        "paternal": ["Unknown"]
+        "maternal": [
+          "Unknown"
+        ],
+        "paternal": [
+          "Unknown"
+        ]
       }
     },
     "appearance": {
-      "fur": ["Yellow", "White"],
+      "fur": [
+        "Yellow",
+        "White"
+      ],
       "eyes": "Black",
       "nose": "Black",
       "markings": {
@@ -1826,69 +2280,39 @@
       }
     },
     "personality": {
-      "traits": ["Friendly", "Energetic", "Sociable", "Adventurous"],
-      "likes": ["Playing games", "Running around", "Adventure"],
-      "dislikes": ["Being left out", "Losing games"]
+      "traits": [
+        "Friendly",
+        "Energetic",
+        "Sociable",
+        "Adventurous"
+      ],
+      "likes": [
+        "Playing games",
+        "Running around",
+        "Adventure"
+      ],
+      "dislikes": [
+        "Being left out",
+        "Losing games"
+      ]
     },
     "catchphrase": "Let's play!",
-    "hobbies": ["Outdoor games", "Pretend play"],
-    "friends": ["Bluey", "Bingo", "Trixie"],
-    "firstAppearance": "Bingo's Big Game",
-    "notableEpisodes": ["Bingo's Big Game", "The Beach", "Trixie's Day Out"],
+    "hobbies": [
+      "Outdoor games",
+      "Pretend play"
+    ],
+    "friends": [
+      "Bluey Heeler",
+      "Bingo Heeler",
+      "Trixie"
+    ],
+    "notableEpisodes": [
+      "The Beach"
+    ],
     "funFacts": {
       "favoriteColor": "Pink",
       "birthday": "Unknown",
       "appearance": "Jelly has a friendly and energetic personality, known for her love of play and her distinctive yellow and white fur."
-    }
-  },
-  {
-    "characterName": "Calypso",
-    "species": "Dog",
-    "breed": "Unknown",
-    "gender": "Female",
-    "age": "Unknown",
-    "family": {
-      "father": "Unknown",
-      "mother": "Unknown",
-      "siblings": "Unknown",
-      "grandparents": {
-        "maternal": ["Unknown"],
-        "paternal": ["Unknown"]
-      }
-    },
-    "appearance": {
-      "fur": ["Light brown", "White"],
-      "eyes": "Black",
-      "nose": "Brown",
-      "markings": {
-        "feet": "White",
-        "hands": "White",
-        "tail tip": "White",
-        "chest": "White",
-        "muzzle": "White",
-        "eyebrows": "White",
-        "legs": "Light brown",
-        "arms": "Light brown",
-        "tail stem": "Light brown",
-        "torso": "Light brown",
-        "inner ears": "Light brown",
-        "outer ears": "Dark brown"
-      }
-    },
-    "personality": {
-      "traits": ["Caring", "Wise", "Patient", "Supportive"],
-      "likes": ["Teaching", "Encouraging students", "Helping others"],
-      "dislikes": ["Disorder", "Lack of respect"]
-    },
-    "catchphrase": "Alright class!",
-    "hobbies": ["Teaching", "Storytelling"],
-    "friends": ["Bluey", "Bingo"],
-    "firstAppearance": "The Teacher",
-    "notableEpisodes": ["The Teacher", "School", "The Beach"],
-    "funFacts": {
-      "favoriteColor": "Teal",
-      "birthday": "Unknown",
-      "appearance": "Calypso is a school teacher who loves to engage with her students and teach them important life lessons."
     }
   },
   {
@@ -1900,14 +2324,23 @@
     "family": {
       "father": "Unknown",
       "mother": "Unknown",
-      "siblings": ["Jelly"],
+      "siblings": [
+        "Jelly"
+      ],
       "grandparents": {
-        "maternal": ["Unknown"],
-        "paternal": ["Unknown"]
+        "maternal": [
+          "Unknown"
+        ],
+        "paternal": [
+          "Unknown"
+        ]
       }
     },
     "appearance": {
-      "fur": ["Light brown", "White"],
+      "fur": [
+        "Light brown",
+        "White"
+      ],
       "eyes": "Black",
       "nose": "Brown",
       "markings": {
@@ -1926,15 +2359,34 @@
       }
     },
     "personality": {
-      "traits": ["Friendly", "Loyal", "Adventurous"],
-      "likes": ["Having fun", "Playing with friends", "Adventure"],
-      "dislikes": ["Boredom", "Being alone"]
+      "traits": [
+        "Friendly",
+        "Loyal",
+        "Adventurous"
+      ],
+      "likes": [
+        "Having fun",
+        "Playing with friends",
+        "Adventure"
+      ],
+      "dislikes": [
+        "Boredom",
+        "Being alone"
+      ]
     },
     "catchphrase": "Come on, let's go!",
-    "hobbies": ["Outdoor games", "Exploring"],
-    "friends": ["Bluey", "Bingo", "Jelly"],
-    "firstAppearance": "Trixie's Day Out",
-    "notableEpisodes": ["Trixie's Day Out", "The Beach"],
+    "hobbies": [
+      "Outdoor games",
+      "Exploring"
+    ],
+    "friends": [
+      "Bluey Heeler",
+      "Bingo Heeler",
+      "Jelly"
+    ],
+    "notableEpisodes": [
+      "The Beach"
+    ],
     "funFacts": {
       "favoriteColor": "Yellow",
       "birthday": "Unknown",
@@ -1944,20 +2396,17 @@
   {
     "characterName": "Frisky",
     "species": "Dog",
-    "breed": "Unknown",
+    "breed": "English Cocker Spaniel",
     "gender": "Female",
     "age": "Unknown",
     "family": {
-      "father": "Unknown",
-      "mother": "Unknown",
-      "siblings": "Unknown",
-      "grandparents": {
-        "maternal": ["Unknown"],
-        "paternal": ["Unknown"]
-      }
+      "husband": "Radley Heeler"
     },
     "appearance": {
-      "fur": ["Dark brown", "White"],
+      "fur": [
+        "Dark brown",
+        "White"
+      ],
       "eyes": "Black",
       "nose": "Brown",
       "markings": {
@@ -1976,15 +2425,31 @@
       }
     },
     "personality": {
-      "traits": ["Playful", "Mischievous", "Energetic"],
-      "likes": ["Running", "Chasing", "Games"],
-      "dislikes": ["Sitting still", "Boredom"]
+      "traits": [
+        "Playful",
+        "Mischievous",
+        "Energetic"
+      ],
+      "likes": [
+        "Running",
+        "Chasing",
+        "Games"
+      ],
+      "dislikes": [
+        "Sitting still",
+        "Boredom"
+      ]
     },
     "catchphrase": "Let's play, play, play!",
-    "hobbies": ["Running around", "Chasing after things"],
-    "friends": ["Bluey", "Bingo"],
-    "firstAppearance": "Frisky's Day Out",
-    "notableEpisodes": ["Frisky's Day Out"],
+    "hobbies": [
+      "Running around",
+      "Chasing after things"
+    ],
+    "friends": [
+      "Bluey Heeler",
+      "Bingo Heeler"
+    ],
+    "notableEpisodes": [],
     "funFacts": {
       "favoriteColor": "Red",
       "birthday": "Unknown",
@@ -2000,14 +2465,19 @@
     "family": {
       "father": "Unknown",
       "mother": "Unknown",
-      "siblings": "Unknown",
       "grandparents": {
-        "maternal": ["Unknown"],
-        "paternal": ["Unknown"]
+        "maternal": [
+          "Unknown"
+        ],
+        "paternal": [
+          "Unknown"
+        ]
       }
     },
     "appearance": {
-      "fur": ["White"],
+      "fur": [
+        "White"
+      ],
       "eyes": "Black",
       "nose": "Black",
       "markings": {
@@ -2026,19 +2496,845 @@
       }
     },
     "personality": {
-      "traits": ["Adventurous", "Mischievous", "Playful"],
-      "likes": ["Causing chaos", "Having fun", "Mischief"],
-      "dislikes": ["Being caught", "Disobedience"]
+      "traits": [
+        "Adventurous",
+        "Mischievous",
+        "Playful"
+      ],
+      "likes": [
+        "Causing chaos",
+        "Having fun",
+        "Mischief"
+      ],
+      "dislikes": [
+        "Being caught",
+        "Disobedience"
+      ]
     },
     "catchphrase": "Baa!",
-    "hobbies": ["Mischief", "Exploring"],
-    "friends": ["The Farmer", "Timmy the Lamb"],
-    "firstAppearance": "Shaun the Sheep",
-    "notableEpisodes": ["Shaun the Sheep"],
+    "hobbies": [
+      "Mischief",
+      "Exploring"
+    ],
+    "friends": [
+      "The Farmer",
+      "Timmy the Lamb"
+    ],
+    "firstAppearance": "Shaun",
+    "notableEpisodes": [
+      "Shaun"
+    ],
     "funFacts": {
       "favoriteColor": "Green",
       "birthday": "Unknown",
       "appearance": "Shaun appeared in a crossover episode between 'Bluey' and 'Shaun the Sheep'."
     }
+  },
+  {
+    "characterName": "Chilli's Mum",
+    "species": "Dog",
+    "breed": "Red Heeler",
+    "gender": "Female",
+    "appearance": {
+      "fur": [
+        "Red",
+        "Cream"
+      ],
+      "eyes": "Black"
+    },
+    "personality": {
+      "traits": [
+        "Encouraging",
+        "Loving",
+        "Supportive"
+      ],
+      "likes": [
+        "Art",
+        "Drawing",
+        "Family"
+      ],
+      "dislikes": []
+    },
+    "family": {
+      "father": "Mort Cattle",
+      "children": [
+        "Brandy Cattle",
+        "Chilli Heeler"
+      ]
+    },
+    "firstAppearance": "Dragon",
+    "trivia": "Also known as Mrs. Cattle. She passed away before the series, and Bluey and Bingo never met her. She encouraged Chilli to keep drawing as a child.",
+    "friends": []
+  },
+  {
+    "characterName": "Radley Heeler",
+    "species": "Dog",
+    "breed": "Red and Blue Heeler Mix",
+    "gender": "Male",
+    "appearance": {
+      "fur": [
+        "Chardonnay yellow",
+        "Orange",
+        "Blue",
+        "White"
+      ],
+      "eyes": "Black"
+    },
+    "personality": {
+      "traits": [
+        "Fun-loving",
+        "Playful",
+        "Adventurous"
+      ],
+      "likes": [
+        "Games",
+        "Family"
+      ],
+      "dislikes": []
+    },
+    "family": {
+      "father": "Bob Heeler",
+      "mother": "Nana",
+      "wife": "Frisky"
+    },
+    "friends": [
+      "Bandit Heeler",
+      "Uncle Stripe"
+    ],
+    "firstAppearance": "Double Babysitter",
+    "notableEpisodes": [
+      "Double Babysitter",
+      "Charades"
+    ],
+    "trivia": "Also known as Rad. He is the eldest of the three Heeler brothers. He is married to Frisky."
+  },
+  {
+    "characterName": "Winnie",
+    "species": "Dog",
+    "breed": "Chocolate Labrador",
+    "gender": "Female",
+    "appearance": {
+      "fur": [
+        "Brown",
+        "Chocolate"
+      ],
+      "eyes": "Black"
+    },
+    "personality": {
+      "traits": [
+        "Imaginative",
+        "Friendly",
+        "Playful"
+      ],
+      "likes": [
+        "Budgies",
+        "Piggybacks",
+        "Playing make-believe",
+        "Cafe game",
+        "Banana bread",
+        "Chai lattes"
+      ],
+      "dislikes": []
+    },
+    "family": {
+      "father": "Fido"
+    },
+    "friends": [
+      "Bluey Heeler",
+      "Bingo Heeler",
+      "Bandit Heeler"
+    ],
+    "firstAppearance": "Cafe",
+    "notableEpisodes": [
+      "Cafe"
+    ],
+    "trivia": "Winnie has seen an echidna in real life, unlike Bluey. She has a sister who likes sleep-ins."
+  },
+  {
+    "characterName": "Pretzel",
+    "species": "Dog",
+    "breed": "Chihuahua",
+    "gender": "Male",
+    "appearance": {
+      "fur": [
+        "Brown",
+        "Dark brown",
+        "Light brown",
+        "Beige"
+      ],
+      "eyes": "Black"
+    },
+    "personality": {
+      "traits": [
+        "Nice",
+        "Shy",
+        "Less outgoing than peers"
+      ],
+      "likes": [
+        "Swords",
+        "Playing"
+      ],
+      "dislikes": []
+    },
+    "friends": [
+      "Indy",
+      "Coco",
+      "Snickers",
+      "Honey",
+      "Mackenzie Border Collie",
+      "Chloe",
+      "Judo",
+      "Winton",
+      "Buddy",
+      "Bingo Heeler",
+      "Bluey Heeler"
+    ],
+    "firstAppearance": "Calypso",
+    "notableEpisodes": [
+      "Calypso",
+      "Wild Girls",
+      "The Sign"
+    ],
+    "trivia": "Pretzel has two mothers. He is based on a dog owned by Aivy Nguyen, Season 1 art director of Bluey.",
+    "family": {}
+  },
+  {
+    "characterName": "Gruber",
+    "species": "Dog",
+    "breed": "German Shepherd",
+    "gender": "Male",
+    "appearance": {
+      "fur": [
+        "Tiger orange",
+        "Light brown",
+        "Dark brown",
+        "Black"
+      ],
+      "eyes": "Brown"
+    },
+    "personality": {
+      "traits": [
+        "Helpful",
+        "Hardworking"
+      ],
+      "likes": [
+        "Selling sausages",
+        "Markets"
+      ],
+      "dislikes": []
+    },
+    "firstAppearance": "Markets",
+    "notableEpisodes": [
+      "Markets",
+      "Mums and Dads",
+      "Pass the Parcel"
+    ],
+    "trivia": "Gruber helps his father sell German hot dog sausages at the markets. The subtitles in Markets incorrectly called him 'Rupert', later confirmed to be an error by Ludo Studio.",
+    "friends": [],
+    "family": {}
+  },
+  {
+    "characterName": "Hercules",
+    "species": "Dog",
+    "breed": "Saint Bernard",
+    "gender": "Male",
+    "appearance": {
+      "fur": [
+        "Clay brown",
+        "White",
+        "Dark brown"
+      ],
+      "eyes": "Black"
+    },
+    "personality": {
+      "traits": [
+        "Bossy",
+        "Stubborn",
+        "Strong",
+        "Fun when nice"
+      ],
+      "likes": [
+        "Playing motorbikes",
+        "Showing off strength"
+      ],
+      "dislikes": [
+        "Not getting his way"
+      ]
+    },
+    "friends": [
+      "Bluey Heeler",
+      "Mackenzie Border Collie",
+      "Coco",
+      "Bingo Heeler",
+      "Honey",
+      "Winton"
+    ],
+    "firstAppearance": "Circus",
+    "notableEpisodes": [
+      "Circus"
+    ],
+    "trivia": "Hercules is a big Saint Bernard who is very bossy. He likes playing motorbikes where he is the motorbike and smaller kids are the jumps. He can spin Mackenzie on his head.",
+    "family": {}
+  },
+  {
+    "characterName": "Lila",
+    "species": "Dog",
+    "breed": "Maltese",
+    "gender": "Female",
+    "age": 5,
+    "appearance": {
+      "fur": [
+        "White",
+        "Fluffy white"
+      ],
+      "eyes": "Black"
+    },
+    "personality": {
+      "traits": [
+        "Kind",
+        "Supportive",
+        "Shy",
+        "Playful once comfortable"
+      ],
+      "likes": [
+        "Playing with Bingo",
+        "Wind Up Bingo game"
+      ],
+      "dislikes": [
+        "Crowded situations when shy"
+      ]
+    },
+    "family": {
+      "mother": "Sheila"
+    },
+    "friends": [
+      "Bingo Heeler",
+      "Bluey Heeler",
+      "Bandit Heeler",
+      "Muffin",
+      "Socks",
+      "Chucky",
+      "Buddy",
+      "Pom Pom",
+      "Missy"
+    ],
+    "firstAppearance": "Daddy Dropoff",
+    "notableEpisodes": [
+      "Daddy Dropoff",
+      "Pass the Parcel"
+    ],
+    "trivia": "Lila is Bingo's best friend. She was shy when she first joined kindy but came out of her shell thanks to Bingo. They are predicted to remain best friends and eventually graduate school together."
+  },
+  {
+    "characterName": "Mia",
+    "species": "Dog",
+    "breed": "English Setter",
+    "gender": "Female",
+    "age": 12,
+    "appearance": {
+      "fur": [
+        "Dawn pink",
+        "Orange",
+        "White"
+      ],
+      "eyes": "Black"
+    },
+    "personality": {
+      "traits": [
+        "Imaginative",
+        "Energetic",
+        "Athletic",
+        "Caring"
+      ],
+      "likes": [
+        "Double cartwheels",
+        "Splits",
+        "Giving piggybacks",
+        "Building fairy gardens",
+        "Writing letters",
+        "Lychees"
+      ],
+      "dislikes": []
+    },
+    "friends": [
+      "Bluey Heeler",
+      "Captain",
+      "Mackenzie Border Collie"
+    ],
+    "firstAppearance": "Barky Boats",
+    "notableEpisodes": [
+      "Barky Boats"
+    ],
+    "trivia": "Mia is Bluey's school buddy at Glasshouse Primary School. She is twelve years old and her favourite fruit is lychees. She has a crush on Captain.",
+    "family": {}
+  },
+  {
+    "characterName": "Pom Pom",
+    "species": "Dog",
+    "breed": "Pomeranian",
+    "gender": "Female",
+    "age": 4,
+    "appearance": {
+      "fur": [
+        "White",
+        "Fluffy white"
+      ],
+      "eyes": "Black"
+    },
+    "personality": {
+      "traits": [
+        "Full of energy",
+        "Commanding",
+        "Perseverant",
+        "Determined"
+      ],
+      "likes": [
+        "Proving her size doesn't limit her",
+        "Playing with friends"
+      ],
+      "dislikes": [
+        "Being underestimated because of her size"
+      ]
+    },
+    "family": {
+      "mother": "Pom Pom's Mum"
+    },
+    "friends": [
+      "Bluey Heeler",
+      "Bingo Heeler",
+      "Chloe",
+      "Coco",
+      "Snickers",
+      "Judo"
+    ],
+    "firstAppearance": "See Saw",
+    "notableEpisodes": [
+      "See Saw",
+      "Curry Quest",
+      "Pass the Parcel"
+    ],
+    "trivia": "Pom Pom is known for saying 'Pomeranians are a small, but hardy breed!' She was self-conscious about her size but Bandit arranged a see-saw game to prove small can do big things."
+  },
+  {
+    "characterName": "Mackenzie's Dad",
+    "species": "Dog",
+    "breed": "Border Collie",
+    "gender": "Male",
+    "appearance": {
+      "fur": [
+        "Black",
+        "Grey",
+        "White"
+      ],
+      "eyes": "Black"
+    },
+    "personality": {
+      "traits": [
+        "Friendly",
+        "Sporty",
+        "Team player"
+      ],
+      "likes": [
+        "Rugby",
+        "BBQs",
+        "Kickarounds",
+        "Curry swaps"
+      ],
+      "dislikes": []
+    },
+    "family": {
+      "mother": "Mackenzie's Mum",
+      "children": [
+        "Mackenzie Border Collie"
+      ]
+    },
+    "friends": [
+      "Bandit Heeler",
+      "Chilli Heeler",
+      "Frank",
+      "Chloe's Mum"
+    ],
+    "firstAppearance": "Fruit Bat",
+    "notableEpisodes": [
+      "Fruit Bat",
+      "Spy Game",
+      "Curry Quest"
+    ],
+    "trivia": "Mackenzie's Dad moved to Australia from New Zealand and remains a loyal fan of the New Zealand rugby team. He enjoys curry swaps with Bandit, trading Beef Rendang for Rogan Josh."
+  },
+  {
+    "characterName": "Mackenzie's Mum",
+    "species": "Dog",
+    "breed": "Border Collie",
+    "gender": "Female",
+    "appearance": {
+      "fur": [
+        "Brown",
+        "White",
+        "Grey"
+      ],
+      "eyes": "Black"
+    },
+    "personality": {
+      "traits": [
+        "Enthusiastic",
+        "Helpful",
+        "Team player",
+        "Determined"
+      ],
+      "likes": [
+        "Volunteering",
+        "Face painting",
+        "Rugby",
+        "Helping at school fairs"
+      ],
+      "dislikes": []
+    },
+    "family": {
+      "father": "Mackenzie's Dad",
+      "children": [
+        "Mackenzie Border Collie"
+      ]
+    },
+    "friends": [
+      "Bandit Heeler",
+      "Chilli Heeler",
+      "Frank",
+      "Chloe's Mum",
+      "Bingo Heeler"
+    ],
+    "firstAppearance": "Spy Game",
+    "notableEpisodes": [
+      "Spy Game",
+      "Curry Quest"
+    ],
+    "trivia": "Hailing from New Zealand, Mackenzie's Mum remains a loyal fan of the New Zealand rugby team. She volunteers for school events like face painting, despite initially doubting her artistic skills."
+  },
+  {
+    "characterName": "Fido",
+    "species": "Dog",
+    "breed": "Unknown",
+    "gender": "Male",
+    "appearance": {
+      "fur": [
+        "Unknown"
+      ],
+      "eyes": "Black"
+    },
+    "family": {
+      "children": [
+        "Winnie"
+      ]
+    },
+    "friends": [
+      "Winnie",
+      "Bandit Heeler"
+    ],
+    "firstAppearance": "Cafe",
+    "trivia": "Fido is Winnie's father. He is often at the park with Winnie early in the mornings."
+  },
+  {
+    "characterName": "Wendy",
+    "species": "Dog",
+    "breed": "Unknown",
+    "gender": "Female",
+    "appearance": {
+      "fur": [
+        "Unknown"
+      ],
+      "eyes": "Black"
+    },
+    "friends": [
+      "Chilli Heeler"
+    ],
+    "firstAppearance": "Flat Pack",
+    "trivia": "Wendy is a friend of Chilli Heeler.",
+    "family": {}
+  },
+  {
+    "characterName": "Daisy",
+    "species": "Dog",
+    "breed": "Unknown",
+    "gender": "Female",
+    "appearance": {
+      "fur": [
+        "Unknown"
+      ],
+      "eyes": "Black"
+    },
+    "friends": [
+      "Chilli Heeler",
+      "Frank",
+      "Chloe's Mum",
+      "Mackenzie's Dad",
+      "Mackenzie's Mum"
+    ],
+    "firstAppearance": "Markets",
+    "trivia": "Daisy is a friend of Chilli Heeler and the Heeler family social circle.",
+    "family": {}
+  },
+  {
+    "characterName": "Marcus",
+    "species": "Dog",
+    "breed": "Unknown",
+    "gender": "Male",
+    "appearance": {
+      "fur": [
+        "Unknown"
+      ],
+      "eyes": "Black"
+    },
+    "friends": [
+      "Chloe's Mum",
+      "Frank",
+      "Mackenzie's Dad",
+      "Mackenzie's Mum"
+    ],
+    "firstAppearance": "Stumpfest",
+    "trivia": "Marcus is a friend of the Heeler family social circle.",
+    "family": {}
+  },
+  {
+    "characterName": "Pat",
+    "species": "Dog",
+    "breed": "Unknown",
+    "gender": "Male",
+    "appearance": {
+      "fur": [
+        "Unknown"
+      ],
+      "eyes": "Black"
+    },
+    "friends": [
+      "Chilli Heeler",
+      "Uncle Stripe"
+    ],
+    "firstAppearance": "Stumpfest",
+    "trivia": "Pat is a friend of the Heeler family who appears in several social episodes.",
+    "family": {}
+  },
+  {
+    "characterName": "Chucky",
+    "species": "Dog",
+    "breed": "Unknown",
+    "gender": "Male",
+    "appearance": {
+      "fur": [
+        "Unknown"
+      ],
+      "eyes": "Black"
+    },
+    "friends": [
+      "Lila",
+      "Bingo Heeler",
+      "Pom Pom",
+      "Buddy"
+    ],
+    "firstAppearance": "Daddy Dropoff",
+    "trivia": "Chucky is one of the kindy kids and a friend of Lila and Bingo.",
+    "family": {}
+  },
+  {
+    "characterName": "Dougie",
+    "species": "Dog",
+    "breed": "Cavapoo",
+    "gender": "Male",
+    "appearance": {
+      "fur": [
+        "Unknown"
+      ],
+      "eyes": "Black"
+    },
+    "friends": [
+      "Bingo Heeler"
+    ],
+    "firstAppearance": "Daddy Dropoff",
+    "trivia": "Dougie is a Cavapoo and one of the kindy kids.",
+    "family": {}
+  },
+  {
+    "characterName": "Mort Cattle",
+    "species": "Dog",
+    "breed": "Red Heeler",
+    "gender": "Male",
+    "appearance": {
+      "fur": [
+        "Red"
+      ],
+      "eyes": "Black"
+    },
+    "family": {
+      "children": [
+        "Brandy Cattle",
+        "Chilli Heeler"
+      ]
+    },
+    "friends": [
+      "Uncle Stripe"
+    ],
+    "firstAppearance": "Dragon",
+    "trivia": "Mort Cattle is the father of Chilli Heeler and Brandy Cattle, and the maternal grandfather of Bluey and Bingo."
+  },
+  {
+    "characterName": "Snickers' Mum",
+    "species": "Dog",
+    "breed": "Unknown",
+    "gender": "Female",
+    "appearance": {
+      "fur": [
+        "Unknown"
+      ],
+      "eyes": "Black"
+    },
+    "family": {
+      "children": [
+        "Snickers"
+      ]
+    },
+    "friends": [
+      "Chilli Heeler",
+      "Frisky"
+    ],
+    "firstAppearance": "Dance Mode",
+    "trivia": "Snickers' Mum is one of the parents in Chilli Heeler's social circle."
+  },
+  {
+    "characterName": "Jasper G.",
+    "species": "Dog",
+    "breed": "Unknown",
+    "gender": "Male",
+    "appearance": {
+      "fur": [
+        "Unknown"
+      ],
+      "eyes": "Black"
+    },
+    "firstAppearance": "Daddy Dropoff",
+    "trivia": "Jasper G. is a kindy kid at Glasshouse Primary School.",
+    "friends": [],
+    "family": {}
+  },
+  {
+    "characterName": "Jasper W.",
+    "species": "Dog",
+    "breed": "Unknown",
+    "gender": "Male",
+    "appearance": {
+      "fur": [
+        "Unknown"
+      ],
+      "eyes": "Black"
+    },
+    "firstAppearance": "Daddy Dropoff",
+    "trivia": "Jasper W. is a kindy kid at Glasshouse Primary School.",
+    "friends": [],
+    "family": {}
+  },
+  {
+    "characterName": "Juniper",
+    "species": "Dog",
+    "breed": "Unknown",
+    "gender": "Female",
+    "appearance": {
+      "fur": [
+        "Unknown"
+      ],
+      "eyes": "Black"
+    },
+    "firstAppearance": "Daddy Dropoff",
+    "trivia": "Juniper is a kindy kid and friend of Bingo.",
+    "friends": [],
+    "family": {}
+  },
+  {
+    "characterName": "Sadie",
+    "species": "Dog",
+    "breed": "Unknown",
+    "gender": "Female",
+    "appearance": {
+      "fur": [
+        "Unknown"
+      ],
+      "eyes": "Black"
+    },
+    "firstAppearance": "Daddy Dropoff",
+    "trivia": "Sadie is a kindy kid at Glasshouse Primary School.",
+    "friends": [],
+    "family": {}
+  },
+  {
+    "characterName": "Zara",
+    "species": "Dog",
+    "breed": "Unknown",
+    "gender": "Female",
+    "appearance": {
+      "fur": [
+        "Unknown"
+      ],
+      "eyes": "Black"
+    },
+    "firstAppearance": "Daddy Dropoff",
+    "trivia": "Zara is a kindy kid at Glasshouse Primary School.",
+    "friends": [],
+    "family": {}
+  },
+  {
+    "characterName": "Sheila",
+    "species": "Dog",
+    "breed": "Unknown",
+    "gender": "Female",
+    "appearance": {
+      "fur": [
+        "Unknown"
+      ],
+      "eyes": "Black"
+    },
+    "family": {
+      "children": [
+        "Lila"
+      ]
+    },
+    "firstAppearance": "Daddy Dropoff",
+    "trivia": "Sheila is Lila's mother.",
+    "friends": []
+  },
+  {
+    "characterName": "Pom Pom's Mum",
+    "species": "Dog",
+    "breed": "Unknown",
+    "gender": "Female",
+    "appearance": {
+      "fur": [
+        "Unknown"
+      ],
+      "eyes": "Black"
+    },
+    "family": {
+      "children": [
+        "Pom Pom"
+      ]
+    },
+    "firstAppearance": "See Saw",
+    "trivia": "Pom Pom's Mum is the mother of Pom Pom.",
+    "friends": []
+  },
+  {
+    "characterName": "Maynard",
+    "species": "Dog",
+    "breed": "Unknown",
+    "gender": "Male",
+    "appearance": {
+      "fur": [
+        "Unknown"
+      ],
+      "eyes": "Black"
+    },
+    "friends": [
+      "Bluey Heeler",
+      "Chilli Heeler"
+    ],
+    "firstAppearance": "Stories",
+    "trivia": "Maynard is a friend of the Heeler family.",
+    "family": {}
   }
 ]

@@ -2,7 +2,7 @@ import { Schema, model, type Document } from "mongoose";
 
 interface ICharacter extends Document {
   characterName: string;
-  species: string;
+  species?: string;
   breed: string;
   gender: string;
   age: string;
@@ -56,7 +56,7 @@ interface ICharacter extends Document {
   nicknames: string[];
   firstAppearance: string;
   notableEpisodes: string[];
-  funFacts: {
+  funfacts: {
     favoriteAnimal: string;
     favoriteColorOfCapsicum: string;
     favoriteBreakfast: string;
@@ -87,6 +87,9 @@ interface ICharacter extends Document {
 const characterSchema = new Schema<ICharacter>(
   {
     characterName: {
+      type: String,
+    },
+    species: {
       type: String,
     },
     catchphrase: {
@@ -214,7 +217,7 @@ const characterSchema = new Schema<ICharacter>(
     notableEpisodes: {
       type: [String],
     },
-    funFacts: {
+    funfacts: {
       favoriteAnimal: {
         type: String,
       },

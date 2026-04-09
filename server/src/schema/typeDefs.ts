@@ -25,7 +25,7 @@ const typeDefs = `
     catchphrase: String
     hobbies: [String]
     friends: [String]
-    nicknames: String
+    nicknames: [String]
     firstAppearance: String
     notableEpisodes: [String]
     funfacts: FunFacts
@@ -184,8 +184,10 @@ const typeDefs = `
     book(bookId: ID!): Book
     characters: [Character]
     character(characterId: ID!): Character
+    characterByName(characterName: String!): Character
     episodes: [Episode]
     episode(episodeId: ID!): Episode
+    episodeByName(episodeName: String!): Episode
     locations: [Location]
     location(locationId: ID!): Location
     items: [Item]

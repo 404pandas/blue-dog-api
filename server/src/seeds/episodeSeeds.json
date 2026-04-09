@@ -594,7 +594,7 @@
   {
     "season": 2,
     "episode": 23,
-    "episodeName": "Queen",
+    "episodeName": "Queens",
     "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "The kids are playing Queens when Dad takes the throne. It’s not long before he’s waging war on his neighbour and Bluey reluctantly has to take the throne again.",
     "watch-link": "https://www.bluey.tv/watch/season-2/queen/"
@@ -906,7 +906,7 @@
   {
     "season": 3,
     "episode": 10,
-    "episodeName": "Chest",
+    "episodeName": "Chess",
     "title-card": "./src/assets/images/episodes/dance-mode",
     "description": "Dad tries to teach Bluey how to play chess, but Mum thinks she is still too young. When Bingo joins in, the kids make up their own rules, but they still can’t beat Dad.",
     "watch-link": "https://www.bluey.tv/watch/season-3/chest/"

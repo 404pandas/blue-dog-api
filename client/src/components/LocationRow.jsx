@@ -1,75 +1,77 @@
-import * as React from "react";
-import { styled } from "@mui/material/styles";
-import ArrowForwardIosSharpIcon from "@mui/icons-material/ArrowForwardIosSharp";
-import MuiAccordion from "@mui/material/Accordion";
-import MuiAccordionSummary from "@mui/material/AccordionSummary";
-import MuiAccordionDetails from "@mui/material/AccordionDetails";
+import { Link } from "react-router-dom";
+import Accordion from "@mui/material/Accordion";
+import AccordionSummary from "@mui/material/AccordionSummary";
+import AccordionDetails from "@mui/material/AccordionDetails";
 import Typography from "@mui/material/Typography";
+import ArrowForwardIosSharpIcon from "@mui/icons-material/ArrowForwardIosSharp";
 
-// Accordion
-const Accordion = styled((props) => (
-  <MuiAccordion disableGutters elevation={0} square {...props} />
-))(({ theme }) => ({
-  border: `1px solid ${theme.palette.divider}`,
-  "&:not(:last-child)": {
-    borderBottom: 0,
-  },
-  "&:before": {
-    display: "none",
-  },
-}));
+const summaryProps = {
+  expandIcon: <ArrowForwardIosSharpIcon sx={{ fontSize: "0.9rem" }} />,
+  sx: { flexDirection: "row-reverse", "& .MuiAccordionSummary-content": { ml: 1 } },
+};
 
-// Accordion Summary
-const AccordionSummary = styled((props) => (
-  <MuiAccordionSummary
-    expandIcon={<ArrowForwardIosSharpIcon sx={{ fontSize: "0.9rem" }} />}
-    {...props}
-  />
-))(({ theme }) => ({
-  backgroundColor:
-    theme.palette.mode === "dark"
-      ? "rgba(255, 255, 255, .05)"
-      : "rgba(0, 0, 0, .03)",
-  flexDirection: "row-reverse",
-  "& .MuiAccordionSummary-expandIconWrapper.Mui-expanded": {
-    transform: "rotate(90deg)",
-  },
-  "& .MuiAccordionSummary-content": {
-    marginLeft: theme.spacing(1),
-  },
-}));
-
-// Accordion Details
-const AccordionDetails = styled(MuiAccordionDetails)(({ theme }) => ({
-  padding: theme.spacing(2),
-  borderTop: "1px solid rgba(0, 0, 0, .125)",
-}));
+// Split a comma-separated string and link each name
+function LinkedList({ items, basePath }) {
+  if (!items) return null;
+  const names = items.split(",").map((s) => s.trim()).filter(Boolean);
+  return (
+    <Typography variant="body2">
+      {names.map((name, i) => (
+        <span key={name}>
+          <Link
+            to={`${basePath}/${encodeURIComponent(name)}`}
+            style={{
+              color: "var(--bluey-blue)",
+              fontFamily: "-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif",
+            }}
+          >
+            {name}
+          </Link>
+          {i < names.length - 1 ? ", " : ""}
+        </span>
+      ))}
+    </Typography>
+  );
+}
 
 export default function LocationRow({ location }) {
-  console.log(location);
   return (
-    <Accordion>
-      <AccordionSummary aria-controls='panel1d-content' id='panel1d-header'>
-        <Typography variant='h5' className='h5'>
-          {location.locationName}
-        </Typography>
+    <Accordion disableGutters elevation={0}>
+      <AccordionSummary {...summaryProps}>
+        <Typography variant="h5">{location.locationName}</Typography>
       </AccordionSummary>
       <AccordionDetails>
-        <Typography variant='body2'>{location.description}</Typography>
-        <Typography variant='h6'>Rooms:</Typography>{" "}
-        <Typography variant='body2'>{location.rooms}</Typography>
-        <Typography variant='h6'>Episode Appearances:</Typography>{" "}
-        <Typography variant='body2'>{location.appearances}</Typography>
-        <Typography variant='h6'>Inhabitants:</Typography>{" "}
-        <Typography variant='body2'>{location.inhabitants}</Typography>
-        <Accordion>
-          <AccordionSummary>
-            <Typography variant='h6'>Trivia:</Typography>{" "}
-          </AccordionSummary>{" "}
-          <AccordionDetails>
-            <Typography variant='body2'>{location.trivia}</Typography>
-          </AccordionDetails>{" "}
-        </Accordion>
+        {location.description && (
+          <Typography variant="body2" sx={{ mb: 1 }}>{location.description}</Typography>
+        )}
+        {location.rooms && (
+          <>
+            <Typography variant="h6">Rooms:</Typography>
+            <Typography variant="body2">{location.rooms}</Typography>
+          </>
+        )}
+        {location.appearances && (
+          <>
+            <Typography variant="h6">Episode Appearances:</Typography>
+            <LinkedList items={location.appearances} basePath="/episode" />
+          </>
+        )}
+        {location.inhabitants && (
+          <>
+            <Typography variant="h6">Inhabitants:</Typography>
+            <LinkedList items={location.inhabitants} basePath="/character" />
+          </>
+        )}
+        {location.trivia && (
+          <Accordion disableGutters elevation={0} id="trivia-accordion" sx={{ mt: 1 }}>
+            <AccordionSummary {...summaryProps}>
+              <Typography variant="h6">Trivia</Typography>
+            </AccordionSummary>
+            <AccordionDetails>
+              <Typography variant="body2">{location.trivia}</Typography>
+            </AccordionDetails>
+          </Accordion>
+        )}
       </AccordionDetails>
     </Accordion>
   );

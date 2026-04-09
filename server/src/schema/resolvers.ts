@@ -83,12 +83,28 @@ const resolvers: IResolvers = {
     character: async (_parent, { characterId }: IdArgs) =>
       Character.findById(characterId),
 
+    characterByName: async (
+      _parent,
+      { characterName }: { characterName: string }
+    ) =>
+      Character.findOne({
+        characterName: { $regex: new RegExp(`^${characterName}$`, "i") },
+      }),
+
     // Tested and working 9:24AM 4/10
     episodes: async (): Promise<IEpisode[] | null> => Episode.find({}),
 
     // Tested and working 9:25AM 4/10
     episode: async (_parent, { episodeId }: IdArgs) =>
       Episode.findById(episodeId),
+
+    episodeByName: async (
+      _parent,
+      { episodeName }: { episodeName: string }
+    ) =>
+      Episode.findOne({
+        episodeName: { $regex: new RegExp(`^${episodeName}$`, "i") },
+      }),
 
     // Tested and working 9:25AM 4/10
     items: async (): Promise<IItem[] | null> => Item.find({}),

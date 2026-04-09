@@ -5,8 +5,10 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Account from "./pages/Account.js";
 import Book from "./pages/Book.js";
 import Character from "./pages/Character.js";
+import CharacterDetail from "./pages/CharacterDetail.js";
 import DrawingApp from "./pages/DrawingApp.js";
 import Episode from "./pages/Episode.js";
+import EpisodeDetail from "./pages/EpisodeDetail.js";
 import Home from "./pages/Home.js";
 import Location from "./pages/Location.js";
 import Login from "./pages/Login.js";
@@ -41,12 +43,20 @@ const router = createBrowserRouter([
         element: <Character />,
       },
       {
+        path: "/character/:name",
+        element: <CharacterDetail />,
+      },
+      {
         path: "/drawing-app",
         element: <DrawingApp />,
       },
       {
         path: "/episode",
         element: <Episode />,
+      },
+      {
+        path: "/episode/:name",
+        element: <EpisodeDetail />,
       },
       {
         path: "/location",
