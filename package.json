@@ -7,7 +7,7 @@
     "start": "cd server && npm run start",
     "dev": "concurrently \"cd server && npm run watch\" \"cd client && npm run dev\"",
     "install": "cd server && npm i && cd ../client && npm i",
-    "build": "cd server && npm install && npm run build && cd ../client && npm install && npm run build"
+    "build": "cd server && npm install --include=dev && npm run build && cd ../client && npm install --include=dev && npm run build"
   },
   "author": "Mary Elenius",
   "license": "MIT",
