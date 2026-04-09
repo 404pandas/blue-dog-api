@@ -1,9 +1,13 @@
 // Eagerly imports every image from the assets folder so components can
 // look up DB-stored paths (e.g. "assets/images/characters/bluey.webp")
 // at runtime without per-file static imports.
+//
+// `import: 'default'` tells Vite to pull only the default export (the
+// resolved URL string) for each asset, so values are plain strings —
+// no need for `.default` unwrapping.
 const allImages = import.meta.glob(
   "../assets/images/**/*.{webp,png,jpg}",
-  { eager: true }
+  { eager: true, import: "default" }
 );
 
 /**
@@ -13,7 +17,6 @@ const allImages = import.meta.glob(
  */
 export function getImageSrc(dbPath) {
   if (!dbPath) return null;
-  const key = `../${dbPath}`;
-  const mod = allImages[key];
-  return mod?.default ?? null;
+  const url = allImages[`../${dbPath}`];
+  return typeof url === "string" ? url : null;
 }
