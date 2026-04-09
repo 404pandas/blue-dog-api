@@ -11,6 +11,7 @@ interface ILocation extends Document {
   inconsistencies?: string;
   trivia?: string;
   gallery?: string;
+  img?: string;
 }
 
 // Define the schema
@@ -29,6 +30,7 @@ const locationSchema: Schema<ILocation> = new Schema(
     inconsistencies: String,
     trivia: String,
     gallery: String,
+    img: String,
   },
   {
     toJSON: {

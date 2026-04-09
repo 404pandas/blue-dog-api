@@ -5,7 +5,8 @@
     "episodeName": "The Magic Xylophone",
     "title-card": "./src/assets/images/episodes/the-magic-xylophone",
     "description": "Bluey and Bingo squabble over their magic xylophone (that has the power to freeze Dad in space and time). Dad seizes control and freezes Bluey, leaving Bingo as her only hope.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/the-magic-xylophone/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/the-magic-xylophone/",
+    "img": "assets/images/episodes/the-magic-xylophone.webp"
   },
   {
     "season": 1,
@@ -13,7 +14,8 @@
     "episodeName": "Hospital",
     "title-card": "./src/assets/images/episodes/hospital",
     "description": "Doctor Bluey is needed when Dad gets a very curious x-ray from Nurse Bingo. It seems he has a cat in his tummy, leaving Bluey no choice but to operate immediately!",
-    "watch-link": "https://www.bluey.tv/watch/season-1/hospital/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/hospital/",
+    "img": "assets/images/episodes/hospital.webp"
   },
   {
     "season": 1,
@@ -21,7 +23,8 @@
     "episodeName": "Keepy Uppy",
     "title-card": "./src/assets/images/episodes/keepy-uppy",
     "description": "Bluey, Bingo and Mum are enjoying playing Keepy Uppy around the house with their last balloon, but when Dad joins in, he takes the game to a whole new level of difficulty.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/keepy-uppy/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/keepy-uppy/",
+    "img": "assets/images/episodes/keepy-uppy.webp"
   },
   {
     "season": 1,
@@ -29,7 +32,8 @@
     "episodeName": "Daddy Robot",
     "title-card": "./src/assets/images/episodes/daddy-robot",
     "description": "Bluey and Bingo don’t want to tidy the playroom, so they enlist the help of Daddy Robot to do it for them.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/daddy-robot/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/daddy-robot/",
+    "img": "assets/images/episodes/daddy-robot.webp"
   },
   {
     "season": 1,
@@ -37,7 +41,8 @@
     "episodeName": "Shadowlands",
     "title-card": "./src/assets/images/episodes/shadowlands",
     "description": "Coco plays Shadowlands with Bluey and Snickers but she keeps trying to make the game easier until Bluey helps her understand that sometimes it’s more fun if you follow the rules.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/shadowlands/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/shadowlands/",
+    "img": "assets/images/episodes/shadowlands.webp"
   },
   {
     "season": 1,
@@ -45,7 +50,8 @@
     "episodeName": "The Weekend",
     "title-card": "./src/assets/images/episodes/the-weekend",
     "description": "At the weekend, Bluey and Bingo are playing in the garden with Dad. But Bingo gets upset, when she discovers a walking leaf insect and Dad is too caught up in the game to notice.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/the-weekend/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/the-weekend/",
+    "img": "assets/images/episodes/the-weekend.webp"
   },
   {
     "season": 1,
@@ -53,7 +59,8 @@
     "episodeName": "BBQ",
     "title-card": "./src/assets/images/episodes/bbq",
     "description": "It’s lunchtime on Bluey's back deck! But every BBQ needs a side salad. Bingo’s relaxing sit-down will have to wait until she finds every colour of capsicum her cousins ask for.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/bbq/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/bbq/",
+    "img": "assets/images/episodes/bbq.webp"
   },
   {
     "season": 1,
@@ -61,7 +68,8 @@
     "episodeName": "Fruit Bat",
     "title-card": "./src/assets/images/episodes/fruitbat",
     "description": "Bluey doesn’t want to go to bed, but she discovers that if she dreams about being a fruit bat, she’ll be able to stay up late.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/fruit-bat/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/fruit-bat/",
+    "img": "assets/images/episodes/fruitbat.webp"
   },
   {
     "season": 1,
@@ -69,7 +77,8 @@
     "episodeName": "Horsey Ride",
     "title-card": "./src/assets/images/episodes/horsey-ride",
     "description": "With Mum and Aunt Trixie away, Bluey, Bingo and Muffin make Dad and Uncle Stripe play a game of Horsey Ride.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/horsey-ride/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/horsey-ride/",
+    "img": "assets/images/episodes/horsey-ride.webp"
   },
   {
     "season": 1,
@@ -77,7 +86,8 @@
     "episodeName": "Hotel",
     "title-card": "./src/assets/images/episodes/hotel",
     "description": "Dad gets embroiled in a game of Hotel, where Bluey and Bingo run a crazy hotel and Dad is the beleaguered guest.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/hotel/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/hotel/",
+    "img": "assets/images/episodes/hotel.webp"
   },
   {
     "season": 1,
@@ -85,7 +95,8 @@
     "episodeName": "Bike",
     "title-card": "./src/assets/images/episodes/bike",
     "description": "In the park, Bluey is fed up with trying to ride her bike, but when she and Dad watch her friends refuse to give up on their own tasks, Bluey is inspired to have another go.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/bike/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/bike/",
+    "img": "assets/images/episodes/bike.webp"
   },
   {
     "season": 1,
@@ -93,7 +104,8 @@
     "episodeName": "Bob Bilby",
     "title-card": "./src/assets/images/episodes/bob-bilby",
     "description": "It’s Bingo’s turn to bring the Bob Bilby puppet home from Kindy and record their weekend together in the scrapbook.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/bob-bilby/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/bob-bilby/",
+    "img": "assets/images/episodes/bob-bilby.webp"
   },
   {
     "season": 1,
@@ -101,7 +113,8 @@
     "episodeName": "Spy Game",
     "title-card": "./src/assets/images/episodes/spy-game",
     "description": "When Bingo stops playing Bluey’s spy game in the park, their device to control the grownups stops working properly. Bluey now sees how important Bingo is and needs to win her back!",
-    "watch-link": "https://www.bluey.tv/watch/season-1/spy-game/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/spy-game/",
+    "img": "assets/images/episodes/spy-game.webp"
   },
   {
     "season": 1,
@@ -109,7 +122,8 @@
     "episodeName": "Takeaway",
     "title-card": "./src/assets/images/episodes/take-away",
     "description": "When Dad insists on waiting five more minutes for some takeaway food, Bluey and Bingo become restless, and test the very limits of Dad’s patience.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/take-away/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/take-away/",
+    "img": "assets/images/episodes/takeaway.webp"
   },
   {
     "season": 1,
@@ -117,7 +131,8 @@
     "episodeName": "Butterflies",
     "title-card": "./src/assets/images/episodes/butterflies",
     "description": "Playing Butterflies in the backyard is great fun, until Bluey runs away with Judo leaving Bingo all alone. Now poor Bingo’s heartbroken and Bluey needs to make it better.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/butterflies/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/butterflies/",
+    "img": "assets/images/episodes/butterflies.webp"
   },
   {
     "season": 1,
@@ -125,7 +140,8 @@
     "episodeName": "Yoga Ball",
     "title-card": "./src/assets/images/episodes/yoga-ball",
     "description": "Bingo loves horsing around with Dad, but sometimes when they’re playing together, Dad forgets Bingo is younger than her sister.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/yoga-ball/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/yoga-ball/",
+    "img": "assets/images/episodes/yoga-ball.webp"
   },
   {
     "season": 1,
@@ -133,7 +149,8 @@
     "episodeName": "Calypso",
     "title-card": "./src/assets/images/episodes/calypso",
     "description": "At school, Bluey and her friends throw themselves into various games. Teacher Calypso keeps her charges on track with a wise word and a song... all except the mysterious Pretzel.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/calypso/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/calypso/",
+    "img": "assets/images/episodes/Calypso.webp"
   },
   {
     "season": 1,
@@ -141,7 +158,8 @@
     "episodeName": "The Doctor",
     "title-card": "./src/assets/images/episodes/the-doctor",
     "description": "Honey is stuck in the waiting room with receptionist Bluey as Dr. Bingo prioritises patients with more exciting injuries, until Honey demonstrates how her tail can wag her body.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/doctor/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/doctor/",
+    "img": "assets/images/episodes/the-doctor.webp"
   },
   {
     "season": 1,
@@ -149,7 +167,8 @@
     "episodeName": "The Claw",
     "title-card": "./src/assets/images/episodes/the-claw",
     "description": "When Bluey and Bingo are unable to win a prize on a Magic Claw machine, Mum and Dad create their own version at home, but Dad’s not about to make winning easy.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/claw/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/claw/",
+    "img": "assets/images/episodes/the-claw.webp"
   },
   {
     "season": 1,
@@ -157,7 +176,8 @@
     "episodeName": "Markets",
     "title-card": "./src/assets/images/episodes/markets",
     "description": "When Bluey visits the markets with five bucks from the tooth fairy, the options are endless. But as she and Indy scour the stalls for the perfect purchase, spending it proves hard.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/markets/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/markets/",
+    "img": "assets/images/episodes/markets.webp"
   },
   {
     "season": 1,
@@ -165,7 +185,8 @@
     "episodeName": "Blue Mountains",
     "title-card": "./src/assets/images/episodes/blue-mountain",
     "description": "While having a picnic in the park, Bluey, Bingo and Mum play a game of hand puppets on Dad and adventure beyond the Blue Mountains to find the warmest, softest beds in the world.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/blue-mountains"
+    "watch-link": "https://www.bluey.tv/watch/season-1/blue-mountains",
+    "img": "assets/images/episodes/blue-mountians.webp"
   },
   {
     "season": 1,
@@ -173,7 +194,8 @@
     "episodeName": "The Pool",
     "title-card": "./src/assets/images/episodes/pool",
     "description": "As they prepare for a trip to the pool, Bluey and Dad tease Mum about being fussy and over prepared. But they soon find out the hard way, that doing the boring things, makes the fun stuff possible.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/pool"
+    "watch-link": "https://www.bluey.tv/watch/season-1/pool",
+    "img": "assets/images/episodes/the-pool.webp"
   },
   {
     "season": 1,
@@ -189,7 +211,8 @@
     "episodeName": "Wagon Ride",
     "title-card": "./src/assets/images/episodes/wagon-ride",
     "description": "As Dad takes Bluey and Bingo on an early morning wagon ride to the park, Bluey can’t wait to get to the monkey bars. But her patience is tested, when Dad keeps stopping to chat with other grown-ups.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/wagon-ride"
+    "watch-link": "https://www.bluey.tv/watch/season-1/wagon-ride",
+    "img": "assets/images/episodes/wagon-ride.webp"
   },
   {
     "season": 1,
@@ -197,7 +220,8 @@
     "episodeName": "Taxi",
     "title-card": "./src/assets/images/episodes/taxi",
     "description": "Bluey is running a taxi service and her first passenger is a stressed-out businessman (Dad). But when they run into some unexpected delays, making it to the airport on time is easier said than done.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/taxi"
+    "watch-link": "https://www.bluey.tv/watch/season-1/taxi",
+    "img": "assets/images/episodes/taxxi.webp"
   },
   {
     "season": 1,
@@ -205,7 +229,8 @@
     "episodeName": "The Beach",
     "title-card": "./src/assets/images/episodes/the-beach",
     "description": "When Mum goes for a walk by herself along the beach, Bluey runs to catch up with her, so she can show her a shell she has found.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/beach/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/beach/",
+    "img": "assets/images/episodes/the-beach.webp"
   },
   {
     "season": 1,
@@ -213,7 +238,8 @@
     "episodeName": "Pirates",
     "title-card": "./src/assets/images/episodes/pirates",
     "description": "It’s an adventure on the high seas as Bluey, Bingo and Missy play Pirates on the hammock swing, but they’ll need to find their courage to withstand storms and whale attacks.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/pirates/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/pirates/",
+    "img": "assets/images/episodes/pirates.webp"
   },
   {
     "season": 1,
@@ -221,7 +247,8 @@
     "episodeName": "Grannies",
     "title-card": "./src/assets/images/episodes/grannies",
     "description": "A game of Grannies is fun, until Bingo and Bluey can’t agree on one simple question: Can grannies dance? Now they need to video call Nanna to get the answer.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/grannies/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/grannies/",
+    "img": "assets/images/episodes/grannies.webp"
   },
   {
     "season": 1,
@@ -229,7 +256,8 @@
     "episodeName": "The Creek",
     "title-card": "./src/assets/images/episodes/the-creek",
     "description": "Bored of the local playground, Dad and the kids go through the bush on a journey to their local creek. Cast out of her comfort zone, Bluey’s eyes are opened to the beauty of the natural world.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/creek/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/creek/",
+    "img": "assets/images/episodes/the-creek.webp"
   },
   {
     "season": 1,
@@ -237,7 +265,8 @@
     "episodeName": "Fairies",
     "title-card": "./src/assets/images/episodes/fairies",
     "description": "Bluey’s house has fairies! Tails are being braided, stickers are everywhere, and Mum’s got a peg beard. Now the family must band together to hunt for these invisible mischief-makers.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/fairies"
+    "watch-link": "https://www.bluey.tv/watch/season-1/fairies",
+    "img": "assets/images/episodes/fairies.webp"
   },
   {
     "season": 1,
@@ -245,7 +274,8 @@
     "episodeName": "Bumpy And The Wise Old Wolfhound",
     "title-card": "./src/assets/images/episodes/bumpy-and-the-wise-old-wolfhound",
     "description": "Bingo is sick in hospital, so Bluey and Dad send her a homemade video to lift her spirits. It tells the tale of Barnicus’ quest to heal her spotty dog named Bumpy.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/bumpy-and-the-wise-old-wolfhound/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/bumpy-and-the-wise-old-wolfhound/",
+    "img": "assets/images/episodes/bumpy-and-the-wise-old-wolfound.webp"
   },
   {
     "season": 1,
@@ -253,7 +283,8 @@
     "episodeName": "Work",
     "title-card": "./src/assets/images/episodes/work",
     "description": "In a game of Work, Dad hires Bluey and Bingo at his drainpipe factory. But when Bluey takes charge, Dad finds his new boss pretty tough, especially her no dancing rule!",
-    "watch-link": "https://www.bluey.tv/watch/season-1/work/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/work/",
+    "img": "assets/images/episodes/work.webp"
   },
   {
     "season": 1,
@@ -261,7 +292,8 @@
     "episodeName": "Mums And Dads",
     "title-card": "./src/assets/images/episodes/mums-and-dads",
     "description": "When Indy and Rusty play Mums and Dads, they can’t agree on who should go to work, so they part company. Indy has a hard time finding a babysitter, while Bluey makes Rusty her baby!",
-    "watch-link": "https://www.bluey.tv/watch/season-1/mums-and-dads/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/mums-and-dads/",
+    "img": "assets/images/episodes/mums-and-dads.webp"
   },
   {
     "season": 1,
@@ -269,7 +301,8 @@
     "episodeName": "Trampoline",
     "title-card": "./src/assets/images/episodes/trampoline",
     "description": "When Dad has to stop having fun with the girls and go to work, Bluey and Bingo scramble to keep him playing games with them on the trampoline!",
-    "watch-link": "https://www.bluey.tv/watch/season-1/trampoline/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/trampoline/",
+    "img": "assets/images/episodes/trampoline.webp"
   },
   {
     "season": 1,
@@ -277,7 +310,8 @@
     "episodeName": "The Dump",
     "title-card": "./src/assets/images/episodes/the-dump",
     "description": "On a trip to the dump, Dad claims he's the best at everything. But Bluey discovers that Dad’s throwing out her old drawing and questions if he really is the best Dad in the world.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/dump/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/dump/",
+    "img": "assets/images/episodes/the-dump.webp"
   },
   {
     "season": 1,
@@ -285,7 +319,8 @@
     "episodeName": "Zoo",
     "title-card": "./src/assets/images/episodes/zoo",
     "description": "Bluey’s backyard zoo is home to wonderful animals, especially the big blue Daddy Gorilla. But when he grabs visitor Bingo and escapes, Zookeeper Bluey must recapture the wild beast.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/zoo/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/zoo/",
+    "img": "assets/images/episodes/zoo.webp"
   },
   {
     "season": 1,
@@ -293,7 +328,8 @@
     "episodeName": "Teasing",
     "title-card": "./src/assets/images/episodes/teasing",
     "description": "Bluey, Bingo and Mum get into a heated debate with Dad about the definition of teasing.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/teasing/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/teasing/",
+    "img": "assets/images/episodes/teasing.webp"
   },
   {
     "season": 1,
@@ -301,7 +337,8 @@
     "episodeName": "The Adventure",
     "title-card": "./src/assets/images/episodes/the-adventure",
     "description": "Princesses, horses and magic wands. Bluey and Chloe can play any role they want, when they embark on an adventure to save their playground kingdom from the Greedy Queen.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/the-adventure/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/the-adventure/",
+    "img": "assets/images/episodes/the-adventure.webp"
   },
   {
     "season": 1,
@@ -309,7 +346,8 @@
     "episodeName": "Copycat",
     "title-card": "./src/assets/images/episodes/copycat",
     "description": "Bluey’s having fun copying everything Dad says and does, but the game takes a serious turn when Bluey finds a hurt budgie and they have to make an emergency trip to the vet.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/copycat/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/copycat/",
+    "img": "assets/images/episodes/copycat.webp"
   },
   {
     "season": 1,
@@ -317,7 +355,8 @@
     "episodeName": "The Sleepover",
     "title-card": "./src/assets/images/episodes/the-sleepover",
     "description": "A sleepover with their cousin means Bluey and Bingo get to stay up late! But when Muffin shows up exhausted after missing her nap, the girls get more fun than they bargained for.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/the-sleepover/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/the-sleepover/",
+    "img": "assets/images/episodes/the-sleepover.webp"
   },
   {
     "season": 1,
@@ -325,7 +364,8 @@
     "episodeName": "Early Baby",
     "title-card": "./src/assets/images/episodes/early-baby",
     "description": "Bluey’s playgroup is at odds when Indy’s baby hospital collides with Rusty’s knights and dragons. But in explaining themselves, they find their games actually have a lot in common.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/early-baby/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/early-baby/",
+    "img": "assets/images/episodes/early-baby.webp"
   },
   {
     "season": 1,
@@ -333,7 +373,8 @@
     "episodeName": "Hide And Seek",
     "title-card": "./src/assets/images/episodes/hide-and-seek",
     "description": "It’s time for a family game of Hide and Seek! Everyone hides while Bluey counts to twenty. Will she be able to stay focused on the game and not get distracted by all her toys?",
-    "watch-link": "https://www.bluey.tv/watch/season-1/hide-and-seek/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/hide-and-seek/",
+    "img": "assets/images/episodes/hide-and-seek.webp"
   },
   {
     "season": 1,
@@ -341,7 +382,8 @@
     "episodeName": "Camping",
     "title-card": "./src/assets/images/episodes/camping",
     "description": "While on a camping holiday, Bluey makes a new friend called Jean-Luc. Bluey may not understand him, but they find common language playing and hunting for a wild Daddy pig.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/camping/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/camping/",
+    "img": "assets/images/episodes/camping.webp"
   },
   {
     "season": 1,
@@ -349,7 +391,8 @@
     "episodeName": "Mount MumandDad",
     "title-card": "./src/assets/images/episodes/mount-mumanddad",
     "description": "Bingo and Bluey have five minutes to bed, just enough time to race to the summit of Mount Mumanddad! But facing powerful storms, avalanches and stinky spots, this will take teamwork.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/mount-mumanddad/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/mount-mumanddad/",
+    "img": "assets/images/episodes/mount-mum-and-dad.webp"
   },
   {
     "season": 1,
@@ -357,7 +400,8 @@
     "episodeName": "Kids",
     "title-card": "./src/assets/images/episodes/kids",
     "description": "A quick trip to the shops proves tricky for Dad, when Bingo and Bluey want to play a game of Kids. Now Bluey is Mum, Bingo’s her baby and Dad is a very naughty boy!",
-    "watch-link": "https://www.bluey.tv/watch/season-1/kids/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/kids/",
+    "img": "assets/images/episodes/kids.webp"
   },
   {
     "season": 1,
@@ -365,7 +409,8 @@
     "episodeName": "Chickenrat",
     "title-card": "./src/assets/images/episodes/Chickenrat",
     "description": "As the girls get ready for bed, Bingo can’t remember where she left her favourite toy, Floppy.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/chickenrat/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/chickenrat/",
+    "img": "assets/images/episodes/chicken-rat.webp"
   },
   {
     "season": 1,
@@ -373,7 +418,8 @@
     "episodeName": "Neighbours",
     "title-card": "./src/assets/images/episodes/Neighbours",
     "description": "Bluey needs Mum’s advice on dealing with a troublesome neighbour, when the serenity of her couch cushion playhouse is threatened by Bingo’s growing stable of animals.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/neighbours/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/neighbours/",
+    "img": "assets/images/episodes/neighbours.webp"
   },
   {
     "season": 1,
@@ -381,7 +427,8 @@
     "episodeName": "Backpackers",
     "title-card": "./src/assets/images/episodes/backpackers",
     "description": "Mum and Dad are going on an adventure wearing the kids as their cheeky backpacks! Seeing the sights and buying the street food, backpacking’s a blast - until they lose their passports.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/backpackers/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/backpackers/",
+    "img": "assets/images/episodes/backpackers.webp"
   },
   {
     "season": 1,
@@ -389,7 +436,8 @@
     "episodeName": "Asparagus",
     "title-card": "./src/assets/images/episodes/asparagus",
     "description": "Dad tells Bluey to mind her manners at the table - they’re not animals! But when Bluey gets her hands on a stick of magic asparagus, she shows them everyone’s got a wild side!",
-    "watch-link": "https://www.bluey.tv/watch/season-1/asparagus/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/asparagus/",
+    "img": "assets/images/episodes/asparagus.webp"
   },
   {
     "season": 1,
@@ -397,7 +445,8 @@
     "episodeName": "Shaun",
     "title-card": "./src/assets/images/episodes/shaun",
     "description": "Bluey and Bingo want a pet! To show them how much work they’d be in for, Dad transforms his hand into their old friend Shaun, a chaotic, undisciplined Emu with a taste for trouble.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/asparagus/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/asparagus/",
+    "img": "assets/images/episodes/shaun.webp"
   },
   {
     "season": 1,
@@ -405,7 +454,8 @@
     "episodeName": "Daddy Putdown",
     "title-card": "./src/assets/images/episodes/daddy-putdown",
     "description": "When Mum goes out to a baby shower, Dad takes charge of the girls’ evening routine. But with Bluey missing Mum, Dad has to pull out all the games he knows to keep them entertained.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/daddy-putdown/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/daddy-putdown/",
+    "img": "assets/images/episodes/daddy-putdown.webp"
   },
   {
     "season": 1,
@@ -413,7 +463,8 @@
     "episodeName": "Verandah Santa",
     "title-card": "./src/assets/images/episodes/verandah-santa",
     "description": "It's Christmas and Bluey is very focused on being good to get more presents. But when a game of Verandah Santa leaves cousin Socks upset, Bluey must learn the virtue of kindness.",
-    "watch-link": "https://www.bluey.tv/watch/season-1/verandah-santa/"
+    "watch-link": "https://www.bluey.tv/watch/season-1/verandah-santa/",
+    "img": "assets/images/episodes/verandah-santa.webp"
   },
   {
     "season": 2,

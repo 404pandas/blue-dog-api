@@ -3,7 +3,9 @@ import Accordion from "@mui/material/Accordion";
 import AccordionSummary from "@mui/material/AccordionSummary";
 import AccordionDetails from "@mui/material/AccordionDetails";
 import Typography from "@mui/material/Typography";
+import Box from "@mui/material/Box";
 import ArrowForwardIosSharpIcon from "@mui/icons-material/ArrowForwardIosSharp";
+import { getImageSrc } from "../utils/imageUtils";
 
 const summaryProps = {
   expandIcon: <ArrowForwardIosSharpIcon sx={{ fontSize: "0.9rem" }} />,
@@ -12,18 +14,59 @@ const summaryProps = {
 
 export default function CharacterRow({ character }) {
   const {
-    characterName, species, breed, gender, age, catchphrase,
+    characterName, img, species, breed, gender, age, catchphrase,
     hobbies, friends, nicknames, firstAppearance, notableEpisodes,
     characteristics, traits, personal_status, trivia, absences,
     gallery, animated, references, appearance, personality, family, funfacts,
   } = character;
 
+  const imgSrc = getImageSrc(img);
+
   return (
     <Accordion disableGutters elevation={0}>
       <AccordionSummary {...summaryProps}>
-        <Typography variant="h5">{characterName}</Typography>
+        <Box sx={{ display: "flex", alignItems: "center", gap: 1.5 }}>
+          {imgSrc && (
+            <Box
+              component="img"
+              src={imgSrc}
+              alt={characterName}
+              sx={{
+                width: 44,
+                height: 44,
+                borderRadius: "50%",
+                objectFit: "cover",
+                objectPosition: "top",
+                border: "2px solid var(--bluey-light)",
+                flexShrink: 0,
+              }}
+            />
+          )}
+          <Typography variant="h5">{characterName}</Typography>
+        </Box>
       </AccordionSummary>
+
       <AccordionDetails>
+        {/* Character portrait */}
+        {imgSrc && (
+          <Box sx={{ float: "right", ml: 2, mb: 1 }}>
+            <Box
+              component="img"
+              src={imgSrc}
+              alt={characterName}
+              sx={{
+                width: 160,
+                height: 160,
+                borderRadius: "16px",
+                objectFit: "cover",
+                objectPosition: "top",
+                border: "2px solid var(--bluey-light)",
+                boxShadow: "0 4px 16px var(--shadow-blue)",
+              }}
+            />
+          </Box>
+        )}
+
         {catchphrase && (
           <Typography variant="h6">&ldquo;{catchphrase}&rdquo;</Typography>
         )}
@@ -161,10 +204,7 @@ export default function CharacterRow({ character }) {
           <>
             <Typography variant="h6">First Appearance:</Typography>
             <Typography>
-              <Link
-                to={`/episode/${encodeURIComponent(firstAppearance)}`}
-                style={{ color: "var(--bluey-blue)" }}
-              >
+              <Link to={`/episode/${encodeURIComponent(firstAppearance)}`} style={{ color: "var(--bluey-blue)" }}>
                 {firstAppearance}
               </Link>
             </Typography>
@@ -195,18 +235,6 @@ export default function CharacterRow({ character }) {
             <Typography>{absences}</Typography>
           </>
         )}
-        {gallery && (
-          <>
-            <Typography variant="h6">Gallery:</Typography>
-            <Typography>{gallery}</Typography>
-          </>
-        )}
-        {animated && (
-          <>
-            <Typography variant="h6">Animated:</Typography>
-            <Typography>{animated}</Typography>
-          </>
-        )}
         {references && (
           <>
             <Typography variant="h6">References:</Typography>
@@ -215,6 +243,9 @@ export default function CharacterRow({ character }) {
             </Link>
           </>
         )}
+
+        {/* clear the float */}
+        <Box sx={{ clear: "both" }} />
       </AccordionDetails>
     </Accordion>
   );

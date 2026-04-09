@@ -5,6 +5,7 @@ export const GET_EPISODE_BY_NAME = gql`
     episodeByName(episodeName: $episodeName) {
       _id
       episodeName
+      img
       description
       season
       episode
@@ -17,6 +18,7 @@ export const GET_EPISODES = gql`
     episodes {
       _id
       episodeName
+      img
       description
       season
       episode

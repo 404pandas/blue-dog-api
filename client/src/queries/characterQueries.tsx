@@ -5,6 +5,7 @@ export const GET_CHARACTER_BY_NAME = gql`
     characterByName(characterName: $characterName) {
       _id
       characterName
+      img
       species
       breed
       gender
@@ -68,6 +69,7 @@ export const GET_CHARACTERS = gql`
     characters {
       _id
       characterName
+      img
       species
       breed
       gender

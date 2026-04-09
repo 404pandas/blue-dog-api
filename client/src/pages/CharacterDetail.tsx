@@ -1,6 +1,7 @@
 import { useParams, Link } from "react-router-dom";
 import { useQuery } from "@apollo/client";
 import { GET_CHARACTER_BY_NAME } from "../queries/characterQueries";
+import { getImageSrc } from "../utils/imageUtils";
 
 import Container from "@mui/material/Container";
 import Box from "@mui/material/Box";
@@ -73,6 +74,7 @@ export default function CharacterDetail() {
     );
 
   const c = data.characterByName;
+  const imgSrc = getImageSrc(c.img);
 
   return (
     <Container maxWidth="md" sx={{ mt: 5, mb: 10 }}>
@@ -102,33 +104,56 @@ export default function CharacterDetail() {
           p: { xs: 3, sm: 5 },
         }}
       >
-        <Typography
-          variant="h3"
-          sx={{
-            fontFamily: "'hello-headline', cursive",
-            background:
-              "linear-gradient(135deg, var(--bluey-darker), var(--bluey-blue))",
-            WebkitBackgroundClip: "text",
-            WebkitTextFillColor: "transparent",
-            backgroundClip: "text",
-            mb: 1,
-          }}
-        >
-          {c.characterName}
-        </Typography>
+        {/* Name + portrait row */}
+        <Box sx={{ display: "flex", gap: 3, alignItems: "flex-start", mb: 1 }}>
+          <Box sx={{ flex: 1 }}>
+            <Typography
+              variant="h3"
+              sx={{
+                fontFamily: "'hello-headline', cursive",
+                background:
+                  "linear-gradient(135deg, var(--bluey-darker), var(--bluey-blue))",
+                WebkitBackgroundClip: "text",
+                WebkitTextFillColor: "transparent",
+                backgroundClip: "text",
+                mb: 1,
+              }}
+            >
+              {c.characterName}
+            </Typography>
 
-        {c.catchphrase && (
-          <Typography
-            variant="h6"
-            sx={{
-              color: "var(--bingo-orange)",
-              fontFamily: "'hello-headline', cursive",
-              mb: 3,
-            }}
-          >
-            &ldquo;{c.catchphrase}&rdquo;
-          </Typography>
-        )}
+            {c.catchphrase && (
+              <Typography
+                variant="h6"
+                sx={{
+                  color: "var(--bingo-orange)",
+                  fontFamily: "'hello-headline', cursive",
+                  mb: 2,
+                }}
+              >
+                &ldquo;{c.catchphrase}&rdquo;
+              </Typography>
+            )}
+          </Box>
+
+          {imgSrc && (
+            <Box
+              component="img"
+              src={imgSrc}
+              alt={c.characterName}
+              sx={{
+                width: { xs: 120, sm: 180 },
+                height: { xs: 120, sm: 180 },
+                borderRadius: "16px",
+                objectFit: "cover",
+                objectPosition: "top",
+                border: "2px solid var(--bluey-light)",
+                boxShadow: "0 4px 20px var(--shadow-blue)",
+                flexShrink: 0,
+              }}
+            />
+          )}
+        </Box>
 
         <Divider sx={{ mb: 3, borderColor: "var(--bluey-light)" }} />
 

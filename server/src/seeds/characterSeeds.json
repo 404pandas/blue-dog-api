@@ -171,7 +171,8 @@
         ]
       },
       "limited_information": "Specific details about Bentley's Mum are limited as she is a minor character."
-    }
+    },
+    "img": "assets/images/characters/bluey.webp"
   },
   {
     "characterName": "Bingo Heeler",
@@ -310,7 +311,8 @@
         "Stories",
         "Space"
       ]
-    }
+    },
+    "img": "assets/images/characters/bingo.webp"
   },
   {
     "characterName": "Bandit Heeler",
@@ -404,7 +406,8 @@
       "voice_recording": "David McCormack records his lines remotely in Sydney without hearing other actors or viewing footage",
       "parenting_style": "Praised as a positive father figure, balancing work and family life while engaging in imaginative play with his children"
     },
-    "friends": []
+    "friends": [],
+    "img": "assets/images/characters/bandir.webp"
   },
   {
     "characterName": "Bella",
@@ -461,7 +464,8 @@
       "motherhood": "Bella has nine children, including Coco.",
       "licensePlate": "Her car's license plate reads '2MNYKID5' (too many kids).",
       "supportiveNature": "She was part of a mother's group with Chilli, Wendy, and Snickers' Mum, offering support to first-time mothers."
-    }
+    },
+    "img": "assets/images/characters/bella.webp"
   },
   {
     "characterName": "Bentley",
@@ -505,7 +509,8 @@
     "funFacts": {
       "twinSister": "Bentley has a twin sister characterNamed Zara.",
       "kindyClass": "Bentley is part of Mrs. Retriever's kindy class."
-    }
+    },
+    "img": "assets/images/characters/bentley.webp"
   },
   {
     "characterName": "Bentley's Mum",
@@ -633,7 +638,8 @@
       "[5] Episode 'Humpty Dumpty'",
       "[6] Book 'Where's Bluey?'"
     ],
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/bob.webp"
   },
   {
     "characterName": "Chilli Heeler",
@@ -753,7 +759,8 @@
     "gallery": "",
     "animated": "Yes",
     "references": "",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/chilli.webp"
   },
   {
     "characterName": "Muffin",
@@ -819,7 +826,8 @@
     "gallery": "",
     "animated": "Yes",
     "references": "Episode 'Muffin's Birthday'",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/muffin.webp"
   },
   {
     "characterName": "Jack",
@@ -881,7 +889,8 @@
     "gallery": "",
     "animated": "Yes",
     "references": "Episode 'The Creek'",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/jack.webp"
   },
   {
     "characterName": "Rusty",
@@ -940,7 +949,8 @@
     "gallery": "",
     "animated": "Yes",
     "references": "Episode 'The Adventure'",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/rusty.webp"
   },
   {
     "characterName": "Lucky",
@@ -994,7 +1004,8 @@
     "gallery": "",
     "animated": "Yes",
     "references": "Episode 'Lucky's Toy'",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/lucky.webp"
   },
   {
     "characterName": "Mackenzie Border Collie",
@@ -1070,7 +1081,8 @@
     "gallery": "",
     "animated": "",
     "references": "",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/mackenzie.webp"
   },
   {
     "characterName": "Indy",
@@ -1136,7 +1148,8 @@
     "gallery": "",
     "animated": "",
     "references": "",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/indy.webp"
   },
   {
     "characterName": "Honey",
@@ -1201,7 +1214,8 @@
     "gallery": "",
     "animated": "",
     "references": "",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/honey.webp"
   },
   {
     "characterName": "Coco",
@@ -1265,7 +1279,8 @@
     "gallery": "",
     "animated": "",
     "references": "",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/coco.webp"
   },
   {
     "characterName": "Customer",
@@ -1309,7 +1324,8 @@
     "gallery": "",
     "animated": "Yes",
     "references": "",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/customer.webp"
   },
   {
     "characterName": "Customer 2",
@@ -1386,7 +1402,8 @@
     "gallery": "",
     "animated": "Yes",
     "references": "",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/snickers.webp"
   },
   {
     "characterName": "Chloe",
@@ -1438,7 +1455,8 @@
     "gallery": "",
     "animated": "Yes",
     "references": "",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/chloe.webp"
   },
   {
     "characterName": "Chloe's Mum",
@@ -1486,7 +1504,8 @@
     "gallery": "",
     "animated": "Yes",
     "references": "",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/chloes-mom.webp"
   },
   {
     "characterName": "Frank",
@@ -1535,7 +1554,8 @@
     "gallery": "",
     "animated": "Yes",
     "references": "",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/frank.webp"
   },
   {
     "characterName": "Judo",
@@ -1572,7 +1592,8 @@
     "gallery": "",
     "animated": "Yes",
     "references": "",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/judo.webp"
   },
   {
     "characterName": "Jean Luc",
@@ -1611,7 +1632,8 @@
     "gallery": "",
     "animated": "Yes",
     "references": "",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/jean-luc.webp"
   },
   {
     "characterName": "The Terriers",
@@ -1645,7 +1667,8 @@
     "gallery": "",
     "animated": "Yes",
     "references": "",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/the-terriers.webp"
   },
   {
     "characterName": "Socks",
@@ -1680,7 +1703,8 @@
     "gallery": "",
     "animated": "Yes",
     "references": "",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/socks-heeler.webp"
   },
   {
     "characterName": "Missy",
@@ -1721,7 +1745,8 @@
     "gallery": "",
     "animated": "Yes",
     "references": "",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/missy.webp"
   },
   {
     "characterName": "Buddy",
@@ -1758,7 +1783,8 @@
     "gallery": "",
     "animated": "Yes",
     "references": "",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/buddy.webp"
   },
   {
     "characterName": "Buddy's Mum",
@@ -1795,7 +1821,8 @@
     "gallery": "",
     "animated": "Yes",
     "references": "",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/buddys-mom.webp"
   },
   {
     "characterName": "Bull Terriers",
@@ -1861,7 +1888,8 @@
     "gallery": "",
     "animated": "Yes",
     "references": "",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/bus-stop-lady.webp"
   },
   {
     "characterName": "Calypso",
@@ -1901,7 +1929,8 @@
     "gallery": "",
     "animated": "",
     "references": "",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/calypso.webp"
   },
   {
     "characterName": "Winton",
@@ -1937,7 +1966,8 @@
     "gallery": "",
     "animated": "Yes",
     "references": "",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/winton.webp"
   },
   {
     "characterName": "Uncle Stripe",
@@ -1972,7 +2002,8 @@
     "gallery": "",
     "animated": "Yes",
     "references": "",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/stripe.webp"
   },
   {
     "characterName": "Aunt Trixie",
@@ -2004,7 +2035,8 @@
     "gallery": "",
     "animated": "Yes",
     "references": "",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/trixie-heeler.webp"
   },
   {
     "characterName": "Bently",
@@ -2038,7 +2070,8 @@
     "gallery": "",
     "animated": "Yes",
     "references": "",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/bentley.webp"
   },
   {
     "characterName": "Nana",
@@ -2080,7 +2113,8 @@
         "Uncle Stripe",
         "Radley Heeler"
       ]
-    }
+    },
+    "img": "assets/images/characters/christine-heeler.webp"
   },
   {
     "characterName": "Bosco",
@@ -2141,7 +2175,8 @@
     "gallery": "",
     "animated": "Yes",
     "references": "",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/brandy.webp"
   },
   {
     "characterName": "Busker",
@@ -2173,7 +2208,8 @@
     "gallery": "",
     "animated": "Yes",
     "references": "",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/busker.webp"
   },
   {
     "characterName": "Captain",
@@ -2209,7 +2245,8 @@
     "gallery": "",
     "animated": "Yes",
     "references": "",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/Captain.webp"
   },
   {
     "characterName": "Checkout Dog",
@@ -2234,7 +2271,8 @@
     "gallery": "",
     "animated": "Yes",
     "references": "",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/Checkout-Dog.webp"
   },
   {
     "characterName": "Jelly",
@@ -2391,7 +2429,8 @@
       "favoriteColor": "Yellow",
       "birthday": "Unknown",
       "appearance": "Trixie is an adventurous and energetic dog who loves spending time with her friends, especially Jelly."
-    }
+    },
+    "img": "assets/images/characters/trixie-heeler.webp"
   },
   {
     "characterName": "Frisky",
@@ -2454,7 +2493,8 @@
       "favoriteColor": "Red",
       "birthday": "Unknown",
       "appearance": "Frisky is a lively and energetic dog who loves to run and play. She was introduced in 'Frisky's Day Out'."
-    }
+    },
+    "img": "assets/images/characters/frisky.webp"
   },
   {
     "characterName": "Shaun",
@@ -2564,7 +2604,8 @@
     },
     "firstAppearance": "Dragon",
     "trivia": "Also known as Mrs. Cattle. She passed away before the series, and Bluey and Bingo never met her. She encouraged Chilli to keep drawing as a child.",
-    "friends": []
+    "friends": [],
+    "img": "assets/images/characters/chillis-mum.webp"
   },
   {
     "characterName": "Radley Heeler",
@@ -2606,7 +2647,8 @@
       "Double Babysitter",
       "Charades"
     ],
-    "trivia": "Also known as Rad. He is the eldest of the three Heeler brothers. He is married to Frisky."
+    "trivia": "Also known as Rad. He is the eldest of the three Heeler brothers. He is married to Frisky.",
+    "img": "assets/images/characters/radley-heeler.webp"
   },
   {
     "characterName": "Winnie",
@@ -2648,7 +2690,8 @@
     "notableEpisodes": [
       "Cafe"
     ],
-    "trivia": "Winnie has seen an echidna in real life, unlike Bluey. She has a sister who likes sleep-ins."
+    "trivia": "Winnie has seen an echidna in real life, unlike Bluey. She has a sister who likes sleep-ins.",
+    "img": "assets/images/characters/winnie.webp"
   },
   {
     "characterName": "Pretzel",
@@ -2696,7 +2739,8 @@
       "The Sign"
     ],
     "trivia": "Pretzel has two mothers. He is based on a dog owned by Aivy Nguyen, Season 1 art director of Bluey.",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/pretzel.webp"
   },
   {
     "characterName": "Gruber",
@@ -2731,7 +2775,8 @@
     ],
     "trivia": "Gruber helps his father sell German hot dog sausages at the markets. The subtitles in Markets incorrectly called him 'Rupert', later confirmed to be an error by Ludo Studio.",
     "friends": [],
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/gruber.webp"
   },
   {
     "characterName": "Hercules",
@@ -2774,7 +2819,8 @@
       "Circus"
     ],
     "trivia": "Hercules is a big Saint Bernard who is very bossy. He likes playing motorbikes where he is the motorbike and smaller kids are the jumps. He can spin Mackenzie on his head.",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/hercules.webp"
   },
   {
     "characterName": "Lila",
@@ -2823,7 +2869,8 @@
       "Daddy Dropoff",
       "Pass the Parcel"
     ],
-    "trivia": "Lila is Bingo's best friend. She was shy when she first joined kindy but came out of her shell thanks to Bingo. They are predicted to remain best friends and eventually graduate school together."
+    "trivia": "Lila is Bingo's best friend. She was shy when she first joined kindy but came out of her shell thanks to Bingo. They are predicted to remain best friends and eventually graduate school together.",
+    "img": "assets/images/characters/lila.webp"
   },
   {
     "characterName": "Mia",
@@ -2866,7 +2913,8 @@
       "Barky Boats"
     ],
     "trivia": "Mia is Bluey's school buddy at Glasshouse Primary School. She is twelve years old and her favourite fruit is lychees. She has a crush on Captain.",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/mia.webp"
   },
   {
     "characterName": "Pom Pom",
@@ -2913,7 +2961,8 @@
       "Curry Quest",
       "Pass the Parcel"
     ],
-    "trivia": "Pom Pom is known for saying 'Pomeranians are a small, but hardy breed!' She was self-conscious about her size but Bandit arranged a see-saw game to prove small can do big things."
+    "trivia": "Pom Pom is known for saying 'Pomeranians are a small, but hardy breed!' She was self-conscious about her size but Bandit arranged a see-saw game to prove small can do big things.",
+    "img": "assets/images/characters/pom-pom.webp"
   },
   {
     "characterName": "Mackenzie's Dad",
@@ -2960,7 +3009,8 @@
       "Spy Game",
       "Curry Quest"
     ],
-    "trivia": "Mackenzie's Dad moved to Australia from New Zealand and remains a loyal fan of the New Zealand rugby team. He enjoys curry swaps with Bandit, trading Beef Rendang for Rogan Josh."
+    "trivia": "Mackenzie's Dad moved to Australia from New Zealand and remains a loyal fan of the New Zealand rugby team. He enjoys curry swaps with Bandit, trading Beef Rendang for Rogan Josh.",
+    "img": "assets/images/characters/mackenzies-dad.webp"
   },
   {
     "characterName": "Mackenzie's Mum",
@@ -3008,7 +3058,8 @@
       "Spy Game",
       "Curry Quest"
     ],
-    "trivia": "Hailing from New Zealand, Mackenzie's Mum remains a loyal fan of the New Zealand rugby team. She volunteers for school events like face painting, despite initially doubting her artistic skills."
+    "trivia": "Hailing from New Zealand, Mackenzie's Mum remains a loyal fan of the New Zealand rugby team. She volunteers for school events like face painting, despite initially doubting her artistic skills.",
+    "img": "assets/images/characters/mackenzies-mum.webp"
   },
   {
     "characterName": "Fido",
@@ -3031,7 +3082,8 @@
       "Bandit Heeler"
     ],
     "firstAppearance": "Cafe",
-    "trivia": "Fido is Winnie's father. He is often at the park with Winnie early in the mornings."
+    "trivia": "Fido is Winnie's father. He is often at the park with Winnie early in the mornings.",
+    "img": "assets/images/characters/fido.webp"
   },
   {
     "characterName": "Wendy",
@@ -3049,7 +3101,8 @@
     ],
     "firstAppearance": "Flat Pack",
     "trivia": "Wendy is a friend of Chilli Heeler.",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/wendy.webp"
   },
   {
     "characterName": "Daisy",
@@ -3071,7 +3124,8 @@
     ],
     "firstAppearance": "Markets",
     "trivia": "Daisy is a friend of Chilli Heeler and the Heeler family social circle.",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/daisy.webp"
   },
   {
     "characterName": "Marcus",
@@ -3092,7 +3146,8 @@
     ],
     "firstAppearance": "Stumpfest",
     "trivia": "Marcus is a friend of the Heeler family social circle.",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/marcus.webp"
   },
   {
     "characterName": "Pat",
@@ -3111,7 +3166,8 @@
     ],
     "firstAppearance": "Stumpfest",
     "trivia": "Pat is a friend of the Heeler family who appears in several social episodes.",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/pat.webp"
   },
   {
     "characterName": "Chucky",
@@ -3132,7 +3188,8 @@
     ],
     "firstAppearance": "Daddy Dropoff",
     "trivia": "Chucky is one of the kindy kids and a friend of Lila and Bingo.",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/chucky.webp"
   },
   {
     "characterName": "Dougie",
@@ -3150,7 +3207,8 @@
     ],
     "firstAppearance": "Daddy Dropoff",
     "trivia": "Dougie is a Cavapoo and one of the kindy kids.",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/dougie.webp"
   },
   {
     "characterName": "Mort Cattle",
@@ -3173,7 +3231,8 @@
       "Uncle Stripe"
     ],
     "firstAppearance": "Dragon",
-    "trivia": "Mort Cattle is the father of Chilli Heeler and Brandy Cattle, and the maternal grandfather of Bluey and Bingo."
+    "trivia": "Mort Cattle is the father of Chilli Heeler and Brandy Cattle, and the maternal grandfather of Bluey and Bingo.",
+    "img": "assets/images/characters/mort.webp"
   },
   {
     "characterName": "Snickers' Mum",
@@ -3196,7 +3255,8 @@
       "Frisky"
     ],
     "firstAppearance": "Dance Mode",
-    "trivia": "Snickers' Mum is one of the parents in Chilli Heeler's social circle."
+    "trivia": "Snickers' Mum is one of the parents in Chilli Heeler's social circle.",
+    "img": "assets/images/characters/snickers-mom.webp"
   },
   {
     "characterName": "Jasper G.",
@@ -3212,7 +3272,8 @@
     "firstAppearance": "Daddy Dropoff",
     "trivia": "Jasper G. is a kindy kid at Glasshouse Primary School.",
     "friends": [],
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/jasper.webp"
   },
   {
     "characterName": "Jasper W.",
@@ -3228,7 +3289,8 @@
     "firstAppearance": "Daddy Dropoff",
     "trivia": "Jasper W. is a kindy kid at Glasshouse Primary School.",
     "friends": [],
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/jasper-w.webp"
   },
   {
     "characterName": "Juniper",
@@ -3244,7 +3306,8 @@
     "firstAppearance": "Daddy Dropoff",
     "trivia": "Juniper is a kindy kid and friend of Bingo.",
     "friends": [],
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/juniper.webp"
   },
   {
     "characterName": "Sadie",
@@ -3260,7 +3323,8 @@
     "firstAppearance": "Daddy Dropoff",
     "trivia": "Sadie is a kindy kid at Glasshouse Primary School.",
     "friends": [],
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/sadie.webp"
   },
   {
     "characterName": "Zara",
@@ -3276,7 +3340,8 @@
     "firstAppearance": "Daddy Dropoff",
     "trivia": "Zara is a kindy kid at Glasshouse Primary School.",
     "friends": [],
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/zara.webp"
   },
   {
     "characterName": "Sheila",
@@ -3296,7 +3361,8 @@
     },
     "firstAppearance": "Daddy Dropoff",
     "trivia": "Sheila is Lila's mother.",
-    "friends": []
+    "friends": [],
+    "img": "assets/images/characters/sheila.webp"
   },
   {
     "characterName": "Pom Pom's Mum",
@@ -3316,7 +3382,8 @@
     },
     "firstAppearance": "See Saw",
     "trivia": "Pom Pom's Mum is the mother of Pom Pom.",
-    "friends": []
+    "friends": [],
+    "img": "assets/images/characters/pom-poms-mom.webp"
   },
   {
     "characterName": "Maynard",
@@ -3335,6 +3402,7 @@
     ],
     "firstAppearance": "Stories",
     "trivia": "Maynard is a friend of the Heeler family.",
-    "family": {}
+    "family": {},
+    "img": "assets/images/characters/maynard.webp"
   }
 ]

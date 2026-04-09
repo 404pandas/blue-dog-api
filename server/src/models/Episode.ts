@@ -6,6 +6,7 @@ interface IEpisode extends Document {
   description: string;
   season: number;
   episode: number;
+  img?: string;
 }
 
 // Define the schema
@@ -22,6 +23,9 @@ const episodeSchema: Schema<IEpisode> = new Schema(
     },
     episode: {
       type: Number,
+    },
+    img: {
+      type: String,
     },
   },
   {

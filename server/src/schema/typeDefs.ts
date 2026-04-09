@@ -15,6 +15,7 @@ const typeDefs = `
   type Character {
     _id: ID!
     characterName: String
+    img: String
     species: String
     breed: String
     gender: String
@@ -134,11 +135,13 @@ const typeDefs = `
     description: String
     season: Int
     episode: Int
+    img: String
   }
 
   type Location {
     _id: ID!
     locationName: String
+    img: String
     description: String
     appearance: String
     rooms: String

@@ -2,6 +2,7 @@ import { Schema, model, type Document } from "mongoose";
 
 interface ICharacter extends Document {
   characterName: string;
+  img?: string;
   species?: string;
   breed: string;
   gender: string;
@@ -87,6 +88,9 @@ interface ICharacter extends Document {
 const characterSchema = new Schema<ICharacter>(
   {
     characterName: {
+      type: String,
+    },
+    img: {
       type: String,
     },
     species: {

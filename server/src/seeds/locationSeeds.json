@@ -8,7 +8,8 @@
     "inhabitants": "Bluey Heeler, Bingo Heeler, Bandit Heeler, Chilli Heeler",
     "inconsistencies": "",
     "trivia": "",
-    "gallery": ""
+    "gallery": "",
+    "img": "assets/images/locations/latrobe-terrace.webp"
   },
   {
     "locationName": "Chloe's Family's Home",
@@ -19,7 +20,8 @@
     "inhabitants": "Chloe, Frank, Chloe's Mum",
     "inconsistencies": "",
     "trivia": "The number 101 is likely a reference to a 1956 book 'The Hundred and One Dalmatians' by Dodie Smith, and its popular film adaptations produced by Disney in 1961 and 1996.",
-    "gallery": ""
+    "gallery": "",
+    "img": "assets/images/locations/chloes-house.webp"
   },
   {
     "locationName": "Crazy World",
@@ -30,7 +32,8 @@
     "inhabitants": "Bluey Heeler, Bingo Heeler, Bandit Heeler, Chilli Heeler",
     "inconsistencies": "The park's layout appears to change between episodes, with different rides being shown in 'Mt. Mumanddad' that don't always match previous appearances.",
     "trivia": "CrazyWorld's giant purple squirrel statue is one of the park's main features and serves as its mascot. It's a fun, family-friendly amusement park, likely inspired by real-world theme parks in Australia.",
-    "gallery": "Scenes from 'Mt. Mumanddad' showcasing the rides, attractions, and the iconic purple squirrel statue in the center of CrazyWorld."
+    "gallery": "Scenes from 'Mt. Mumanddad' showcasing the rides, attractions, and the iconic purple squirrel statue in the center of CrazyWorld.",
+    "img": "assets/images/locations/crazy-world.webp"
   },
   {
     "locationName": "Glasshouse Primary School",
@@ -52,7 +55,8 @@
     "inhabitants": "",
     "inconsistencies": "",
     "trivia": "Their menu includes Wonton soup, Orange chicken, Pot stickers, Fried rice, Fortune cookies, Spring Rolls, Noodles.",
-    "gallery": ""
+    "gallery": "",
+    "img": "assets/images/locations/golden-crown.webp"
   },
   {
     "locationName": "Trampolinium",
@@ -63,7 +67,8 @@
     "inhabitants": "",
     "inconsistencies": "",
     "trivia": "The trampoline area was a key location for the chase scene between Bandit and the girls in 'Promises'.",
-    "gallery": "Images from the 'Promises' episode featuring the large trampoline area and the fun chase."
+    "gallery": "Images from the 'Promises' episode featuring the large trampoline area and the fun chase.",
+    "img": "assets/images/locations/trampolinium.webp"
   },
   {
     "locationName": "Kindy",
@@ -74,7 +79,8 @@
     "inhabitants": "Bingo Heeler, Lila, Juniper, Buddy, Bently, Missy, Jasper W., Jasper G., Sadie, Zara",
     "inconsistencies": "",
     "trivia": "",
-    "gallery": "Images from episodes like 'Bob Bilby' and 'Daddy Dropoff' that show the vibrant interior of the Kindy with children engaging in activities."
+    "gallery": "Images from episodes like 'Bob Bilby' and 'Daddy Dropoff' that show the vibrant interior of the Kindy with children engaging in activities.",
+    "img": "assets/images/locations/kindy.webp"
   },
   {
     "locationName": "Border Collie Family's House",
@@ -96,7 +102,8 @@
     "inhabitants": "",
     "inconsistencies": "",
     "trivia": "Bluey's Map of Brisbane gives a location for the Big Peanut. There was a real life Big Peanut at the Peanut Place in Tolga, which closed in 2019.",
-    "gallery": ""
+    "gallery": "",
+    "img": "assets/images/locations/the-big-peanut.webp"
   },
   {
     "locationName": "Stripe's Family's House",
@@ -107,7 +114,8 @@
     "inhabitants": "Uncle Stripe, Aunt Trixie, Muffin, Socks",
     "inconsistencies": "",
     "trivia": "Stripe is the only Heeler to have a pool.",
-    "gallery": ""
+    "gallery": "",
+    "img": "assets/images/locations/stripe-family-house.webp"
   },
   {
     "locationName": "Space",
@@ -118,7 +126,8 @@
     "inhabitants": "Bluey Heeler, Bingo Heeler, Bandit Heeler, Chilli Heeler",
     "inconsistencies": "The play area seems to change its layout between episodes, as seen in 'Mr. Monkeyjocks' compared to 'Pass the Parcel'.",
     "trivia": "The restaurant's play area is designed to be a typical indoor play space that would appeal to younger children, with features like climbing walls and a slide.",
-    "gallery": "Scenes from 'Mr. Monkeyjocks' and 'Pass the Parcel' showcasing the vibrant colors and exciting play space layout."
+    "gallery": "Scenes from 'Mr. Monkeyjocks' and 'Pass the Parcel' showcasing the vibrant colors and exciting play space layout.",
+    "img": "assets/images/locations/space.webp"
   },
   {
     "locationName": "Airport",
@@ -129,7 +138,8 @@
     "inhabitants": "Bluey Heeler, Bingo Heeler, Bandit Heeler, Chilli Heeler",
     "inconsistencies": "The airport layout in 'Curry Quest' doesn't fully match real-world Brisbane Airport, especially in terms of the terminal designs and sizes.",
     "trivia": "The airport is based on the real Brisbane Airport, which is an international airport serving the city of Brisbane, Australia.",
-    "gallery": "Images from 'Curry Quest' showcasing the bustling airport with passengers and the various terminals."
+    "gallery": "Images from 'Curry Quest' showcasing the bustling airport with passengers and the various terminals.",
+    "img": "assets/images/locations/airport.webp"
   },
   {
     "locationName": "Benjamina Place Park",
@@ -195,7 +205,8 @@
     "inhabitants": "Bandit Heeler, Bluey Heeler, Bingo Heeler",
     "inconsistencies": "None",
     "trivia": "Hammerbarn is a parody of Bunnings Warehouse.",
-    "gallery": "images/hammerbarn.jpg"
+    "gallery": "images/hammerbarn.jpg",
+    "img": "assets/images/locations/hammerbarn.webp"
   },
   {
     "locationName": "Latrobe Terrace",
@@ -206,7 +217,8 @@
     "inhabitants": "Bandit Heeler, Chilli Heeler, Bluey Heeler, Bingo Heeler",
     "inconsistencies": "None",
     "trivia": "Latrobe Terrace is a popular spot in Paddington, Brisbane.",
-    "gallery": "images/latrobe_terrace.jpg"
+    "gallery": "images/latrobe_terrace.jpg",
+    "img": "assets/images/locations/latrobe-terrace.webp"
   },
   {
     "locationName": "The Library",
@@ -217,7 +229,8 @@
     "inhabitants": "Bandit Heeler, Chilli Heeler, Bluey Heeler, Bingo Heeler",
     "inconsistencies": "None",
     "trivia": "Ashgrove Library is known for its beautiful surroundings.",
-    "gallery": "images/ashgrove_library.jpg"
+    "gallery": "images/ashgrove_library.jpg",
+    "img": "assets/images/locations/the-library.webp"
   },
   {
     "locationName": "Moogerah Dam",
@@ -228,7 +241,8 @@
     "inhabitants": "Bandit Heeler, Chilli Heeler, Bluey Heeler, Bingo Heeler",
     "inconsistencies": "None",
     "trivia": "Lake Moogerah is popular for fishing and boating.",
-    "gallery": "images/moogerah_dam.jpg"
+    "gallery": "images/moogerah_dam.jpg",
+    "img": "assets/images/locations/moogerah-dam.webp"
   },
   {
     "locationName": "The Myer Centre",
@@ -250,7 +264,8 @@
     "inhabitants": "Bluey Heeler, Bingo Heeler, Bandit Heeler",
     "inconsistencies": "None",
     "trivia": "New Farm Park is famous for its riverside views and community events.",
-    "gallery": "images/new_farm_park.jpg"
+    "gallery": "images/new_farm_park.jpg",
+    "img": "assets/images/locations/new-farm-park.webp"
   },
   {
     "locationName": "Noosa",
@@ -261,7 +276,8 @@
     "inhabitants": "Bandit Heeler, Chilli Heeler, Bluey Heeler, Bingo Heeler",
     "inconsistencies": "None",
     "trivia": "Noosa is a popular tourist destination for its beaches and outdoor activities.",
-    "gallery": "images/noosa.jpg"
+    "gallery": "images/noosa.jpg",
+    "img": "assets/images/locations/noosa.webp"
   },
   {
     "locationName": "Orleigh Park",
@@ -272,7 +288,8 @@
     "inhabitants": "Bluey Heeler, Bingo Heeler, Bandit Heeler, Chilli Heeler",
     "inconsistencies": "None",
     "trivia": "Orleigh Park is a popular park in West End, Brisbane, known for its riverside location and large play areas.",
-    "gallery": "images/orleigh-park.jpg"
+    "gallery": "images/orleigh-park.jpg",
+    "img": "assets/images/locations/orleigh-park.webp"
   },
   {
     "locationName": "Southbank Brisbane",
@@ -283,7 +300,8 @@
     "inhabitants": "Bandit Heeler, Bluey Heeler, Bingo Heeler",
     "inconsistencies": "None",
     "trivia": "Southbank is an iconic area in Brisbane known for its cultural venues, recreational areas, and scenic views along the Brisbane River.",
-    "gallery": "images/southbank-brisbane.jpg"
+    "gallery": "images/southbank-brisbane.jpg",
+    "img": "assets/images/locations/southbank-brisband.webp"
   },
   {
     "locationName": "Toowong Cemetery",
@@ -305,7 +323,8 @@
     "inhabitants": "Bandit Heeler",
     "inconsistencies": "None",
     "trivia": "Wae Rebo is a traditional village in Indonesia known for its distinctive, eco-friendly circular-cone houses.",
-    "gallery": "images/wae-rebo.jpg"
+    "gallery": "images/wae-rebo.jpg",
+    "img": "assets/images/locations/wae-rebo.webp"
   },
   {
     "locationName": "Wittonga Park",
@@ -316,7 +335,8 @@
     "inhabitants": "Bandit Heeler, Bluey Heeler, Bingo Heeler, Lila",
     "inconsistencies": "None",
     "trivia": "Wittonga Park is a local park in The Gap, Brisbane, and is a common venue for family events and parties.",
-    "gallery": "images/wittonga-park.jpg"
+    "gallery": "images/wittonga-park.jpg",
+    "img": "assets/images/locations/wittonga-park.webp"
   },
   {
     "locationName": "Woolcock Park",
@@ -327,7 +347,8 @@
     "inhabitants": "Bluey Heeler, Bingo Heeler, Bandit Heeler, Chilli Heeler",
     "inconsistencies": "None",
     "trivia": "Woolcock Park in Red Hill is known for its family-friendly environment, featuring bike tracks and plenty of open space.",
-    "gallery": "images/woolcock-park.jpg"
+    "gallery": "images/woolcock-park.jpg",
+    "img": "assets/images/locations/woolcock-park.webp"
   },
   {
     "locationName": "Wynnum Whale Park",
@@ -338,6 +359,7 @@
     "inhabitants": "Buddy, Bluey Heeler, Bingo Heeler",
     "inconsistencies": "None",
     "trivia": "Wynnum Whale Park is a popular spot in Wynnum, Brisbane, featuring a giant whale sculpture and water-based play areas.",
-    "gallery": "images/wynnum-whale-park.jpg"
+    "gallery": "images/wynnum-whale-park.jpg",
+    "img": "assets/images/locations/wynuum-whale-park.webp"
   }
 ]

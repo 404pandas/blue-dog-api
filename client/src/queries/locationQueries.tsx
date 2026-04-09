@@ -5,6 +5,7 @@ export const GET_LOCATIONS = gql`
     locations {
       _id
       locationName
+      img
       description
       appearance
       rooms
