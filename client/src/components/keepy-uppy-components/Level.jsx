@@ -1,7 +1,7 @@
-import React from "react";
-
-export default ({ level, unit }) => (
-  <text x={unit} y={unit * 2} fontSize={unit} className='level' id='game-info'>
-    LEVEL: {level}
-  </text>
-);
+export default function Level({ level, unit }) {
+  return (
+    <text x={unit} y={unit * 2} fontSize={unit} className="hud-text">
+      LEVEL {level}
+    </text>
+  );
+}

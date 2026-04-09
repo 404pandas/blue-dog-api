@@ -1,19 +1,16 @@
-import React from "react";
-
 import { getRange } from "./logic/utils";
 
-export default ({ lives, containerWidth, unit }) => {
-  const width = unit * 2;
+export default function Lives({ lives, containerWidth, unit }) {
+  const r = unit * 0.6;
+  const spacing = unit * 1.7;
 
   return getRange(lives).map((i) => (
-    <rect
-      className='life'
-      rx={unit / 4}
-      height={unit}
-      width={width}
-      y={unit}
-      x={containerWidth - unit - width * (i + 1) - (unit / 2) * i}
+    <circle
+      className="life-circle"
       key={i}
+      r={r}
+      cy={unit * 1.4}
+      cx={containerWidth - unit - r - i * spacing}
     />
   ));
-};
+}

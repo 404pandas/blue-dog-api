@@ -1,18 +1,21 @@
-import React from "react";
-import { getRange } from "./logic/utils";
-import { BLOCK_MAX_DENSITY } from "./logic/levels";
+// Bluey blues: lighter = weaker (fewer hits remaining), darker = stronger
+const BLOCK_COLORS = [
+  "#87ceeb", // density 0 → 1 hit to destroy
+  "#3b96d2", // density 1 → 2 hits
+  "#0d4f82", // density 2 → 3 hits
+];
 
-const colors = getRange(BLOCK_MAX_DENSITY).map(
-  (i) => `rgba(255, 177, 111, ${1 / (BLOCK_MAX_DENSITY - i)})`
-);
-
-export default ({ x, y, width, height, density }) => (
-  <rect
-    className='block'
-    fill={colors[density]}
-    x={x}
-    y={y}
-    width={width}
-    height={height}
-  />
-);
+export default function Block({ x, y, width, height, density }) {
+  const fill = BLOCK_COLORS[Math.min(density, BLOCK_COLORS.length - 1)];
+  return (
+    <rect
+      className="block"
+      fill={fill}
+      x={x}
+      y={y}
+      width={width}
+      height={height}
+      rx={2}
+    />
+  );
+}
