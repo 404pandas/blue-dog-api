@@ -1,5 +1,7 @@
 import express from "express";
 import type { Request, Response } from "express";
+import { fileURLToPath } from "url";
+import { dirname, join } from "path";
 // Import the ApolloServer class
 import { ApolloServer } from "@apollo/server";
 import { expressMiddleware } from "@apollo/server/express4";
@@ -38,10 +40,13 @@ const startApolloServer = async () => {
   );
 
   if (process.env.NODE_ENV === "production") {
-    app.use(express.static("../client/dist"));
+    const __dirname = dirname(fileURLToPath(import.meta.url));
+    const clientDist = join(__dirname, "../../client/dist");
+
+    app.use(express.static(clientDist));
 
     app.get("*", (_req: Request, res: Response) => {
-      res.sendFile("../client/dist/index.html");
+      res.sendFile(join(clientDist, "index.html"));
     });
   }
 
